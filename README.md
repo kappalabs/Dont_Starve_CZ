@@ -10,7 +10,6 @@ czech.po	  - soubor aktuálnních překladů EN do CZ (upravovat lze efektivně 
 czech.mo	  - pomocný soubor programu PoEdit
 strings.pot	  - originální soubor textů z hry
 preview.jpg	  - ikona módu
-#czechlanguage.zip - automaticky generovaný balíček připravený pro hru Don't Starve
 transform	  - linux skript pro nastavení formátu souboru překladu, generuje czech_ascii.po ve složce czechlanguage
 czechtranslation/ - složka dat módu, připraveno k použití, neupravovat až na *.lua
  - czech.po		- kopie czech.po z nadřazené složky
