@@ -26569,7 +26569,7 @@ msgstr "Bloom:"
 #. STRINGS.UI.OPTIONS.SMALLTEXTURES
 msgctxt "STRINGS.UI.OPTIONS.SMALLTEXTURES"
 msgid "Small Textures:"
-msgstr "Male textury:"
+msgstr "Jednoduche textury:"
 
 #. STRINGS.UI.OPTIONS.FULLSCREEN
 msgctxt "STRINGS.UI.OPTIONS.FULLSCREEN"
