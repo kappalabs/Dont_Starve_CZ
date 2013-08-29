@@ -11,16 +11,16 @@ SOUBORY
 - preview.jpg	  - ikona módu
 - transform	  - linux skript pro nastavení formátu souboru překladu, generuje czech_ascii.po ve složce czechlanguage
 - czechtranslation/ - složka dat módu, připraveno k použití, neupravovat až na *.lua
- - - czech.po		- kopie czech.po z nadřazené složky
- - - czech_ascii.po	- soubor czech.po ve formátu ASCII s nakonfigurovanými parametry, generovaný skriptem transform
- - - modinfo.lua		- nastavení módu
- - - modmain.lua		- soubor překladu k načtení
+ - czech.po		- kopie czech.po z nadřazené složky
+ - czech_ascii.po	- soubor czech.po ve formátu ASCII s nakonfigurovanými parametry, generovaný skriptem transform
+ - modinfo.lua		- nastavení módu
+ - modmain.lua		- soubor překladu k načtení
 
 POUŽITÍ/INSTALACE MÓDU
 ----------------------
-Pro použití módu ve hře je možné stáhnout repozitář kliknutím na tlačítko Download ZIP vpravo.
-Jako mód se používá složka czechlanguage s jejím obsahem.
-Složka módu se vloží standardně přímo do adresáře mods hry Don't Starve.
+- Pro použití módu ve hře je možné stáhnout repozitář kliknutím na tlačítko Download ZIP vpravo.
+- Jako mód se používá složka czechlanguage s jejím obsahem.
+- Složka módu se vloží standardně přímo do adresáře mods hry Don't Starve.
 
 PŘEKLAD
 -------
