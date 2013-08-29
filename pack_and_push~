@@ -1,0 +1,10 @@
+#!/bin/bash
+#MODFILES = (czech.po czech_ascii.po modinfo.lua modmain.lua)
+CIL="./czechlanguage/"
+
+cp czech.po $CIL
+zip -r czechlanguage.zip $CIL
+
+git add *[^~]
+git commit -am “Commit Message”
+git push origin master
