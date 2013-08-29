@@ -6,6 +6,7 @@ FILES="czechlanguage/ czech.mo czech.po czechlanguage.svg preview.jpg README.md 
 cp czech.po $CIL
 zip -r czechlanguage.zip $CIL
 
-git add *[^~]
+#git add *[^~]
+git add $FILES
 git commit -am "Edit by Kappa"
 git push origin master
