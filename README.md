@@ -4,7 +4,7 @@ Dont_Starve_CZ
 Czech translation mod for Don't Starve
 Mód českého překladu hry Don't Starve
 
-Soubory
+SOUBORY
 -------
 czech.po	  - soubor aktuálnních překladů EN do CZ
 czech_ascii.po	  - soubor czech.po ve formátu ASCII s nakonfigurovanými parametry
