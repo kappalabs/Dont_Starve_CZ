@@ -1,6 +1,7 @@
 #!/bin/bash
 #MODFILES = (czech.po czech_ascii.po modinfo.lua modmain.lua)
 CIL="./czechlanguage/"
+FILES="czechlanguage/ czech.mo czech.po czechlanguage.svg preview.jpg README.md strings.pot transform"
 
 cp czech.po $CIL
 zip -r czechlanguage.zip $CIL
