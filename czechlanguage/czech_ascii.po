@@ -14020,7 +14020,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TREASURECHEST
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TREASURECHEST"
 msgid "A storage chest."
-msgstr ""
+msgstr "Truhla na skladovani veci."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MAXWELLPHONOGRAPH
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MAXWELLPHONOGRAPH"
@@ -16045,7 +16045,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.TREASURECHEST_TRAP
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.TREASURECHEST_TRAP"
 msgid "Something is not quite right about that chest."
-msgstr ""
+msgstr "S touhle truhlou neco neni v poradku."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.TREASURECHEST
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.TREASURECHEST"
@@ -24055,47 +24055,47 @@ msgstr "Inventar 1"
 #. STRINGS.UI.CONTROLSSCREEN.CONTROLS.17
 msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.17"
 msgid "Inv 2"
-msgstr ""
+msgstr "Inventar 2"
 
 #. STRINGS.UI.CONTROLSSCREEN.CONTROLS.18
 msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.18"
 msgid "Inv 3"
-msgstr ""
+msgstr "Inventar 3"
 
 #. STRINGS.UI.CONTROLSSCREEN.CONTROLS.19
 msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.19"
 msgid "Inv 4"
-msgstr ""
+msgstr "Inventar 4"
 
 #. STRINGS.UI.CONTROLSSCREEN.CONTROLS.20
 msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.20"
 msgid "Inv 5"
-msgstr ""
+msgstr "Inventar 5"
 
 #. STRINGS.UI.CONTROLSSCREEN.CONTROLS.21
 msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.21"
 msgid "Inv 6"
-msgstr ""
+msgstr "Inventar 6"
 
 #. STRINGS.UI.CONTROLSSCREEN.CONTROLS.22
 msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.22"
 msgid "Inv 7"
-msgstr ""
+msgstr "Inventar 7"
 
 #. STRINGS.UI.CONTROLSSCREEN.CONTROLS.23
 msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.23"
 msgid "Inv 8"
-msgstr ""
+msgstr "Inventar 8"
 
 #. STRINGS.UI.CONTROLSSCREEN.CONTROLS.24
 msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.24"
 msgid "Inv 9"
-msgstr ""
+msgstr "Inventar 9"
 
 #. STRINGS.UI.CONTROLSSCREEN.CONTROLS.25
 msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.25"
 msgid "Inv 10"
-msgstr ""
+msgstr "Inventar 10"
 
 #. STRINGS.UI.CONTROLSSCREEN.CONTROLS.26
 msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.26"
@@ -26937,7 +26937,7 @@ msgstr ""
 #. STRINGS.PIGNAMES.2
 msgctxt "STRINGS.PIGNAMES.2"
 msgid "Tiberius"
-msgstr ""
+msgstr "Tiberius"
 
 #. STRINGS.PIGNAMES.3
 msgctxt "STRINGS.PIGNAMES.3"
@@ -26947,12 +26947,12 @@ msgstr ""
 #. STRINGS.PIGNAMES.4
 msgctxt "STRINGS.PIGNAMES.4"
 msgid "Claudius"
-msgstr ""
+msgstr "Claudius"
 
 #. STRINGS.PIGNAMES.5
 msgctxt "STRINGS.PIGNAMES.5"
 msgid "Nero"
-msgstr ""
+msgstr "Nero"
 
 #. STRINGS.PIGNAMES.6
 msgctxt "STRINGS.PIGNAMES.6"
@@ -26962,12 +26962,12 @@ msgstr ""
 #. STRINGS.PIGNAMES.7
 msgctxt "STRINGS.PIGNAMES.7"
 msgid "Otho"
-msgstr ""
+msgstr "Otho"
 
 #. STRINGS.PIGNAMES.8
 msgctxt "STRINGS.PIGNAMES.8"
 msgid "Vitellius"
-msgstr ""
+msgstr "Vitellius"
 
 #. STRINGS.PIGNAMES.9
 msgctxt "STRINGS.PIGNAMES.9"
@@ -26977,7 +26977,7 @@ msgstr ""
 #. STRINGS.PIGNAMES.10
 msgctxt "STRINGS.PIGNAMES.10"
 msgid "Titus"
-msgstr ""
+msgstr "Titus"
 
 #. STRINGS.PIGNAMES.11
 msgctxt "STRINGS.PIGNAMES.11"
@@ -27012,7 +27012,7 @@ msgstr ""
 #. STRINGS.PIGNAMES.17
 msgctxt "STRINGS.PIGNAMES.17"
 msgid "Marcus"
-msgstr ""
+msgstr "Marcus"
 
 #. STRINGS.PIGNAMES.18
 msgctxt "STRINGS.PIGNAMES.18"
@@ -27057,7 +27057,7 @@ msgstr ""
 #. STRINGS.PIGNAMES.26
 msgctxt "STRINGS.PIGNAMES.26"
 msgid "Severus"
-msgstr ""
+msgstr "Severus"
 
 #. STRINGS.PIGNAMES.27
 msgctxt "STRINGS.PIGNAMES.27"
@@ -27167,7 +27167,7 @@ msgstr ""
 #. STRINGS.PIGNAMES.48
 msgctxt "STRINGS.PIGNAMES.48"
 msgid "Galerius"
-msgstr ""
+msgstr "Galerius"
 
 #. STRINGS.PIGNAMES.49
 msgctxt "STRINGS.PIGNAMES.49"
@@ -27197,7 +27197,7 @@ msgstr ""
 #. STRINGS.PIGNAMES.54
 msgctxt "STRINGS.PIGNAMES.54"
 msgid "Julian"
-msgstr ""
+msgstr "Julian"
 
 #. STRINGS.PIGNAMES.55
 msgctxt "STRINGS.PIGNAMES.55"
@@ -27247,7 +27247,7 @@ msgstr ""
 #. STRINGS.PIGNAMES.64
 msgctxt "STRINGS.PIGNAMES.64"
 msgid "Petronius"
-msgstr ""
+msgstr "Petronius"
 
 #. STRINGS.PIGNAMES.65
 msgctxt "STRINGS.PIGNAMES.65"
@@ -27282,12 +27282,12 @@ msgstr ""
 #. STRINGS.PIGNAMES.71
 msgctxt "STRINGS.PIGNAMES.71"
 msgid "Julius"
-msgstr ""
+msgstr "Julius"
 
 #. STRINGS.PIGNAMES.72
 msgctxt "STRINGS.PIGNAMES.72"
 msgid "Romulus"
-msgstr ""
+msgstr "Romulus"
 
 #. STRINGS.PIGNAMES.73
 msgctxt "STRINGS.PIGNAMES.73"
@@ -27442,7 +27442,7 @@ msgstr ""
 #. STRINGS.PIGNAMES.103
 msgctxt "STRINGS.PIGNAMES.103"
 msgid "Mr.P"
-msgstr ""
+msgstr "Mr.P"
 
 #. STRINGS.PIGNAMES.104
 msgctxt "STRINGS.PIGNAMES.104"
@@ -27842,7 +27842,7 @@ msgstr ""
 #. STRINGS.EPITAPHS.2
 msgctxt "STRINGS.EPITAPHS.2"
 msgid "This headstone is blank"
-msgstr ""
+msgstr "Tenhle nahrobek je bez textu"
 
 #. STRINGS.EPITAPHS.3
 msgctxt "STRINGS.EPITAPHS.3"
@@ -29184,7 +29184,7 @@ msgstr "Zelena houba"
 #. STRINGS.NAMES.TREASURECHEST_TRAP
 msgctxt "STRINGS.NAMES.TREASURECHEST_TRAP"
 msgid "Treasure Chest"
-msgstr ""
+msgstr "Trezor"
 
 #. STRINGS.NAMES.FLOWER_CAVE_TRIPLE
 msgctxt "STRINGS.NAMES.FLOWER_CAVE_TRIPLE"
@@ -29644,7 +29644,7 @@ msgstr "Prkna"
 #. STRINGS.NAMES.HEATROCK
 msgctxt "STRINGS.NAMES.HEATROCK"
 msgid "Heat Stone"
-msgstr ""
+msgstr "Ohrevny kamen"
 
 #. STRINGS.NAMES.DEVTOOL
 msgctxt "STRINGS.NAMES.DEVTOOL"
@@ -30014,7 +30014,7 @@ msgstr ""
 #. STRINGS.NAMES.TREASURECHEST
 msgctxt "STRINGS.NAMES.TREASURECHEST"
 msgid "Chest"
-msgstr ""
+msgstr "Truhla"
 
 #. STRINGS.NAMES.PLANT_NORMAL
 msgctxt "STRINGS.NAMES.PLANT_NORMAL"
@@ -30369,12 +30369,12 @@ msgstr ""
 #. STRINGS.NAMES.GRAVESTONE
 msgctxt "STRINGS.NAMES.GRAVESTONE"
 msgid "Headstone"
-msgstr ""
+msgstr "Nahrobek"
 
 #. STRINGS.NAMES.PUMPKIN
 msgctxt "STRINGS.NAMES.PUMPKIN"
 msgid "Pumpkin"
-msgstr ""
+msgstr "Dyne"
 
 #. STRINGS.NAMES.MINOTAURCHEST
 msgctxt "STRINGS.NAMES.MINOTAURCHEST"
