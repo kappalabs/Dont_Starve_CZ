@@ -1,4 +1,4 @@
-Don't Starve CZ (cca 35%)
+Don't Starve CZ (cca 40%)
 =========================
 Czech translation mod for Don't Starve<br />
 Mód českého překladu hry Don't Starve
