@@ -1,6 +1,5 @@
 #!/bin/bash
 TOEDIT="./czech.po"
-#CIL="/home/kap/.local/share/Steam/SteamApps/common/dont_starve/mods/czechlanguage/czech.po"
 CIL="./czechlanguage/czech_ascii.po"
 PREFORMAT="UTF-8"
 POSTFORMAT="iso-8859-2"
