@@ -10,7 +10,7 @@ SOUBORY
 - strings.pot	  - originální soubor textů z hry
 - preview.jpg	  - ikona módu
 - transform	  - linux skript pro nastavení formátu souboru překladu, generuje czech_ascii.po ve složce czechlanguage
-- czechtranslation/ - složka dat módu, připraveno k použití, neupravovat až na *.lua
+- czechlanguage/ - složka dat módu, připraveno k použití, neupravovat až na *.lua
  - czech.po		- kopie czech.po z nadřazené složky
  - czech_ascii.po	- soubor czech.po ve formátu ASCII s nakonfigurovanými parametry, generovaný skriptem transform
  - modinfo.lua		- nastavení módu
