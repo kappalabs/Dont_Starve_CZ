@@ -14,7 +14,8 @@ POUŽITÍ/INSTALACE MÓDU
 PŘEKLAD
 -------
 Máte-li zájem o překlad, upravujte soubor czech.po v kořenovém adresáři repozitáře.<br />
-Pokud máte možnost, použijte skript transform pro vygenerování souboru czech_ascii.po.
+Pokud máte možnost, použijte skript transform pro vygenerování souboru czech_ascii.po.<br />
+Nemáte-li s Git zkušenosti, můžete stáhnout repozitář (jak je popsáno výše), upravit soubor czech.po a zaslat mi ho.
 
 SOUBORY
 -------
