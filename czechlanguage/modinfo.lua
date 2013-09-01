@@ -1,5 +1,5 @@
 name = "Czech Language Pack"
-description = "Balicek s ceskym prekladem."
+description = "Balicek s ceskym prekladem (50%)."
 author = "Kappa"
 version = "1.2"
 
