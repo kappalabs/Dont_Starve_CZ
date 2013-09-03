@@ -15981,7 +15981,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.TOPHAT
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.TOPHAT"
 msgid "It's too fancy."
-msgstr ""
+msgstr "Je moc nóbl."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.MANDRAKE.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.MANDRAKE.GENERIC"
@@ -16011,12 +16011,12 @@ msgstr ""
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.DURIAN_COOKED
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.DURIAN_COOKED"
 msgid "It smells even worse."
-msgstr ""
+msgstr "Páchne ještě hůř."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.TRINKET_11
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.TRINKET_11"
 msgid "Quiet, you!"
-msgstr ""
+msgstr "Buď zticha!"
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.TRINKET_10
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.TRINKET_10"
@@ -16106,7 +16106,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.MARSH_PLANT
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.MARSH_PLANT"
 msgid "Plant."
-msgstr ""
+msgstr "Rostlina."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.TENT
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.TENT"
@@ -16126,7 +16126,7 @@ msgstr "Už v něm nejiskří."
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.BOOMERANG
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.BOOMERANG"
 msgid "That looks hard to throw."
-msgstr ""
+msgstr "Vypadá, že se s ním složitě hází."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.TURF_UNDERROCK
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.TURF_UNDERROCK"
@@ -16141,12 +16141,12 @@ msgstr ""
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.ROBOT_PUPPET
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.ROBOT_PUPPET"
 msgid "It's trapped!"
-msgstr ""
+msgstr "Je v pasti!"
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.PANFLUTE
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.PANFLUTE"
 msgid "I only sing for Lucy."
-msgstr ""
+msgstr "Hraji pouze pro Lucy."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.TEENBIRD.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.TEENBIRD.GENERIC"
@@ -16196,7 +16196,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.TALLBIRDEGG
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.TALLBIRDEGG"
 msgid "What's in here?"
-msgstr ""
+msgstr "Co to tam je?"
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.HEATROCK.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.HEATROCK.GENERIC"
@@ -16226,17 +16226,17 @@ msgstr ""
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.SLURPER_PELT
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.SLURPER_PELT"
 msgid "Looks like a dead beaver."
-msgstr ""
+msgstr "Vypadá jak mrtvý bobr."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.DIVININGRODSTART
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.DIVININGRODSTART"
 msgid "That's a weird looking rod."
-msgstr ""
+msgstr "To je ale podivná tyč."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.CARROT_COOKED
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.CARROT_COOKED"
 msgid "That's rabbit food."
-msgstr ""
+msgstr "To je jídlo pro zajíce."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.BEEMINE_MAXWELL
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.BEEMINE_MAXWELL"
@@ -16251,7 +16251,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.MOUND.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.MOUND.GENERIC"
 msgid "I should probably leave that alone."
-msgstr ""
+msgstr "Nejspíš bych ho měl nechat na pokoji."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.BABYBEEFALO
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.BABYBEEFALO"
@@ -16411,47 +16411,47 @@ msgstr "Nééé! Měl jsem ho skácet!"
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.SKULLCHEST
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.SKULLCHEST"
 msgid "That's scary!"
-msgstr ""
+msgstr "Děsivé!"
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.FEATHERHAT
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.FEATHERHAT"
 msgid "I don't want to wear that... thing."
-msgstr ""
+msgstr "Nechci nosit tuhle... věc."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.HONEYCOMB
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.HONEYCOMB"
 msgid "I almost feel bad taking this."
-msgstr ""
+msgstr "Je mi téměř špatně, že ho jím."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.SMALLMEAT_DRIED
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.SMALLMEAT_DRIED"
 msgid "Just a bite."
-msgstr ""
+msgstr "Jen trochu."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.SMALLMEAT
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.SMALLMEAT"
 msgid "I wish this were bigger."
-msgstr ""
+msgstr "Kéž by bylo větší."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.SMALLBIRD.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.SMALLBIRD.GENERIC"
 msgid "What do you want?"
-msgstr ""
+msgstr "Co chceš?"
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.SMALLBIRD.HUNGRY
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.SMALLBIRD.HUNGRY"
 msgid "It wants something."
-msgstr ""
+msgstr "Něco chce."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.SMALLBIRD.STARVING
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.SMALLBIRD.STARVING"
 msgid "I think it's starving."
-msgstr ""
+msgstr "Myslím, že hladoví."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.PIGTORCH
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.PIGTORCH"
 msgid "How did they do that without thumbs?"
-msgstr ""
+msgstr "Jak to bez prstů dokázali?"
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.GREENAMULET
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.GREENAMULET"
@@ -16461,7 +16461,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.MUSHTREE_MEDIUM
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.MUSHTREE_MEDIUM"
 msgid "Maybe I should chop it."
-msgstr ""
+msgstr "Možná bych ho měl pokácet."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.DUG_BERRYBUSH
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.DUG_BERRYBUSH"
@@ -17251,22 +17251,22 @@ msgstr "Je to připravené, nevím ale, jestli jsem já."
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.TELEBASE.GEMS
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.TELEBASE.GEMS"
 msgid "Needs gems, eh?"
-msgstr ""
+msgstr "Potřebuješ klenoty, co?"
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.MONSTERMEAT_DRIED
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.MONSTERMEAT_DRIED"
 msgid "I still don't want to eat it."
-msgstr ""
+msgstr "Stále to nechci jíst."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.HOME
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.HOME"
 msgid "Who's there?"
-msgstr ""
+msgstr "Kdo je tam?"
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.BACKPACK
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.BACKPACK"
 msgid "That's my rucksack."
-msgstr ""
+msgstr "To je můj ruksak."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.YELLOWSTAFF
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.YELLOWSTAFF"
@@ -17276,7 +17276,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.CHESSJUNK3
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.CHESSJUNK3"
 msgid "Dead metal"
-msgstr ""
+msgstr "Mrtvý kov"
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.GEARS
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.GEARS"
@@ -17286,17 +17286,17 @@ msgstr "Nikdy jsem těmto věcem nerozuměl."
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.FLOWER_EVIL
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.FLOWER_EVIL"
 msgid "Something is wrong with that flower."
-msgstr ""
+msgstr "Něco s tou květinou není v pořádku."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.WETGOOP
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.WETGOOP"
 msgid "Better than some things I've eaten!"
-msgstr ""
+msgstr "Lepší než jiné věci co jsem jedl!"
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.AMULET
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.AMULET"
 msgid "Always have a backup plan."
-msgstr ""
+msgstr "Vždy mám záložní plán."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.SPIDER_SPITTER
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.SPIDER_SPITTER"
@@ -17306,7 +17306,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.STALAGMITE_FULL
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.STALAGMITE_FULL"
 msgid "I'm not too interested in rocks."
-msgstr ""
+msgstr "Kameny mě moc nezajímají."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.CHESTER_EYEBONE.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.CHESTER_EYEBONE.GENERIC"
@@ -17321,42 +17321,42 @@ msgstr ""
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.FLOWER
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.FLOWER"
 msgid "That's nice."
-msgstr ""
+msgstr "To je pěkné."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.NIGHTMARE_TIMEPIECE.WAXING
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.NIGHTMARE_TIMEPIECE.WAXING"
 msgid "It's vibrating!"
-msgstr ""
+msgstr "Vibruje to!"
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.NIGHTMARE_TIMEPIECE.NOMAGIC
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.NIGHTMARE_TIMEPIECE.NOMAGIC"
 msgid "I think it's off."
-msgstr ""
+msgstr "Myslím, že je to vypnuté."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.NIGHTMARE_TIMEPIECE.WANING
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.NIGHTMARE_TIMEPIECE.WANING"
 msgid "It's settling down."
-msgstr ""
+msgstr "Usazuje se."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.NIGHTMARE_TIMEPIECE.WARN
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.NIGHTMARE_TIMEPIECE.WARN"
 msgid "This thing just turned on!"
-msgstr ""
+msgstr "Ta věc je zapnutá!"
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.NIGHTMARE_TIMEPIECE.DAWN
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.NIGHTMARE_TIMEPIECE.DAWN"
 msgid "It's nearly still."
-msgstr ""
+msgstr "Je docela klidná."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.NIGHTMARE_TIMEPIECE.STEADY
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.NIGHTMARE_TIMEPIECE.STEADY"
 msgid "It's going crazy!"
-msgstr ""
+msgstr "Ta věc šílí!"
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.NIGHTMARE_TIMEPIECE.CALM
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.NIGHTMARE_TIMEPIECE.CALM"
 msgid "I think it's off."
-msgstr ""
+msgstr "Myslím, že je to vypnuté."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.FISHSTICKS
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.FISHSTICKS"
@@ -17366,32 +17366,32 @@ msgstr ""
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.FIREPIT.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.FIREPIT.GENERIC"
 msgid "It uses wood."
-msgstr ""
+msgstr "Využívá dřevo."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.FIREPIT.OUT
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.FIREPIT.OUT"
 msgid "If only I had some wood."
-msgstr ""
+msgstr "Kéž bych měl nějaké dřevo."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.FIREPIT.EMBERS
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.FIREPIT.EMBERS"
 msgid "I should go chop some wood for that, eh?"
-msgstr ""
+msgstr "Měl bych pro něj jít sehnat nějaké dřevo, co?"
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.FIREPIT.HIGH
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.FIREPIT.HIGH"
 msgid "I'm using too much wood too fast!"
-msgstr ""
+msgstr "Používám moc rychle mnoho dřeva!"
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.FIREPIT.LOW
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.FIREPIT.LOW"
 msgid "There should be some wood around here somewhere."
-msgstr ""
+msgstr "Někde by to kolem mělo být nějaké dřevo."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.FIREPIT.NORMAL
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.FIREPIT.NORMAL"
 msgid "Mmmm. Smells woody."
-msgstr ""
+msgstr "Mmmm. Voní dřevem."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.TENTACLESPIKE
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.TENTACLESPIKE"
@@ -17406,22 +17406,22 @@ msgstr ""
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.BIRDCAGE.SLEEPING
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.BIRDCAGE.SLEEPING"
 msgid "They look so innocent when they dream."
-msgstr ""
+msgstr "Když sní, vypadají tak nevinně."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.BIRDCAGE.OCCUPIED
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.BIRDCAGE.OCCUPIED"
 msgid "Think about what you've done, bird!"
-msgstr ""
+msgstr "Zamysli se nad tím, co jsi provedl, ptáku!"
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.PIGHEAD
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.PIGHEAD"
 msgid "What a waste of good pork."
-msgstr ""
+msgstr "Taková škoda kvalitního vepřového masa."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.POMEGRANATE
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.POMEGRANATE"
 msgid "That's too fancy for me."
-msgstr ""
+msgstr "To je na mě moc nóbl."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.UMBRELLA
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.UMBRELLA"
@@ -17431,7 +17431,7 @@ msgstr "Tohle uchová můj vous v suchu."
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.TRINKET_7
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.TRINKET_7"
 msgid "I could play this for hours!"
-msgstr ""
+msgstr "To bych mohl hrát hodiny!"
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.EARMUFFSHAT
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.EARMUFFSHAT"
@@ -17461,7 +17461,7 @@ msgstr "Malinké mrkvičky."
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.WALRUS_TUSK
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.WALRUS_TUSK"
 msgid "He had a cavity, eh?"
-msgstr ""
+msgstr "Měl asi zubní kaz, co?"
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.DRAGONFRUIT_SEEDS
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.DRAGONFRUIT_SEEDS"
@@ -17471,12 +17471,12 @@ msgstr "Možná jich mohu vypěstovat více."
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.BUTTERFLYWINGS
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.BUTTERFLYWINGS"
 msgid "I'm sorry! I'm a terrible person!"
-msgstr ""
+msgstr "Promiň! Jsem tak strašný člověk!"
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.NIGHTSWORD
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.NIGHTSWORD"
 msgid "Nightmares can't hurt ye!"
-msgstr ""
+msgstr "Noční můry ti ublížít nemohou!"
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.DIVININGROD.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.DIVININGROD.GENERIC"
@@ -17486,7 +17486,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.DIVININGROD.HOT
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.DIVININGROD.HOT"
 msgid "Loud and clear! Something's near!"
-msgstr ""
+msgstr "Hlasitě a jasně! Že je něco blízko je už jasné!"
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.DIVININGROD.COLD
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.DIVININGROD.COLD"
@@ -17496,37 +17496,37 @@ msgstr ""
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.DIVININGROD.WARM
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.DIVININGROD.WARM"
 msgid "I think I'm getting closer."
-msgstr ""
+msgstr "Myslím, že se blížím."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.DIVININGROD.WARMER
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.DIVININGROD.WARMER"
 msgid "Woah, careful there, bud."
-msgstr ""
+msgstr "Hej, tady opatrně kámo."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.ARMORMARBLE
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.ARMORMARBLE"
 msgid "It's hard to swing an axe while wearing this."
-msgstr ""
+msgstr "Je těžké máchat sekerou, když mám tohle na sobě."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.TRINKET_1
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.TRINKET_1"
 msgid "I used to play that game."
-msgstr ""
+msgstr "Dříve jsem tu hru hrával."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.CORN
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.CORN"
 msgid "I like it, but not in everything that I eat."
-msgstr ""
+msgstr "Mám ji rád, ale ne ve všem co jím."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.FLOWERHAT
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.FLOWERHAT"
 msgid "I think it looks nice with my red hair."
-msgstr ""
+msgstr "Myslím, že s mými rezatými vlasy ladí."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.ORANGESTAFF
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.ORANGESTAFF"
 msgid "This will help me get around quickly."
-msgstr ""
+msgstr "Tenhle mi pomůže rychle se pohybovat."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.GOLDNUGGET
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.GOLDNUGGET"
@@ -17534,6 +17534,8 @@ msgid ""
 "You can't make a coffee table out of gold.\n"
 "Well, maybe you can. But you shouldn't."
 msgstr ""
+"Ze zlata konferenční stolek nevyrobíš.\n"
+"No, možná že vyrobíš, ale dělat bys to neměl."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.TAFFY
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.TAFFY"
@@ -17548,27 +17550,27 @@ msgstr ""
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.BLUEPRINT
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.BLUEPRINT"
 msgid "I'm not one for book learning."
-msgstr ""
+msgstr "Nejsem ten pravý pro učení z knih."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.SUNKBOAT
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.SUNKBOAT"
 msgid "That wood has seen better days."
-msgstr ""
+msgstr "To dřevo už zažilo lepší časy."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.BLOWDART_FIRE
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.BLOWDART_FIRE"
 msgid "This seems a bit aggressive."
-msgstr ""
+msgstr "Vypadá trochu agresivně."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.BLUEGEM
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.BLUEGEM"
 msgid "It's very cold."
-msgstr ""
+msgstr "Je pořádně ledový."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.HOUNDMOUND
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.HOUNDMOUND"
 msgid "I know better than to mess with that."
-msgstr ""
+msgstr "Dokážu víc než si hrát s tímhle."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.BEE.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.BEE.GENERIC"
@@ -17578,7 +17580,7 @@ msgstr "Pomáhá rostlinám růst."
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.BEE.HELD
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.BEE.HELD"
 msgid "Now what do I do with it?"
-msgstr ""
+msgstr "A co s tím teď mám dělat?"
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.YELLOWAMULET
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.YELLOWAMULET"
@@ -17598,7 +17600,7 @@ msgstr "Tyhle moje nejsou."
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.ARMORRUINS
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.ARMORRUINS"
 msgid "That'll stop the hurt."
-msgstr ""
+msgstr "To bolest zastaví."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.BACONEGGS
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.BACONEGGS"
@@ -17608,12 +17610,12 @@ msgstr ""
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.ARMOR_SANITY
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.ARMOR_SANITY"
 msgid "It makes me queasy to look at."
-msgstr ""
+msgstr "Mám nevolnost jen jak se na to podívám."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.ARMORWOOD
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.ARMORWOOD"
 msgid "It fits me so well!"
-msgstr ""
+msgstr "Sedí mi pěkně!"
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.TURF_FUNGUS
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.TURF_FUNGUS"
@@ -17623,87 +17625,87 @@ msgstr ""
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.STALAGMITE_MED
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.STALAGMITE_MED"
 msgid "I'm not too interested in rocks."
-msgstr ""
+msgstr "Kameny mě moc nezajímají."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.EGGPLANT_COOKED
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.EGGPLANT_COOKED"
 msgid "Suspiciously birdy."
-msgstr ""
+msgstr "Podezřivě ptačité."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.MONKEY
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.MONKEY"
 msgid "Well then. That's a new one."
-msgstr ""
+msgstr "Tak dobře. Tohle je další."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.MUSHTREE_SMALL
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.MUSHTREE_SMALL"
 msgid "It's made of wood."
-msgstr ""
+msgstr "Je vyroben ze dřeva."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.MONKEYBARREL
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.MONKEYBARREL"
 msgid "What a fine choice of building materials."
-msgstr ""
+msgstr "Výborný výběr stavebních materiálů."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.ARMORSNURTLESHELL
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.ARMORSNURTLESHELL"
 msgid "You can never be too safe."
-msgstr ""
+msgstr "Nikdy nejsi dostatečně v bezpečí."
 
 #. STRINGS.CHARACTERS.WOODIE.ANNOUNCE_DUSK
 msgctxt "STRINGS.CHARACTERS.WOODIE.ANNOUNCE_DUSK"
 msgid "It's almost my bedtime."
-msgstr ""
+msgstr "Už je téměř čas na spánek."
 
 #. STRINGS.CHARACTERS.WOODIE.ANNOUNCE_ENTER_DARK
 msgctxt "STRINGS.CHARACTERS.WOODIE.ANNOUNCE_ENTER_DARK"
 msgid "Who turned out the lights?"
-msgstr ""
+msgstr "Kdo vypnul světla?"
 
 #. STRINGS.CHARACTERS.WOODIE.ANNOUNCE_FREEDOM
 msgctxt "STRINGS.CHARACTERS.WOODIE.ANNOUNCE_FREEDOM"
 msgid "I got out!"
-msgstr ""
+msgstr "Dostal jsem se pryč!"
 
 #. STRINGS.CHARACTERS.WOODIE.ANNOUNCE_CHARLIE_ATTACK
 msgctxt "STRINGS.CHARACTERS.WOODIE.ANNOUNCE_CHARLIE_ATTACK"
 msgid "Yeouch! That was rough!"
-msgstr ""
+msgstr "Jaúúu! To bylo drsné!"
 
 #. STRINGS.CHARACTERS.WOODIE.EAT_FOOD.TALLBIRDEGG_CRACKED
 msgctxt "STRINGS.CHARACTERS.WOODIE.EAT_FOOD.TALLBIRDEGG_CRACKED"
 msgid "You can taste the beak, eh?"
-msgstr ""
+msgstr "Cítíš ten zobák, co?"
 
 #. STRINGS.CHARACTERS.WOODIE.ANNOUNCE_NO_TRAP
 msgctxt "STRINGS.CHARACTERS.WOODIE.ANNOUNCE_NO_TRAP"
 msgid "Close one!"
-msgstr ""
+msgstr "To bylo o fous!"
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE_GENERIC
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE_GENERIC"
 msgid "What's that, eh?"
-msgstr ""
+msgstr "Co to je, co?"
 
 #. STRINGS.CHARACTERS.WOODIE.ANNOUNCE_HUNT_BEAST_NEARBY
 msgctxt "STRINGS.CHARACTERS.WOODIE.ANNOUNCE_HUNT_BEAST_NEARBY"
 msgid "The beastie is nearby."
-msgstr ""
+msgstr "Ta potvora už je blízko."
 
 #. STRINGS.CHARACTERS.WOODIE.COMBAT_QUIT.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOODIE.COMBAT_QUIT.GENERIC"
 msgid "I think that's enough."
-msgstr ""
+msgstr "Myslím, že to bude stačit."
 
 #. STRINGS.CHARACTERS.WOODIE.BATTLECRY.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOODIE.BATTLECRY.GENERIC"
 msgid "Get over here, eh!"
-msgstr ""
+msgstr "Pojď sem, haló!"
 
 #. STRINGS.CHARACTERS.WOODIE.ANNOUNCE_THORNS
 msgctxt "STRINGS.CHARACTERS.WOODIE.ANNOUNCE_THORNS"
 msgid "Ouch!"
-msgstr ""
+msgstr "Au!"
 
 #. STRINGS.CHARACTERS.WOODIE.ANNOUNCE_WORMHOLE
 msgctxt "STRINGS.CHARACTERS.WOODIE.ANNOUNCE_WORMHOLE"
@@ -17713,22 +17715,22 @@ msgstr ""
 #. STRINGS.CHARACTERS.WOODIE.ANNOUNCE_TORCH_OUT
 msgctxt "STRINGS.CHARACTERS.WOODIE.ANNOUNCE_TORCH_OUT"
 msgid "My light ran out!"
-msgstr ""
+msgstr "Vyhaslo mi světlo!"
 
 #. STRINGS.CHARACTERS.WOODIE.ANNOUNCE_ENTER_LIGHT
 msgctxt "STRINGS.CHARACTERS.WOODIE.ANNOUNCE_ENTER_LIGHT"
 msgid "Brilliance!"
-msgstr ""
+msgstr "Briliantní!"
 
 #. STRINGS.CHARACTERS.WOODIE.ANNOUNCE_EAT.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOODIE.ANNOUNCE_EAT.GENERIC"
 msgid "Tasty!"
-msgstr ""
+msgstr "Chutné!"
 
 #. STRINGS.CHARACTERS.WOODIE.ANNOUNCE_EAT.STALE
 msgctxt "STRINGS.CHARACTERS.WOODIE.ANNOUNCE_EAT.STALE"
 msgid "I got to that one just in time."
-msgstr ""
+msgstr "Dostal jsem se k němu zrovna v čas."
 
 #. STRINGS.CHARACTERS.WOODIE.ANNOUNCE_EAT.SPOILED
 msgctxt "STRINGS.CHARACTERS.WOODIE.ANNOUNCE_EAT.SPOILED"
@@ -17738,47 +17740,47 @@ msgstr ""
 #. STRINGS.CHARACTERS.WOODIE.ANNOUNCE_EAT.PAINFUL
 msgctxt "STRINGS.CHARACTERS.WOODIE.ANNOUNCE_EAT.PAINFUL"
 msgid "That was past the expiry date."
-msgstr ""
+msgstr "To už nějakou chvíli prošlé bylo."
 
 #. STRINGS.CHARACTERS.WOODIE.ANNOUNCE_BEES
 msgctxt "STRINGS.CHARACTERS.WOODIE.ANNOUNCE_BEES"
 msgid "Bees! Bees!"
-msgstr ""
+msgstr "Včelýý! Včélýý!"
 
 #. STRINGS.CHARACTERS.WOODIE.ANNOUNCE_HUNGRY
 msgctxt "STRINGS.CHARACTERS.WOODIE.ANNOUNCE_HUNGRY"
 msgid "I'm getting peckish."
-msgstr ""
+msgstr "Začínám mít hlad."
 
 #. STRINGS.CHARACTERS.WOODIE.ANNOUNCE_KNOCKEDOUT
 msgctxt "STRINGS.CHARACTERS.WOODIE.ANNOUNCE_KNOCKEDOUT"
 msgid "Ow. What was that?"
-msgstr ""
+msgstr "Au. Co to bylo?"
 
 #. STRINGS.CHARACTERS.WOODIE.ANNOUNCE_COLD
 msgctxt "STRINGS.CHARACTERS.WOODIE.ANNOUNCE_COLD"
 msgid "It's cold out here!"
-msgstr ""
+msgstr "Je tady pěkná zima!"
 
 #. STRINGS.CHARACTERS.WOODIE.ANNOUNCE_HUNT_LOST_TRAIL
 msgctxt "STRINGS.CHARACTERS.WOODIE.ANNOUNCE_HUNT_LOST_TRAIL"
 msgid "The beastie got away."
-msgstr ""
+msgstr "Ta potvora utekla."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE_TOODARK
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE_TOODARK"
 msgid "It's dark, eh!"
-msgstr ""
+msgstr "Je tu tma, hej!"
 
 #. STRINGS.CHARACTERS.WOODIE.ANNOUNCE_HOUNDS
 msgctxt "STRINGS.CHARACTERS.WOODIE.ANNOUNCE_HOUNDS"
 msgid "There's something out there."
-msgstr ""
+msgstr "Tady něco je."
 
 #. STRINGS.CHARACTERS.WOODIE.ANNOUNCE_PECKED
 msgctxt "STRINGS.CHARACTERS.WOODIE.ANNOUNCE_PECKED"
 msgid "Sorry! I'll try harder!"
-msgstr ""
+msgstr "Promiň! Budu se více snažit!"
 
 #. STRINGS.CHARACTERS.WOODIE.ANNOUNCE_DEERCLOPS
 msgctxt "STRINGS.CHARACTERS.WOODIE.ANNOUNCE_DEERCLOPS"
@@ -19193,22 +19195,22 @@ msgstr ""
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.HAMBAT
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.HAMBAT"
 msgid "Pleased to meat you!"
-msgstr ""
+msgstr "Rád jsem tě poznal!"
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.TRUNKVEST_WINTER
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.TRUNKVEST_WINTER"
 msgid "Not as warm as a good fire, but still pretty good!"
-msgstr ""
+msgstr "Není tak hřejivá jak dobrý oheň, ale stále docela příjemná!"
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.AXE
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.AXE"
 msgid "It's very sharp."
-msgstr ""
+msgstr "Je dost ostrá."
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.TRUNKVEST_SUMMER
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.TRUNKVEST_SUMMER"
 msgid "Now I'll be with my friend forever."
-msgstr ""
+msgstr "Teď budu s mým přítelem navždy."
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.TREASURECHEST
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.TREASURECHEST"
@@ -23977,7 +23979,7 @@ msgstr "-- Zvol nový vstup --"
 #. STRINGS.UI.CONTROLSSCREEN.DEFAULT_CONTROL_TEXT
 msgctxt "STRINGS.UI.CONTROLSSCREEN.DEFAULT_CONTROL_TEXT"
 msgid "Default: %s"
-msgstr "Defaultní: %s"
+msgstr "Původní: %s"
 
 #. STRINGS.UI.CONTROLSSCREEN.LOSE_CHANGES_BODY
 msgctxt "STRINGS.UI.CONTROLSSCREEN.LOSE_CHANGES_BODY"
@@ -25252,7 +25254,7 @@ msgstr "Minimálně"
 #. STRINGS.UI.SANDBOXMENU.SLIDEDEFAULT
 msgctxt "STRINGS.UI.SANDBOXMENU.SLIDEDEFAULT"
 msgid "Default"
-msgstr "Defaultní"
+msgstr "Původní"
 
 #. STRINGS.UI.SANDBOXMENU.YES
 msgctxt "STRINGS.UI.SANDBOXMENU.YES"
@@ -25267,12 +25269,12 @@ msgstr "Noc"
 #. STRINGS.UI.SANDBOXMENU.ADVENTURELEVELS.1
 msgctxt "STRINGS.UI.SANDBOXMENU.ADVENTURELEVELS.1"
 msgid "A Cold Reception"
-msgstr ""
+msgstr "Chladné přivítání"
 
 #. STRINGS.UI.SANDBOXMENU.ADVENTURELEVELS.2
 msgctxt "STRINGS.UI.SANDBOXMENU.ADVENTURELEVELS.2"
 msgid "The King of Winter"
-msgstr ""
+msgstr "Král zímy"
 
 #. STRINGS.UI.SANDBOXMENU.ADVENTURELEVELS.3
 msgctxt "STRINGS.UI.SANDBOXMENU.ADVENTURELEVELS.3"
@@ -25282,7 +25284,7 @@ msgstr ""
 #. STRINGS.UI.SANDBOXMENU.ADVENTURELEVELS.4
 msgctxt "STRINGS.UI.SANDBOXMENU.ADVENTURELEVELS.4"
 msgid "Archipelago"
-msgstr ""
+msgstr "Souostroví"
 
 #. STRINGS.UI.SANDBOXMENU.ADVENTURELEVELS.5
 msgctxt "STRINGS.UI.SANDBOXMENU.ADVENTURELEVELS.5"
@@ -25302,7 +25304,7 @@ msgstr "Šachmat"
 #. STRINGS.UI.SANDBOXMENU.BRANCHINGANY
 msgctxt "STRINGS.UI.SANDBOXMENU.BRANCHINGANY"
 msgid "Default"
-msgstr "Defaultní"
+msgstr "Původní"
 
 #. STRINGS.UI.SANDBOXMENU.LOOPNEVER
 msgctxt "STRINGS.UI.SANDBOXMENU.LOOPNEVER"
@@ -25352,7 +25354,7 @@ msgstr "Vždy"
 #. STRINGS.UI.SANDBOXMENU.HARD
 msgctxt "STRINGS.UI.SANDBOXMENU.HARD"
 msgid "Overly Taxing"
-msgstr ""
+msgstr "Až moc nárožná"
 
 #. STRINGS.UI.SANDBOXMENU.LOOPRANDOM
 msgctxt "STRINGS.UI.SANDBOXMENU.LOOPRANDOM"
@@ -25422,7 +25424,7 @@ msgstr "Jednoduché"
 #. STRINGS.UI.SANDBOXMENU.SLIDESMALL
 msgctxt "STRINGS.UI.SANDBOXMENU.SLIDESMALL"
 msgid "Default"
-msgstr "Defaultní"
+msgstr "Původní"
 
 #. STRINGS.UI.SANDBOXMENU.SLIDESLARGE
 msgctxt "STRINGS.UI.SANDBOXMENU.SLIDESLARGE"
