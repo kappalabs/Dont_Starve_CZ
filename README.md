@@ -1,4 +1,4 @@
-Don't Starve CZ (cca 60%)
+Don't Starve CZ (cca 65%)
 =========================
 Czech translation mod for Don't Starve<br />
 Mód českého překladu hry Don't Starve
@@ -13,7 +13,7 @@ POUŽITÍ/INSTALACE MÓDU
 
 PŘEKLAD
 -------
-Máte-li zájem o překlad, upravujte soubor czech.po v kořenovém adresáři repozitáře.<br />
+Máte-li zájem o překlad, upravujte soubor czech.po v kořenovém adresáři repozitáře, vytvořte vlastní větev repozitáře, budu je sám slučovat do hlavní větve master.<br />
 Pokud máte možnost, použijte skript transform pro vygenerování souboru czech_ascii.po.<br />
 Nemáte-li s Git zkušenosti, můžete stáhnout repozitář (jak je popsáno výše), upravit soubor czech.po a zaslat mi ho.
 
