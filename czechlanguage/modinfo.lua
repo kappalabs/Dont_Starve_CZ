@@ -7,7 +7,7 @@ version = "1.6"
 -- <-- /files/file/202-sample-mods/
 forumthread = "/files/file/202-sample-mods/"
 
-api_version = 3
+api_version = 4
 
 icon_atlas = "czechlanguage.xml"
 icon = "czechlanguage.tex"
