@@ -1,3 +1,5 @@
+*.xcf
+*.mo
 *~
 czechlanguage.zip
 pack_and_push
