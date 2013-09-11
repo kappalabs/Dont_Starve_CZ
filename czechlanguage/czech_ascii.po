@@ -285,7 +285,7 @@ msgstr "Ukazuje cestu na sever"
 #. STRINGS.RECIPE_DESC.SPEAR
 msgctxt "STRINGS.RECIPE_DESC.SPEAR"
 msgid "Use the pointy end"
-msgstr ""
+msgstr "Pouzivej spicaty konec"
 
 #. STRINGS.RECIPE_DESC.WALL_RUINS_ITEM
 msgctxt "STRINGS.RECIPE_DESC.WALL_RUINS_ITEM"
@@ -24668,7 +24668,7 @@ msgstr "Nezname"
 #. STRINGS.UI.CONTROLSSCREEN.INPUT_NAMES.3
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUT_NAMES.3"
 msgid "Generic Controller"
-msgstr ""
+msgstr "Genericky ovladac"
 
 #. STRINGS.UI.CONTROLSSCREEN.CONTROL_SELECT
 msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROL_SELECT"
@@ -24878,12 +24878,12 @@ msgstr "Zamenit polovinu"
 #. STRINGS.UI.CONTROLSSCREEN.CONTROLS.37
 msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.37"
 msgid "Force Inspect"
-msgstr ""
+msgstr "Nuceny pruzkum"
 
 #. STRINGS.UI.CONTROLSSCREEN.CONTROLS.38
 msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.38"
 msgid "Force Attack"
-msgstr ""
+msgstr "Nuceny utok"
 
 #. STRINGS.UI.CONTROLSSCREEN.CONTROLS.39
 msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.39"
@@ -24913,7 +24913,7 @@ msgstr "Debug Render"
 #. STRINGS.UI.CONTROLSSCREEN.CONTROLS.44
 msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.44"
 msgid "Open Inventory"
-msgstr ""
+msgstr "Otevrit inventar"
 
 #. STRINGS.UI.CONTROLSSCREEN.CONTROLS.45
 msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.45"
@@ -25238,7 +25238,7 @@ msgstr "Pravy Alt"
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.59
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.59"
 msgid "Semicolon"
-msgstr ""
+msgstr "Strednik"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.306
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.306"
@@ -25618,12 +25618,12 @@ msgstr "Prava packa"
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.2.9
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.2.9"
 msgid "Left Bumper"
-msgstr ""
+msgstr "Levy naraznik"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.2.10
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.2.10"
 msgid "Right Bumper"
-msgstr ""
+msgstr "Pravy naraznik"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.2.11
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.2.11"
@@ -25688,22 +25688,22 @@ msgstr "Pravy palec nahoru"
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.2.23
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.2.23"
 msgid "Left Trigger"
-msgstr ""
+msgstr "Levy spoustec"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.2.24
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.2.24"
 msgid "Left Trigger"
-msgstr ""
+msgstr "Levy spoustec"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.2.25
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.2.25"
 msgid "Right Trigger"
-msgstr ""
+msgstr "Pravy spoustec"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.2.26
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.2.26"
 msgid "Right Trigger"
-msgstr ""
+msgstr "Pravy spoustec"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.4.1
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.4.1"
@@ -25803,22 +25803,22 @@ msgstr "+Z Rotace"
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.3.18
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.3.18"
 msgid "Slider 0"
-msgstr ""
+msgstr "Posuvnik 0"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.3.19
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.3.19"
 msgid "Slider 0"
-msgstr ""
+msgstr "Posuvnik 0"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.3.20
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.3.20"
 msgid "Slider 1"
-msgstr ""
+msgstr "Posuvnik 1"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.3.21
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.3.21"
 msgid "Slider 1"
-msgstr ""
+msgstr "Posuvnik 1"
 
 #. STRINGS.UI.PAUSEMENU.SAVEANDQUITTITLE
 msgctxt "STRINGS.UI.PAUSEMENU.SAVEANDQUITTITLE"
@@ -26333,17 +26333,17 @@ msgstr "Vyzkoumej"
 #. STRINGS.UI.CRAFTING.NEEDSHADOWMANIPULATOR
 msgctxt "STRINGS.UI.CRAFTING.NEEDSHADOWMANIPULATOR"
 msgid "Use a shadow manipulator to build a prototype!"
-msgstr ""
+msgstr "Pouzij Shadow manipulator ke stavbe prototypu!"
 
 #. STRINGS.UI.CRAFTING.NEEDSANCIENT_FOUR
 msgctxt "STRINGS.UI.CRAFTING.NEEDSANCIENT_FOUR"
 msgid "It seems that this altar is not fully functional!"
-msgstr ""
+msgstr "Vypada to, ze tenhle oltar neni plne funkcni!"
 
 #. STRINGS.UI.CRAFTING.NEEDPRESTIHATITATOR
 msgctxt "STRINGS.UI.CRAFTING.NEEDPRESTIHATITATOR"
 msgid "Use a Prestihatitator to build a prototype!"
-msgstr ""
+msgstr "Pouzij Prestihatitator ke stavbe prototypu!"
 
 #. STRINGS.UI.CRAFTING.CANTRESEARCH
 msgctxt "STRINGS.UI.CRAFTING.CANTRESEARCH"
@@ -26452,7 +26452,7 @@ msgstr "Ano"
 #. STRINGS.UI.ENTERCAVE.RESET
 msgctxt "STRINGS.UI.ENTERCAVE.RESET"
 msgid "Regen"
-msgstr "Vygenerovat znovu"
+msgstr "Pregenerovat"
 
 #. STRINGS.UI.QUITTING
 msgctxt "STRINGS.UI.QUITTING"
@@ -27566,6 +27566,8 @@ msgid ""
 "We need your birthdate or ratings people might get mad at us for emailing "
 "you content not appropriate for your age."
 msgstr ""
+"Potrebujeme tve datum narozeni, protoze bychom se pozdeji mohli pominout z "
+"vasich pripominek, ze vam zasilame obsah, ktery neni primereny vasemu veku."
 
 #. STRINGS.UI.HUD.BUYNOW
 msgctxt "STRINGS.UI.HUD.BUYNOW"
@@ -28306,7 +28308,7 @@ msgstr ""
 #. STRINGS.PIGNAMES.114
 msgctxt "STRINGS.PIGNAMES.114"
 msgid "Waffle"
-msgstr ""
+msgstr "Waffle"
 
 #. STRINGS.PIGNAMES.115
 msgctxt "STRINGS.PIGNAMES.115"
@@ -28536,7 +28538,7 @@ msgstr "Drahokamologie"
 #. STRINGS.TABS.MAGIC
 msgctxt "STRINGS.TABS.MAGIC"
 msgid "Magic"
-msgstr "Kouzlo"
+msgstr "Magie"
 
 #. STRINGS.TABS.TOOLS
 msgctxt "STRINGS.TABS.TOOLS"
@@ -28556,7 +28558,7 @@ msgstr "Boj"
 #. STRINGS.TABS.DRESS
 msgctxt "STRINGS.TABS.DRESS"
 msgid "Dress"
-msgstr "Oblek"
+msgstr "Osaceni"
 
 #. STRINGS.TABS.REFINE
 msgctxt "STRINGS.TABS.REFINE"
@@ -28576,7 +28578,7 @@ msgstr "Svetlo"
 #. STRINGS.TABS.SURVIVAL
 msgctxt "STRINGS.TABS.SURVIVAL"
 msgid "Survival"
-msgstr "Survival"
+msgstr "Preziti"
 
 # Neprekladat, pri transformaci zrejme spatne prelozen
 #. STRINGS.RMB
@@ -28587,7 +28589,7 @@ msgstr ""
 #. STRINGS.TRADEMOD
 msgctxt "STRINGS.TRADEMOD"
 msgid "Move"
-msgstr "Pohyb"
+msgstr "Presunout"
 
 # Neprekladat, pri transformaci zrejme spatne prelozen.
 #. STRINGS.LMB
@@ -28633,7 +28635,7 @@ msgstr "Splhat"
 #. STRINGS.ACTIONS.ACTIVATE.SPELUNK
 msgctxt "STRINGS.ACTIONS.ACTIVATE.SPELUNK"
 msgid "Spelunk"
-msgstr ""
+msgstr "Jesskynovat"
 
 #. STRINGS.ACTIONS.CHECKTRAP
 msgctxt "STRINGS.ACTIONS.CHECKTRAP"
@@ -28728,7 +28730,7 @@ msgstr "Zvednout"
 #. STRINGS.ACTIONS.CASTSPELL
 msgctxt "STRINGS.ACTIONS.CASTSPELL"
 msgid "Cast Spell"
-msgstr ""
+msgstr "Provest kouzlo"
 
 #. STRINGS.ACTIONS.EAT
 msgctxt "STRINGS.ACTIONS.EAT"
@@ -29808,7 +29810,7 @@ msgstr "Drevena zed"
 #. STRINGS.NAMES.CAVE_ENTRANCE_OPEN
 msgctxt "STRINGS.NAMES.CAVE_ENTRANCE_OPEN"
 msgid "Sinkhole"
-msgstr ""
+msgstr "Zavrt"
 
 #. STRINGS.NAMES.SKELETON
 msgctxt "STRINGS.NAMES.SKELETON"
