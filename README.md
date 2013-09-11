@@ -1,7 +1,7 @@
 Don't Starve CZ (cca 65%)
 =========================
-Czech translation mod for Don't Starve [A Moderately Friendly Update (Sep10)]<br />
-Mód českého překladu hry Don't Starve [Rozumně přátelský update (Září10)]
+**Czech translation mod for Don't Starve [A Moderately Friendly Update (Sep10)]**<br />
+**Mód českého překladu hry Don't Starve [Rozumně přátelský update (Září10)]**
 
 
 POUŽITÍ/INSTALACE MÓDU
@@ -14,21 +14,20 @@ POUŽITÍ/INSTALACE MÓDU
 PŘEKLAD
 -------
 Máte-li zájem o překlad, upravujte soubor czech.po v kořenovém adresáři repozitáře, vytvořte vlastní větev repozitáře, budu je sám slučovat do hlavní větve master.<br />
-Pokud máte možnost, použijte skript transform pro vygenerování souboru czech_ascii.po.<br />
-Nemáte-li s Git zkušenosti, můžete stáhnout repozitář (jak je popsáno výše), upravit soubor czech.po a zaslat mi ho.
+Skript transform slouží pro vygenerování souboru czech_ascii.po.<br />
+Nemáte-li s Git zkušenosti, stačí stáhnout repozitář (jak je popsáno výše), upravit soubor czech.po a zaslat mi ho na email, který najdete v mém profilu.
 
 SOUBORY
 -------
-- czech.po	  - soubor aktuálnních překladů EN do CZ (upravovat lze efektivně v PoEdit)
-- czech.mo	  - pomocný soubor programu PoEdit
-- strings.pot	  - originální soubor textů z hry
-- preview.jpg	  - ikona módu
-- transform	  - linux skript pro nastavení formátu souboru překladu, generuje czech_ascii.po ve složce czechlanguage
+- **czech.po - soubor aktuálních překladů EN do CZ** (upravovat lze efektivně v [PoEdit](http://www.poedit.net/))
+- strings.pot - originální soubor textů z aktuální verze hry
+- preview.jpg - ikona módu
+- transform - linux skript pro nastavení formátu souboru překladu, generuje czech_ascii.po ve složce czechlanguage
 - czechlanguage/ - složka dat módu, připraveno k použití, neupravovat až na *.lua
- - czech.po		- kopie czech.po z nadřazené složky
- - czech_ascii.po	- soubor czech.po ve formátu ASCII s nakonfigurovanými parametry, generovaný skriptem transform
- - modinfo.lua		- nastavení módu
- - modmain.lua		- soubor překladu k načtení
+ - czech.po - kopie czech.po z nadřazené složky
+ - czech_ascii.po - soubor czech.po ve formátu ASCII s nakonfigurovanými parametry, generovaný skriptem transform
+ - modinfo.lua - obecné nastavení módu
+ - modmain.lua - nastavení souboru překladu k načtení do módu
 
 POZNÁMKA
 --------
