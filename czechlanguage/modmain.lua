@@ -6,8 +6,8 @@ Assets = {
 	Asset("ATLAS", "images/customisation.xml"),
 	Asset("IMAGE", "images/customisation.tex"),
 
-	Asset("ATLAS", "images/ui.xml"),
-	Asset("IMAGE", "images/ui.tex"),
+--	Asset("ATLAS", "images/ui.xml"),
+--	Asset("IMAGE", "images/ui.tex"),
 }
 
 -- V okamziku podpory formatovani UTF-8 odkomentovat prvni a zakomentovat druhou metodu LoadPOFile
