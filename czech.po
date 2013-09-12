@@ -720,7 +720,7 @@ msgstr ""
 #. STRINGS.RECIPE_DESC.ARMORMARBLE
 msgctxt "STRINGS.RECIPE_DESC.ARMORMARBLE"
 msgid "It's heavy, but it will protect you."
-msgstr "Je těžké, ale ochrání tě."
+msgstr "Je těžký, ale ochrání tě."
 
 #. STRINGS.RECIPE_DESC.TRUNKVEST_WINTER
 msgctxt "STRINGS.RECIPE_DESC.TRUNKVEST_WINTER"
@@ -30485,7 +30485,7 @@ msgstr ""
 #. STRINGS.NAMES.MARSH_BUSH
 msgctxt "STRINGS.NAMES.MARSH_BUSH"
 msgid "Spiky Bush"
-msgstr ""
+msgstr "Pichlavý keř"
 
 #. STRINGS.NAMES.BANDAGE
 msgctxt "STRINGS.NAMES.BANDAGE"
@@ -30520,7 +30520,7 @@ msgstr "Panova flétna"
 #. STRINGS.NAMES.TRINKET_5
 msgctxt "STRINGS.NAMES.TRINKET_5"
 msgid "Tiny Rocketship"
-msgstr ""
+msgstr "Malá raketka"
 
 #. STRINGS.NAMES.WALL_HAY
 msgctxt "STRINGS.NAMES.WALL_HAY"
@@ -30575,7 +30575,7 @@ msgstr ""
 #. STRINGS.NAMES.POND_CAVE
 msgctxt "STRINGS.NAMES.POND_CAVE"
 msgid "Pond"
-msgstr ""
+msgstr "Jezírko"
 
 #. STRINGS.NAMES.BLUE_CAP_COOKED
 msgctxt "STRINGS.NAMES.BLUE_CAP_COOKED"
