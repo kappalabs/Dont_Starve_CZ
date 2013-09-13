@@ -14,9 +14,9 @@ GLOBAL.STRINGS.DFV_LANG = "CS"
 GLOBAL.STRINGS.DFV_HUNGER = "Hlad"
 GLOBAL.STRINGS.DFV_HEALTH = "Zdravi"
 GLOBAL.STRINGS.DFV_SANITY = "Pricetnost"
-GLOBAL.STRINGS.DFV_SPOILSOON = "Brzy se skazi"
-GLOBAL.STRINGS.DFV_SPOILIN = "Skazi se za"
-GLOBAL.STRINGS.DFV_SPOILDAY = "dni"
+GLOBAL.STRINGS.DFV_SPOILSOON = "Brzy se zkazi"
+GLOBAL.STRINGS.DFV_SPOILIN = "Zkazi se za"
+GLOBAL.STRINGS.DFV_SPOILDAY = "dny. Sss"
 
 -- V okamziku podpory formatovani UTF-8 odkomentovat prvni a zakomentovat druhou metodu LoadPOFile
 
