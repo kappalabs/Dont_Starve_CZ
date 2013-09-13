@@ -24878,7 +24878,7 @@ msgstr "Zaměnit polovinu"
 #. STRINGS.UI.CONTROLSSCREEN.CONTROLS.37
 msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.37"
 msgid "Force Inspect"
-msgstr "Vynuzené prozkoumání"
+msgstr "Vynucený průzkum"
 
 #. STRINGS.UI.CONTROLSSCREEN.CONTROLS.38
 msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.38"
