@@ -250,7 +250,7 @@ msgstr "Pro rybareni. Na ryby."
 #. STRINGS.RECIPE_DESC.TRAP_TEETH_MAXWELL
 msgctxt "STRINGS.RECIPE_DESC.TRAP_TEETH_MAXWELL"
 msgid "Pops up and bites whoever steps on it"
-msgstr "Vyskoci a poskodi kazdeho, kdo na ni slapne"
+msgstr "Vyskoci a kousne kazdeho, kdo na ni slapne"
 
 #. STRINGS.RECIPE_DESC.SLOW_FARMPLOT
 msgctxt "STRINGS.RECIPE_DESC.SLOW_FARMPLOT"
@@ -265,7 +265,7 @@ msgstr "A to sis myslel, ze strasne smrdi zvenku."
 #. STRINGS.RECIPE_DESC.BEEMINE
 msgctxt "STRINGS.RECIPE_DESC.BEEMINE"
 msgid "Weaponized bees. What could go wrong?"
-msgstr "Vyuziti vcel pro vojenske ucely. Co spatneho by se mohlo stat?"
+msgstr "Vyzbrojen vcelami. Co by se mohlo pokazit?"
 
 #. STRINGS.RECIPE_DESC.FEATHERHAT
 msgctxt "STRINGS.RECIPE_DESC.FEATHERHAT"
@@ -300,7 +300,7 @@ msgstr "Zobrazuje pravdepodobnost srazek"
 #. STRINGS.RECIPE_DESC.BLOWDART_SLEEP
 msgctxt "STRINGS.RECIPE_DESC.BLOWDART_SLEEP"
 msgid "Spit sleepiness at your enemies."
-msgstr "Sir ospalost mezi sve nepritele."
+msgstr "Plivni ospalost na sve nepritele."
 
 #. STRINGS.RECIPE_DESC.EYETURRET_ITEM
 msgctxt "STRINGS.RECIPE_DESC.EYETURRET_ITEM"
@@ -335,7 +335,7 @@ msgstr ""
 #. STRINGS.RECIPE_DESC.RESEARCHLAB4
 msgctxt "STRINGS.RECIPE_DESC.RESEARCHLAB4"
 msgid "Amplify the inherent magical power of a hat."
-msgstr "Umocnuje vrozenou magickou silu klobouku."
+msgstr "Umocnuje vrozenou magickou silu cylindru."
 
 #. STRINGS.RECIPE_DESC.HEATROCK
 msgctxt "STRINGS.RECIPE_DESC.HEATROCK"
@@ -395,7 +395,7 @@ msgstr "Cista a efektivni destrukce."
 #. STRINGS.RECIPE_DESC.SWEATERVEST
 msgctxt "STRINGS.RECIPE_DESC.SWEATERVEST"
 msgid "Rugged, yet stylish."
-msgstr "Drsny, ale stylovy."
+msgstr "Drsna, ale stylova."
 
 #. STRINGS.RECIPE_DESC.ICESTAFF
 msgctxt "STRINGS.RECIPE_DESC.ICESTAFF"
@@ -410,7 +410,7 @@ msgstr "Melodie pro uklidneni divokych bestii"
 #. STRINGS.RECIPE_DESC.HEALINGSALVE
 msgctxt "STRINGS.RECIPE_DESC.HEALINGSALVE"
 msgid "Disinfectant for cuts and abrasions."
-msgstr ""
+msgstr "Dezinfekcni prostredek na rany a skrabance."
 
 #. STRINGS.RECIPE_DESC.BUGNET
 msgctxt "STRINGS.RECIPE_DESC.BUGNET"
@@ -420,7 +420,7 @@ msgstr "Na chytani hmyzu"
 #. STRINGS.RECIPE_DESC.BOARDS
 msgctxt "STRINGS.RECIPE_DESC.BOARDS"
 msgid "Like logs but flatter"
-msgstr "Polinka, akorat tenci"
+msgstr "Jako polena, ale placatejsi"
 
 #. STRINGS.RECIPE_DESC.NIGHTMAREFUEL
 msgctxt "STRINGS.RECIPE_DESC.NIGHTMAREFUEL"
@@ -440,7 +440,7 @@ msgstr "Vkusne sachovite mramorove dilce"
 #. STRINGS.RECIPE_DESC.HAMMER
 msgctxt "STRINGS.RECIPE_DESC.HAMMER"
 msgid "Deconstruct structures"
-msgstr "Rozkladej konstrukce"
+msgstr "Rozkladej stavby"
 
 #. STRINGS.RECIPE_DESC.LIGHTNING_ROD
 msgctxt "STRINGS.RECIPE_DESC.LIGHTNING_ROD"
@@ -455,12 +455,12 @@ msgstr "Vsechna tahle veda je tak... vycerpavajici."
 #. STRINGS.RECIPE_DESC.MEATRACK
 msgctxt "STRINGS.RECIPE_DESC.MEATRACK"
 msgid "The jerkiest of racks."
-msgstr ""
+msgstr "Nejvysinutejsi ze vsech tyci."
 
 #. STRINGS.RECIPE_DESC.ROPE
 msgctxt "STRINGS.RECIPE_DESC.ROPE"
 msgid "Tightly woven coils of usefulness"
-msgstr ""
+msgstr "Jemne tkane spiraly uzitecnosti"
 
 #. STRINGS.RECIPE_DESC.ARMORWOOD
 msgctxt "STRINGS.RECIPE_DESC.ARMORWOOD"
@@ -500,7 +500,7 @@ msgstr "Vychovava seminka o neco rychleji"
 #. STRINGS.RECIPE_DESC.BLOWDART_FIRE
 msgctxt "STRINGS.RECIPE_DESC.BLOWDART_FIRE"
 msgid "Spit fire at your enemies"
-msgstr "Sir ohen na sve nepratele"
+msgstr "Plivni ohen na sve nepratele"
 
 #. STRINGS.RECIPE_DESC.FLOWERHAT
 msgctxt "STRINGS.RECIPE_DESC.FLOWERHAT"
@@ -530,7 +530,7 @@ msgstr "Zanech na svete svou znacku."
 #. STRINGS.RECIPE_DESC.BUSHHAT
 msgctxt "STRINGS.RECIPE_DESC.BUSHHAT"
 msgid "Good for hiding!"
-msgstr "Dobry na schovku!"
+msgstr "Dobra na schovku!"
 
 #. STRINGS.RECIPE_DESC.BEEHAT
 msgctxt "STRINGS.RECIPE_DESC.BEEHAT"
@@ -575,7 +575,7 @@ msgstr "Nos vice veci."
 #. STRINGS.RECIPE_DESC.BOOK_BIRDS
 msgctxt "STRINGS.RECIPE_DESC.BOOK_BIRDS"
 msgid "Covers 1000 species: habits, habitats, and calls."
-msgstr "Pokryva 1000 druhu: zvyku, stanovist a privolani."
+msgstr "Pokryva 1000 druhu: zvyky, vyskyt a volani."
 
 #. STRINGS.RECIPE_DESC.ORANGEAMULET
 msgctxt "STRINGS.RECIPE_DESC.ORANGEAMULET"
@@ -630,7 +630,7 @@ msgstr "Presad okolni rostliny"
 #. STRINGS.RECIPE_DESC.TENT
 msgctxt "STRINGS.RECIPE_DESC.TENT"
 msgid "Restores sanity, but costs time and hunger"
-msgstr "Navraci pricetnost, ale prijdes o svuj cas a potravu v zaludku"
+msgstr "Navraci pricetnost, na ukor casu a zaludek"
 
 #. STRINGS.RECIPE_DESC.GOLDENPITCHFORK
 msgctxt "STRINGS.RECIPE_DESC.GOLDENPITCHFORK"
@@ -640,7 +640,7 @@ msgstr "Naaranzuj si cely svet"
 #. STRINGS.RECIPE_DESC.TURF_CARPETFLOOR
 msgctxt "STRINGS.RECIPE_DESC.TURF_CARPETFLOOR"
 msgid "The smell is best described as 'Beefalesque'."
-msgstr "Ten zapach nejlepe vystihuje slovo \"Buvolovina\"."
+msgstr "To aroma lze nejlepe popsat jako ,,buvolovina\"."
 
 #. STRINGS.RECIPE_DESC.ARMORGRASS
 msgctxt "STRINGS.RECIPE_DESC.ARMORGRASS"
@@ -670,12 +670,12 @@ msgstr ""
 #. STRINGS.RECIPE_DESC.RABBITHOUSE
 msgctxt "STRINGS.RECIPE_DESC.RABBITHOUSE"
 msgid "Room for one giant rabbit and his weird rabbit stuff"
-msgstr "Jednoluzkovy pokoj pro obriho kralika a jeho podivne kralici veci"
+msgstr "Misto pro jednoho obriho kralika a jeho divne kralici veci"
 
 #. STRINGS.RECIPE_DESC.BOOK_GARDENING
 msgctxt "STRINGS.RECIPE_DESC.BOOK_GARDENING"
 msgid "On the care and feeding of plants."
-msgstr ""
+msgstr "O peci a vyzive rostlin."
 
 #. STRINGS.RECIPE_DESC.EARMUFFSHAT
 msgctxt "STRINGS.RECIPE_DESC.EARMUFFSHAT"
@@ -700,7 +700,7 @@ msgstr ""
 #. STRINGS.RECIPE_DESC.TRAP_TEETH
 msgctxt "STRINGS.RECIPE_DESC.TRAP_TEETH"
 msgid "Pops up and bites whoever steps on it"
-msgstr "Vyskoci a poskodi kazdeho, kdo na ni slapne"
+msgstr "Vyskoci a kousne kazdeho, kdo na ni slapne"
 
 #. STRINGS.RECIPE_DESC.PIGHOUSE
 msgctxt "STRINGS.RECIPE_DESC.PIGHOUSE"
@@ -710,17 +710,17 @@ msgstr "Pristresek pro jedno prase"
 #. STRINGS.RECIPE_DESC.TREASURECHEST
 msgctxt "STRINGS.RECIPE_DESC.TREASURECHEST"
 msgid "A sturdy container"
-msgstr "Robustni kontejner"
+msgstr "Solidni bedna"
 
 #. STRINGS.RECIPE_DESC.BIRDCAGE
 msgctxt "STRINGS.RECIPE_DESC.BIRDCAGE"
 msgid "A happy home for your avian friends."
-msgstr ""
+msgstr "Stastny domov pro tve ptaci kamarady."
 
 #. STRINGS.RECIPE_DESC.ARMORMARBLE
 msgctxt "STRINGS.RECIPE_DESC.ARMORMARBLE"
 msgid "It's heavy, but it will protect you."
-msgstr "Tezke, ale ochrani te."
+msgstr "Tezky, ale ochrani te."
 
 #. STRINGS.RECIPE_DESC.TRUNKVEST_WINTER
 msgctxt "STRINGS.RECIPE_DESC.TRUNKVEST_WINTER"
@@ -755,7 +755,7 @@ msgstr "Ochrani tve telo, ale ne tvou mysl"
 #. STRINGS.RECIPE_DESC.ONEMANBAND
 msgctxt "STRINGS.RECIPE_DESC.ONEMANBAND"
 msgid "Even a crazed musician can amass quite a following."
-msgstr ""
+msgstr "Dokonce i sileny hudebnik muze ziskat fanousky."
 
 #. STRINGS.RECIPE_DESC.BLUEAMULET
 msgctxt "STRINGS.RECIPE_DESC.BLUEAMULET"
@@ -785,7 +785,7 @@ msgstr "Ochrani tvou mozkovnu."
 #. STRINGS.RECIPE_DESC.MINERHAT
 msgctxt "STRINGS.RECIPE_DESC.MINERHAT"
 msgid "Light up the night with your noggin."
-msgstr ""
+msgstr "Ozar noc svou kedlubnou."
 
 #. STRINGS.RECIPE_DESC.YELLOWAMULET
 msgctxt "STRINGS.RECIPE_DESC.YELLOWAMULET"
@@ -795,7 +795,7 @@ msgstr "Pritahuje silu nebes."
 #. STRINGS.RECIPE_DESC.RESEARCHLAB2
 msgctxt "STRINGS.RECIPE_DESC.RESEARCHLAB2"
 msgid "Unlock even more crafting recipes"
-msgstr "Objev jeste jeste vice vynalezu"
+msgstr "Objev jeste vice vynalezu"
 
 #. STRINGS.RECIPE_DESC.RAZOR
 msgctxt "STRINGS.RECIPE_DESC.RAZOR"
@@ -810,7 +810,7 @@ msgstr ""
 #. STRINGS.RECIPE_DESC.BOOK_SLEEP
 msgctxt "STRINGS.RECIPE_DESC.BOOK_SLEEP"
 msgid "Soothing tales to send you off to dreamland."
-msgstr ""
+msgstr "Uklidnujici pribehy te zavedou do zeme snu."
 
 #. STRINGS.RECIPE_DESC.RESEARCHLAB3
 msgctxt "STRINGS.RECIPE_DESC.RESEARCHLAB3"
@@ -820,7 +820,7 @@ msgstr "Je tohle jeste vubec veda?"
 #. STRINGS.RECIPE_DESC.PIGGYBACK
 msgctxt "STRINGS.RECIPE_DESC.PIGGYBACK"
 msgid "Carries a lot, but slows you down."
-msgstr "Unese hodne, ale ta tiha te stahne k zemi."
+msgstr "Unese hodne, ale ta tiha stahne k zemi."
 
 #. STRINGS.RECIPE_DESC.RESEARCHLAB
 msgctxt "STRINGS.RECIPE_DESC.RESEARCHLAB"
@@ -860,7 +860,9 @@ msgstr ""
 #. STRINGS.MAXWELL_ADVENTUREINTROS.LEVEL_4.THREE
 msgctxt "STRINGS.MAXWELL_ADVENTUREINTROS.LEVEL_4.THREE"
 msgid "Turn back now, or I may have to resort to drastic mesaures."
-msgstr "A ted se vrat zpet nebo budu nucen uchylit se k drastictejsim donucovacim prostredkum."
+msgstr ""
+"A ted se vrat zpet nebo budu nucen uchylit se k drastictejsim donucovacim "
+"prostredkum."
 
 #. STRINGS.MAXWELL_ADVENTUREINTROS.LEVEL_4.TWO
 msgctxt "STRINGS.MAXWELL_ADVENTUREINTROS.LEVEL_4.TWO"
@@ -931,7 +933,9 @@ msgstr "Opust mi, pokud se tak nestalo."
 msgctxt "STRINGS.MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.3"
 msgid ""
 "You've been an interesting plaything, but I've grown tired of this game."
-msgstr "Byla to velkolepa podivana sledovat tve snazeni, ale uz me to zacinalo unavovat."
+msgstr ""
+"Byla to velkolepa podivana sledovat tve snazeni, ale uz me to zacinalo "
+"unavovat."
 
 #. STRINGS.MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.4
 msgctxt "STRINGS.MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.4"
@@ -4251,7 +4255,7 @@ msgstr "Myslim, ze se zacinaji vice koncentrovat!"
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.NIGHTMARE_TIMEPIECE.NOMAGIC
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.NIGHTMARE_TIMEPIECE.NOMAGIC"
 msgid "There's no magic around here."
-msgstr "Kolem neni zadne kouzlo."
+msgstr "Tady kolem neni zadna magie."
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.NIGHTMARE_TIMEPIECE.WANING
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.NIGHTMARE_TIMEPIECE.WANING"
@@ -6405,17 +6409,17 @@ msgstr ""
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.SPIDER_WARRIOR.GENERIC
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.SPIDER_WARRIOR.GENERIC"
 msgid "It's a specialized form."
-msgstr ""
+msgstr "Je to specialni odruda."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.SPIDER_WARRIOR.SLEEPING
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.SPIDER_WARRIOR.SLEEPING"
 msgid "I don't want to wake that one."
-msgstr ""
+msgstr "Tohohle nechci probouzet."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.SPIDER_WARRIOR.DEAD
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.SPIDER_WARRIOR.DEAD"
 msgid "Splat."
-msgstr ""
+msgstr "Ikona."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.SPIDERHAT
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.SPIDERHAT"
@@ -7616,7 +7620,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.ARMORMARBLE
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.ARMORMARBLE"
 msgid "That really isn't my style."
-msgstr ""
+msgstr "To opravdu neni muj styl."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.TRINKET_1
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.TRINKET_1"
@@ -7959,7 +7963,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WENDY.ANNOUNCE_ADVENTUREFAIL
 msgctxt "STRINGS.CHARACTERS.WENDY.ANNOUNCE_ADVENTUREFAIL"
 msgid "Not all deaths are alike."
-msgstr ""
+msgstr "Ne kazda smrt je stejna."
 
 #. STRINGS.CHARACTERS.WENDY.ANNOUNCE_CHARLIE
 msgctxt "STRINGS.CHARACTERS.WENDY.ANNOUNCE_CHARLIE"
@@ -8014,7 +8018,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WENDY.BATTLECRY.SPIDER_WARRIOR
 msgctxt "STRINGS.CHARACTERS.WENDY.BATTLECRY.SPIDER_WARRIOR"
 msgid "I will be your end!"
-msgstr ""
+msgstr "Budu tvuj konec!"
 
 #. STRINGS.CHARACTERS.WENDY.BATTLECRY.SPIDER
 msgctxt "STRINGS.CHARACTERS.WENDY.BATTLECRY.SPIDER"
@@ -8039,7 +8043,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.ADVENTURE_PORTAL
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.ADVENTURE_PORTAL"
 msgid "What technological terror is this?"
-msgstr ""
+msgstr "Co je tohle za hruznou technologii?"
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.RABBIT.GENERIC
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.RABBIT.GENERIC"
@@ -9519,17 +9523,17 @@ msgstr ""
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.SPIDER_WARRIOR.GENERIC
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.SPIDER_WARRIOR.GENERIC"
 msgid "A warrior of the night!"
-msgstr ""
+msgstr "Valecnik noci!"
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.SPIDER_WARRIOR.SLEEPING
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.SPIDER_WARRIOR.SLEEPING"
 msgid "I must beware."
-msgstr ""
+msgstr "Musim se pripravit."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.SPIDER_WARRIOR.DEAD
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.SPIDER_WARRIOR.DEAD"
 msgid "Alas, brave warrior."
-msgstr ""
+msgstr "Beda ti, statecny valecniku."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.ABIGAIL
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.ABIGAIL"
@@ -10169,7 +10173,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.ARMORMARBLE
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.ARMORMARBLE"
 msgid "Stops the daggers that stab at mine heart."
-msgstr ""
+msgstr "Zastavi nuz zarazeny do meho srdce."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.DIVININGROD.GENERIC
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.DIVININGROD.GENERIC"
@@ -10471,7 +10475,7 @@ msgstr "BEZ VYZIVY PROCESORU NENI MOZNE SPAT."
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.ADVENTURE_PORTAL
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.ADVENTURE_PORTAL"
 msgid "HE IS NOT MUCH OF A CONVERSATIONALIST"
-msgstr "RECNIK TO TEDY ZROVNA MOC DOBRY NENI"
+msgstr "NENI PRILIS KOMUNIKATIVNI"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.RABBIT.GENERIC
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.RABBIT.GENERIC"
@@ -13169,7 +13173,7 @@ msgstr "V ZEMI BY BYL UZITECNEJSI"
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.ARMORMARBLE
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.ARMORMARBLE"
 msgid "EXTRA HEAVY DUTY CASING."
-msgstr "POUZDRO S EXTRA DLOUHOU VYDRZI."
+msgstr "EXTRA TEZKY KRYT."
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.TRINKET_1
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.TRINKET_1"
@@ -13501,7 +13505,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_ADVENTUREFAIL
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_ADVENTUREFAIL"
 msgid "We must learn from our failures."
-msgstr ""
+msgstr "Musime se ucit z nasich selhani."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.EAT_FOOD.TALLBIRDEGG_CRACKED
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.EAT_FOOD.TALLBIRDEGG_CRACKED"
@@ -14039,7 +14043,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.PIGGUARD
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.PIGGUARD"
 msgid "One of the warrior caste."
-msgstr ""
+msgstr "Jeden z kasty valecniku."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MONSTERMEAT
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MONSTERMEAT"
@@ -14793,7 +14797,7 @@ msgstr "Tak vzrusujici komplexni technologie."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ADVENTURE_PORTAL
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ADVENTURE_PORTAL"
 msgid "That violates some pretty fundamental physical laws."
-msgstr ""
+msgstr "Tohle porusuje ty nejzakladnejsi fyzikalni zakony."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.HOMESIGN
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.HOMESIGN"
@@ -15648,17 +15652,17 @@ msgstr ""
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SPIDER_WARRIOR.GENERIC
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SPIDER_WARRIOR.GENERIC"
 msgid "It appears to be of the warrior caste."
-msgstr ""
+msgstr "Vypada to na valecnou kastu."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SPIDER_WARRIOR.SLEEPING
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SPIDER_WARRIOR.SLEEPING"
 msgid "A well deserved rest, no doubt."
-msgstr ""
+msgstr "Zaslouzeny odpocinek, bezpochyby."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SPIDER_WARRIOR.DEAD
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SPIDER_WARRIOR.DEAD"
 msgid "He gave his life for his queen."
-msgstr ""
+msgstr "Polozil svuj zivot za svou kralovnu."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BEDROLL_FURRY
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BEDROLL_FURRY"
@@ -15698,7 +15702,7 @@ msgstr "Pracovni nastroj."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ARMORMARBLE
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ARMORMARBLE"
 msgid "An interesting choice of materials."
-msgstr ""
+msgstr "Zajimavy vyber materialu."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.RAINOMETER
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.RAINOMETER"
@@ -15943,7 +15947,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WOODIE.ANNOUNCE_ADVENTUREFAIL
 msgctxt "STRINGS.CHARACTERS.WOODIE.ANNOUNCE_ADVENTUREFAIL"
 msgid "Oh well. I gave it a good try."
-msgstr ""
+msgstr "Nu coz. Vedl jsem si celkem dobre."
 
 #. STRINGS.CHARACTERS.WOODIE.ANNOUNCE_QUAKE
 msgctxt "STRINGS.CHARACTERS.WOODIE.ANNOUNCE_QUAKE"
@@ -16008,7 +16012,7 @@ msgstr "Mam moc prazdny zaludek na to, abych mohl spat."
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.ADVENTURE_PORTAL
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.ADVENTURE_PORTAL"
 msgid "I wonder if that's the way out of here."
-msgstr "Zajimalo by me, jestli je tohle cesta pryc."
+msgstr "Zajimalo by me, jestli to vede odsud pryc."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.RABBIT.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.RABBIT.GENERIC"
@@ -17103,7 +17107,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.TRUNKVEST_SUMMER
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.TRUNKVEST_SUMMER"
 msgid "Nice and breezy"
-msgstr ""
+msgstr "Hezka a prodysna"
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.STINGER
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.STINGER"
@@ -17578,12 +17582,12 @@ msgstr ""
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.SPIDER_WARRIOR.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.SPIDER_WARRIOR.GENERIC"
 msgid "They come in yellow now, eh?"
-msgstr ""
+msgstr "A ted prijdou ve zlutem, ano?"
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.SPIDER_WARRIOR.SLEEPING
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.SPIDER_WARRIOR.SLEEPING"
 msgid "I don't want to wake it."
-msgstr ""
+msgstr "Nechci to brobouzet."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.MARBLEPILLAR
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.MARBLEPILLAR"
@@ -18808,7 +18812,7 @@ msgstr "Mrtvy kov"
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.ARMORMARBLE
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.ARMORMARBLE"
 msgid "It's hard to swing an axe while wearing this."
-msgstr "Je tezke machat sekerou, kdyz mam tohle na sobe."
+msgstr "Je tezke machat sekerou, kdyz mam na sobe tohle."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.TRINKET_1
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.TRINKET_1"
@@ -19135,7 +19139,7 @@ msgstr "Auu! Ty hnupe!"
 #. STRINGS.CHARACTERS.WILLOW.ANNOUNCE_ADVENTUREFAIL
 msgctxt "STRINGS.CHARACTERS.WILLOW.ANNOUNCE_ADVENTUREFAIL"
 msgid "You win THIS time, Maxwell."
-msgstr "Tak, Maxwelli, TENTOKRAT jsi vyhral."
+msgstr "Tak Maxwelli, TENTOKRAT jsi vyhral."
 
 #. STRINGS.CHARACTERS.WILLOW.ANNOUNCE_CHARLIE
 msgctxt "STRINGS.CHARACTERS.WILLOW.ANNOUNCE_CHARLIE"
@@ -19410,7 +19414,7 @@ msgstr "Mrzuta rostlina"
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.PICKAXE
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.PICKAXE"
 msgid "It's very pointy."
-msgstr "Je velmi spicata."
+msgstr "Je velmi spicaty."
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.SLURTLEHOLE
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.SLURTLEHOLE"
@@ -20485,7 +20489,7 @@ msgstr "Vyrobeno z velkych zadnic!"
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.ONEMANBAND
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.ONEMANBAND"
 msgid "I can do the pyrotechnics too!"
-msgstr "Zvladam to i s pyrotechnikou!"
+msgstr "Zvladnu to doprovazet i s pyrotechnikou!"
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.CHESTER
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.CHESTER"
@@ -20555,7 +20559,7 @@ msgstr "S ohnem by to bylo lepsi."
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.TRAP
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.TRAP"
 msgid "It's a bit passive aggressive, but it'll work."
-msgstr "Neni to prilis akcni, bude to fungovat."
+msgstr "Neni to prilis akcni, ale bude to fungovat."
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.TORCH
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.TORCH"
@@ -21285,7 +21289,7 @@ msgstr "Siri se jako ohen."
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.ARMORMARBLE
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.ARMORMARBLE"
 msgid "If I have to fight I might as well be protected."
-msgstr "Pokud mam jit do boje, budu potrebovat take nejakou ochranu."
+msgstr "Pokud mam jit do boje, mela bych mit asi ochranu."
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.EARMUFFS
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.EARMUFFS"
@@ -21639,7 +21643,7 @@ msgstr "Promin priteli!"
 #. STRINGS.CHARACTERS.WOLFGANG.BATTLECRY.SPIDER_WARRIOR
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.BATTLECRY.SPIDER_WARRIOR"
 msgid "I am still stronger, scary bug!"
-msgstr "Jsem stale jeste silnejsi, strasidelny pavouku!"
+msgstr "Jsem stale jeste silnejsi, hruzny hmyze!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.BATTLECRY.SPIDER
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.BATTLECRY.SPIDER"
@@ -21694,7 +21698,7 @@ msgstr "Tady zadne zvire neni."
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ADVENTURE_PORTAL
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ADVENTURE_PORTAL"
 msgid "Is mouth door! Say Ahhhhh!"
-msgstr "To jsou ustni dvere! Rekni aaaa!"
+msgstr "Dvere jako usta! Rekni Aaaaa!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.RABBIT.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.RABBIT.GENERIC"
@@ -23324,12 +23328,12 @@ msgstr "Je chlupate a hrube"
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SPIDER_WARRIOR.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SPIDER_WARRIOR.GENERIC"
 msgid "This one extra scary."
-msgstr "Tenhle je extremne strasidelny."
+msgstr "Tenhle je extremne hrozivy."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SPIDER_WARRIOR.SLEEPING
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SPIDER_WARRIOR.SLEEPING"
 msgid "I think not smart to poke it."
-msgstr "Myslim, ze neni chytre se ho dotykat."
+msgstr "Myslim, ze neni chytre do nej stouchat."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SPIDER_WARRIOR.DEAD
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SPIDER_WARRIOR.DEAD"
@@ -23864,7 +23868,7 @@ msgstr "Nejsou to, na co se tvari."
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ARMORMARBLE
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ARMORMARBLE"
 msgid "I tie rocks to muscles."
-msgstr "Privazu kameny k svalum."
+msgstr "Privazu kameny ke svalum."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.TRINKET_1
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.TRINKET_1"
@@ -24456,7 +24460,8 @@ msgctxt "STRINGS.UI.TELEPORTBODY_SURVIVAL"
 msgid ""
 "This will destroy your current world but you will retain your inventory "
 "contents."
-msgstr "Timto znicis svuj aktualni svet, ale obsah tveho inventare zustane zachovan."
+msgstr ""
+"Timto znicis svuj aktualni svet, ale obsah tveho inventare zustane zachovan."
 
 #. STRINGS.UI.EXITCAVE.BODY
 msgctxt "STRINGS.UI.EXITCAVE.BODY"
@@ -24518,7 +24523,8 @@ msgctxt "STRINGS.UI.MODSSCREEN.NO_MODS"
 msgid ""
 "You don't have any mods installed, but you can download some from the Klei "
 "forums."
-msgstr "Nemate nainstalovane zadne mody, ale muzete jich par stahnout z Klei fora."
+msgstr ""
+"Nemate nainstalovane zadne mody, ale muzete jich par stahnout z Klei fora."
 
 #. STRINGS.UI.MODSSCREEN.DISABLED_MANUAL
 msgctxt "STRINGS.UI.MODSSCREEN.DISABLED_MANUAL"
@@ -24708,7 +24714,7 @@ msgstr "Sekundarni akce"
 #. STRINGS.UI.CONTROLSSCREEN.CONTROLS.3
 msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.3"
 msgid "Do Attack"
-msgstr "Zautocit"
+msgstr "Provest utok"
 
 #. STRINGS.UI.CONTROLSSCREEN.CONTROLS.4
 msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.4"
@@ -24878,22 +24884,22 @@ msgstr "Zamenit polovinu"
 #. STRINGS.UI.CONTROLSSCREEN.CONTROLS.37
 msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.37"
 msgid "Force Inspect"
-msgstr "Vynuceny pruzkum"
+msgstr "Vynutit pruzkum"
 
 #. STRINGS.UI.CONTROLSSCREEN.CONTROLS.38
 msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.38"
 msgid "Force Attack"
-msgstr "Vynuceny utok"
+msgstr "Vynutit utok"
 
 #. STRINGS.UI.CONTROLSSCREEN.CONTROLS.39
 msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.39"
 msgid "Force Box"
-msgstr "Nuceny presun"
+msgstr "Vynutit presun"
 
 #. STRINGS.UI.CONTROLSSCREEN.CONTROLS.40
 msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.40"
 msgid "Force Stack"
-msgstr "Vynucene seskupeni"
+msgstr "Vynutit seskupeni"
 
 #. STRINGS.UI.CONTROLSSCREEN.CONTROLS.41
 msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.41"
@@ -26278,12 +26284,12 @@ msgstr "jej"
 #. STRINGS.UI.LOADGAMESCREEN.SURVIVAL
 msgctxt "STRINGS.UI.LOADGAMESCREEN.SURVIVAL"
 msgid "Survival"
-msgstr "Survival"
+msgstr "Preziti"
 
 #. STRINGS.UI.LOADGAMESCREEN.ADVENTURE
 msgctxt "STRINGS.UI.LOADGAMESCREEN.ADVENTURE"
 msgid "Adventure"
-msgstr "Adventure"
+msgstr "Dobrodruzstvi"
 
 #. STRINGS.UI.LOADGAMESCREEN.TITLE
 msgctxt "STRINGS.UI.LOADGAMESCREEN.TITLE"
@@ -26343,7 +26349,7 @@ msgstr "Zda se, ze tento oltar neni plne funkcni!"
 #. STRINGS.UI.CRAFTING.NEEDPRESTIHATITATOR
 msgctxt "STRINGS.UI.CRAFTING.NEEDPRESTIHATITATOR"
 msgid "Use a Prestihatitator to build a prototype!"
-msgstr "Pouzij Prestihatitator ke stavbe prototypu!"
+msgstr "Pouzij Abrakacylindru ke stavbe prototypu!"
 
 #. STRINGS.UI.CRAFTING.CANTRESEARCH
 msgctxt "STRINGS.UI.CRAFTING.CANTRESEARCH"
@@ -26393,7 +26399,7 @@ msgstr "Prezitych dnu"
 #. STRINGS.UI.MORGUESCREEN.LEVELTYPE.1
 msgctxt "STRINGS.UI.MORGUESCREEN.LEVELTYPE.1"
 msgid "Survival"
-msgstr "Survival"
+msgstr "Preziti"
 
 #. STRINGS.UI.MORGUESCREEN.LEVELTYPE.2
 msgctxt "STRINGS.UI.MORGUESCREEN.LEVELTYPE.2"
@@ -26403,7 +26409,7 @@ msgstr "Jeskyne"
 #. STRINGS.UI.MORGUESCREEN.LEVELTYPE.3
 msgctxt "STRINGS.UI.MORGUESCREEN.LEVELTYPE.3"
 msgid "Adventure"
-msgstr "Adventure"
+msgstr "Dobrodruzstvi"
 
 #. STRINGS.UI.MORGUESCREEN.LEVELTYPE.4
 msgctxt "STRINGS.UI.MORGUESCREEN.LEVELTYPE.4"
@@ -26693,6 +26699,17 @@ msgid ""
 "\n"
 "Don't Starve is truly a better game because of all of you."
 msgstr ""
+"A take velmi zvlastni podekovani patri vsem nasim priznivcum, jenz celili "
+"vyzve ranne beta-verze.\n"
+"Je vas az prilis na vypsani - nasi uzasni moderatori, vynkajici vytvarnici, "
+"hudebnici, redaktori,\n"
+"tvurci Let's Play videi a kazdy, kdo se s nami podelil o sve myslenky a "
+"nazory.\n"
+"Vase povzbuzovani, vasen a podpora byla ohromujici. Don't Starve je znatelne "
+"lepsi hrou diky vam vsem.\n"
+"\n"
+"Cesky zazitek pro Vas pripravili Kappa & KeeBLeeC \n"
+"Prejeme prijemnou zabavu!"
 
 #. STRINGS.UI.CREDITS.TWITTER
 msgctxt "STRINGS.UI.CREDITS.TWITTER"
@@ -26796,6 +26813,8 @@ msgid ""
 "The new adventure system is currently in active development and is provided "
 "for testing purposes. It will probably contain bugs."
 msgstr ""
+"Novy system Dobrodruzstvi je prave ve vyvoji a je zde pouze pro zkusebni "
+"ucely. S nejvetsi pravdepodobnosti obsahuje jeste drobne mouchy."
 
 #. STRINGS.UI.MAINSCREEN.RESETPROFILE
 msgctxt "STRINGS.UI.MAINSCREEN.RESETPROFILE"
@@ -26872,7 +26891,8 @@ msgctxt "STRINGS.UI.MAINSCREEN.MOTD"
 msgid ""
 "Treat your ears to some dapper melodies with the UPDATED Don't Starve "
 "soundtrack!"
-msgstr "Hyckejte sva usiska elegantni melodii z NOVEHO soundtracku Don't Starve!"
+msgstr ""
+"Hyckejte sva usiska elegantni melodii z NOVEHO soundtracku Don't Starve!"
 
 #. STRINGS.UI.MAINSCREEN.TESTING
 msgctxt "STRINGS.UI.MAINSCREEN.TESTING"
@@ -26962,7 +26982,7 @@ msgstr "Data byla uspesne nactena."
 #. STRINGS.UI.MAINSCREEN.NEWADVENTURE
 msgctxt "STRINGS.UI.MAINSCREEN.NEWADVENTURE"
 msgid "Adventure (TEST)"
-msgstr "Adventure (TEST)"
+msgstr "Dobrodruzstvi (TEST)"
 
 #. STRINGS.UI.MAINSCREEN.FAILEDMODS
 msgctxt "STRINGS.UI.MAINSCREEN.FAILEDMODS"
@@ -27219,7 +27239,7 @@ msgstr "Posledni vydani pred %d dny"
 #. STRINGS.UI.MAINSCREEN.ADVENTURE
 msgctxt "STRINGS.UI.MAINSCREEN.ADVENTURE"
 msgid "Adventure"
-msgstr "Adventure"
+msgstr "Dobrodruzstvi"
 
 #. STRINGS.UI.MAINSCREEN.TESTINGYES
 msgctxt "STRINGS.UI.MAINSCREEN.TESTINGYES"
@@ -28521,7 +28541,7 @@ msgstr "Jidlo"
 #. STRINGS.TABS.TOWN
 msgctxt "STRINGS.TABS.TOWN"
 msgid "Structures"
-msgstr "Budovy"
+msgstr "Stavby"
 
 #. STRINGS.TABS.ANCIENT
 msgctxt "STRINGS.TABS.ANCIENT"
@@ -28536,7 +28556,7 @@ msgstr "Drahokamologie"
 #. STRINGS.TABS.MAGIC
 msgctxt "STRINGS.TABS.MAGIC"
 msgid "Magic"
-msgstr "Kouzlo"
+msgstr "Magie"
 
 #. STRINGS.TABS.TOOLS
 msgctxt "STRINGS.TABS.TOOLS"
@@ -28556,12 +28576,12 @@ msgstr "Boj"
 #. STRINGS.TABS.DRESS
 msgctxt "STRINGS.TABS.DRESS"
 msgid "Dress"
-msgstr "Oblek"
+msgstr "Obleceni"
 
 #. STRINGS.TABS.REFINE
 msgctxt "STRINGS.TABS.REFINE"
 msgid "Refine"
-msgstr "Opracovat"
+msgstr "Zpracovani"
 
 #. STRINGS.TABS.SCIENCE
 msgctxt "STRINGS.TABS.SCIENCE"
@@ -28576,7 +28596,7 @@ msgstr "Svetlo"
 #. STRINGS.TABS.SURVIVAL
 msgctxt "STRINGS.TABS.SURVIVAL"
 msgid "Survival"
-msgstr "Survival"
+msgstr "Preziti"
 
 # Neprekladat, pri transformaci zrejme spatne prelozen
 #. STRINGS.RMB
@@ -28993,7 +29013,7 @@ msgstr "JA RAD PRITEL"
 #. STRINGS.PIG_TALK_FOLLOWWILSON.3
 msgctxt "STRINGS.PIG_TALK_FOLLOWWILSON.3"
 msgid "YOU IS GOOD"
-msgstr "TY DOBRY"
+msgstr "TY BYT DOBRY"
 
 #. STRINGS.PIG_TALK_FOLLOWWILSON.4
 msgctxt "STRINGS.PIG_TALK_FOLLOWWILSON.4"
@@ -29173,7 +29193,7 @@ msgstr "Luxusni sekera"
 #. STRINGS.NAMES.TRAP_TEETH_MAXWELL
 msgctxt "STRINGS.NAMES.TRAP_TEETH_MAXWELL"
 msgid "Maxwell's Tooth Trap"
-msgstr "Maxwellova zubni pasticka"
+msgstr "Maxwellova zubata past"
 
 #. STRINGS.NAMES.BLUE_CAP
 msgctxt "STRINGS.NAMES.BLUE_CAP"
@@ -29428,7 +29448,7 @@ msgstr "Cervena houba"
 #. STRINGS.NAMES.LOG
 msgctxt "STRINGS.NAMES.LOG"
 msgid "Log"
-msgstr "Drevo"
+msgstr "Poleno"
 
 #. STRINGS.NAMES.FIREFLIES
 msgctxt "STRINGS.NAMES.FIREFLIES"
@@ -29683,7 +29703,7 @@ msgstr "Hedvabi"
 #. STRINGS.NAMES.BOOK_BIRDS
 msgctxt "STRINGS.NAMES.BOOK_BIRDS"
 msgid "Birds of the World"
-msgstr ""
+msgstr "Ptaci Sveta"
 
 #. STRINGS.NAMES.TURF_WOODFLOOR
 msgctxt "STRINGS.NAMES.TURF_WOODFLOOR"
@@ -29778,7 +29798,7 @@ msgstr ""
 #. STRINGS.NAMES.HAMBAT
 msgctxt "STRINGS.NAMES.HAMBAT"
 msgid "Ham Bat"
-msgstr ""
+msgstr "Masna Palicka"
 
 #. STRINGS.NAMES.EGGPLANT
 msgctxt "STRINGS.NAMES.EGGPLANT"
@@ -29863,12 +29883,12 @@ msgstr "Skritek"
 #. STRINGS.NAMES.BERRYBUSH
 msgctxt "STRINGS.NAMES.BERRYBUSH"
 msgid "Berry Bush"
-msgstr "Ker s bobulemi"
+msgstr "Bobulovity Ker"
 
 #. STRINGS.NAMES.CUTGRASS
 msgctxt "STRINGS.NAMES.CUTGRASS"
 msgid "Cut Grass"
-msgstr "Posecena trava"
+msgstr "Posekana trava"
 
 #. STRINGS.NAMES.HOMESIGN
 msgctxt "STRINGS.NAMES.HOMESIGN"
@@ -29898,7 +29918,7 @@ msgstr ""
 #. STRINGS.NAMES.BOOK_TENTACLES
 msgctxt "STRINGS.NAMES.BOOK_TENTACLES"
 msgid "On Tentacles"
-msgstr ""
+msgstr "Na Chapadlech"
 
 #. STRINGS.NAMES.SHOVEL
 msgctxt "STRINGS.NAMES.SHOVEL"
@@ -29923,7 +29943,7 @@ msgstr ""
 #. STRINGS.NAMES.SPIDER_WARRIOR
 msgctxt "STRINGS.NAMES.SPIDER_WARRIOR"
 msgid "Spider Warrior"
-msgstr ""
+msgstr "Pavouk Valecnik"
 
 #. STRINGS.NAMES.TURF_WEBBING
 msgctxt "STRINGS.NAMES.TURF_WEBBING"
@@ -30048,7 +30068,7 @@ msgstr ""
 #. STRINGS.NAMES.BERRYBUSH2
 msgctxt "STRINGS.NAMES.BERRYBUSH2"
 msgid "Berry Bush"
-msgstr "Ker s bobulemi"
+msgstr "Bobulovity Ker"
 
 #. STRINGS.NAMES.PIGMAN
 msgctxt "STRINGS.NAMES.PIGMAN"
@@ -30228,7 +30248,7 @@ msgstr ""
 #. STRINGS.NAMES.BOOK_SLEEP
 msgctxt "STRINGS.NAMES.BOOK_SLEEP"
 msgid "Sleepytime Stories"
-msgstr ""
+msgstr "Pohadky pred spanim"
 
 #. STRINGS.NAMES.MONSTERMEAT
 msgctxt "STRINGS.NAMES.MONSTERMEAT"
@@ -30298,7 +30318,7 @@ msgstr "Lednice"
 #. STRINGS.NAMES.RESEARCHLAB4
 msgctxt "STRINGS.NAMES.RESEARCHLAB4"
 msgid "Prestihatitator"
-msgstr ""
+msgstr "Abrakacylindra"
 
 #. STRINGS.NAMES.LIGHTBULB
 msgctxt "STRINGS.NAMES.LIGHTBULB"
@@ -30358,7 +30378,7 @@ msgstr ""
 #. STRINGS.NAMES.CANE
 msgctxt "STRINGS.NAMES.CANE"
 msgid "Walking Cane"
-msgstr ""
+msgstr "Vychazkova hole"
 
 #. STRINGS.NAMES.DARKNESS
 msgctxt "STRINGS.NAMES.DARKNESS"
@@ -30408,7 +30428,7 @@ msgstr ""
 #. STRINGS.NAMES.CUTREEDS
 msgctxt "STRINGS.NAMES.CUTREEDS"
 msgid "Cut Reeds"
-msgstr "Posecene rakosi"
+msgstr "Natrhane rakosi"
 
 #. STRINGS.NAMES.WALL_RUINS_ITEM
 msgctxt "STRINGS.NAMES.WALL_RUINS_ITEM"
@@ -30643,7 +30663,7 @@ msgstr ""
 #. STRINGS.NAMES.DUG_BERRYBUSH
 msgctxt "STRINGS.NAMES.DUG_BERRYBUSH"
 msgid "Berry Bush"
-msgstr "Ker s bobulemi"
+msgstr "Bobulovity Ker"
 
 #. STRINGS.NAMES.TURKEYDINNER
 msgctxt "STRINGS.NAMES.TURKEYDINNER"
@@ -30823,7 +30843,7 @@ msgstr ""
 #. STRINGS.NAMES.HEALINGSALVE
 msgctxt "STRINGS.NAMES.HEALINGSALVE"
 msgid "Healing Salve"
-msgstr ""
+msgstr "Lecivy Balzam"
 
 #. STRINGS.NAMES.TELEPORTATO_CRANK
 msgctxt "STRINGS.NAMES.TELEPORTATO_CRANK"
@@ -30953,7 +30973,7 @@ msgstr ""
 #. STRINGS.NAMES.TREASURECHEST_TRAP
 msgctxt "STRINGS.NAMES.TREASURECHEST_TRAP"
 msgid "Treasure Chest"
-msgstr "Truhla"
+msgstr "Truhla s pokladem"
 
 #. STRINGS.NAMES.COOKEDMEAT
 msgctxt "STRINGS.NAMES.COOKEDMEAT"
@@ -31108,7 +31128,7 @@ msgstr ""
 #. STRINGS.NAMES.TRUNKVEST_SUMMER
 msgctxt "STRINGS.NAMES.TRUNKVEST_SUMMER"
 msgid "Breezy Vest"
-msgstr ""
+msgstr "Breezy Vest"
 
 #. STRINGS.NAMES.TRUNK_WINTER
 msgctxt "STRINGS.NAMES.TRUNK_WINTER"
@@ -31328,7 +31348,7 @@ msgstr ""
 #. STRINGS.NAMES.SPIDER_SPITTER
 msgctxt "STRINGS.NAMES.SPIDER_SPITTER"
 msgid "Spitter"
-msgstr "Spitter"
+msgstr "Pavouk Plivac"
 
 #. STRINGS.NAMES.STALAGMITE_FULL
 msgctxt "STRINGS.NAMES.STALAGMITE_FULL"
@@ -31373,7 +31393,7 @@ msgstr "Vcela"
 #. STRINGS.NAMES.TRAP_TEETH
 msgctxt "STRINGS.NAMES.TRAP_TEETH"
 msgid "Tooth Trap"
-msgstr "Zubni pasticka"
+msgstr "Zubata past"
 
 #. STRINGS.NAMES.POMEGRANATE
 msgctxt "STRINGS.NAMES.POMEGRANATE"
@@ -31393,12 +31413,12 @@ msgstr "Vceli ul"
 #. STRINGS.NAMES.DUG_BERRYBUSH2
 msgctxt "STRINGS.NAMES.DUG_BERRYBUSH2"
 msgid "Berry Bush"
-msgstr "Krovina s plodinami"
+msgstr "Bobulovity Ker"
 
 #. STRINGS.NAMES.BOOK_GARDENING
 msgctxt "STRINGS.NAMES.BOOK_GARDENING"
 msgid "Applied Horticulture"
-msgstr ""
+msgstr "Zahradnictvi v Praxi"
 
 #. STRINGS.NAMES.MARSH_TREE
 msgctxt "STRINGS.NAMES.MARSH_TREE"
@@ -31948,7 +31968,7 @@ msgstr "POZDEJI"
 #. STRINGS.CHARACTER_DESCRIPTIONS.wilson
 msgctxt "STRINGS.CHARACTER_DESCRIPTIONS.wilson"
 msgid "*Grows a magnificent beard"
-msgstr "*Pestuje si uctyhodny vous"
+msgstr "*Pestuje uctyhodny vous"
 
 #. STRINGS.CHARACTER_DESCRIPTIONS.wendy
 msgctxt "STRINGS.CHARACTER_DESCRIPTIONS.wendy"
@@ -31957,9 +31977,9 @@ msgid ""
 "*Comfortable with darkness\n"
 "*Doesn't hit very hard"
 msgstr ""
-"*Strasi ji jeji dvojce - sestra\n"
-"*Nevadi ji tma\n"
-"*Ma slaby uder"
+"*Pronasledovana svou sestrou, dvojcetem\n"
+"*Smirena s temnotou\n"
+"*Nerozdava prilis silne rany"
 
 #. STRINGS.CHARACTER_DESCRIPTIONS.willow
 msgctxt "STRINGS.CHARACTER_DESCRIPTIONS.willow"
@@ -32020,8 +32040,8 @@ msgid ""
 "*Has a lovely axe\n"
 "*Has a terrible secret"
 msgstr ""
-"*Ma svou milovanou sekeru\n"
-"*Skryva staslive tajemstvi"
+"*Ma milou sekeru\n"
+"*Ma hrozne tajemstvi"
 
 #. STRINGS.CHARACTER_DESCRIPTIONS.wes
 msgctxt "STRINGS.CHARACTER_DESCRIPTIONS.wes"
@@ -32031,7 +32051,7 @@ msgid ""
 "*Practices balloonomancy"
 msgstr ""
 "*Neumi mluvit\n"
-"*Ma potize s prezitim\n"
+"*Ma problemy zustat nazivu\n"
 "*Miluje balonky"
 
 #. STRINGS.RABBIT_MEAT_BATTLECRY.1
