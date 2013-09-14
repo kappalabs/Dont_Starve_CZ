@@ -3740,7 +3740,7 @@ msgstr "Ukázal jsem těm kytkám, kdo je tady pánem!"
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.PERD
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.PERD"
 msgid "Stupid bird! Stay away from my berries!"
-msgstr "Zatracený pták! Drž se dál od mých bobulek!"
+msgstr "Pitomý ptáku! Drž se dál od mých bobulek!"
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.EGGPLANT
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.EGGPLANT"
@@ -20039,12 +20039,12 @@ msgstr "Dělá tam asi pěkný prasárny."
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.PIGHOUSE.LIGHTSOUT
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.PIGHOUSE.LIGHTSOUT"
 msgid "You jerk! Let me in!"
-msgstr "Ty blbče! Pusť mě dovnitř!"
+msgstr "Ty dobytku! Pusť mě dovnitř!"
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.PIGHOUSE.GENERIC
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.PIGHOUSE.GENERIC"
 msgid "These pigs have questionable taste in architecture"
-msgstr "Ty prasata mají ale pochybný architektonický vkus"
+msgstr "Ty prasata mají ale pochybný styl architektury"
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.KNIGHT_NIGHTMARE
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.KNIGHT_NIGHTMARE"
@@ -21164,7 +21164,7 @@ msgstr "Mě se zdá zcela obyčejný."
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.BEE.GENERIC
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.BEE.GENERIC"
 msgid "It's fat, but that stinger looks dangerous."
-msgstr "Malý špekoun, ale to žihadlo vypadá nebezpečně."
+msgstr "Obézní, ale to žihadlo vypadá nebezpečně."
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.BEE.HELD
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.BEE.HELD"
