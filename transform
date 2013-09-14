@@ -6,7 +6,7 @@ POSTFORMAT="iso-8859-2"
 iconv -c --from utf8 --to ascii//TRANSLIT $TOEDIT > ${CIL}czech_ascii.po
 # pridani radku 3 s hodnotou line 3
 #sed '3iline 3' input.txt > output.txt
-sed -i "s/$PREFORMAT/$POSTFORMAT/g" $CIL
+sed -i "s/$PREFORMAT/$POSTFORMAT/g" ${CIL}czech_ascii.po
 echo "Prikaz proveden."
 
 # pridani souboru czech.po do slozky k publikaci
