@@ -1,4 +1,4 @@
-Don't Starve CZ (cca 71%)
+Don't Starve CZ (cca 72%)
 =========================
 **Czech translation mod for Don't Starve [A Moderately Friendly Update (Sep10)]**<br />
 **Mód českého překladu hry Don't Starve [Rozumně přátelský update (Září10)]**
@@ -15,6 +15,8 @@ POUŽITÍ/INSTALACE FONTŮ
 -----------------------
 - Stáhněte si poslední verzi repozitáře, např. vizte postup výše.
 - Zkopírujte ze složky fonts soubory fontů do složky hry - data/fonts/ a přepište existující soubory.
+- Dále ze složky fonts zkopírujte soubor czech_ascii.po a nahraďte jím stejnojmenný soubor ve složce tohoto módu (czechlanguage)
+**Poznámka:** Z testovacích důvodů si pro jistotu vytvořte zálohu všech souborů, které nahrazujete.
 
 PŘEKLAD
 -------
