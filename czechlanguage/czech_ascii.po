@@ -29158,7 +29158,7 @@ msgstr "Listnate Maso"
 #. STRINGS.NAMES.CAVE_ENTRANCE_CLOSED
 msgctxt "STRINGS.NAMES.CAVE_ENTRANCE_CLOSED"
 msgid "Plugged Sinkhole"
-msgstr "Plugged Sinkhole (Ucpany Zavrt)"
+msgstr "Plugged Sinkhole\n(Ucpany Zavrt)"
 
 #. STRINGS.NAMES.WALRUSHAT
 msgctxt "STRINGS.NAMES.WALRUSHAT"
@@ -29223,7 +29223,7 @@ msgstr "Rakosi"
 #. STRINGS.NAMES.RUINSHAT
 msgctxt "STRINGS.NAMES.RUINSHAT"
 msgid "Thulecite Crown"
-msgstr "Thulecite Crown (Koruna z artefaktu)"
+msgstr "Thulecite Crown\n(Koruna z artefaktu)"
 
 #. STRINGS.NAMES.BIRD_EGG_COOKED
 msgctxt "STRINGS.NAMES.BIRD_EGG_COOKED"
@@ -29253,7 +29253,7 @@ msgstr "Kralici chranice usi"
 #. STRINGS.NAMES.THULECITE
 msgctxt "STRINGS.NAMES.THULECITE"
 msgid "Thulecite"
-msgstr "Thulecite (Artefakt)"
+msgstr "Thulecite\n(Artefakt)"
 
 #. STRINGS.NAMES.MUSHTREE_TALL
 msgctxt "STRINGS.NAMES.MUSHTREE_TALL"
@@ -29448,7 +29448,7 @@ msgstr "Zelena houba"
 #. STRINGS.NAMES.FLOWER_CAVE_TRIPLE
 msgctxt "STRINGS.NAMES.FLOWER_CAVE_TRIPLE"
 msgid "Light Flower"
-msgstr "Light Flower (Svetelkujici kvetina)"
+msgstr "Light Flower\n(Svetelkujici kvetina)"
 
 #. STRINGS.NAMES.RED_MUSHROOM
 msgctxt "STRINGS.NAMES.RED_MUSHROOM"
@@ -29568,7 +29568,7 @@ msgstr "Mandragora"
 #. STRINGS.NAMES.KILLERBEE
 msgctxt "STRINGS.NAMES.KILLERBEE"
 msgid "Killer Bee"
-msgstr "Killer Bee (Zabijacka vcela)"
+msgstr "Killer Bee\n(Zabijacka vcela)"
 
 #. STRINGS.NAMES.DURIAN_COOKED
 msgctxt "STRINGS.NAMES.DURIAN_COOKED"
@@ -29628,7 +29628,7 @@ msgstr "Houbovity drn"
 #. STRINGS.NAMES.WALL_RUINS
 msgctxt "STRINGS.NAMES.WALL_RUINS"
 msgid "Thulecite Wall"
-msgstr "Thulecite Wall (Zed z artefaktu)"
+msgstr "Thulecite Wall\n(Zed z artefaktu)"
 
 #. STRINGS.NAMES.HEATROCK
 msgctxt "STRINGS.NAMES.HEATROCK"
@@ -29723,7 +29723,7 @@ msgstr "Drevena podlaha"
 #. STRINGS.NAMES.ROCKY
 msgctxt "STRINGS.NAMES.ROCKY"
 msgid "Rock Lobster"
-msgstr "Rock Lobster (Langusta)"
+msgstr "Rock Lobster\n(Langusta)"
 
 #. STRINGS.NAMES.KNIGHT
 msgctxt "STRINGS.NAMES.KNIGHT"
@@ -29778,7 +29778,7 @@ msgstr "Plodina"
 #. STRINGS.NAMES.DRUMSTICK_COOKED
 msgctxt "STRINGS.NAMES.DRUMSTICK_COOKED"
 msgid "Fried Drumstick"
-msgstr "Fried Drumstick (pecene drubezi stehno)"
+msgstr "Fried Drumstick\n(pecene drubezi stehno)"
 
 #. STRINGS.NAMES.PIGKING
 msgctxt "STRINGS.NAMES.PIGKING"
@@ -29813,7 +29813,7 @@ msgstr "Masna Palicka"
 #. STRINGS.NAMES.EGGPLANT
 msgctxt "STRINGS.NAMES.EGGPLANT"
 msgid "Eggplant"
-msgstr "Eggplant (Lilek)"
+msgstr "Eggplant\n(Lilek)"
 
 #. STRINGS.NAMES.TOPHAT
 msgctxt "STRINGS.NAMES.TOPHAT"
@@ -29838,7 +29838,7 @@ msgstr "Drevena zed"
 #. STRINGS.NAMES.CAVE_ENTRANCE_OPEN
 msgctxt "STRINGS.NAMES.CAVE_ENTRANCE_OPEN"
 msgid "Sinkhole"
-msgstr "Sinkhole (Zavrt)"
+msgstr "Sinkhole\n(Zavrt)"
 
 #. STRINGS.NAMES.SKELETON
 msgctxt "STRINGS.NAMES.SKELETON"
@@ -29923,7 +29923,7 @@ msgstr "Skalnaty povrch"
 #. STRINGS.NAMES.WETGOOP
 msgctxt "STRINGS.NAMES.WETGOOP"
 msgid "Wet Goop"
-msgstr "Wet Goop (Vlhky extrakt)"
+msgstr "Wet Goop\n(Vlhky extrakt)"
 
 #. STRINGS.NAMES.BOOK_TENTACLES
 msgctxt "STRINGS.NAMES.BOOK_TENTACLES"
@@ -30008,7 +30008,7 @@ msgstr "Magiluminescence"
 #. STRINGS.NAMES.EGGPLANT_COOKED
 msgctxt "STRINGS.NAMES.EGGPLANT_COOKED"
 msgid "Braised Eggplant"
-msgstr "Braised Eggplant (Duseny lilek)"
+msgstr "Braised Eggplant\n(Duseny lilek)"
 
 #. STRINGS.NAMES.CRAWLINGNIGHTMARE
 msgctxt "STRINGS.NAMES.CRAWLINGNIGHTMARE"
@@ -30028,7 +30028,7 @@ msgstr "Kralik"
 #. STRINGS.NAMES.FLOWER_EVIL
 msgctxt "STRINGS.NAMES.FLOWER_EVIL"
 msgid "Evil Flower"
-msgstr "Evil Flower (Dabelska kvetina)"
+msgstr "Evil Flower\n(Dabelska kvetina)"
 
 #. STRINGS.NAMES.TURF_ROAD
 msgctxt "STRINGS.NAMES.TURF_ROAD"
@@ -30223,7 +30223,7 @@ msgstr "Mramor"
 #. STRINGS.NAMES.RESURRECTIONSTONE
 msgctxt "STRINGS.NAMES.RESURRECTIONSTONE"
 msgid "Touch Stone"
-msgstr "Touch Stone (Kamen doteku)"
+msgstr "Touch Stone\n(Kamen doteku)"
 
 #. STRINGS.NAMES.FISH
 msgctxt "STRINGS.NAMES.FISH"
@@ -30443,7 +30443,7 @@ msgstr "Natrhane rakosi"
 #. STRINGS.NAMES.WALL_RUINS_ITEM
 msgctxt "STRINGS.NAMES.WALL_RUINS_ITEM"
 msgid "Thulecite Wall"
-msgstr "Thulecite Wall (Zed z artefaktu)"
+msgstr "Thulecite Wall\n(Zed z artefaktu)"
 
 #. STRINGS.NAMES.KRAMPUS
 msgctxt "STRINGS.NAMES.KRAMPUS"
@@ -30483,7 +30483,7 @@ msgstr "Wilson"
 #. STRINGS.NAMES.THULECITE_PIECES
 msgctxt "STRINGS.NAMES.THULECITE_PIECES"
 msgid "Thulecite Fragments"
-msgstr "Thulecite Fragments (Fragmenty artefaktu)"
+msgstr "Thulecite Fragments\n(Fragmenty artefaktu)"
 
 #. STRINGS.NAMES.WILLOW
 msgctxt "STRINGS.NAMES.WILLOW"
@@ -30743,7 +30743,7 @@ msgstr "Oharius Strelcius"
 #. STRINGS.NAMES.FLOWER_CAVE
 msgctxt "STRINGS.NAMES.FLOWER_CAVE"
 msgid "Light Flower"
-msgstr "Light Flower (Svetelkujici kvetina)"
+msgstr "Light Flower\n(Svetelkujici kvetina)"
 
 #. STRINGS.NAMES.MAGIC_BLUEPRINT
 msgctxt "STRINGS.NAMES.MAGIC_BLUEPRINT"
@@ -30773,7 +30773,7 @@ msgstr "Rozbity strelec"
 #. STRINGS.NAMES.NIGHTMARE_TIMEPIECE
 msgctxt "STRINGS.NAMES.NIGHTMARE_TIMEPIECE"
 msgid "Thulecite Medallion"
-msgstr "Thulecite Medallion (Medailon s artefaktem)"
+msgstr "Thulecite Medallion\n(Medailon s artefaktem)"
 
 #. STRINGS.NAMES.ANCIENT_ALTAR
 msgctxt "STRINGS.NAMES.ANCIENT_ALTAR"
@@ -30793,7 +30793,7 @@ msgstr "Mramorovy strom"
 #. STRINGS.NAMES.RUINS_BAT
 msgctxt "STRINGS.NAMES.RUINS_BAT"
 msgid "Thulecite Club"
-msgstr "Thulecite Club (Kyj z artefaktu)"
+msgstr "Thulecite Club\n(Kyj z artefaktu)"
 
 #. STRINGS.NAMES.CROP
 msgctxt "STRINGS.NAMES.CROP"
@@ -30913,7 +30913,7 @@ msgstr "Azurove pirko"
 #. STRINGS.NAMES.FLOWER_CAVE_DOUBLE
 msgctxt "STRINGS.NAMES.FLOWER_CAVE_DOUBLE"
 msgid "Light Flower"
-msgstr "Light Flower (Svetelkujici kvetina)"
+msgstr "Light Flower\n(Svetelkujici kvetina)"
 
 #. STRINGS.NAMES.MERMHEAD
 msgctxt "STRINGS.NAMES.MERMHEAD"
@@ -31183,7 +31183,7 @@ msgstr "Nahrobek"
 #. STRINGS.NAMES.STUFFEDEGGPLANT
 msgctxt "STRINGS.NAMES.STUFFEDEGGPLANT"
 msgid "Stuffed Eggplant"
-msgstr "Stuffed Eggplant (Nadivany lilek)"
+msgstr "Stuffed Eggplant\n(Nadivany lilek)"
 
 #. STRINGS.NAMES.FISHSTICKS
 msgctxt "STRINGS.NAMES.FISHSTICKS"
@@ -31213,7 +31213,7 @@ msgstr "Krocan"
 #. STRINGS.NAMES.DRUMSTICK
 msgctxt "STRINGS.NAMES.DRUMSTICK"
 msgid "Drumstick"
-msgstr "Drumstick (drubezi stehno)"
+msgstr "Drumstick\n(drubezi stehno)"
 
 #. STRINGS.NAMES.WAFFLES
 msgctxt "STRINGS.NAMES.WAFFLES"
@@ -31268,7 +31268,7 @@ msgstr "Wendy"
 #. STRINGS.NAMES.EGGPLANT_SEEDS
 msgctxt "STRINGS.NAMES.EGGPLANT_SEEDS"
 msgid "Eggplant Seeds"
-msgstr "Eggplant Seeds (Seminka lilku)"
+msgstr "Eggplant Seeds\n(Seminka lilku)"
 
 #. STRINGS.NAMES.GEARS
 msgctxt "STRINGS.NAMES.GEARS"
@@ -31558,7 +31558,7 @@ msgstr "Drevena vec"
 #. STRINGS.NAMES.ARMORRUINS
 msgctxt "STRINGS.NAMES.ARMORRUINS"
 msgid "Thulecite Suit"
-msgstr "Thulecite Suit (Oblek z artefaktu)"
+msgstr "Thulecite Suit\n(Oblek z artefaktu)"
 
 #. STRINGS.NAMES.FIREPIT
 msgctxt "STRINGS.NAMES.FIREPIT"
