@@ -65,37 +65,37 @@ msgstr "Mel by sis najit neco k jidlu, nez prijde noc!"
 #. STRINGS.CHARACTER_QUOTES.wilson
 msgctxt "STRINGS.CHARACTER_QUOTES.wilson"
 msgid "\"I will conquer it all with the power of my MIND!\""
-msgstr ",,Podmanim si vse silou sve MYSLI!\""
+msgstr "\"Podmanim si vse silou sve MYSLI!\""
 
 #. STRINGS.CHARACTER_QUOTES.wendy
 msgctxt "STRINGS.CHARACTER_QUOTES.wendy"
 msgid "\"Abigail? Come back! I'm not done playing with you.\""
-msgstr ",,Abigail? Vrat se! Chci si s tebou jeste hrat.\""
+msgstr "\"Abigail? Vrat se! Chci si s tebou jeste hrat.\""
 
 #. STRINGS.CHARACTER_QUOTES.willow
 msgctxt "STRINGS.CHARACTER_QUOTES.willow"
 msgid "\"Things are so much prettier when they burn.\""
-msgstr ",,Veci jsou mnohem krasnejsi, kdyz hori.\""
+msgstr "\"Veci jsou mnohem krasnejsi, kdyz hori.\""
 
 #. STRINGS.CHARACTER_QUOTES.waxwell
 msgctxt "STRINGS.CHARACTER_QUOTES.waxwell"
 msgid "\"Freedom!\""
-msgstr ",,Konecne volny!\""
+msgstr "\"Konecne volny!\""
 
 #. STRINGS.CHARACTER_QUOTES.wickerbottom
 msgctxt "STRINGS.CHARACTER_QUOTES.wickerbottom"
 msgid "\"Shhhh! No talking!\""
-msgstr ",,Psssss! Nemluvit!\""
+msgstr "\"Psssss! Nemluvit!\""
 
 #. STRINGS.CHARACTER_QUOTES.wolfgang
 msgctxt "STRINGS.CHARACTER_QUOTES.wolfgang"
 msgid "\"I am mighty! No one is mightier!\""
-msgstr ",,Jsem mocny! Nikdo neni mocnejsi!\""
+msgstr "\"Jsem mocny! Nikdo neni mocnejsi!\""
 
 #. STRINGS.CHARACTER_QUOTES.woodie
 msgctxt "STRINGS.CHARACTER_QUOTES.woodie"
 msgid "\"That's nice tree, eh?\""
-msgstr ",,Pekny strom, nemam pravdu?\""
+msgstr "\"Pekny strom, nemam pravdu?\""
 
 #. STRINGS.CHARACTER_QUOTES.wes
 msgctxt "STRINGS.CHARACTER_QUOTES.wes"
@@ -105,7 +105,7 @@ msgstr "..."
 #. STRINGS.CHARACTER_QUOTES.wx78
 msgctxt "STRINGS.CHARACTER_QUOTES.wx78"
 msgid "\"EMPATHY MODULE NOT RESPONDING\""
-msgstr ",,MODUL SOUCITU NEODPOVIDA\""
+msgstr "\"MODUL SOUCITU NEODPOVIDA\""
 
 #. STRINGS.MAXWELL_ADVENTURE_HEAD.LEVEL_4.ONE
 msgctxt "STRINGS.MAXWELL_ADVENTURE_HEAD.LEVEL_4.ONE"
@@ -555,7 +555,7 @@ msgstr "Strasidelne osvetleni"
 #. STRINGS.RECIPE_DESC.SPIDERHAT
 msgctxt "STRINGS.RECIPE_DESC.SPIDERHAT"
 msgid "Spiders will call you 'mom'."
-msgstr "Pavouci te budou oslovovat ,,mami\"."
+msgstr "Pavouci te budou oslovovat \"mami\"."
 
 #. STRINGS.RECIPE_DESC.WALL_HAY_ITEM
 msgctxt "STRINGS.RECIPE_DESC.WALL_HAY_ITEM"
@@ -640,7 +640,7 @@ msgstr "Naaranzuj si cely svet"
 #. STRINGS.RECIPE_DESC.TURF_CARPETFLOOR
 msgctxt "STRINGS.RECIPE_DESC.TURF_CARPETFLOOR"
 msgid "The smell is best described as 'Beefalesque'."
-msgstr "To aroma lze nejlepe popsat jako ,,buvolovina\"."
+msgstr "To aroma lze nejlepe popsat jako \"buvolovina\"."
 
 #. STRINGS.RECIPE_DESC.ARMORGRASS
 msgctxt "STRINGS.RECIPE_DESC.ARMORGRASS"
@@ -1830,7 +1830,7 @@ msgstr "Kultovni, nemam pravdu?"
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.SLURTLEHOLE
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.SLURTLEHOLE"
 msgid "A den of 'ew'."
-msgstr ",,Fuj\" pelech."
+msgstr "\"Fuj\" pelech."
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.STALAGMITE_TALL_MED
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.STALAGMITE_TALL_MED"
@@ -28496,7 +28496,7 @@ msgstr "Tenhle nahrobek je bez textu"
 #. STRINGS.EPITAPHS.3
 msgctxt "STRINGS.EPITAPHS.3"
 msgid "It says: 'Milk. Eggs. Bacon.'"
-msgstr "Pise se tam: ,,Mleko. Vejce. Slanina.\""
+msgstr "Pise se tam: \"Mleko. Vejce. Slanina.\""
 
 #. STRINGS.EPITAPHS.4
 msgctxt "STRINGS.EPITAPHS.4"
@@ -28608,22 +28608,10 @@ msgctxt "STRINGS.TABS.SURVIVAL"
 msgid "Survival"
 msgstr "Preziti"
 
-# Neprekladat, pri transformaci zrejme spatne prelozen
-#. STRINGS.RMB
-msgctxt "STRINGS.RMB"
-msgid "?"
-msgstr ""
-
 #. STRINGS.TRADEMOD
 msgctxt "STRINGS.TRADEMOD"
 msgid "Move"
 msgstr "Pohyb"
-
-# Neprekladat, pri transformaci zrejme spatne prelozen.
-#. STRINGS.LMB
-msgctxt "STRINGS.LMB"
-msgid "y"
-msgstr ""
 
 #. STRINGS.ACTIONS.TERRAFORM
 msgctxt "STRINGS.ACTIONS.TERRAFORM"
@@ -29638,7 +29626,7 @@ msgstr "Zhnouci kamen"
 #. STRINGS.NAMES.TRINKET_10
 msgctxt "STRINGS.NAMES.TRINKET_10"
 msgid "Second-hand Dentures"
-msgstr "Umele zuby z druhe ,,ruky\""
+msgstr "Umele zuby z druhe \"ruky\""
 
 #. STRINGS.NAMES.PURPLEGEM
 msgctxt "STRINGS.NAMES.PURPLEGEM"
