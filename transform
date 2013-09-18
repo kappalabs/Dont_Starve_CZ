@@ -7,7 +7,10 @@ iconv -c --from utf8 --to ascii//TRANSLIT $TOEDIT > ${CIL}czech_ascii.po
 # pridani radku 3 s hodnotou line 3
 #sed '3iline 3' input.txt > output.txt
 sed -i "s/$PREFORMAT/$POSTFORMAT/g" ${CIL}czech_ascii.po
-echo "Prikaz proveden."
 
 # pridani souboru czech.po do slozky k publikaci
 cp czech.po $CIL
+recode UTF-8..latin-2 ${CIL}czech.po
+sed -i "s/$PREFORMAT/$POSTFORMAT/g" ${CIL}czech.po
+
+echo "Prikaz proveden."
