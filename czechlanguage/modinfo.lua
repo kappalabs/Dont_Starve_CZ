@@ -13,4 +13,4 @@ icon_atlas = "czechlanguage.xml"
 icon = "czechlanguage.tex"
 
 -- Specify the priority
-priority=4
+priority=2
