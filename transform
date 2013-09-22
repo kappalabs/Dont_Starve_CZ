@@ -9,7 +9,7 @@ iconv -c --from utf8 --to ascii//TRANSLIT $TOEDIT > ${CIL}czech_ascii_temp.po
 sed -i "s/$PREFORMAT/$POSTFORMAT/g" ${CIL}czech_ascii_temp.po
 
 javac Uprav.java
-java Uprav ${CIL}czech_ascii_temp.po ${CIL}czech_ascii.po
+java -Dfile.encoding=ISO-8859-2 Uprav ${CIL}czech_ascii_temp.po ${CIL}czech_ascii.po
 rm ${CIL}czech_ascii_temp.po Uprav.class
 
 # pridani souboru czech.po do slozky k publikaci
