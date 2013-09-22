@@ -1,8 +1,14 @@
-Don't Starve CZ (cca 74%)
+Don't Starve CZ (cca 76%)
 =========================
 **Czech translation mod for Don't Starve [A Moderately Friendly Update (Sep10)]**<br />
 **Mód českého překladu hry Don't Starve [Rozumně přátelský update (Září10)]**
 
+POPIS MÓDU
+----------
+- Mód obsahuje **úplný překlad**: herního menu, nastavení, menu výroby, názvy předmětů a nestvůr, hlášky Wilsona a Willow.
+- Další části: hlášky ostatních postav, jména prasat a králíků atd. jsou ve stavu překladu, či korektur.
+- **Mód obsahuje možnost zobrazení originálních názvů** po stisku klávesy "Nucený průzkum".
+- Z důvodu implementace této možnosti a její neslučitelnosti s módem DisplayFoodValues bylo zváženo a provedeno **implementování módu DisplayFoodValues od módera alks** do českého balíčku.
 
 POUŽITÍ/INSTALACE MÓDU
 ----------------------

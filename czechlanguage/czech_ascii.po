@@ -385,7 +385,7 @@ msgstr "Vkusne opracovane kameny"
 #. STRINGS.RECIPE_DESC.GOLDENPICKAXE
 msgctxt "STRINGS.RECIPE_DESC.GOLDENPICKAXE"
 msgid "Break down rocks like a boss."
-msgstr "Rozbijej kameny jako boss."
+msgstr "Rozbijej skaly jako boss."
 
 #. STRINGS.RECIPE_DESC.GREENSTAFF
 msgctxt "STRINGS.RECIPE_DESC.GREENSTAFF"
@@ -1560,7 +1560,7 @@ msgstr "Uz toho vic neunesu!"
 #. STRINGS.CHARACTERS.GENERIC.ACTIONFAIL_GENERIC
 msgctxt "STRINGS.CHARACTERS.GENERIC.ACTIONFAIL_GENERIC"
 msgid "I can't do that."
-msgstr "To nemuzu provest."
+msgstr "To nemohu provest."
 
 #. STRINGS.CHARACTERS.GENERIC.ANNOUNCE_NOHUNGERSLEEP
 msgctxt "STRINGS.CHARACTERS.GENERIC.ANNOUNCE_NOHUNGERSLEEP"
@@ -2965,7 +2965,7 @@ msgstr "Kruh, jenz soustredi dimenzionalni energie."
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.POTTEDFERN
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.POTTEDFERN"
 msgid "A fern in a pot."
-msgstr "Kapradina v kvetinaci."
+msgstr "Kapradi v kvetinaci."
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BANDAGE
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BANDAGE"
@@ -10406,6 +10406,8 @@ msgid ""
 "\n"
 "I CAN FIX THIS."
 msgstr ""
+"\n"
+"MOHU TO OPRAVIT."
 
 #. STRINGS.CHARACTERS.WX78.ANNOUNCE_CRAFTING_FAIL
 msgctxt "STRINGS.CHARACTERS.WX78.ANNOUNCE_CRAFTING_FAIL"
@@ -10485,7 +10487,7 @@ msgstr "PRAVE PROVADI PROHLEDAVACI ALGORITMUS"
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.RABBIT.HELD
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.RABBIT.HELD"
 msgid "I HOLD ITS TINY LIFE IN MY HANDS"
-msgstr "JEHO MALICKY ZIVOT JE V MYCH RUKOU"
+msgstr "JEHO DROBNY ZIVOT JE V MYCH RUKOU"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.DEERCLOPS
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.DEERCLOPS"
@@ -10905,7 +10907,7 @@ msgstr "POTENCIALNI STAVEBNI MATERIAL"
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.SAPLING.PICKED
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.SAPLING.PICKED"
 msgid "IT IS RECHARGING"
-msgstr "ZNOVU SE NABIJI"
+msgstr "DOBIJI SE"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.SAPLING.BURNING
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.SAPLING.BURNING"
@@ -10965,7 +10967,7 @@ msgstr "VAROVANI: UROVEN OHNE KRITICKA"
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.CAMPFIRE.HIGH
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.CAMPFIRE.HIGH"
 msgid "WARNING: FIRE IS RAMBUNCTIOUS"
-msgstr "VAROVANI: UROVEN OHNE DOSAHUJE NADMERNE HLUCNOSTI"
+msgstr "VAROVANI: UROVEN OHNE JE BOURLIVA"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.CAMPFIRE.LOW
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.CAMPFIRE.LOW"
@@ -11000,7 +11002,7 @@ msgstr "KOMPRIMOVANY NEZIVY MATERIAL. CO JE NA NEM SPATNEHO?"
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.KOALEFANT_SUMMER
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.KOALEFANT_SUMMER"
 msgid "POSSESSES AMPLE ENERGY RESERVES"
-msgstr ""
+msgstr "OBSAHUJE BOHATE ZDROJE ENERGIE"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.PIGGUARD
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.PIGGUARD"
@@ -11370,7 +11372,7 @@ msgstr "CHCI NA NI VSTOUPIT"
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.WORMHOLE.OPEN
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.WORMHOLE.OPEN"
 msgid "THIS MEAT TUBE WILL SERVE MY PURPOSES"
-msgstr ""
+msgstr "TATO MASITA ROURA POSLOUZI MYM UCELUM"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.UNAGI
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.UNAGI"
@@ -11455,7 +11457,7 @@ msgstr "JSOU JAKO ZDROJOVY KOD ROSTLIN"
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.COOKEDMONSTERMEAT
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.COOKEDMONSTERMEAT"
 msgid "IT IS STILL SOMEWHAT INCOMPATIBLE"
-msgstr ""
+msgstr "STALE JE PONEKUD NEKOMPATIBILNI"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.BEARDHAIR
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.BEARDHAIR"
@@ -11590,7 +11592,7 @@ msgstr "DUTA ROSTLINNA LATKA"
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.WALL_HAY_ITEM
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.WALL_HAY_ITEM"
 msgid "NOT VERY GOOD DEFENSES"
-msgstr "NE MOC DOBRA OBRANA"
+msgstr "NEPRILIS DOBRA OBRANA"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.TREASURECHEST
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.TREASURECHEST"
@@ -11905,7 +11907,7 @@ msgstr "SROSTLINA"
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.WALL_HAY
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.WALL_HAY"
 msgid "THAT SEEMS SUBOPTIMAL"
-msgstr ""
+msgstr "ZDA SE TO BYT SUBOPTIMALNI"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.TRAP_TEETH
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.TRAP_TEETH"
@@ -11945,7 +11947,7 @@ msgstr "SCHAZI MU TEPELNA ENERGIE"
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.HEATROCK.WARM
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.HEATROCK.WARM"
 msgid "IT WARMS MY COLD CHASSIS"
-msgstr "ZAHRIVA ME CHLADNE POUZDRO"
+msgstr "ZAHRIVA MUJ CHLADNY OBAL"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.TOPHAT
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.TOPHAT"
@@ -12400,7 +12402,7 @@ msgstr "JSEM TAK RAD, ZE NEMOHU CITIT"
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.BEEHIVE
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.BEEHIVE"
 msgid "HOW INDUSTRIOUS"
-msgstr ""
+msgstr "JAK INDUSTRIALNI"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.PLANT_NORMAL.GENERIC
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.PLANT_NORMAL.GENERIC"
@@ -12410,7 +12412,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.PLANT_NORMAL.READY
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.PLANT_NORMAL.READY"
 msgid "IT IS AT PEAK NUTRITIONAL VALUE"
-msgstr ""
+msgstr "JE NA VRCHOLU SVE NUTRICNI HODNOTY"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.PLANT_NORMAL.GROWING
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.PLANT_NORMAL.GROWING"
@@ -12920,7 +12922,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.ROCKS
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.ROCKS"
 msgid "I WILL REFINE THESE INTO HIGH TECHNOLOGY"
-msgstr "VYLEPSIM JE NA DOKONALOU TECHNOLOGII"
+msgstr "PREMENIM JE NA POKROKOVOU TECHNOLOGII"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.CUTGRASS
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.CUTGRASS"
@@ -13218,7 +13220,7 @@ msgstr "CENIM SI JEHO VODIVOSTI"
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.DIRTPILE
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.DIRTPILE"
 msgid "UNKNOWN PILE FORMAT"
-msgstr ""
+msgstr "NEZNAMY FORMAT"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.CORN
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.CORN"
@@ -13238,7 +13240,7 @@ msgstr "NELZE ZUZITKOVAT"
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.CARROT_COOKED
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.CARROT_COOKED"
 msgid "IT IS FLOPPY NOW"
-msgstr ""
+msgstr "NYNI JE DISKOVITA"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.BLUEGEM
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.BLUEGEM"
@@ -13298,7 +13300,7 @@ msgstr "VYLEPSENE BRNENI"
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.ANIMAL_TRACK
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.ANIMAL_TRACK"
 msgid "LIFEFORM DETECTED"
-msgstr "DETEKOVANA ZIVOTNI FORMA"
+msgstr "DETEKOVANA FORMA ZIVOTA"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.TURF_FUNGUS
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.TURF_FUNGUS"
@@ -13491,6 +13493,8 @@ msgid ""
 "\n"
 "I do believe I can repair this."
 msgstr ""
+"\n"
+"Verim, ze jsem schopna to opravit."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_CHARLIE_ATTACK
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_CHARLIE_ATTACK"
@@ -13500,7 +13504,7 @@ msgstr "AU! Neco me kouslo!"
 #. STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_CRAFTING_FAIL
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_CRAFTING_FAIL"
 msgid "I can't make that now."
-msgstr ""
+msgstr "To nemohu nyni provest."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_ADVENTUREFAIL
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_ADVENTUREFAIL"
@@ -13510,127 +13514,127 @@ msgstr "Musime se ucit z nasich selhani."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.EAT_FOOD.TALLBIRDEGG_CRACKED
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.EAT_FOOD.TALLBIRDEGG_CRACKED"
 msgid "Al dente."
-msgstr ""
+msgstr "Al dente."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_HUNT_BEAST_NEARBY
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_HUNT_BEAST_NEARBY"
 msgid "The appearance of this track indicates recent activity."
-msgstr ""
+msgstr "Vzhled teto stopy svedci o nedavne aktivite."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.SHAVE.GENERIC
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.SHAVE.GENERIC"
 msgid "I would really rather not."
-msgstr ""
+msgstr "Opravdu bych to radeji nedelala."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.SHAVE.AWAKEBEEFALO
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.SHAVE.AWAKEBEEFALO"
 msgid "I think he might object to that."
-msgstr ""
+msgstr "Myslim, ze by s tim nemusel souhlasit."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.SHAVE.NOBITS
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.SHAVE.NOBITS"
 msgid "It's already smooth, dear."
-msgstr ""
+msgstr "Uz je cely hebky, drahousku."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE_GENERIC
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE_GENERIC"
 msgid "I don't know what that is."
-msgstr ""
+msgstr "Netusim, co to je."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_BOOMERANG
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_BOOMERANG"
 msgid "I misjudged the timing of its return."
-msgstr ""
+msgstr "Neodhadla jsem spravne cas jeho navratu."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_HUNT_LOST_TRAIL
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_HUNT_LOST_TRAIL"
 msgid "The trail is no longer distinguishable."
-msgstr ""
+msgstr "Smer stopy jiz neni rozpoznatelny."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_WORMHOLE
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_WORMHOLE"
 msgid "A detailed lesson in biology!"
-msgstr ""
+msgstr "Detailni lekce z biologie!"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.BATTLECRY.GENERIC
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.BATTLECRY.GENERIC"
 msgid "Combat!"
-msgstr ""
+msgstr "Souboj!"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_HOUNDS
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_HOUNDS"
 msgid "Something is approaching."
-msgstr ""
+msgstr "Neco se bizi."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_INV_FULL
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_INV_FULL"
 msgid "I can't carry anything more."
-msgstr ""
+msgstr "Neunesu jiz vice veci."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL_GENERIC
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL_GENERIC"
 msgid "I can't do that."
-msgstr ""
+msgstr "To nemohu provest."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_ENTER_LIGHT
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_ENTER_LIGHT"
 msgid "It is bright enough to see."
-msgstr ""
+msgstr "Zde je pro videni dostatek jasu."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.DIVININGROD.GENERIC
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.DIVININGROD.GENERIC"
 msgid "It is an magitechnical homing device."
-msgstr ""
+msgstr "Jedna se o magickotechnicke navadeci zarizeni."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.DIVININGROD.HOT
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.DIVININGROD.HOT"
 msgid "Here we are!"
-msgstr ""
+msgstr "Jsme na miste!"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.DIVININGROD.COLD
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.DIVININGROD.COLD"
 msgid "The dial is moving faintly."
-msgstr ""
+msgstr "Signalizace zacina oslabovat."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.DIVININGROD.WARM
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.DIVININGROD.WARM"
 msgid "I am definitely on the right track."
-msgstr ""
+msgstr "Jsem zajiste na spravne ceste."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.DIVININGROD.WARMER
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.DIVININGROD.WARMER"
 msgid "I must be getting close."
-msgstr ""
+msgstr "Musim byt jiz blizko."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.RABBIT.GENERIC
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.RABBIT.GENERIC"
 msgid "It's some kind of Lagomorph. With horns."
-msgstr ""
+msgstr "Jde o druh z radu zajicovitych. S rohy."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.RABBIT.HELD
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.RABBIT.HELD"
 msgid "It is a cute widdle horned Lagomorph."
-msgstr ""
+msgstr "Je to maly, roztomile kopajici, rohaty zajicovec."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.FLOWER_EVIL
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.FLOWER_EVIL"
 msgid "It's not often one sees a flower with such a powerful aura."
-msgstr ""
+msgstr "Ne casto clovek narazi na kvetinu s tak silnou aurou."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.FOLIAGE
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.FOLIAGE"
 msgid "These may have some nutritional value."
-msgstr ""
+msgstr "Mozna, ze maji nejakou nutricni hodnotu."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BLUEPRINT
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BLUEPRINT"
 msgid "A detailed technical drawing."
-msgstr ""
+msgstr "Podrobne technicke vykresy."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SLURTLE
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SLURTLE"
 msgid "A mineral-devouring gastropod."
-msgstr ""
+msgstr "Mineraly pozirajici plz."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CUTLICHEN
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CUTLICHEN"
@@ -13640,7 +13644,7 @@ msgstr "To dlouho nepotrva."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.EVERGREEN_SPARSE.GENERIC
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.EVERGREEN_SPARSE.GENERIC"
 msgid "This genus seems to lack reproductive capabilities."
-msgstr ""
+msgstr "Zda se, ze tento rod postrada reprodukcni schopnost."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.EVERGREEN_SPARSE.CHOPPED
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.EVERGREEN_SPARSE.CHOPPED"
@@ -13660,7 +13664,7 @@ msgstr "Ten strom hori."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.LUREPLANT
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.LUREPLANT"
 msgid "An invasive plant species."
-msgstr ""
+msgstr "Invazni odruda rostliny."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CROW.GENERIC
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CROW.GENERIC"
@@ -13675,42 +13679,42 @@ msgstr "A ted je muj."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.PIGMAN.GENERIC
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.PIGMAN.GENERIC"
 msgid "It's a semi-intelligent bipedal pig."
-msgstr ""
+msgstr "Je to polo-inteligentni dvounohe prase."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.PIGMAN.FOLLOWER
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.PIGMAN.FOLLOWER"
 msgid "He seems to have bonded with me."
-msgstr ""
+msgstr "Zda se, ze je se mnou svazany."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.PIGMAN.GUARD
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.PIGMAN.GUARD"
 msgid "It appears to be a guardian."
-msgstr ""
+msgstr "Vypada to na strazce."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.PIGMAN.WEREPIG
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.PIGMAN.WEREPIG"
 msgid "It's a lycanthropic pig."
-msgstr ""
+msgstr "Lykantropicke prase."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.PIGMAN.DEAD
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.PIGMAN.DEAD"
 msgid "Don't worry there are plenty more where that came from."
-msgstr ""
+msgstr "Nemej obavy. Jeste je tu urcite spousta dalsich."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MERM
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MERM"
 msgid "A piscean biped!"
-msgstr ""
+msgstr "Rybovity dvounozec!"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TELEPORTATO_RING
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TELEPORTATO_RING"
 msgid "A torus of alloys and wiring."
-msgstr ""
+msgstr "Kruh ze slitiny a dratu."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SMALLMEAT
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SMALLMEAT"
 msgid "It's a small, raw piece of meat."
-msgstr ""
+msgstr "Maly, syrovy kousek masa."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CUTSTONE
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CUTSTONE"
@@ -13720,7 +13724,7 @@ msgstr "Trocha jemnejsich kamennych desek."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.FROG.GENERIC
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.FROG.GENERIC"
 msgid "A amphibian tetrapod."
-msgstr ""
+msgstr "Obojzivelny ctyrnozec."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.FROG.SLEEPING
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.FROG.SLEEPING"
@@ -13730,7 +13734,7 @@ msgstr "Spi."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.FROG.DEAD
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.FROG.DEAD"
 msgid "Considered a delicacy in some countries."
-msgstr ""
+msgstr "V nekterych zemich je povazovana za pochoutku."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.GHOST
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.GHOST"
@@ -13750,12 +13754,12 @@ msgstr "Ta seminka sem dolu musela spadnout zavrtem."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.COOKEDSMALLMEAT
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.COOKEDSMALLMEAT"
 msgid "It is slightly more appetizing when cooked."
-msgstr ""
+msgstr "Je ponekud vice chutne, kdyz se uvari."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BATBAT
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BATBAT"
 msgid "Interesting. This weapon appears to be alive."
-msgstr ""
+msgstr "Zajimave. Tahle zbran vypada jako ziva."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TWIGS
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TWIGS"
@@ -13770,92 +13774,92 @@ msgstr "Zda se, ze dokaze vracet objekty v case."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.LICHEN
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.LICHEN"
 msgid "A symbiot! A fungus and a phycobiontic bacteria."
-msgstr ""
+msgstr "Symbioza! Houba a lisejnikovita bakterie."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.PICKAXE
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.PICKAXE"
 msgid "A specialized axe for chipping away at rocks."
-msgstr ""
+msgstr "Specialni nastroj na rozstipnuti skal."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SLURTLEHOLE
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SLURTLEHOLE"
 msgid "A gastropod pod."
-msgstr ""
+msgstr "Doupe plze."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.STALAGMITE_TALL_MED
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.STALAGMITE_TALL_MED"
 msgid "Another stalagmite."
-msgstr ""
+msgstr "Dalsi stalagmit."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SPIDEREGGSACK
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SPIDEREGGSACK"
 msgid "A highly portable spider egg sack."
-msgstr ""
+msgstr "Snadno prenosny vacek s pavoucimi vajicky."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.PLANTMEAT
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.PLANTMEAT"
 msgid "The plant produced a meaty substance."
-msgstr ""
+msgstr "Ta rostlina produkuje masitou substanci."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WALRUSHAT
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WALRUSHAT"
 msgid "Should auld acquaintance be forgot?"
-msgstr ""
+msgstr "Muze snad stara znamost byt zapomenuta?"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CHESSJUNK1
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CHESSJUNK1"
 msgid "Clockwork junk"
-msgstr ""
+msgstr "Mechanicke haraburdi"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ROTTENEGG
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ROTTENEGG"
 msgid "How unappetizing."
-msgstr ""
+msgstr "Jak nechutne."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SPIDER.GENERIC
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SPIDER.GENERIC"
 msgid "A large, carnivorous arachnid species."
-msgstr ""
+msgstr "Velky, masozravy druh pavoukovce."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SPIDER.SLEEPING
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SPIDER.SLEEPING"
 msgid "They appear to be nocturnal."
-msgstr ""
+msgstr "Zda se, ze nocuji."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SPIDER.DEAD
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SPIDER.DEAD"
 msgid "It's dead."
-msgstr ""
+msgstr "Je mrtev."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BLUE_MUSHROOM.GENERIC
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BLUE_MUSHROOM.GENERIC"
 msgid "It is a fungus."
-msgstr ""
+msgstr "To je houba."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BLUE_MUSHROOM.PICKED
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BLUE_MUSHROOM.PICKED"
 msgid "It requires hydration before it will fruit again."
-msgstr ""
+msgstr "Potrebuje dostatek hydratace nez opet zacne plodit."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BLUE_MUSHROOM.INGROUND
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BLUE_MUSHROOM.INGROUND"
 msgid "It is dormant this time of day."
-msgstr ""
+msgstr "V tuto cast dne je latentni."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.PETALS
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.PETALS"
 msgid "I've made some potpourri."
-msgstr ""
+msgstr "Vyrobila jsem susenou vonnou smes."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BERRIES
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BERRIES"
 msgid "Some Ardisia crenata berries, I think."
-msgstr ""
+msgstr "Myslim, ze je to nejaky ker ardisie."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SNURTLE
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SNURTLE"
 msgid "A rare varient of gastropod."
-msgstr ""
+msgstr "Velmi vzacny druh plze."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.NITRE
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.NITRE"
@@ -13865,47 +13869,47 @@ msgstr "Znamy take jako ledek amonny"
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TRAP_TEETH_MAXWELL
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TRAP_TEETH_MAXWELL"
 msgid "A crude attempt at tricking me."
-msgstr ""
+msgstr "Hulvatsky pokus lecky na mou osobu."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BLUE_CAP
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BLUE_CAP"
 msgid "This seems to have medicinal properties"
-msgstr ""
+msgstr "Vypada to, ze obsahuje lecive vlastnosti."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SEEDS
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SEEDS"
 msgid "A handful of unidentifiable seeds."
-msgstr ""
+msgstr "Hrstka neznamych semen."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.REEDS.GENERIC
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.REEDS.GENERIC"
 msgid "A group of juncaceae graminoids."
-msgstr ""
+msgstr "Skupina sitinovitych graminoidu."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.REEDS.PICKED
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.REEDS.PICKED"
 msgid "I believe they shall grow back."
-msgstr ""
+msgstr "Verim, ze by mely znovu vyrust."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.REEDS.BURNING
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.REEDS.BURNING"
 msgid "Combustion!"
-msgstr ""
+msgstr "Spalovani!"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.EARMUFFHAT
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.EARMUFFHAT"
 msgid "Only the most insulating part was used."
-msgstr ""
+msgstr "Byly pouzity jen nejvice izolacni casti."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BIRD_EGG_COOKED
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BIRD_EGG_COOKED"
 msgid "If only I had some toast."
-msgstr ""
+msgstr "Kdybych tak mela nejaky toust."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.RABBITHOUSE
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.RABBITHOUSE"
 msgid "Sadly, it is just painted to look like a carrot."
-msgstr ""
+msgstr "Bohuzel, je pouze namalovany tak, aby vypadal jako mrkev."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MARBLE
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MARBLE"
@@ -13915,7 +13919,7 @@ msgstr "Vytesany kamen."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.RESURRECTIONSTONE
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.RESURRECTIONSTONE"
 msgid "There is something unnatural about that stone."
-msgstr ""
+msgstr "Na tomto kameni je cosi neprirozeneho."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.THULECITE
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.THULECITE"
@@ -13928,17 +13932,17 @@ msgstr ""
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WORMHOLE.GENERIC
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WORMHOLE.GENERIC"
 msgid "The sleeping Megadrilacea Oraduos."
-msgstr ""
+msgstr "Spici Megacerv Dvouusty."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WORMHOLE.OPEN
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WORMHOLE.OPEN"
 msgid "Concentric rings of teeth for rapid ingestion."
-msgstr ""
+msgstr "Prstenec koncentrovane zuboviny pro rychly prijem potravy."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.EYETURRET_ITEM
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.EYETURRET_ITEM"
 msgid "I'll need to place this."
-msgstr ""
+msgstr "Potrebuji to nekam umistit."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SAPLING.GENERIC
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SAPLING.GENERIC"
@@ -13958,7 +13962,7 @@ msgstr "Spalovani!"
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SPIDER_HIDER
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SPIDER_HIDER"
 msgid "An arachnid with a thick carapace."
-msgstr ""
+msgstr "Pavoukovec se silnym krunyrem."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.FIREPIT.GENERIC
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.FIREPIT.GENERIC"
@@ -13968,57 +13972,57 @@ msgstr "Ohniste"
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.FIREPIT.OUT
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.FIREPIT.OUT"
 msgid "I can re-light it."
-msgstr ""
+msgstr "Mohu ho znovu-zapalit."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.FIREPIT.EMBERS
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.FIREPIT.EMBERS"
 msgid "The fire has almost self-extinguished."
-msgstr ""
+msgstr "Ohen je temer samo-uhasen."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.FIREPIT.HIGH
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.FIREPIT.HIGH"
 msgid "That fire is burning at an alarming rate."
-msgstr ""
+msgstr "Tenhle ohen dosahuje znepokojive intenzity."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.FIREPIT.LOW
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.FIREPIT.LOW"
 msgid "The fire could use some more fuel."
-msgstr ""
+msgstr "Tomu ohni by prospelo vice topiva."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.FIREPIT.NORMAL
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.FIREPIT.NORMAL"
 msgid "A perfectly average fire."
-msgstr ""
+msgstr "Dokonale prumerny ohen."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CAMPFIRE.GENERIC
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CAMPFIRE.GENERIC"
 msgid "A camp fire."
-msgstr ""
+msgstr "Taborovy ohen."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CAMPFIRE.OUT
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CAMPFIRE.OUT"
 msgid "I can re-light it."
-msgstr ""
+msgstr "Mohu ho znovu-zapalit."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CAMPFIRE.EMBERS
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CAMPFIRE.EMBERS"
 msgid "The fire has almost self-extinguished."
-msgstr ""
+msgstr "Ohen je temer samo-uhasen."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CAMPFIRE.HIGH
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CAMPFIRE.HIGH"
 msgid "That fire is burning at an alarming rate."
-msgstr ""
+msgstr "Tenhle ohen dosahuje znepokojive intenzity."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CAMPFIRE.LOW
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CAMPFIRE.LOW"
 msgid "The fire could use some more fuel."
-msgstr ""
+msgstr "Tomu ohni by prospelo vice topiva."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CAMPFIRE.NORMAL
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CAMPFIRE.NORMAL"
 msgid "A perfectly average fire."
-msgstr ""
+msgstr "Dokonale prumerny ohen."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MUSHTREE_SMALL
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MUSHTREE_SMALL"
@@ -14161,7 +14165,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ICEBOX
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ICEBOX"
 msgid "It is a crude heat exchanger."
-msgstr ""
+msgstr "Je to hruby vymenik tepla."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.RESEARCHLAB4
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.RESEARCHLAB4"
@@ -14301,7 +14305,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.LOG
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.LOG"
 msgid "An axial section of tree trunk."
-msgstr ""
+msgstr "Axialni sekce kmene stromu."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.FIREFLIES.GENERIC
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.FIREFLIES.GENERIC"
@@ -14367,7 +14371,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.FLINT
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.FLINT"
 msgid "A hard nodule of quartz."
-msgstr ""
+msgstr "Tvrda pecka kremiku."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WINTEROMETER
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WINTEROMETER"
@@ -14615,7 +14619,7 @@ msgstr "Hmmm, reproduktivni organy."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.EVERGREEN.GENERIC
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.EVERGREEN.GENERIC"
 msgid "A generically coniferous tree."
-msgstr ""
+msgstr "Druh jehlicnateho stromu."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.EVERGREEN.CHOPPED
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.EVERGREEN.CHOPPED"
@@ -14670,7 +14674,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SILK
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SILK"
 msgid "Protein fibre extruded from an arachnid."
-msgstr ""
+msgstr "Proteinova vlakna extrudovane pavoukovcem."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SPIDER_DROPPER
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SPIDER_DROPPER"
@@ -15092,7 +15096,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SPEAR
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SPEAR"
 msgid "Ancient weapons technology."
-msgstr ""
+msgstr "Starobyla technologie zbrani."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BEEFALOHAT
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BEEFALOHAT"
@@ -15147,7 +15151,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ANIMAL_TRACK
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ANIMAL_TRACK"
 msgid "Animal sign, leading away."
-msgstr ""
+msgstr "Zvireci stopa, vedouci pryc."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TALLBIRDEGG_CRACKED.GENERIC
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TALLBIRDEGG_CRACKED.GENERIC"
@@ -15307,7 +15311,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.HEATROCK.WARM
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.HEATROCK.WARM"
 msgid "It is retaining thermal energy."
-msgstr ""
+msgstr "Uchovava termalni energii."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.DUG_GRASS
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.DUG_GRASS"
@@ -15362,7 +15366,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.LIGHTNING_ROD.GENERIC
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.LIGHTNING_ROD.GENERIC"
 msgid "Highly conductive!"
-msgstr ""
+msgstr "Vysoce vodivy!"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.LIGHTNING_ROD.CHARGED
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.LIGHTNING_ROD.CHARGED"
@@ -15442,7 +15446,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ROCKS
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ROCKS"
 msgid "A handful of assorted rocks."
-msgstr ""
+msgstr "Hrstka smisenych kamenu."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CUTGRASS
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CUTGRASS"
@@ -15502,7 +15506,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.GEARS
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.GEARS"
 msgid "Various cogs and wheels."
-msgstr "Ruzne cepy a kolecka."
+msgstr "Ruzne zoubky a kolecka."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BIRDTRAP
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BIRDTRAP"
@@ -15532,7 +15536,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TORCH
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TORCH"
 msgid "An improvised handheld light."
-msgstr ""
+msgstr "Improvizovane prirucni osvetleni."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.YELLOWSTAFF
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.YELLOWSTAFF"
@@ -15767,7 +15771,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.GOLDNUGGET
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.GOLDNUGGET"
 msgid "A small lump of gold. Atomic number 79."
-msgstr ""
+msgstr "Mala hrouda zlata. Atomove cislo 79."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.FEM_PUPPET
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.FEM_PUPPET"
@@ -15787,7 +15791,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TRAP
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TRAP"
 msgid "A simple stick-and-basket trap."
-msgstr ""
+msgstr "Jednoducha past o tyci a kosiku."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.STRAWHAT
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.STRAWHAT"
@@ -15807,7 +15811,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.PINECONE
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.PINECONE"
 msgid "Conifer seeds encased in a mature strobilus."
-msgstr ""
+msgstr "Seminka jehlicnanu zapouzdrena ve vytrusnicovem klasu."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.YELLOWAMULET
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.YELLOWAMULET"
@@ -15942,7 +15946,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_EAT.SPOILED
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_EAT.SPOILED"
 msgid "That was partially decomposed."
-msgstr "Uz bylo castecne rozlozene."
+msgstr "To uz bylo castecne rozlozene."
 
 #. STRINGS.CHARACTERS.WOODIE.ANNOUNCE_TRAP_WENT_OFF
 msgctxt "STRINGS.CHARACTERS.WOODIE.ANNOUNCE_TRAP_WENT_OFF"
@@ -28651,7 +28655,7 @@ msgstr "Splhat"
 #. STRINGS.ACTIONS.ACTIVATE.SPELUNK
 msgctxt "STRINGS.ACTIONS.ACTIVATE.SPELUNK"
 msgid "Spelunk"
-msgstr ""
+msgstr "Probadat"
 
 #. STRINGS.ACTIONS.CHECKTRAP
 msgctxt "STRINGS.ACTIONS.CHECKTRAP"
@@ -29026,2577 +29030,2577 @@ msgstr ""
 #. STRINGS.NAMES.ADVENTURE_PORTAL
 msgctxt "STRINGS.NAMES.ADVENTURE_PORTAL"
 msgid "Maxwell's Door"
-msgstr "Maxwelovy dvere"
+msgstr "Maxwelovy dvere-#&#-Maxwell's Door"
 
 #. STRINGS.NAMES.DEERCLOPS
 msgctxt "STRINGS.NAMES.DEERCLOPS"
 msgid "Deerclops"
-msgstr "Zverklop"
+msgstr "Zverklop-#&#-Deerclops"
 
 #. STRINGS.NAMES.CORN_COOKED
 msgctxt "STRINGS.NAMES.CORN_COOKED"
 msgid "Popcorn"
-msgstr "Popcorn"
+msgstr "Popcorn-#&#-Popcorn"
 
 #. STRINGS.NAMES.COMPASS
 msgctxt "STRINGS.NAMES.COMPASS"
 msgid "Compass"
-msgstr "Kompas"
+msgstr "Kompas-#&#-Compass"
 
 #. STRINGS.NAMES.FROGLEGS_COOKED
 msgctxt "STRINGS.NAMES.FROGLEGS_COOKED"
 msgid "Cooked Frog Legs"
-msgstr "Grilovana zabi stehynka"
+msgstr "Grilovana zabi stehynka-#&#-Cooked Frog Legs"
 
 #. STRINGS.NAMES.BLOWDART_SLEEP
 msgctxt "STRINGS.NAMES.BLOWDART_SLEEP"
 msgid "Sleep Dart"
-msgstr "Uspavaci sipka"
+msgstr "Uspavaci sipka-#&#-Sleep Dart"
 
 #. STRINGS.NAMES.EVERGREEN_SPARSE
 msgctxt "STRINGS.NAMES.EVERGREEN_SPARSE"
 msgid "Lumpy Evergreen"
-msgstr "Hrudkovity Zelenac"
+msgstr "Hrudkovity Zelenac-#&#-Lumpy Evergreen"
 
 #. STRINGS.NAMES.LUREPLANT
 msgctxt "STRINGS.NAMES.LUREPLANT"
 msgid "Meat Bulb"
-msgstr "Masova Cibulka"
+msgstr "Masova Cibulka-#&#-Meat Bulb"
 
 #. STRINGS.NAMES.CROW
 msgctxt "STRINGS.NAMES.CROW"
 msgid "Crow"
-msgstr "Vrana"
+msgstr "Vrana-#&#-Crow"
 
 #. STRINGS.NAMES.MERM
 msgctxt "STRINGS.NAMES.MERM"
 msgid "Merm"
-msgstr "Merm"
+msgstr "Merm-#&#-Merm"
 
 #. STRINGS.NAMES.LIGHTER
 msgctxt "STRINGS.NAMES.LIGHTER"
 msgid "Willow's Lighter"
-msgstr "Zapalovac Willow"
+msgstr "Zapalovac Willow-#&#-Willow's Lighter"
 
 #. STRINGS.NAMES.PINECONE
 msgctxt "STRINGS.NAMES.PINECONE"
 msgid "Pine Cone"
-msgstr "Siska"
+msgstr "Siska-#&#-Pine Cone"
 
 #. STRINGS.NAMES.MERMHOUSE
 msgctxt "STRINGS.NAMES.MERMHOUSE"
 msgid "Rundown House"
-msgstr "Zanedbany Domek"
+msgstr "Zanedbany Domek-#&#-Rundown House"
 
 #. STRINGS.NAMES.GHOST
 msgctxt "STRINGS.NAMES.GHOST"
 msgid "Ghost"
-msgstr "Duch"
+msgstr "Duch-#&#-Ghost"
 
 #. STRINGS.NAMES.BOARDS
 msgctxt "STRINGS.NAMES.BOARDS"
 msgid "Boards"
-msgstr "Prkna"
+msgstr "Prkna-#&#-Boards"
 
 #. STRINGS.NAMES.CAVE_BANANA_TREE
 msgctxt "STRINGS.NAMES.CAVE_BANANA_TREE"
 msgid "Cave Banana Tree"
-msgstr "Bananovnik Jeskynni"
+msgstr "Bananovnik Jeskynni-#&#-Cave Banana Tree"
 
 #. STRINGS.NAMES.TWIGS
 msgctxt "STRINGS.NAMES.TWIGS"
 msgid "Twigs"
-msgstr "Vetvicky"
+msgstr "Vetvicky-#&#-Twigs"
 
 #. STRINGS.NAMES.GREENSTAFF
 msgctxt "STRINGS.NAMES.GREENSTAFF"
 msgid "Deconstruction Staff"
-msgstr "Dekostrukcni Hul"
+msgstr "Dekostrukcni Hul-#&#-Deconstruction Staff"
 
 #. STRINGS.NAMES.BIRDTRAP
 msgctxt "STRINGS.NAMES.BIRDTRAP"
 msgid "Bird Trap"
-msgstr "Ptaci past"
+msgstr "Ptaci past-#&#-Bird Trap"
 
 #. STRINGS.NAMES.PICKAXE
 msgctxt "STRINGS.NAMES.PICKAXE"
 msgid "Pickaxe"
-msgstr "Krumpac"
+msgstr "Krumpac-#&#-Pickaxe"
 
 #. STRINGS.NAMES.HONEY
 msgctxt "STRINGS.NAMES.HONEY"
 msgid "Honey"
-msgstr "Med"
+msgstr "Med-#&#-Honey"
 
 #. STRINGS.NAMES.BLOWDART_FIRE
 msgctxt "STRINGS.NAMES.BLOWDART_FIRE"
 msgid "Fire Dart"
-msgstr "Ohniva sipka"
+msgstr "Ohniva sipka-#&#-Fire Dart"
 
 #. STRINGS.NAMES.SPIDEREGGSACK
 msgctxt "STRINGS.NAMES.SPIDEREGGSACK"
 msgid "Spider Eggs"
-msgstr "Pavouci vajicka"
+msgstr "Pavouci vajicka-#&#-Spider Eggs"
 
 #. STRINGS.NAMES.PLANTMEAT
 msgctxt "STRINGS.NAMES.PLANTMEAT"
 msgid "Leafy Meat"
-msgstr "Listnate Maso"
+msgstr "Listnate Maso-#&#-Leafy Meat"
 
 #. STRINGS.NAMES.CAVE_ENTRANCE_CLOSED
 msgctxt "STRINGS.NAMES.CAVE_ENTRANCE_CLOSED"
 msgid "Plugged Sinkhole"
-msgstr "Plugged Sinkhole (Ucpany Zavrt)"
+msgstr "Ucpany Zavrt-#&#-Plugged Sinkhole"
 
 #. STRINGS.NAMES.WALRUSHAT
 msgctxt "STRINGS.NAMES.WALRUSHAT"
 msgid "Tam o' Shanter"
-msgstr "Tam o' Shanter"
+msgstr "Tam o' Shanter-#&#-Tam o' Shanter"
 
 #. STRINGS.NAMES.CHESSJUNK1
 msgctxt "STRINGS.NAMES.CHESSJUNK1"
 msgid "Broken clockworks"
-msgstr "Rozbity mechanismus"
+msgstr "Rozbity mechanismus-#&#-Broken clockworks"
 
 #. STRINGS.NAMES.RED_CAP
 msgctxt "STRINGS.NAMES.RED_CAP"
 msgid "Red Cap"
-msgstr "Cerveny Kloboucek"
+msgstr "Cerveny Kloboucek-#&#-Red Cap"
 
 #. STRINGS.NAMES.MAXWELLKEY
 msgctxt "STRINGS.NAMES.MAXWELLKEY"
 msgid "Shadow Key"
-msgstr "Temny klic"
+msgstr "Temny klic-#&#-Shadow Key"
 
 #. STRINGS.NAMES.BLUE_MUSHROOM
 msgctxt "STRINGS.NAMES.BLUE_MUSHROOM"
 msgid "Blue Mushroom"
-msgstr "Modra houba"
+msgstr "Modra houba-#&#-Blue Mushroom"
 
 #. STRINGS.NAMES.BEEFALOWOOL
 msgctxt "STRINGS.NAMES.BEEFALOWOOL"
 msgid "Beefalo Wool"
-msgstr "Buvoli vlna"
+msgstr "Buvoli vlna-#&#-Beefalo Wool"
 
 #. STRINGS.NAMES.BERRIES
 msgctxt "STRINGS.NAMES.BERRIES"
 msgid "Berries"
-msgstr "Bobule"
+msgstr "Bobule-#&#-Berries"
 
 #. STRINGS.NAMES.GOLDENAXE
 msgctxt "STRINGS.NAMES.GOLDENAXE"
 msgid "Luxury Axe"
-msgstr "Luxusni sekera"
+msgstr "Luxusni sekera-#&#-Luxury Axe"
 
 #. STRINGS.NAMES.TRAP_TEETH_MAXWELL
 msgctxt "STRINGS.NAMES.TRAP_TEETH_MAXWELL"
 msgid "Maxwell's Tooth Trap"
-msgstr "Maxwellova zubata past"
+msgstr "Maxwellova zubata past-#&#-Maxwell's Tooth Trap"
 
 #. STRINGS.NAMES.BLUE_CAP
 msgctxt "STRINGS.NAMES.BLUE_CAP"
 msgid "Blue Cap"
-msgstr "Modry kloboucek"
+msgstr "Modry kloboucek-#&#-Blue Cap"
 
 #. STRINGS.NAMES.SEEDS
 msgctxt "STRINGS.NAMES.SEEDS"
 msgid "Seeds"
-msgstr "Seminka"
+msgstr "Seminka-#&#-Seeds"
 
 #. STRINGS.NAMES.REEDS
 msgctxt "STRINGS.NAMES.REEDS"
 msgid "Reeds"
-msgstr "Rakosi"
+msgstr "Rakosi-#&#-Reeds"
 
 #. STRINGS.NAMES.RUINSHAT
 msgctxt "STRINGS.NAMES.RUINSHAT"
 msgid "Thulecite Crown"
-msgstr "Thulecite Crown (Koruna z artefaktu)"
+msgstr "Koruna z artefaktu-#&#-Thulecite Crown"
 
 #. STRINGS.NAMES.BIRD_EGG_COOKED
 msgctxt "STRINGS.NAMES.BIRD_EGG_COOKED"
 msgid "Cooked Egg"
-msgstr "Smazene vejce"
+msgstr "Smazene vejce-#&#-Cooked Egg"
 
 #. STRINGS.NAMES.HONEYNUGGETS
 msgctxt "STRINGS.NAMES.HONEYNUGGETS"
 msgid "Honey Nuggets"
-msgstr "Medove Nugetky"
+msgstr "Medove Nugetky-#&#-Honey Nuggets"
 
 #. STRINGS.NAMES.BUTTERFLYMUFFIN
 msgctxt "STRINGS.NAMES.BUTTERFLYMUFFIN"
 msgid "Butter Muffin"
-msgstr "Maslovy Moffin"
+msgstr "Maslovy Moffin-#&#-Butter Muffin"
 
 #. STRINGS.NAMES.RABBITHOUSE
 msgctxt "STRINGS.NAMES.RABBITHOUSE"
 msgid "Rabbit Hutch"
-msgstr "Kralikarna"
+msgstr "Kralikarna-#&#-Rabbit Hutch"
 
 #. STRINGS.NAMES.EARMUFFSHAT
 msgctxt "STRINGS.NAMES.EARMUFFSHAT"
 msgid "Rabbit Earmuffs"
-msgstr "Kralici chranice usi"
+msgstr "Kralici chranice usi-#&#-Rabbit Earmuffs"
 
 #. STRINGS.NAMES.THULECITE
 msgctxt "STRINGS.NAMES.THULECITE"
 msgid "Thulecite"
-msgstr "Thulecite (Artefakt)"
+msgstr "Artefakt-#&#-Thulecite"
 
 #. STRINGS.NAMES.MUSHTREE_TALL
 msgctxt "STRINGS.NAMES.MUSHTREE_TALL"
 msgid "Mushtree"
-msgstr "Houbostrom"
+msgstr "Houbostrom-#&#-Mushtree"
 
 #. STRINGS.NAMES.SAPLING
 msgctxt "STRINGS.NAMES.SAPLING"
 msgid "Sapling"
-msgstr "Stromek"
+msgstr "Stromek-#&#-Sapling"
 
 #. STRINGS.NAMES.DIVININGRODBASE
 msgctxt "STRINGS.NAMES.DIVININGRODBASE"
 msgid "Divining Rod Holder"
-msgstr "Drzak virgule"
+msgstr "Drzak virgule-#&#-Divining Rod Holder"
 
 #. STRINGS.NAMES.CAMPFIRE
 msgctxt "STRINGS.NAMES.CAMPFIRE"
 msgid "Campfire"
-msgstr "Taborak"
+msgstr "Taborak-#&#-Campfire"
 
 #. STRINGS.NAMES.COOKEDMANDRAKE
 msgctxt "STRINGS.NAMES.COOKEDMANDRAKE"
 msgid "Cooked Mandrake"
-msgstr "Pecena mandragora"
+msgstr "Pecena mandragora-#&#-Cooked Mandrake"
 
 #. STRINGS.NAMES.TENTACLE_PILLAR_ARM
 msgctxt "STRINGS.NAMES.TENTACLE_PILLAR_ARM"
 msgid "Baby Tentacle"
-msgstr "Mlade chapadlo"
+msgstr "Mlade chapadlo-#&#-Baby Tentacle"
 
 #. STRINGS.NAMES.REDGEM
 msgctxt "STRINGS.NAMES.REDGEM"
 msgid "Red Gem"
-msgstr "Rudy drahokam"
+msgstr "Rudy drahokam-#&#-Red Gem"
 
 #. STRINGS.NAMES.CHARCOAL
 msgctxt "STRINGS.NAMES.CHARCOAL"
 msgid "Charcoal"
-msgstr "Drevene uhli"
+msgstr "Drevene uhli-#&#-Charcoal"
 
 #. STRINGS.NAMES.KOALEFANT_SUMMER
 msgctxt "STRINGS.NAMES.KOALEFANT_SUMMER"
 msgid "Koalefant"
-msgstr "Koalefant"
+msgstr "Koalefant-#&#-Koalefant"
 
 #. STRINGS.NAMES.MANRABBIT_TAIL
 msgctxt "STRINGS.NAMES.MANRABBIT_TAIL"
 msgid "Bunny Puff"
-msgstr "Kralici ocasek"
+msgstr "Kralici ocasek-#&#-Bunny Puff"
 
 #. STRINGS.NAMES.ROOK
 msgctxt "STRINGS.NAMES.ROOK"
 msgid "Clockwork Rook"
-msgstr "Mechanicka vez"
+msgstr "Mechanicka vez-#&#-Clockwork Rook"
 
 #. STRINGS.NAMES.GRASS
 msgctxt "STRINGS.NAMES.GRASS"
 msgid "Grass"
-msgstr "Trava"
+msgstr "Trava-#&#-Grass"
 
 #. STRINGS.NAMES.FISHINGROD
 msgctxt "STRINGS.NAMES.FISHINGROD"
 msgid "Fishing Rod"
-msgstr "Rybarsky prut"
+msgstr "Rybarsky prut-#&#-Fishing Rod"
 
 #. STRINGS.NAMES.WALRUS_CAMP
 msgctxt "STRINGS.NAMES.WALRUS_CAMP"
 msgid "Walrus Camp"
-msgstr "Mrozi tabor"
+msgstr "Mrozi tabor-#&#-Walrus Camp"
 
 #. STRINGS.NAMES.PITCHFORK
 msgctxt "STRINGS.NAMES.PITCHFORK"
 msgid "Pitchfork"
-msgstr "Vidle"
+msgstr "Vidle-#&#-Pitchfork"
 
 #. STRINGS.NAMES.MULTITOOL_AXE_PICKAXE
 msgctxt "STRINGS.NAMES.MULTITOOL_AXE_PICKAXE"
 msgid "Pick/Axe"
-msgstr "Sekero-krumpac"
+msgstr "Sekero-krumpac-#&#-Pick/Axe"
 
 #. STRINGS.NAMES.MINERHAT
 msgctxt "STRINGS.NAMES.MINERHAT"
 msgid "Miner Hat"
-msgstr "Hornicka helma"
+msgstr "Hornicka helma-#&#-Miner Hat"
 
 #. STRINGS.NAMES.RAINOMETER
 msgctxt "STRINGS.NAMES.RAINOMETER"
 msgid "Rainometer"
-msgstr "Destomer"
+msgstr "Destomer-#&#-Rainometer"
 
 #. STRINGS.NAMES.TALLBIRD
 msgctxt "STRINGS.NAMES.TALLBIRD"
 msgid "Tallbird"
-msgstr "Velkoptak"
+msgstr "Velkoptak-#&#-Tallbird"
 
 #. STRINGS.NAMES.POMEGRANATE_SEEDS
 msgctxt "STRINGS.NAMES.POMEGRANATE_SEEDS"
 msgid "Pomegranate Seeds"
-msgstr "Seminka granatoveho jablka"
+msgstr "Seminka granatoveho jablka-#&#-Pomegranate Seeds"
 
 #. STRINGS.NAMES.NIGHTMARELIGHT
 msgctxt "STRINGS.NAMES.NIGHTMARELIGHT"
 msgid "Nightmare Light"
-msgstr "Svetlo Nocnich Mur"
+msgstr "Svetlo Nocnich Mur-#&#-Nightmare Light"
 
 #. STRINGS.NAMES.ROBIN_WINTER
 msgctxt "STRINGS.NAMES.ROBIN_WINTER"
 msgid "Snowbird"
-msgstr "Snezny ptak"
+msgstr "Snezny ptak-#&#-Snowbird"
 
 #. STRINGS.NAMES.FOOTBALLHAT
 msgctxt "STRINGS.NAMES.FOOTBALLHAT"
 msgid "Football Helmet"
-msgstr "Rugby helma"
+msgstr "Rugby helma-#&#-Football Helmet"
 
 #. STRINGS.NAMES.FISH_COOKED
 msgctxt "STRINGS.NAMES.FISH_COOKED"
 msgid "Cooked Fish"
-msgstr "Pecena ryba"
+msgstr "Pecena ryba-#&#-Cooked Fish"
 
 #. STRINGS.NAMES.SWEATERVEST
 msgctxt "STRINGS.NAMES.SWEATERVEST"
 msgid "Dapper Vest"
-msgstr "Elegantni Vesta"
+msgstr "Elegantni Vesta-#&#-Dapper Vest"
 
 #. STRINGS.NAMES.BERRIES_COOKED
 msgctxt "STRINGS.NAMES.BERRIES_COOKED"
 msgid "Roasted Berries"
-msgstr "Prazene bobule"
+msgstr "Prazene bobule-#&#-Roasted Berries"
 
 #. STRINGS.NAMES.BUGNET
 msgctxt "STRINGS.NAMES.BUGNET"
 msgid "Bug Net"
-msgstr "Sitka na hmyz"
+msgstr "Sitka na hmyz-#&#-Bug Net"
 
 #. STRINGS.NAMES.SPIDERQUEEN
 msgctxt "STRINGS.NAMES.SPIDERQUEEN"
 msgid "Spider Queen"
-msgstr "Pavouci kralovna"
+msgstr "Pavouci kralovna-#&#-Spider Queen"
 
 #. STRINGS.NAMES.TURF_CHECKERFLOOR
 msgctxt "STRINGS.NAMES.TURF_CHECKERFLOOR"
 msgid "Checkerboard Flooring"
-msgstr "Sachovnita podlaha"
+msgstr "Sachovnita podlaha-#&#-Checkerboard Flooring"
 
 #. STRINGS.NAMES.RUINS_RUBBLE
 msgctxt "STRINGS.NAMES.RUINS_RUBBLE"
 msgid "Broken Relic"
-msgstr "Znicena Relikvie"
+msgstr "Znicena Relikvie-#&#-Broken Relic"
 
 #. STRINGS.NAMES.MEATRACK
 msgctxt "STRINGS.NAMES.MEATRACK"
 msgid "Drying Rack"
-msgstr "Susici tyc"
+msgstr "Susici tyc-#&#-Drying Rack"
 
 #. STRINGS.NAMES.ARMORWOOD
 msgctxt "STRINGS.NAMES.ARMORWOOD"
 msgid "Log Suit"
-msgstr "Kladny oblek"
+msgstr "Kladny oblek-#&#-Log Suit"
 
 #. STRINGS.NAMES.BUTTERFLY
 msgctxt "STRINGS.NAMES.BUTTERFLY"
 msgid "Butterfly"
-msgstr "Motyl"
+msgstr "Motyl-#&#-Butterfly"
 
 #. STRINGS.NAMES.MINOTAUR
 msgctxt "STRINGS.NAMES.MINOTAUR"
 msgid "Ancient Guardian"
-msgstr "Starodavny Ochrance"
+msgstr "Starodavny Ochrance-#&#-Ancient Guardian"
 
 #. STRINGS.NAMES.RESURRECTIONSTATUE
 msgctxt "STRINGS.NAMES.RESURRECTIONSTATUE"
 msgid "Meat Effigy"
-msgstr "Masna Podobizna"
+msgstr "Masna Podobizna-#&#-Meat Effigy"
 
 #. STRINGS.NAMES.MAXWELLHEAD
 msgctxt "STRINGS.NAMES.MAXWELLHEAD"
 msgid "Maxwell's Head"
-msgstr "Maxwellova Hlava"
+msgstr "Maxwellova Hlava-#&#-Maxwell's Head"
 
 #. STRINGS.NAMES.SANITYROCK
 msgctxt "STRINGS.NAMES.SANITYROCK"
 msgid "Obelisk"
-msgstr "Obelisk"
+msgstr "Obelisk-#&#-Obelisk"
 
 #. STRINGS.NAMES.GREEN_MUSHROOM
 msgctxt "STRINGS.NAMES.GREEN_MUSHROOM"
 msgid "Green Mushroom"
-msgstr "Zelena houba"
+msgstr "Zelena houba-#&#-Green Mushroom"
 
 #. STRINGS.NAMES.FLOWER_CAVE_TRIPLE
 msgctxt "STRINGS.NAMES.FLOWER_CAVE_TRIPLE"
 msgid "Light Flower"
-msgstr "Light Flower (Svetelkujici kvetina)"
+msgstr "Svetelkujici kvetina-#&#-Light Flower"
 
 #. STRINGS.NAMES.RED_MUSHROOM
 msgctxt "STRINGS.NAMES.RED_MUSHROOM"
 msgid "Red Mushroom"
-msgstr "Cervena houba"
+msgstr "Cervena houba-#&#-Red Mushroom"
 
 #. STRINGS.NAMES.LOG
 msgctxt "STRINGS.NAMES.LOG"
 msgid "Log"
-msgstr "Poleno"
+msgstr "Poleno-#&#-Log"
 
 #. STRINGS.NAMES.FIREFLIES
 msgctxt "STRINGS.NAMES.FIREFLIES"
 msgid "Fireflies"
-msgstr "Svetlusky"
+msgstr "Svetlusky-#&#-Fireflies"
 
 #. STRINGS.NAMES.DRAGONFRUIT
 msgctxt "STRINGS.NAMES.DRAGONFRUIT"
 msgid "Dragon Fruit"
-msgstr "Pitaya - Draci ovoce"
+msgstr "Pitaya - Draci ovoce-#&#-Dragon Fruit"
 
 #. STRINGS.NAMES.EYETURRET
 msgctxt "STRINGS.NAMES.EYETURRET"
 msgid "Houndius Shootius"
-msgstr "Houndius Shootius"
+msgstr "Houndius Shootius-#&#-Houndius Shootius"
 
 #. STRINGS.NAMES.COOKEDMONSTERMEAT
 msgctxt "STRINGS.NAMES.COOKEDMONSTERMEAT"
 msgid "Cooked Monster Meat"
-msgstr "Pecene maso prisery"
+msgstr "Pecene maso prisery-#&#-Cooked Monster Meat"
 
 #. STRINGS.NAMES.BLUEAMULET
 msgctxt "STRINGS.NAMES.BLUEAMULET"
 msgid "Chilled Amulet"
-msgstr "Chladivy Amulet"
+msgstr "Chladivy Amulet-#&#-Chilled Amulet"
 
 #. STRINGS.NAMES.WOODIE
 msgctxt "STRINGS.NAMES.WOODIE"
 msgid "Woodie"
-msgstr "Woodie"
+msgstr "Woodie-#&#-Woodie"
 
 #. STRINGS.NAMES.ARMORSNURTLESHELL
 msgctxt "STRINGS.NAMES.ARMORSNURTLESHELL"
 msgid "Snurtle Shell Armour"
-msgstr ""
+msgstr "-#&#-Snurtle Shell Armour"
 
 #. STRINGS.NAMES.BUSHHAT
 msgctxt "STRINGS.NAMES.BUSHHAT"
 msgid "Bush Hat"
-msgstr "Kerita cepice"
+msgstr "Kerita cepice-#&#-Bush Hat"
 
 #. STRINGS.NAMES.GOLDENSHOVEL
 msgctxt "STRINGS.NAMES.GOLDENSHOVEL"
 msgid "Regal Shovel"
-msgstr "Lopata kralu"
+msgstr "Lopata kralu-#&#-Regal Shovel"
 
 #. STRINGS.NAMES.WINTEROMETER
 msgctxt "STRINGS.NAMES.WINTEROMETER"
 msgid "Winterometer"
-msgstr "Zimomer"
+msgstr "Zimomer-#&#-Winterometer"
 
 #. STRINGS.NAMES.COOKPOT
 msgctxt "STRINGS.NAMES.COOKPOT"
 msgid "Crock Pot"
-msgstr "Varny hrnec"
+msgstr "Varny hrnec-#&#-Crock Pot"
 
 #. STRINGS.NAMES.WALL_STONE_ITEM
 msgctxt "STRINGS.NAMES.WALL_STONE_ITEM"
 msgid "Stone Wall"
-msgstr "Kamenna zed"
+msgstr "Kamenna zed-#&#-Stone Wall"
 
 #. STRINGS.NAMES.TURF_FOREST
 msgctxt "STRINGS.NAMES.TURF_FOREST"
 msgid "Forest Turf"
-msgstr "Lesni drn"
+msgstr "Lesni drn-#&#-Forest Turf"
 
 #. STRINGS.NAMES.LITTLE_WALRUS
 msgctxt "STRINGS.NAMES.LITTLE_WALRUS"
 msgid "Wee MacTusk"
-msgstr ""
+msgstr "-#&#-Wee MacTusk"
 
 #. STRINGS.NAMES.WALL_HAY_ITEM
 msgctxt "STRINGS.NAMES.WALL_HAY_ITEM"
 msgid "Hay Wall"
-msgstr ""
+msgstr "-#&#-Hay Wall"
 
 #. STRINGS.NAMES.TURF_SAVANNA
 msgctxt "STRINGS.NAMES.TURF_SAVANNA"
 msgid "Savanna Turf"
-msgstr "Stepni drn"
+msgstr "Stepni drn-#&#-Savanna Turf"
 
 #. STRINGS.NAMES.WES
 msgctxt "STRINGS.NAMES.WES"
 msgid "Wes"
-msgstr "Wes"
+msgstr "Wes-#&#-Wes"
 
 #. STRINGS.NAMES.BASALT
 msgctxt "STRINGS.NAMES.BASALT"
 msgid "Basalt"
-msgstr "Cedic"
+msgstr "Cedic-#&#-Basalt"
 
 #. STRINGS.NAMES.BIRD_EGG
 msgctxt "STRINGS.NAMES.BIRD_EGG"
 msgid "Egg"
-msgstr "Vejce"
+msgstr "Vejce-#&#-Egg"
 
 #. STRINGS.NAMES.PENGUIN
 msgctxt "STRINGS.NAMES.PENGUIN"
 msgid "Pengull"
-msgstr "Tucnak"
+msgstr "Tucnak-#&#-Pengull"
 
 #. STRINGS.NAMES.MANDRAKE
 msgctxt "STRINGS.NAMES.MANDRAKE"
 msgid "Mandrake"
-msgstr "Mandragora"
+msgstr "Mandragora-#&#-Mandrake"
 
 #. STRINGS.NAMES.KILLERBEE
 msgctxt "STRINGS.NAMES.KILLERBEE"
 msgid "Killer Bee"
-msgstr "Killer Bee (Zabijacka vcela)"
+msgstr "Zabijacka vcela-#&#-Killer Bee"
 
 #. STRINGS.NAMES.DURIAN_COOKED
 msgctxt "STRINGS.NAMES.DURIAN_COOKED"
 msgid "Extra Smelly Durian"
-msgstr "Velmi pachnouci Durian"
+msgstr "Velmi pachnouci Durian-#&#-Extra Smelly Durian"
 
 #. STRINGS.NAMES.DRAGONFRUIT_COOKED
 msgctxt "STRINGS.NAMES.DRAGONFRUIT_COOKED"
 msgid "Prepared Dragon Fruit"
-msgstr "Pripravena Pitaya - Draci ovoce"
+msgstr "Pripravena Pitaya - Draci ovoce-#&#-Prepared Dragon Fruit"
 
 #. STRINGS.NAMES.POTTEDFERN
 msgctxt "STRINGS.NAMES.POTTEDFERN"
 msgid "Potted Fern"
-msgstr "Kapradina v kvetinaci"
+msgstr "Kapradina v kvetinaci-#&#-Potted Fern"
 
 #. STRINGS.NAMES.TENTACLE_PILLAR
 msgctxt "STRINGS.NAMES.TENTACLE_PILLAR"
 msgid "Big Tentacle"
-msgstr "Velke chapadlo"
+msgstr "Velke chapadlo-#&#-Big Tentacle"
 
 #. STRINGS.NAMES.BALLOON
 msgctxt "STRINGS.NAMES.BALLOON"
 msgid "Balloon"
-msgstr "Balonek"
+msgstr "Balonek-#&#-Balloon"
 
 #. STRINGS.NAMES.PURPLEAMULET
 msgctxt "STRINGS.NAMES.PURPLEAMULET"
 msgid "Nightmare Amulet"
-msgstr "Amulet nocnich mur"
+msgstr "Amulet nocnich mur-#&#-Nightmare Amulet"
 
 #. STRINGS.NAMES.BOOMERANG
 msgctxt "STRINGS.NAMES.BOOMERANG"
 msgid "Boomerang"
-msgstr "Bumerang"
+msgstr "Bumerang-#&#-Boomerang"
 
 #. STRINGS.NAMES.DRAGONFRUIT_SEEDS
 msgctxt "STRINGS.NAMES.DRAGONFRUIT_SEEDS"
 msgid "Dragon Fruit Seeds"
-msgstr "Seminka pitayy - Draciho ovoce"
+msgstr "Seminka pitayy - Draciho ovoce-#&#-Dragon Fruit Seeds"
 
 #. STRINGS.NAMES.GREENGEM
 msgctxt "STRINGS.NAMES.GREENGEM"
 msgid "Green Gem"
-msgstr "Zeleny drahokam"
+msgstr "Zeleny drahokam-#&#-Green Gem"
 
 #. STRINGS.NAMES.TEENBIRD
 msgctxt "STRINGS.NAMES.TEENBIRD"
 msgid "Smallish Tallbird"
-msgstr "Pomensi Velkoptak"
+msgstr "Pomensi Velkoptak-#&#-Smallish Tallbird"
 
 #. STRINGS.NAMES.TURF_FUNGUS
 msgctxt "STRINGS.NAMES.TURF_FUNGUS"
 msgid "Fungal Turf"
-msgstr "Houbovity drn"
+msgstr "Houbovity drn-#&#-Fungal Turf"
 
 #. STRINGS.NAMES.WALL_RUINS
 msgctxt "STRINGS.NAMES.WALL_RUINS"
 msgid "Thulecite Wall"
-msgstr "Thulecite Wall (Zed z artefaktu)"
+msgstr "Zed z artefaktu-#&#-Thulecite Wall"
 
 #. STRINGS.NAMES.HEATROCK
 msgctxt "STRINGS.NAMES.HEATROCK"
 msgid "Heat Stone"
-msgstr "Zhnouci kamen"
+msgstr "Zhnouci kamen-#&#-Heat Stone"
 
 #. STRINGS.NAMES.TRINKET_10
 msgctxt "STRINGS.NAMES.TRINKET_10"
 msgid "Second-hand Dentures"
-msgstr "Umele zuby z druhe \"ruky\""
+msgstr "Umele zuby z druhe \"ruky\"-#&#-Second-hand Dentures"
 
 #. STRINGS.NAMES.PURPLEGEM
 msgctxt "STRINGS.NAMES.PURPLEGEM"
 msgid "Purple Gem"
-msgstr "Fialovy drahokam"
+msgstr "Fialovy drahokam-#&#-Purple Gem"
 
 #. STRINGS.NAMES.MOUND
 msgctxt "STRINGS.NAMES.MOUND"
 msgid "Grave"
-msgstr "Hrob"
+msgstr "Hrob-#&#-Grave"
 
 #. STRINGS.NAMES.BEDROLL_STRAW
 msgctxt "STRINGS.NAMES.BEDROLL_STRAW"
 msgid "Straw Roll"
-msgstr "Slamena role"
+msgstr "Slamena role-#&#-Straw Roll"
 
 #. STRINGS.NAMES.STALAGMITE_MED
 msgctxt "STRINGS.NAMES.STALAGMITE_MED"
 msgid "Stalagmite"
-msgstr "Stalagmit"
+msgstr "Stalagmit-#&#-Stalagmite"
 
 #. STRINGS.NAMES.ASH
 msgctxt "STRINGS.NAMES.ASH"
 msgid "Ashes"
-msgstr "Popel"
+msgstr "Popel-#&#-Ashes"
 
 #. STRINGS.NAMES.TERRORBEAK
 msgctxt "STRINGS.NAMES.TERRORBEAK"
 msgid "Terrorbeak"
-msgstr "Klovajici teror"
+msgstr "Klovajici teror-#&#-Terrorbeak"
 
 #. STRINGS.NAMES.HAMMER
 msgctxt "STRINGS.NAMES.HAMMER"
 msgid "Hammer"
-msgstr "Kladivo"
+msgstr "Kladivo-#&#-Hammer"
 
 #. STRINGS.NAMES.TURF_SINKHOLE
 msgctxt "STRINGS.NAMES.TURF_SINKHOLE"
 msgid "Slimey Turf"
-msgstr "Slizky drn"
+msgstr "Slizky drn-#&#-Slimey Turf"
 
 #. STRINGS.NAMES.MONSTERLASAGNA
 msgctxt "STRINGS.NAMES.MONSTERLASAGNA"
 msgid "Monster Lasagna"
-msgstr "Monster Lasagne"
+msgstr "Monster Lasagne-#&#-Monster Lasagna"
 
 #. STRINGS.NAMES.FAST_FARMPLOT
 msgctxt "STRINGS.NAMES.FAST_FARMPLOT"
 msgid "Improved Farm"
-msgstr "Vylepsena farma"
+msgstr "Vylepsena farma-#&#-Improved Farm"
 
 #. STRINGS.NAMES.WALRUS
 msgctxt "STRINGS.NAMES.WALRUS"
 msgid "MacTusk"
-msgstr "MacTusk"
+msgstr "MacTusk-#&#-MacTusk"
 
 #. STRINGS.NAMES.HONEYCOMB
 msgctxt "STRINGS.NAMES.HONEYCOMB"
 msgid "Honeycomb"
-msgstr "Plastev medu"
+msgstr "Plastev medu-#&#-Honeycomb"
 
 #. STRINGS.NAMES.MUSHTREE_MEDIUM
 msgctxt "STRINGS.NAMES.MUSHTREE_MEDIUM"
 msgid "Red Mushtree"
-msgstr "Cerveny houbostrom"
+msgstr "Cerveny houbostrom-#&#-Red Mushtree"
 
 #. STRINGS.NAMES.SILK
 msgctxt "STRINGS.NAMES.SILK"
 msgid "Silk"
-msgstr "Hedvabi"
+msgstr "Hedvabi-#&#-Silk"
 
 #. STRINGS.NAMES.BOOK_BIRDS
 msgctxt "STRINGS.NAMES.BOOK_BIRDS"
 msgid "Birds of the World"
-msgstr "Ptaci Sveta"
+msgstr "Ptaci Sveta-#&#-Birds of the World"
 
 #. STRINGS.NAMES.TURF_WOODFLOOR
 msgctxt "STRINGS.NAMES.TURF_WOODFLOOR"
 msgid "Wooden Flooring"
-msgstr "Drevena podlaha"
+msgstr "Drevena podlaha-#&#-Wooden Flooring"
 
 #. STRINGS.NAMES.ROCKY
 msgctxt "STRINGS.NAMES.ROCKY"
 msgid "Rock Lobster"
-msgstr "Rock Lobster (Langusta)"
+msgstr "Langusta-#&#-Rock Lobster"
 
 #. STRINGS.NAMES.KNIGHT
 msgctxt "STRINGS.NAMES.KNIGHT"
 msgid "Clockwork Knight"
-msgstr "Mechanicky jezdec"
+msgstr "Mechanicky jezdec-#&#-Clockwork Knight"
 
 #. STRINGS.NAMES.TENT
 msgctxt "STRINGS.NAMES.TENT"
 msgid "Tent"
-msgstr "Stan"
+msgstr "Stan-#&#-Tent"
 
 #. STRINGS.NAMES.PETALS_EVIL
 msgctxt "STRINGS.NAMES.PETALS_EVIL"
 msgid "Dark Petals"
-msgstr "Temne okveti"
+msgstr "Temne okveti-#&#-Dark Petals"
 
 #. STRINGS.NAMES.BISHOP
 msgctxt "STRINGS.NAMES.BISHOP"
 msgid "Clockwork Bishop"
-msgstr "Mechanicky strelec"
+msgstr "Mechanicky strelec-#&#-Clockwork Bishop"
 
 #. STRINGS.NAMES.ANCIENT_ALTAR_BROKEN
 msgctxt "STRINGS.NAMES.ANCIENT_ALTAR_BROKEN"
 msgid "Broken Ancient Pseudoscience Station"
-msgstr "Rozpadla starobyla pseudovedecka stanice"
+msgstr "Rozpadla starobyla pseudovedecka stanice-#&#-Broken Ancient Pseudoscience Station"
 
 #. STRINGS.NAMES.PANDORASCHEST
 msgctxt "STRINGS.NAMES.PANDORASCHEST"
 msgid "Ornate Chest"
-msgstr "Zdobena truhla"
+msgstr "Zdobena truhla-#&#-Ornate Chest"
 
 #. STRINGS.NAMES.MAXWELLLIGHT
 msgctxt "STRINGS.NAMES.MAXWELLLIGHT"
 msgid "Maxwell's Light"
-msgstr "Maxwellovo svetlo"
+msgstr "Maxwellovo svetlo-#&#-Maxwell's Light"
 
 #. STRINGS.NAMES.RAZOR
 msgctxt "STRINGS.NAMES.RAZOR"
 msgid "Razor"
-msgstr "Britva"
+msgstr "Britva-#&#-Razor"
 
 #. STRINGS.NAMES.TREASURECHEST
 msgctxt "STRINGS.NAMES.TREASURECHEST"
 msgid "Chest"
-msgstr "Truhla"
+msgstr "Truhla-#&#-Chest"
 
 #. STRINGS.NAMES.PLANT_NORMAL
 msgctxt "STRINGS.NAMES.PLANT_NORMAL"
 msgid "Crop"
-msgstr "Plodina"
+msgstr "Plodina-#&#-Crop"
 
 #. STRINGS.NAMES.DRUMSTICK_COOKED
 msgctxt "STRINGS.NAMES.DRUMSTICK_COOKED"
 msgid "Fried Drumstick"
-msgstr "Fried Drumstick (pecene drubezi stehno)"
+msgstr "Pecene drubezi stehno-#&#-Fried Drumstick"
 
 #. STRINGS.NAMES.PIGKING
 msgctxt "STRINGS.NAMES.PIGKING"
 msgid "Pig King"
-msgstr "Praseci kral"
+msgstr "Praseci kral-#&#-Pig King"
 
 #. STRINGS.NAMES.HORN
 msgctxt "STRINGS.NAMES.HORN"
 msgid "Beefalo Horn"
-msgstr "Roh buvola"
+msgstr "Roh buvola-#&#-Beefalo Horn"
 
 #. STRINGS.NAMES.ONEMANBAND
 msgctxt "STRINGS.NAMES.ONEMANBAND"
 msgid "One-man Band"
-msgstr "One-man Band"
+msgstr "One-man Band-#&#-One-man Band"
 
 #. STRINGS.NAMES.CORN
 msgctxt "STRINGS.NAMES.CORN"
 msgid "Corn"
-msgstr "Kukurice"
+msgstr "Kukurice-#&#-Corn"
 
 #. STRINGS.NAMES.FIRESTAFF
 msgctxt "STRINGS.NAMES.FIRESTAFF"
 msgid "Fire Staff"
-msgstr "Ohniva Hul"
+msgstr "Ohniva Hul-#&#-Fire Staff"
 
 #. STRINGS.NAMES.HAMBAT
 msgctxt "STRINGS.NAMES.HAMBAT"
 msgid "Ham Bat"
-msgstr "Masna Palicka"
+msgstr "Masna Palicka-#&#-Ham Bat"
 
 #. STRINGS.NAMES.EGGPLANT
 msgctxt "STRINGS.NAMES.EGGPLANT"
 msgid "Eggplant"
-msgstr "Eggplant (Lilek)"
+msgstr "Lilek-#&#-Eggplant"
 
 #. STRINGS.NAMES.TOPHAT
 msgctxt "STRINGS.NAMES.TOPHAT"
 msgid "Top Hat"
-msgstr "Cylindr"
+msgstr "Cylindr-#&#-Top Hat"
 
 #. STRINGS.NAMES.SPEAR
 msgctxt "STRINGS.NAMES.SPEAR"
 msgid "Spear"
-msgstr "Kopi"
+msgstr "Kopi-#&#-Spear"
 
 #. STRINGS.NAMES.SMALLBIRD
 msgctxt "STRINGS.NAMES.SMALLBIRD"
 msgid "Smallbird"
-msgstr "Maloptak"
+msgstr "Maloptak-#&#-Smallbird"
 
 #. STRINGS.NAMES.WALL_WOOD
 msgctxt "STRINGS.NAMES.WALL_WOOD"
 msgid "Wood Wall"
-msgstr "Drevena zed"
+msgstr "Drevena zed-#&#-Wood Wall"
 
 #. STRINGS.NAMES.CAVE_ENTRANCE_OPEN
 msgctxt "STRINGS.NAMES.CAVE_ENTRANCE_OPEN"
 msgid "Sinkhole"
-msgstr "Sinkhole (Zavrt)"
+msgstr "Zavrt-#&#-Sinkhole"
 
 #. STRINGS.NAMES.SKELETON
 msgctxt "STRINGS.NAMES.SKELETON"
 msgid "Skeleton"
-msgstr "Kostra"
+msgstr "Kostra-#&#-Skeleton"
 
 #. STRINGS.NAMES.YELLOWGEM
 msgctxt "STRINGS.NAMES.YELLOWGEM"
 msgid "Yellow Gem"
-msgstr "Zluty drahokam"
+msgstr "Zluty drahokam-#&#-Yellow Gem"
 
 #. STRINGS.NAMES.STINGER
 msgctxt "STRINGS.NAMES.STINGER"
 msgid "Stinger"
-msgstr "Zihadlo"
+msgstr "Zihadlo-#&#-Stinger"
 
 #. STRINGS.NAMES.TURF_GRASS
 msgctxt "STRINGS.NAMES.TURF_GRASS"
 msgid "Grass Turf"
-msgstr "Travnaty drn"
+msgstr "Travnaty drn-#&#-Grass Turf"
 
 #. STRINGS.NAMES.CAVE_EXIT
 msgctxt "STRINGS.NAMES.CAVE_EXIT"
 msgid "Rope"
-msgstr "Lano"
+msgstr "Lano-#&#-Rope"
 
 #. STRINGS.NAMES.PUMPKIN
 msgctxt "STRINGS.NAMES.PUMPKIN"
 msgid "Pumpkin"
-msgstr "Dyne"
+msgstr "Dyne-#&#-Pumpkin"
 
 #. STRINGS.NAMES.POOP
 msgctxt "STRINGS.NAMES.POOP"
 msgid "Manure"
-msgstr "Hnuj"
+msgstr "Hnuj-#&#-Manure"
 
 #. STRINGS.NAMES.LIGHTNING_ROD
 msgctxt "STRINGS.NAMES.LIGHTNING_ROD"
 msgid "Lightning Rod"
-msgstr "Bleskosvod"
+msgstr "Bleskosvod-#&#-Lightning Rod"
 
 #. STRINGS.NAMES.ANIMAL_TRACK
 msgctxt "STRINGS.NAMES.ANIMAL_TRACK"
 msgid "Animal Track"
-msgstr "Stopa zvirete"
+msgstr "Stopa zvirete-#&#-Animal Track"
 
 #. STRINGS.NAMES.TRINKET_4
 msgctxt "STRINGS.NAMES.TRINKET_4"
 msgid "Gnome"
-msgstr "Skritek"
+msgstr "Skritek-#&#-Gnome"
 
 #. STRINGS.NAMES.BERRYBUSH
 msgctxt "STRINGS.NAMES.BERRYBUSH"
 msgid "Berry Bush"
-msgstr "Bobulovity Ker"
+msgstr "Bobulovity Ker-#&#-Berry Bush"
 
 #. STRINGS.NAMES.CUTGRASS
 msgctxt "STRINGS.NAMES.CUTGRASS"
 msgid "Cut Grass"
-msgstr "Posekana trava"
+msgstr "Posekana trava-#&#-Cut Grass"
 
 #. STRINGS.NAMES.HOMESIGN
 msgctxt "STRINGS.NAMES.HOMESIGN"
 msgid "Sign"
-msgstr "Cedule"
+msgstr "Cedule-#&#-Sign"
 
 #. STRINGS.NAMES.MONSTERMEAT_DRIED
 msgctxt "STRINGS.NAMES.MONSTERMEAT_DRIED"
 msgid "Monster Jerky"
-msgstr "Susene maso prisery"
+msgstr "Susene maso prisery-#&#-Monster Jerky"
 
 #. STRINGS.NAMES.ASH_REMAINS
 msgctxt "STRINGS.NAMES.ASH_REMAINS"
 msgid "Ashes of %s"
-msgstr "Popel z %s"
+msgstr "Popel z %s-#&#-Ashes of %s"
 
 #. STRINGS.NAMES.TURF_ROCKY
 msgctxt "STRINGS.NAMES.TURF_ROCKY"
 msgid "Rocky Turf"
-msgstr "Skalnaty povrch"
+msgstr "Skalnaty povrch-#&#-Rocky Turf"
 
 #. STRINGS.NAMES.WETGOOP
 msgctxt "STRINGS.NAMES.WETGOOP"
 msgid "Wet Goop"
-msgstr "Wet Goop (Vlhky extrakt)"
+msgstr "Vlhky extrakt-#&#-Wet Goop"
 
 #. STRINGS.NAMES.BOOK_TENTACLES
 msgctxt "STRINGS.NAMES.BOOK_TENTACLES"
 msgid "On Tentacles"
-msgstr "Na Chapadlech"
+msgstr "Na Chapadlech-#&#-On Tentacles"
 
 #. STRINGS.NAMES.SHOVEL
 msgctxt "STRINGS.NAMES.SHOVEL"
 msgid "Shovel"
-msgstr "Lopata"
+msgstr "Lopata-#&#-Shovel"
 
 #. STRINGS.NAMES.TURF_CARPETFLOOR
 msgctxt "STRINGS.NAMES.TURF_CARPETFLOOR"
 msgid "Carpeted Flooring"
-msgstr "Kobercova podlaha"
+msgstr "Kobercova podlaha-#&#-Carpeted Flooring"
 
 #. STRINGS.NAMES.BIRDCAGE
 msgctxt "STRINGS.NAMES.BIRDCAGE"
 msgid "Birdcage"
-msgstr "Ptaci klicka"
+msgstr "Ptaci klicka-#&#-Birdcage"
 
 #. STRINGS.NAMES.TRINKET_7
 msgctxt "STRINGS.NAMES.TRINKET_7"
 msgid "Ball and Cup"
-msgstr "Ball and Cup"
+msgstr "Ball and Cup-#&#-Ball and Cup"
 
 #. STRINGS.NAMES.SPIDER_WARRIOR
 msgctxt "STRINGS.NAMES.SPIDER_WARRIOR"
 msgid "Spider Warrior"
-msgstr "Pavouk Valecnik"
+msgstr "Pavouk Valecnik-#&#-Spider Warrior"
 
 #. STRINGS.NAMES.TURF_WEBBING
 msgctxt "STRINGS.NAMES.TURF_WEBBING"
 msgid "Sticky Webbing"
-msgstr "Lepkavy popruh"
+msgstr "Lepkavy popruh-#&#-Sticky Webbing"
 
 #. STRINGS.NAMES.BOOK_BRIMSTONE
 msgctxt "STRINGS.NAMES.BOOK_BRIMSTONE"
 msgid "The End is Nigh!"
-msgstr "Konec se blizi!"
+msgstr "Konec se blizi!-#&#-The End is Nigh!"
 
 #. STRINGS.NAMES.WALRUS_TUSK
 msgctxt "STRINGS.NAMES.WALRUS_TUSK"
 msgid "Walrus Tusk"
-msgstr "Mrozi spicak"
+msgstr "Mrozi spicak-#&#-Walrus Tusk"
 
 #. STRINGS.NAMES.TRINKET_1
 msgctxt "STRINGS.NAMES.TRINKET_1"
 msgid "Melty Marbles"
-msgstr "Mramorove kulicky"
+msgstr "Mramorove kulicky-#&#-Melty Marbles"
 
 #. STRINGS.NAMES.ROCK_LIGHT
 msgctxt "STRINGS.NAMES.ROCK_LIGHT"
 msgid "Lava Pit"
-msgstr "Jama s lavou"
+msgstr "Jama s lavou-#&#-Lava Pit"
 
 #. STRINGS.NAMES.CHESSJUNK3
 msgctxt "STRINGS.NAMES.CHESSJUNK3"
 msgid "Broken clockworks"
-msgstr "Rozbity mechanismus"
+msgstr "Rozbity mechanismus-#&#-Broken clockworks"
 
 #. STRINGS.NAMES.TAFFY
 msgctxt "STRINGS.NAMES.TAFFY"
 msgid "Taffy"
-msgstr "Karamelky"
+msgstr "Karamelky-#&#-Taffy"
 
 #. STRINGS.NAMES.TRAP
 msgctxt "STRINGS.NAMES.TRAP"
 msgid "Trap"
-msgstr "Past"
+msgstr "Past-#&#-Trap"
 
 #. STRINGS.NAMES.BLUEGEM
 msgctxt "STRINGS.NAMES.BLUEGEM"
 msgid "Blue Gem"
-msgstr "Modry drahokam"
+msgstr "Modry drahokam-#&#-Blue Gem"
 
 #. STRINGS.NAMES.YELLOWAMULET
 msgctxt "STRINGS.NAMES.YELLOWAMULET"
 msgid "Magiluminescence"
-msgstr "Magiluminescence"
+msgstr "Magiluminescence-#&#-Magiluminescence"
 
 #. STRINGS.NAMES.EGGPLANT_COOKED
 msgctxt "STRINGS.NAMES.EGGPLANT_COOKED"
 msgid "Braised Eggplant"
-msgstr "Braised Eggplant (Duseny lilek)"
+msgstr "Duseny lilek-#&#-Braised Eggplant"
 
 #. STRINGS.NAMES.CRAWLINGNIGHTMARE
 msgctxt "STRINGS.NAMES.CRAWLINGNIGHTMARE"
 msgid "Crawling Nightmare"
-msgstr "Pliziva nocni mura"
+msgstr "Pliziva nocni mura-#&#-Crawling Nightmare"
 
 #. STRINGS.NAMES.DIVININGROD
 msgctxt "STRINGS.NAMES.DIVININGROD"
 msgid "Divining Rod"
-msgstr "Virgule"
+msgstr "Virgule-#&#-Divining Rod"
 
 #. STRINGS.NAMES.RABBIT
 msgctxt "STRINGS.NAMES.RABBIT"
 msgid "Rabbit"
-msgstr "Kralik"
+msgstr "Kralik-#&#-Rabbit"
 
 #. STRINGS.NAMES.FLOWER_EVIL
 msgctxt "STRINGS.NAMES.FLOWER_EVIL"
 msgid "Evil Flower"
-msgstr "Evil Flower (Dabelska kvetina)"
+msgstr "Dabelska kvetina-#&#-Evil Flower"
 
 #. STRINGS.NAMES.TURF_ROAD
 msgctxt "STRINGS.NAMES.TURF_ROAD"
 msgid "Cobblestones"
-msgstr "Dlazba"
+msgstr "Dlazba-#&#-Cobblestones"
 
 #. STRINGS.NAMES.BEEMINE
 msgctxt "STRINGS.NAMES.BEEMINE"
 msgid "Bee Mine"
-msgstr "Vceli mina"
+msgstr "Vceli mina-#&#-Bee Mine"
 
 #. STRINGS.NAMES.FEATHERHAT
 msgctxt "STRINGS.NAMES.FEATHERHAT"
 msgid "Feather Hat"
-msgstr "Ptaci celenka"
+msgstr "Ptaci celenka-#&#-Feather Hat"
 
 #. STRINGS.NAMES.FOLIAGE
 msgctxt "STRINGS.NAMES.FOLIAGE"
 msgid "Foliage"
-msgstr "Listy"
+msgstr "Listy-#&#-Foliage"
 
 #. STRINGS.NAMES.DEPLETED_GRASS
 msgctxt "STRINGS.NAMES.DEPLETED_GRASS"
 msgid "Grass"
-msgstr "Trava"
+msgstr "Trava-#&#-Grass"
 
 #. STRINGS.NAMES.SLURTLE
 msgctxt "STRINGS.NAMES.SLURTLE"
 msgid "Slurtle"
-msgstr ""
+msgstr "-#&#-Slurtle"
 
 #. STRINGS.NAMES.CARROT_COOKED
 msgctxt "STRINGS.NAMES.CARROT_COOKED"
 msgid "Roasted Carrot"
-msgstr "Opecena mrkev"
+msgstr "Opecena mrkev-#&#-Roasted Carrot"
 
 #. STRINGS.NAMES.CUTLICHEN
 msgctxt "STRINGS.NAMES.CUTLICHEN"
 msgid "Lichen"
-msgstr "Lisejnik"
+msgstr "Lisejnik-#&#-Lichen"
 
 #. STRINGS.NAMES.DURIAN_SEEDS
 msgctxt "STRINGS.NAMES.DURIAN_SEEDS"
 msgid "Durian Seeds"
-msgstr "Seminka Durianu"
+msgstr "Seminka Durianu-#&#-Durian Seeds"
 
 #. STRINGS.NAMES.BERRYBUSH2
 msgctxt "STRINGS.NAMES.BERRYBUSH2"
 msgid "Berry Bush"
-msgstr "Bobulovity Ker"
+msgstr "Bobulovity Ker-#&#-Berry Bush"
 
 #. STRINGS.NAMES.PIGMAN
 msgctxt "STRINGS.NAMES.PIGMAN"
 msgid "Pig Man"
-msgstr "Praseci muz"
+msgstr "Praseci muz-#&#-Pig Man"
 
 #. STRINGS.NAMES.TURF_MARSH
 msgctxt "STRINGS.NAMES.TURF_MARSH"
 msgid "Marsh Turf"
-msgstr "Bazinaty drn"
+msgstr "Bazinaty drn-#&#-Marsh Turf"
 
 #. STRINGS.NAMES.CAVE_ENTRANCE_OPEN_CAVE
 msgctxt "STRINGS.NAMES.CAVE_ENTRANCE_OPEN_CAVE"
 msgid "Deeper"
-msgstr "Hloubeji"
+msgstr "Hloubeji-#&#-Deeper"
 
 #. STRINGS.NAMES.CUTSTONE
 msgctxt "STRINGS.NAMES.CUTSTONE"
 msgid "Cut Stone"
-msgstr "Opracovane kameny"
+msgstr "Opracovane kameny-#&#-Cut Stone"
 
 #. STRINGS.NAMES.GOLDENPICKAXE
 msgctxt "STRINGS.NAMES.GOLDENPICKAXE"
 msgid "Opulent Pickaxe"
-msgstr "Okazaly krumpac"
+msgstr "Okazaly krumpac-#&#-Opulent Pickaxe"
 
 #. STRINGS.NAMES.FROG
 msgctxt "STRINGS.NAMES.FROG"
 msgid "Frog"
-msgstr "Zaba"
+msgstr "Zaba-#&#-Frog"
 
 #. STRINGS.NAMES.BONFIRE
 msgctxt "STRINGS.NAMES.BONFIRE"
 msgid "Bonfire"
-msgstr "Bonfire"
+msgstr "Bonfire-#&#-Bonfire"
 
 #. STRINGS.NAMES.HOUNDSTOOTH
 msgctxt "STRINGS.NAMES.HOUNDSTOOTH"
 msgid "Hound's Tooth"
-msgstr "Zub ohare"
+msgstr "Zub ohare-#&#-Hound's Tooth"
 
 #. STRINGS.NAMES.COOKEDSMALLMEAT
 msgctxt "STRINGS.NAMES.COOKEDSMALLMEAT"
 msgid "Cooked Morsel"
-msgstr "Pecene sousto"
+msgstr "Pecene sousto-#&#-Cooked Morsel"
 
 #. STRINGS.NAMES.STATUEHARP
 msgctxt "STRINGS.NAMES.STATUEHARP"
 msgid "Harp Statue"
-msgstr "Socha harfy"
+msgstr "Socha harfy-#&#-Harp Statue"
 
 #. STRINGS.NAMES.LICHEN
 msgctxt "STRINGS.NAMES.LICHEN"
 msgid "Cave Lichen"
-msgstr "Jeskynni lisejnik"
+msgstr "Jeskynni lisejnik-#&#-Cave Lichen"
 
 #. STRINGS.NAMES.SLURTLEHOLE
 msgctxt "STRINGS.NAMES.SLURTLEHOLE"
 msgid "Slurtle Mound"
-msgstr ""
+msgstr "-#&#-Slurtle Mound"
 
 #. STRINGS.NAMES.STALAGMITE_TALL_MED
 msgctxt "STRINGS.NAMES.STALAGMITE_TALL_MED"
 msgid "Stalagmite"
-msgstr "Stalagmit"
+msgstr "Stalagmit-#&#-Stalagmite"
 
 #. STRINGS.NAMES.TALLBIRDNEST
 msgctxt "STRINGS.NAMES.TALLBIRDNEST"
 msgid "Tallbird Nest"
-msgstr "Hnizdo velkeho ptaka"
+msgstr "Hnizdo velkeho ptaka-#&#-Tallbird Nest"
 
 #. STRINGS.NAMES.DURIAN
 msgctxt "STRINGS.NAMES.DURIAN"
 msgid "Durian"
-msgstr "Durian"
+msgstr "Durian-#&#-Durian"
 
 #. STRINGS.NAMES.FISHTACOS
 msgctxt "STRINGS.NAMES.FISHTACOS"
 msgid "Fish Tacos"
-msgstr "Rybi tortilla"
+msgstr "Rybi tortilla-#&#-Fish Tacos"
 
 #. STRINGS.NAMES.PUMPKIN_LANTERN
 msgctxt "STRINGS.NAMES.PUMPKIN_LANTERN"
 msgid "Pumpkin Lantern"
-msgstr "Dynova lucerna"
+msgstr "Dynova lucerna-#&#-Pumpkin Lantern"
 
 #. STRINGS.NAMES.TRINKET_8
 msgctxt "STRINGS.NAMES.TRINKET_8"
 msgid "Hardened Rubber Bung"
-msgstr "Ztvrdla pryzova zatka"
+msgstr "Ztvrdla pryzova zatka-#&#-Hardened Rubber Bung"
 
 #. STRINGS.NAMES.SPIDER
 msgctxt "STRINGS.NAMES.SPIDER"
 msgid "Spider"
-msgstr "Pavouk"
+msgstr "Pavouk-#&#-Spider"
 
 #. STRINGS.NAMES.PETALS
 msgctxt "STRINGS.NAMES.PETALS"
 msgid "Petals"
-msgstr "Kvety"
+msgstr "Kvety-#&#-Petals"
 
 #. STRINGS.NAMES.SNURTLE
 msgctxt "STRINGS.NAMES.SNURTLE"
 msgid "Snurtle"
-msgstr "Snurtle"
+msgstr "Snurtle-#&#-Snurtle"
 
 #. STRINGS.NAMES.NITRE
 msgctxt "STRINGS.NAMES.NITRE"
 msgid "Nitre"
-msgstr "Ledek"
+msgstr "Ledek-#&#-Nitre"
 
 #. STRINGS.NAMES.MOSQUITO
 msgctxt "STRINGS.NAMES.MOSQUITO"
 msgid "Mosquito"
-msgstr "Komar"
+msgstr "Komar-#&#-Mosquito"
 
 #. STRINGS.NAMES.TURF_CAVE
 msgctxt "STRINGS.NAMES.TURF_CAVE"
 msgid "Guano Turf"
-msgstr "Netopyri drn"
+msgstr "Netopyri drn-#&#-Guano Turf"
 
 #. STRINGS.NAMES.TRUNK_SUMMER
 msgctxt "STRINGS.NAMES.TRUNK_SUMMER"
 msgid "Koalefant Trunk"
-msgstr "Chobot Koalefanta"
+msgstr "Chobot Koalefanta-#&#-Koalefant Trunk"
 
 #. STRINGS.NAMES.UNKNOWN
 msgctxt "STRINGS.NAMES.UNKNOWN"
 msgid "Unknown"
-msgstr "Neznama"
+msgstr "Neznama-#&#-Unknown"
 
 #. STRINGS.NAMES.FRUITMEDLEY
 msgctxt "STRINGS.NAMES.FRUITMEDLEY"
 msgid "Fruit Medley"
-msgstr "Ovocna smes"
+msgstr "Ovocna smes-#&#-Fruit Medley"
 
 #. STRINGS.NAMES.MARBLE
 msgctxt "STRINGS.NAMES.MARBLE"
 msgid "Marble"
-msgstr "Mramor"
+msgstr "Mramor-#&#-Marble"
 
 #. STRINGS.NAMES.RESURRECTIONSTONE
 msgctxt "STRINGS.NAMES.RESURRECTIONSTONE"
 msgid "Touch Stone"
-msgstr "Touch Stone (Kamen doteku)"
+msgstr "Kamen doteku-#&#-Touch Stone"
 
 #. STRINGS.NAMES.FISH
 msgctxt "STRINGS.NAMES.FISH"
 msgid "Fish"
-msgstr "Ryba"
+msgstr "Ryba-#&#-Fish"
 
 #. STRINGS.NAMES.SPIDER_HIDER
 msgctxt "STRINGS.NAMES.SPIDER_HIDER"
 msgid "Cave Spider"
-msgstr "Pavouk jeskynni"
+msgstr "Pavouk jeskynni-#&#-Cave Spider"
 
 #. STRINGS.NAMES.SEEDS_COOKED
 msgctxt "STRINGS.NAMES.SEEDS_COOKED"
 msgid "Toasted Seeds"
-msgstr "Oprazena seminka"
+msgstr "Oprazena seminka-#&#-Toasted Seeds"
 
 #. STRINGS.NAMES.BATCAVE
 msgctxt "STRINGS.NAMES.BATCAVE"
 msgid "Bat Cave"
-msgstr "Netopyri sluj"
+msgstr "Netopyri sluj-#&#-Bat Cave"
 
 #. STRINGS.NAMES.MUSHTREE_SMALL
 msgctxt "STRINGS.NAMES.MUSHTREE_SMALL"
 msgid "Green Mushtree"
-msgstr "Zeleny houbostrom"
+msgstr "Zeleny houbostrom-#&#-Green Mushtree"
 
 #. STRINGS.NAMES.MINOTAURHORN
 msgctxt "STRINGS.NAMES.MINOTAURHORN"
 msgid "Guardian's Horn"
-msgstr "Strazcuv roh"
+msgstr "Strazcuv roh-#&#-Guardian's Horn"
 
 #. STRINGS.NAMES.BOOK_SLEEP
 msgctxt "STRINGS.NAMES.BOOK_SLEEP"
 msgid "Sleepytime Stories"
-msgstr "Pohadky pred spanim"
+msgstr "Pohadky pred spanim-#&#-Sleepytime Stories"
 
 #. STRINGS.NAMES.MONSTERMEAT
 msgctxt "STRINGS.NAMES.MONSTERMEAT"
 msgid "Monster Meat"
-msgstr "Maso prisery"
+msgstr "Maso prisery-#&#-Monster Meat"
 
 #. STRINGS.NAMES.TRUNK_COOKED
 msgctxt "STRINGS.NAMES.TRUNK_COOKED"
 msgid "Koalefant Trunk Steak"
-msgstr ""
+msgstr "-#&#-Koalefant Trunk Steak"
 
 #. STRINGS.NAMES.NIGHTLIGHT
 msgctxt "STRINGS.NAMES.NIGHTLIGHT"
 msgid "Night Light"
-msgstr "Nocni svetlo"
+msgstr "Nocni svetlo-#&#-Night Light"
 
 #. STRINGS.NAMES.JAMMYPRESERVES
 msgctxt "STRINGS.NAMES.JAMMYPRESERVES"
 msgid "Fist Full of Jam"
-msgstr "Hrst plna dzemu"
+msgstr "Hrst plna dzemu-#&#-Fist Full of Jam"
 
 #. STRINGS.NAMES.TURF_DIRT
 msgctxt "STRINGS.NAMES.TURF_DIRT"
 msgid "Dirt Turf"
-msgstr "Hlinity drn"
+msgstr "Hlinity drn-#&#-Dirt Turf"
 
 #. STRINGS.NAMES.CHESSJUNK2
 msgctxt "STRINGS.NAMES.CHESSJUNK2"
 msgid "Broken clockworks"
-msgstr "Rozbity mechanismus"
+msgstr "Rozbity mechanismus-#&#-Broken clockworks"
 
 #. STRINGS.NAMES.GREEN_CAP
 msgctxt "STRINGS.NAMES.GREEN_CAP"
 msgid "Green Cap"
-msgstr "Zeleny kloboucek"
+msgstr "Zeleny kloboucek-#&#-Green Cap"
 
 #. STRINGS.NAMES.SEWING_KIT
 msgctxt "STRINGS.NAMES.SEWING_KIT"
 msgid "Sewing Kit"
-msgstr "Sici souprava"
+msgstr "Sici souprava-#&#-Sewing Kit"
 
 #. STRINGS.NAMES.CARROT
 msgctxt "STRINGS.NAMES.CARROT"
 msgid "Carrot"
-msgstr "Mrkev"
+msgstr "Mrkev-#&#-Carrot"
 
 #. STRINGS.NAMES.STALAGMITE
 msgctxt "STRINGS.NAMES.STALAGMITE"
 msgid "Stalagmite"
-msgstr "Stalagmit"
+msgstr "Stalagmit-#&#-Stalagmite"
 
 #. STRINGS.NAMES.TENTACLE_GARDEN
 msgctxt "STRINGS.NAMES.TENTACLE_GARDEN"
 msgid "Big Tentacle"
-msgstr "Velke chapadlo"
+msgstr "Velke chapadlo-#&#-Big Tentacle"
 
 #. STRINGS.NAMES.BAT
 msgctxt "STRINGS.NAMES.BAT"
 msgid "Batilisk"
-msgstr "Netopyr"
+msgstr "Netopyr-#&#-Batilisk"
 
 #. STRINGS.NAMES.ICEBOX
 msgctxt "STRINGS.NAMES.ICEBOX"
 msgid "Ice Box"
-msgstr "Lednice"
+msgstr "Lednice-#&#-Ice Box"
 
 #. STRINGS.NAMES.RESEARCHLAB4
 msgctxt "STRINGS.NAMES.RESEARCHLAB4"
 msgid "Prestihatitator"
-msgstr "Abrakacylindra"
+msgstr "Abrakacylindra-#&#-Prestihatitator"
 
 #. STRINGS.NAMES.LIGHTBULB
 msgctxt "STRINGS.NAMES.LIGHTBULB"
 msgid "Light Bulb"
-msgstr "Zarovka"
+msgstr "Zarovka-#&#-Light Bulb"
 
 #. STRINGS.NAMES.KRAMPUS_SACK
 msgctxt "STRINGS.NAMES.KRAMPUS_SACK"
 msgid "Krampus Sack"
-msgstr "Krampusuv pytel"
+msgstr "Krampusuv pytel-#&#-Krampus Sack"
 
 #. STRINGS.NAMES.TALLBIRDEGG_COOKED
 msgctxt "STRINGS.NAMES.TALLBIRDEGG_COOKED"
 msgid "Fried Tallbird Egg"
-msgstr "Pecene vejce Velkoptaka"
+msgstr "Pecene vejce Velkoptaka-#&#-Fried Tallbird Egg"
 
 #. STRINGS.NAMES.GREEN_CAP_COOKED
 msgctxt "STRINGS.NAMES.GREEN_CAP_COOKED"
 msgid "Cooked Green Cap"
-msgstr "Uvareny zeleny kloboucek"
+msgstr "Uvareny zeleny kloboucek-#&#-Cooked Green Cap"
 
 #. STRINGS.NAMES.RELIC
 msgctxt "STRINGS.NAMES.RELIC"
 msgid "Relic"
-msgstr "Relikvie"
+msgstr "Relikvie-#&#-Relic"
 
 #. STRINGS.NAMES.NIGHTMAREFUEL
 msgctxt "STRINGS.NAMES.NIGHTMAREFUEL"
 msgid "Nightmare Fuel"
-msgstr "Palivo nocnich mur"
+msgstr "Palivo nocnich mur-#&#-Nightmare Fuel"
 
 #. STRINGS.NAMES.FLOWER
 msgctxt "STRINGS.NAMES.FLOWER"
 msgid "Flower"
-msgstr "Kvetina"
+msgstr "Kvetina-#&#-Flower"
 
 #. STRINGS.NAMES.TRINKET_2
 msgctxt "STRINGS.NAMES.TRINKET_2"
 msgid "Fake Kazoo"
-msgstr "Falesne kazoo"
+msgstr "Falesne kazoo-#&#-Fake Kazoo"
 
 #. STRINGS.NAMES.PUMPKIN_COOKED
 msgctxt "STRINGS.NAMES.PUMPKIN_COOKED"
 msgid "Hot Pumpkin"
-msgstr "Horka dyne"
+msgstr "Horka dyne-#&#-Hot Pumpkin"
 
 #. STRINGS.NAMES.FIRE
 msgctxt "STRINGS.NAMES.FIRE"
 msgid "Fire"
-msgstr "Ohen"
+msgstr "Ohen-#&#-Fire"
 
 #. STRINGS.NAMES.MAXWELLTHRONE
 msgctxt "STRINGS.NAMES.MAXWELLTHRONE"
 msgid "Nightmare Throne"
-msgstr "Trun nocnich mur"
+msgstr "Trun nocnich mur-#&#-Nightmare Throne"
 
 #. STRINGS.NAMES.CANE
 msgctxt "STRINGS.NAMES.CANE"
 msgid "Walking Cane"
-msgstr "Vychazkova hole"
+msgstr "Vychazkova hole-#&#-Walking Cane"
 
 #. STRINGS.NAMES.DARKNESS
 msgctxt "STRINGS.NAMES.DARKNESS"
 msgid "Darkness"
-msgstr "Temnota"
+msgstr "Temnota-#&#-Darkness"
 
 #. STRINGS.NAMES.BEEHAT
 msgctxt "STRINGS.NAMES.BEEHAT"
 msgid "Beekeeper Hat"
-msgstr "Vcelarska kukla"
+msgstr "Vcelarska kukla-#&#-Beekeeper Hat"
 
 #. STRINGS.NAMES.MEAT
 msgctxt "STRINGS.NAMES.MEAT"
 msgid "Meat"
-msgstr "Maso"
+msgstr "Maso-#&#-Meat"
 
 #. STRINGS.NAMES.BEARDHAIR
 msgctxt "STRINGS.NAMES.BEARDHAIR"
 msgid "Beard Hair"
-msgstr "Vousy"
+msgstr "Vousy-#&#-Beard Hair"
 
 #. STRINGS.NAMES.ORANGEGEM
 msgctxt "STRINGS.NAMES.ORANGEGEM"
 msgid "Orange Gem"
-msgstr "Oranzovy drahokam"
+msgstr "Oranzovy drahokam-#&#-Orange Gem"
 
 #. STRINGS.NAMES.STATUEMAXWELL
 msgctxt "STRINGS.NAMES.STATUEMAXWELL"
 msgid "Maxwell Statue"
-msgstr "Socha Maxwella"
+msgstr "Socha Maxwella-#&#-Maxwell Statue"
 
 #. STRINGS.NAMES.ANCIENT_STATUE
 msgctxt "STRINGS.NAMES.ANCIENT_STATUE"
 msgid "Ancient statue"
-msgstr "Starodavna socha"
+msgstr "Starodavna socha-#&#-Ancient statue"
 
 #. STRINGS.NAMES.FLINT
 msgctxt "STRINGS.NAMES.FLINT"
 msgid "Flint"
-msgstr "Pazourek"
+msgstr "Pazourek-#&#-Flint"
 
 #. STRINGS.NAMES.FEATHER_ROBIN
 msgctxt "STRINGS.NAMES.FEATHER_ROBIN"
 msgid "Crimson Feather"
-msgstr "Rude pirko"
+msgstr "Rude pirko-#&#-Crimson Feather"
 
 #. STRINGS.NAMES.CUTREEDS
 msgctxt "STRINGS.NAMES.CUTREEDS"
 msgid "Cut Reeds"
-msgstr "Natrhane rakosi"
+msgstr "Natrhane rakosi-#&#-Cut Reeds"
 
 #. STRINGS.NAMES.WALL_RUINS_ITEM
 msgctxt "STRINGS.NAMES.WALL_RUINS_ITEM"
 msgid "Thulecite Wall"
-msgstr "Thulecite Wall (Zed z artefaktu)"
+msgstr "Zed z artefaktu-#&#-Thulecite Wall"
 
 #. STRINGS.NAMES.KRAMPUS
 msgctxt "STRINGS.NAMES.KRAMPUS"
 msgid "Krampus"
-msgstr "Krampus"
+msgstr "Krampus-#&#-Krampus"
 
 #. STRINGS.NAMES.RATATOUILLE
 msgctxt "STRINGS.NAMES.RATATOUILLE"
 msgid "Ratatouille"
-msgstr "Ratatouille"
+msgstr "Ratatouille-#&#-Ratatouille"
 
 #. STRINGS.NAMES.PIGHOUSE
 msgctxt "STRINGS.NAMES.PIGHOUSE"
 msgid "Pig House"
-msgstr "Praseci domek"
+msgstr "Praseci domek-#&#-Pig House"
 
 #. STRINGS.NAMES.KNIGHT_NIGHTMARE
 msgctxt "STRINGS.NAMES.KNIGHT_NIGHTMARE"
 msgid "Damaged Knight"
-msgstr "Poniceny jezdec"
+msgstr "Poniceny jezdec-#&#-Damaged Knight"
 
 #. STRINGS.NAMES.TURF_MUD
 msgctxt "STRINGS.NAMES.TURF_MUD"
 msgid "Mud Turf"
-msgstr "Bahnity drn"
+msgstr "Bahnity drn-#&#-Mud Turf"
 
 #. STRINGS.NAMES.FROGLEGS
 msgctxt "STRINGS.NAMES.FROGLEGS"
 msgid "Frog Legs"
-msgstr "Zabi stehynka"
+msgstr "Zabi stehynka-#&#-Frog Legs"
 
 #. STRINGS.NAMES.WILSON
 msgctxt "STRINGS.NAMES.WILSON"
 msgid "Wilson"
-msgstr "Wilson"
+msgstr "Wilson-#&#-Wilson"
 
 #. STRINGS.NAMES.THULECITE_PIECES
 msgctxt "STRINGS.NAMES.THULECITE_PIECES"
 msgid "Thulecite Fragments"
-msgstr "Thulecite Fragments (Fragmenty artefaktu)"
+msgstr "Fragmenty artefaktu-#&#-Thulecite Fragments"
 
 #. STRINGS.NAMES.WILLOW
 msgctxt "STRINGS.NAMES.WILLOW"
 msgid "Willow"
-msgstr "Willow"
+msgstr "Willow-#&#-Willow"
 
 #. STRINGS.NAMES.ROBIN
 msgctxt "STRINGS.NAMES.ROBIN"
 msgid "Redbird"
-msgstr "Cerveny ptak"
+msgstr "Cerveny ptak-#&#-Redbird"
 
 #. STRINGS.NAMES.RESEARCHLAB2
 msgctxt "STRINGS.NAMES.RESEARCHLAB2"
 msgid "Alchemy Engine"
-msgstr "Alchemisticky Stroj"
+msgstr "Alchemisticky Stroj-#&#-Alchemy Engine"
 
 #. STRINGS.NAMES.LIVINGLOG
 msgctxt "STRINGS.NAMES.LIVINGLOG"
 msgid "Living Log"
-msgstr "Ozivle poleno"
+msgstr "Ozivle poleno-#&#-Living Log"
 
 #. STRINGS.NAMES.BALLOONS_EMPTY
 msgctxt "STRINGS.NAMES.BALLOONS_EMPTY"
 msgid "Pile o' Balloons"
-msgstr ""
+msgstr "-#&#-Pile o' Balloons"
 
 #. STRINGS.NAMES.MARSH_BUSH
 msgctxt "STRINGS.NAMES.MARSH_BUSH"
 msgid "Spiky Bush"
-msgstr "Trnity ker"
+msgstr "Trnity ker-#&#-Spiky Bush"
 
 #. STRINGS.NAMES.BANDAGE
 msgctxt "STRINGS.NAMES.BANDAGE"
 msgid "Honey Poultice"
-msgstr "Medovy obklad"
+msgstr "Medovy obklad-#&#-Honey Poultice"
 
 #. STRINGS.NAMES.TRINKET_12
 msgctxt "STRINGS.NAMES.TRINKET_12"
 msgid "Dessicated Tentacle"
-msgstr "Susene chapadlo"
+msgstr "Susene chapadlo-#&#-Dessicated Tentacle"
 
 #. STRINGS.NAMES.DEFAULT
 msgctxt "STRINGS.NAMES.DEFAULT"
 msgid "INVENTORY ITEM"
-msgstr "PREDMET V INVENTARI"
+msgstr "PREDMET V INVENTARI-#&#-INVENTORY ITEM"
 
 #. STRINGS.NAMES.MARSH_PLANT
 msgctxt "STRINGS.NAMES.MARSH_PLANT"
 msgid "Plant"
-msgstr "Rostlina"
+msgstr "Rostlina-#&#-Plant"
 
 #. STRINGS.NAMES.TURF_UNDERROCK
 msgctxt "STRINGS.NAMES.TURF_UNDERROCK"
 msgid "Cave Rock Turf"
-msgstr "Povrch z jeskyne"
+msgstr "Povrch z jeskyne-#&#-Cave Rock Turf"
 
 #. STRINGS.NAMES.PANFLUTE
 msgctxt "STRINGS.NAMES.PANFLUTE"
 msgid "Pan Flute"
-msgstr "Panova fletna"
+msgstr "Panova fletna-#&#-Pan Flute"
 
 #. STRINGS.NAMES.TRINKET_5
 msgctxt "STRINGS.NAMES.TRINKET_5"
 msgid "Tiny Rocketship"
-msgstr "Mala raketka"
+msgstr "Mala raketka-#&#-Tiny Rocketship"
 
 #. STRINGS.NAMES.WALL_HAY
 msgctxt "STRINGS.NAMES.WALL_HAY"
 msgid "Hay Wall"
-msgstr "Slamena zed"
+msgstr "Slamena zed-#&#-Hay Wall"
 
 #. STRINGS.NAMES.LANTERN
 msgctxt "STRINGS.NAMES.LANTERN"
 msgid "Lantern"
-msgstr "Lucerna"
+msgstr "Lucerna-#&#-Lantern"
 
 #. STRINGS.NAMES.TRINKET_9
 msgctxt "STRINGS.NAMES.TRINKET_9"
 msgid "Mismatched Buttons"
-msgstr "Neshodne knofliky"
+msgstr "Neshodne knofliky-#&#-Mismatched Buttons"
 
 #. STRINGS.NAMES.ROPE
 msgctxt "STRINGS.NAMES.ROPE"
 msgid "Rope"
-msgstr "Lano"
+msgstr "Lano-#&#-Rope"
 
 #. STRINGS.NAMES.DEVTOOL
 msgctxt "STRINGS.NAMES.DEVTOOL"
 msgid "Dev Tool"
-msgstr "Dev Tool"
+msgstr "Dev Tool-#&#-Dev Tool"
 
 #. STRINGS.NAMES.SLURPER_PELT
 msgctxt "STRINGS.NAMES.SLURPER_PELT"
 msgid "Slurper Pelt"
-msgstr ""
+msgstr "-#&#-Slurper Pelt"
 
 #. STRINGS.NAMES.EEL
 msgctxt "STRINGS.NAMES.EEL"
 msgid "Eel"
-msgstr "Uhor"
+msgstr "Uhor-#&#-Eel"
 
 #. STRINGS.NAMES.BEEMINE_MAXWELL
 msgctxt "STRINGS.NAMES.BEEMINE_MAXWELL"
 msgid "Maxwell's Mosquito Trap"
-msgstr "Maxwelova past na komary"
+msgstr "Maxwelova past na komary-#&#-Maxwell's Mosquito Trap"
 
 #. STRINGS.NAMES.BABYBEEFALO
 msgctxt "STRINGS.NAMES.BABYBEEFALO"
 msgid "Baby Beefalo"
-msgstr "Mlade buvola"
+msgstr "Mlade buvola-#&#-Baby Beefalo"
 
 #. STRINGS.NAMES.MARBLEPILLAR
 msgctxt "STRINGS.NAMES.MARBLEPILLAR"
 msgid "Marble Pillar"
-msgstr "Mramorovy sloup"
+msgstr "Mramorovy sloup-#&#-Marble Pillar"
 
 #. STRINGS.NAMES.POND_CAVE
 msgctxt "STRINGS.NAMES.POND_CAVE"
 msgid "Pond"
-msgstr "Jezirko"
+msgstr "Jezirko-#&#-Pond"
 
 #. STRINGS.NAMES.BLUE_CAP_COOKED
 msgctxt "STRINGS.NAMES.BLUE_CAP_COOKED"
 msgid "Cooked Blue Cap"
-msgstr "Uvareny modry kloboucek"
+msgstr "Uvareny modry kloboucek-#&#-Cooked Blue Cap"
 
 #. STRINGS.NAMES.LUCY
 msgctxt "STRINGS.NAMES.LUCY"
 msgid "Lucy the Axe"
-msgstr "Lucy, sekera"
+msgstr "Lucy, sekera-#&#-Lucy the Axe"
 
 #. STRINGS.NAMES.PEROGIES
 msgctxt "STRINGS.NAMES.PEROGIES"
 msgid "Pierogi"
-msgstr "Pirohy"
+msgstr "Pirohy-#&#-Pierogi"
 
 #. STRINGS.NAMES.FROGGLEBUNWICH
 msgctxt "STRINGS.NAMES.FROGGLEBUNWICH"
 msgid "Froggle Bunwich"
-msgstr "Zabi sendvic"
+msgstr "Zabi sendvic-#&#-Froggle Bunwich"
 
 #. STRINGS.NAMES.HONEYHAM
 msgctxt "STRINGS.NAMES.HONEYHAM"
 msgid "Honey Ham"
-msgstr "Medova sunka"
+msgstr "Medova sunka-#&#-Honey Ham"
 
 #. STRINGS.NAMES.ARMORSLURPER
 msgctxt "STRINGS.NAMES.ARMORSLURPER"
 msgid "Belt of Hunger"
-msgstr "Opasek hladu"
+msgstr "Opasek hladu-#&#-Belt of Hunger"
 
 #. STRINGS.NAMES.MAXWELL
 msgctxt "STRINGS.NAMES.MAXWELL"
 msgid "Maxwell"
-msgstr "Maxwell"
+msgstr "Maxwell-#&#-Maxwell"
 
 #. STRINGS.NAMES.TENTACLESPOTS
 msgctxt "STRINGS.NAMES.TENTACLESPOTS"
 msgid "Tentacle Spots"
-msgstr "Prisavky chapadla"
+msgstr "Prisavky chapadla-#&#-Tentacle Spots"
 
 #. STRINGS.NAMES.PUMPKIN_SEEDS
 msgctxt "STRINGS.NAMES.PUMPKIN_SEEDS"
 msgid "Pumpkin Seeds"
-msgstr "Dynova seminka"
+msgstr "Dynova seminka-#&#-Pumpkin Seeds"
 
 #. STRINGS.NAMES.EVERGREEN
 msgctxt "STRINGS.NAMES.EVERGREEN"
 msgid "Evergreen"
-msgstr "Zelenac"
+msgstr "Zelenac-#&#-Evergreen"
 
 #. STRINGS.NAMES.SKULLCHEST
 msgctxt "STRINGS.NAMES.SKULLCHEST"
 msgid "Skullchest"
-msgstr ""
+msgstr "-#&#-Skullchest"
 
 #. STRINGS.NAMES.PIGTORCH
 msgctxt "STRINGS.NAMES.PIGTORCH"
 msgid "Pig Torch"
-msgstr "Praseci pochoden"
+msgstr "Praseci pochoden-#&#-Pig Torch"
 
 #. STRINGS.NAMES.GREENAMULET
 msgctxt "STRINGS.NAMES.GREENAMULET"
 msgid "Construction Amulet"
-msgstr "Konstrukcni Amulet"
+msgstr "Konstrukcni Amulet-#&#-Construction Amulet"
 
 #. STRINGS.NAMES.DUG_BERRYBUSH
 msgctxt "STRINGS.NAMES.DUG_BERRYBUSH"
 msgid "Berry Bush"
-msgstr "Bobulovity Ker"
+msgstr "Bobulovity Ker-#&#-Berry Bush"
 
 #. STRINGS.NAMES.TURKEYDINNER
 msgctxt "STRINGS.NAMES.TURKEYDINNER"
 msgid "Turkey Dinner"
-msgstr "Krocani vecere"
+msgstr "Krocani vecere-#&#-Turkey Dinner"
 
 #. STRINGS.NAMES.PAPYRUS
 msgctxt "STRINGS.NAMES.PAPYRUS"
 msgid "Papyrus"
-msgstr "Papyrus"
+msgstr "Papyrus-#&#-Papyrus"
 
 #. STRINGS.NAMES.ORANGEAMULET
 msgctxt "STRINGS.NAMES.ORANGEAMULET"
 msgid "The Lazy Forager"
-msgstr "Liny Sberac"
+msgstr "Liny Sberac-#&#-The Lazy Forager"
 
 #. STRINGS.NAMES.LOCKEDWES
 msgctxt "STRINGS.NAMES.LOCKEDWES"
 msgid "Wes"
-msgstr "Wes"
+msgstr "Wes-#&#-Wes"
 
 #. STRINGS.NAMES.FIREHOUND
 msgctxt "STRINGS.NAMES.FIREHOUND"
 msgid "Red Hound"
-msgstr "Rudy Ohar"
+msgstr "Rudy Ohar-#&#-Red Hound"
 
 #. STRINGS.NAMES.GUNPOWDER
 msgctxt "STRINGS.NAMES.GUNPOWDER"
 msgid "Gunpowder"
-msgstr "Strelny prach"
+msgstr "Strelny prach-#&#-Gunpowder"
 
 #. STRINGS.NAMES.CHARLIE
 msgctxt "STRINGS.NAMES.CHARLIE"
 msgid "Charlie"
-msgstr "Charlie"
+msgstr "Charlie-#&#-Charlie"
 
 #. STRINGS.NAMES.TELEBASE
 msgctxt "STRINGS.NAMES.TELEBASE"
 msgid "Telelocator Focus"
-msgstr "Ohnisko Teleportu"
+msgstr "Ohnisko Teleportu-#&#-Telelocator Focus"
 
 #. STRINGS.NAMES.WORM.PLANT
 msgctxt "STRINGS.NAMES.WORM.PLANT"
 msgid "Mysterious Plant"
-msgstr "Zahadna Rostlina"
+msgstr "Zahadna Rostlina-#&#-Mysterious Plant"
 
 #. STRINGS.NAMES.WORM.DIRT
 msgctxt "STRINGS.NAMES.WORM.DIRT"
 msgid "Dirt Mound"
-msgstr "Spinava hromadka"
+msgstr "Spinava hromadka-#&#-Dirt Mound"
 
 #. STRINGS.NAMES.WORM.WORM
 msgctxt "STRINGS.NAMES.WORM.WORM"
 msgid "WOOOOOOOOOORM!"
-msgstr "CEEEEEEEEEEEEEEEERV!"
+msgstr "CEEEEEEEEEEEEEEEERV!-#&#-WOOOOOOOOOORM!"
 
 #. STRINGS.NAMES.POND_ALGAE
 msgctxt "STRINGS.NAMES.POND_ALGAE"
 msgid "Algae"
-msgstr "Rasy"
+msgstr "Rasy-#&#-Algae"
 
 #. STRINGS.NAMES.EYETURRET_ITEM
 msgctxt "STRINGS.NAMES.EYETURRET_ITEM"
 msgid "Houndius Shootius"
-msgstr "Oharius Strelcius"
+msgstr "Oharius Strelcius-#&#-Houndius Shootius"
 
 #. STRINGS.NAMES.FLOWER_CAVE
 msgctxt "STRINGS.NAMES.FLOWER_CAVE"
 msgid "Light Flower"
-msgstr "Light Flower (Svetelkujici kvetina)"
+msgstr "Svetelkujici kvetina-#&#-Light Flower"
 
 #. STRINGS.NAMES.MAGIC_BLUEPRINT
 msgctxt "STRINGS.NAMES.MAGIC_BLUEPRINT"
 msgid "Blank Blueprint"
-msgstr "Prazdny planek"
+msgstr "Prazdny planek-#&#-Blank Blueprint"
 
 #. STRINGS.NAMES.UNAGI
 msgctxt "STRINGS.NAMES.UNAGI"
 msgid "Unagi"
-msgstr "Sladkovodni uhor"
+msgstr "Sladkovodni uhor-#&#-Unagi"
 
 #. STRINGS.NAMES.SPIDER_DROPPER
 msgctxt "STRINGS.NAMES.SPIDER_DROPPER"
 msgid "Dangling Depth Dweller"
-msgstr "Visici obyvatel hlubin"
+msgstr "Visici obyvatel hlubin-#&#-Dangling Depth Dweller"
 
 #. STRINGS.NAMES.ROOK_NIGHTMARE
 msgctxt "STRINGS.NAMES.ROOK_NIGHTMARE"
 msgid "Damaged Rook"
-msgstr "Ponicena vez"
+msgstr "Ponicena vez-#&#-Damaged Rook"
 
 #. STRINGS.NAMES.BISHOP_NIGHTMARE
 msgctxt "STRINGS.NAMES.BISHOP_NIGHTMARE"
 msgid "Damaged Bishop"
-msgstr "Rozbity strelec"
+msgstr "Rozbity strelec-#&#-Damaged Bishop"
 
 #. STRINGS.NAMES.NIGHTMARE_TIMEPIECE
 msgctxt "STRINGS.NAMES.NIGHTMARE_TIMEPIECE"
 msgid "Thulecite Medallion"
-msgstr "Thulecite Medallion (Medailon s artefaktem)"
+msgstr "Medailon s artefaktem-#&#-Thulecite Medallion"
 
 #. STRINGS.NAMES.ANCIENT_ALTAR
 msgctxt "STRINGS.NAMES.ANCIENT_ALTAR"
 msgid "Ancient Pseudoscience Station"
-msgstr "Starodavna pseudovedecka stanice"
+msgstr "Starodavna pseudovedecka stanice-#&#-Ancient Pseudoscience Station"
 
 #. STRINGS.NAMES.STAFFLIGHT
 msgctxt "STRINGS.NAMES.STAFFLIGHT"
 msgid "Dwarf Star"
-msgstr "Trpaslici hvezda"
+msgstr "Trpaslici hvezda-#&#-Dwarf Star"
 
 #. STRINGS.NAMES.MARBLETREE
 msgctxt "STRINGS.NAMES.MARBLETREE"
 msgid "Marble Tree"
-msgstr "Mramorovy strom"
+msgstr "Mramorovy strom-#&#-Marble Tree"
 
 #. STRINGS.NAMES.RUINS_BAT
 msgctxt "STRINGS.NAMES.RUINS_BAT"
 msgid "Thulecite Club"
-msgstr "Thulecite Club (Kyj z artefaktu)"
+msgstr "Kyj z artefaktu-#&#-Thulecite Club"
 
 #. STRINGS.NAMES.CROP
 msgctxt "STRINGS.NAMES.CROP"
 msgid "Crop"
-msgstr "Plodina"
+msgstr "Plodina-#&#-Crop"
 
 #. STRINGS.NAMES.SLURPER
 msgctxt "STRINGS.NAMES.SLURPER"
 msgid "Slurper"
-msgstr ""
+msgstr "-#&#-Slurper"
 
 #. STRINGS.NAMES.CARROT_SEEDS
 msgctxt "STRINGS.NAMES.CARROT_SEEDS"
 msgid "Carrot Seeds"
-msgstr "Mrkvova seminka"
+msgstr "Mrkvova seminka-#&#-Carrot Seeds"
 
 #. STRINGS.NAMES.TENTACLE
 msgctxt "STRINGS.NAMES.TENTACLE"
 msgid "Tentacle"
-msgstr "Chapadlo"
+msgstr "Chapadlo-#&#-Tentacle"
 
 #. STRINGS.NAMES.DUG_SAPLING
 msgctxt "STRINGS.NAMES.DUG_SAPLING"
 msgid "Sapling"
-msgstr "Sazenice"
+msgstr "Sazenice-#&#-Sapling"
 
 #. STRINGS.NAMES.BEEHIVE
 msgctxt "STRINGS.NAMES.BEEHIVE"
 msgid "Beehive"
-msgstr "Vceli ul"
+msgstr "Vceli ul-#&#-Beehive"
 
 #. STRINGS.NAMES.CAVE_BANANA_COOKED
 msgctxt "STRINGS.NAMES.CAVE_BANANA_COOKED"
 msgid "Cooked Banana"
-msgstr "Peceny banan"
+msgstr "Peceny banan-#&#-Cooked Banana"
 
 #. STRINGS.NAMES.CAVE_FERN
 msgctxt "STRINGS.NAMES.CAVE_FERN"
 msgid "Fern"
-msgstr "Kapradina"
+msgstr "Kapradina-#&#-Fern"
 
 #. STRINGS.NAMES.CAVE_BANANA
 msgctxt "STRINGS.NAMES.CAVE_BANANA"
 msgid "Cave Banana"
-msgstr "Jeskynni banan"
+msgstr "Jeskynni banan-#&#-Cave Banana"
 
 #. STRINGS.NAMES.PLANTMEAT_COOKED
 msgctxt "STRINGS.NAMES.PLANTMEAT_COOKED"
 msgid "Cooked Leafy Meat"
-msgstr "Uvarene Listnate maso"
+msgstr "Uvarene Listnate maso-#&#-Cooked Leafy Meat"
 
 #. STRINGS.NAMES.BATBAT
 msgctxt "STRINGS.NAMES.BATBAT"
 msgid "Bat Bat"
-msgstr "Bat Bat"
+msgstr "Bat Bat-#&#-Bat Bat"
 
 #. STRINGS.NAMES.HEALINGSALVE
 msgctxt "STRINGS.NAMES.HEALINGSALVE"
 msgid "Healing Salve"
-msgstr "Lecivy Balzam"
+msgstr "Lecivy Balzam-#&#-Healing Salve"
 
 #. STRINGS.NAMES.TELEPORTATO_CRANK
 msgctxt "STRINGS.NAMES.TELEPORTATO_CRANK"
 msgid "Crank thing"
-msgstr "Zdvizne klikovita vec"
+msgstr "Zdvizne klikovita vec-#&#-Crank thing"
 
 #. STRINGS.NAMES.PIGGYBACK
 msgctxt "STRINGS.NAMES.PIGGYBACK"
 msgid "Piggyback"
-msgstr "Kozeny batoh"
+msgstr "Kozeny batoh-#&#-Piggyback"
 
 #. STRINGS.NAMES.EYEPLANT
 msgctxt "STRINGS.NAMES.EYEPLANT"
 msgid "Eye Plant"
-msgstr "Ocni rostlina"
+msgstr "Ocni rostlina-#&#-Eye Plant"
 
 #. STRINGS.NAMES.CHESTER
 msgctxt "STRINGS.NAMES.CHESTER"
 msgid "Chester"
-msgstr "Chester"
+msgstr "Chester-#&#-Chester"
 
 #. STRINGS.NAMES.GUANO
 msgctxt "STRINGS.NAMES.GUANO"
 msgid "Guano"
-msgstr "Guano"
+msgstr "Guano-#&#-Guano"
 
 #. STRINGS.NAMES.SPIDERHOLE
 msgctxt "STRINGS.NAMES.SPIDERHOLE"
 msgid "Spilagmite"
-msgstr "Spilagmit"
+msgstr "Spilagmit-#&#-Spilagmite"
 
 #. STRINGS.NAMES.STALAGMITE_TALL_LOW
 msgctxt "STRINGS.NAMES.STALAGMITE_TALL_LOW"
 msgid "Stalagmite"
-msgstr "Stalagmit"
+msgstr "Stalagmit-#&#-Stalagmite"
 
 #. STRINGS.NAMES.WALL_STONE
 msgctxt "STRINGS.NAMES.WALL_STONE"
 msgid "Stone Wall"
-msgstr "Kamenna zed"
+msgstr "Kamenna zed-#&#-Stone Wall"
 
 #. STRINGS.NAMES.STALAGMITE_TALL
 msgctxt "STRINGS.NAMES.STALAGMITE_TALL"
 msgid "Stalagmite"
-msgstr "Stalagmit"
+msgstr "Stalagmit-#&#-Stalagmite"
 
 #. STRINGS.NAMES.STALAGMITE_LOW
 msgctxt "STRINGS.NAMES.STALAGMITE_LOW"
 msgid "Stalagmite"
-msgstr "Stalagmit"
+msgstr "Stalagmit-#&#-Stalagmite"
 
 #. STRINGS.NAMES.FEATHER_ROBIN_WINTER
 msgctxt "STRINGS.NAMES.FEATHER_ROBIN_WINTER"
 msgid "Azure Feather"
-msgstr "Azurove pirko"
+msgstr "Azurove pirko-#&#-Azure Feather"
 
 #. STRINGS.NAMES.FLOWER_CAVE_DOUBLE
 msgctxt "STRINGS.NAMES.FLOWER_CAVE_DOUBLE"
 msgid "Light Flower"
-msgstr "Light Flower (Svetelkujici kvetina)"
+msgstr "Svetelkujici kvetina-#&#-Light Flower"
 
 #. STRINGS.NAMES.MERMHEAD
 msgctxt "STRINGS.NAMES.MERMHEAD"
 msgid "Merm Head"
-msgstr ""
+msgstr "-#&#-Merm Head"
 
 #. STRINGS.NAMES.POWCAKE
 msgctxt "STRINGS.NAMES.POWCAKE"
 msgid "Powdercake"
-msgstr "Prasivy dort"
+msgstr "Prasivy dort-#&#-Powdercake"
 
 #. STRINGS.NAMES.BATWING_COOKED
 msgctxt "STRINGS.NAMES.BATWING_COOKED"
 msgid "Cooked Batilisk Wing"
-msgstr "Pecene netopyri kridelko"
+msgstr "Pecene netopyri kridelko-#&#-Cooked Batilisk Wing"
 
 #. STRINGS.NAMES.PIGHEAD
 msgctxt "STRINGS.NAMES.PIGHEAD"
 msgid "Pig Head"
-msgstr "Praseci hlava"
+msgstr "Praseci hlava-#&#-Pig Head"
 
 #. STRINGS.NAMES.WASPHIVE
 msgctxt "STRINGS.NAMES.WASPHIVE"
 msgid "Killer Bee Hive"
-msgstr "Ul zabijackych vcel"
+msgstr "Ul zabijackych vcel-#&#-Killer Bee Hive"
 
 #. STRINGS.NAMES.PIGSKIN
 msgctxt "STRINGS.NAMES.PIGSKIN"
 msgid "Pig Skin"
-msgstr "Praseci kuze"
+msgstr "Praseci kuze-#&#-Pig Skin"
 
 #. STRINGS.NAMES.SLURTLE_SHELLPIECES
 msgctxt "STRINGS.NAMES.SLURTLE_SHELLPIECES"
 msgid "Broken Shell"
-msgstr "Rozbita schranka"
+msgstr "Rozbita schranka-#&#-Broken Shell"
 
 #. STRINGS.NAMES.SLURTLEHAT
 msgctxt "STRINGS.NAMES.SLURTLEHAT"
 msgid "Shelmet"
-msgstr "Shelma"
+msgstr "Shelma-#&#-Shelmet"
 
 #. STRINGS.NAMES.AXE
 msgctxt "STRINGS.NAMES.AXE"
 msgid "Axe"
-msgstr "Sekera"
+msgstr "Sekera-#&#-Axe"
 
 #. STRINGS.NAMES.CAVE_ENTRANCE_CLOSED_CAVE
 msgctxt "STRINGS.NAMES.CAVE_ENTRANCE_CLOSED_CAVE"
 msgid "Plugged Hole"
-msgstr "Ucpana dira"
+msgstr "Ucpana dira-#&#-Plugged Hole"
 
 #. STRINGS.NAMES.SLURTLESLIME
 msgctxt "STRINGS.NAMES.SLURTLESLIME"
 msgid "Slurtle Slime"
-msgstr ""
+msgstr "-#&#-Slurtle Slime"
 
 #. STRINGS.NAMES.DIVININGRODSTART
 msgctxt "STRINGS.NAMES.DIVININGRODSTART"
 msgid "Divining Rod Holder"
-msgstr "Drzak virgule"
+msgstr "Drzak virgule-#&#-Divining Rod Holder"
 
 #. STRINGS.NAMES.LUREPLANTBULB
 msgctxt "STRINGS.NAMES.LUREPLANTBULB"
 msgid "Fleshy Bulb"
-msgstr "Masna Cibulka"
+msgstr "Masna Cibulka-#&#-Fleshy Bulb"
 
 #. STRINGS.NAMES.TREASURECHEST_TRAP
 msgctxt "STRINGS.NAMES.TREASURECHEST_TRAP"
 msgid "Treasure Chest"
-msgstr "Truhla s pokladem"
+msgstr "Truhla s pokladem-#&#-Treasure Chest"
 
 #. STRINGS.NAMES.COOKEDMEAT
 msgctxt "STRINGS.NAMES.COOKEDMEAT"
 msgid "Cooked Meat"
-msgstr "Pecene maso"
+msgstr "Pecene maso-#&#-Cooked Meat"
 
 #. STRINGS.NAMES.MAXWELLLOCK
 msgctxt "STRINGS.NAMES.MAXWELLLOCK"
 msgid "Nightmare Lock"
-msgstr "Zamek nocnich mur"
+msgstr "Zamek nocnich mur-#&#-Nightmare Lock"
 
 #. STRINGS.NAMES.WORMHOLE
 msgctxt "STRINGS.NAMES.WORMHOLE"
 msgid "Worm Hole"
-msgstr "Cervi dira"
+msgstr "Cervi dira-#&#-Worm Hole"
 
 #. STRINGS.NAMES.HOUNDBONE
 msgctxt "STRINGS.NAMES.HOUNDBONE"
 msgid "Bones"
-msgstr "Kosti"
+msgstr "Kosti-#&#-Bones"
 
 #. STRINGS.NAMES.SLOW_FARMPLOT
 msgctxt "STRINGS.NAMES.SLOW_FARMPLOT"
 msgid "Basic Farm"
-msgstr "Jednoducha farma"
+msgstr "Jednoducha farma-#&#-Basic Farm"
 
 #. STRINGS.NAMES.BEEFALOHAT
 msgctxt "STRINGS.NAMES.BEEFALOHAT"
 msgid "Beefalo Hat"
-msgstr "Buvoli klobouk"
+msgstr "Buvoli klobouk-#&#-Beefalo Hat"
 
 #. STRINGS.NAMES.SPOILED_FOOD
 msgctxt "STRINGS.NAMES.SPOILED_FOOD"
 msgid "Rot"
-msgstr "Kompost"
+msgstr "Kompost-#&#-Rot"
 
 #. STRINGS.NAMES.WINTERHAT
 msgctxt "STRINGS.NAMES.WINTERHAT"
 msgid "Winter Hat"
-msgstr "Zimni cepice"
+msgstr "Zimni cepice-#&#-Winter Hat"
 
 #. STRINGS.NAMES.HOUNDMOUND
 msgctxt "STRINGS.NAMES.HOUNDMOUND"
 msgid "Hound Mound"
-msgstr "Psi hromadka"
+msgstr "Psi hromadka-#&#-Hound Mound"
 
 #. STRINGS.NAMES.BASALT_PILLAR
 msgctxt "STRINGS.NAMES.BASALT_PILLAR"
 msgid "Basalt Pillar"
-msgstr "Cedicovy pilir"
+msgstr "Cedicovy pilir-#&#-Basalt Pillar"
 
 #. STRINGS.NAMES.SINKHOLE
 msgctxt "STRINGS.NAMES.SINKHOLE"
 msgid "Basalt"
-msgstr "Cedic"
+msgstr "Cedic-#&#-Basalt"
 
 #. STRINGS.NAMES.INSANITYROCK
 msgctxt "STRINGS.NAMES.INSANITYROCK"
 msgid "Obelisk"
-msgstr "Obelisk"
+msgstr "Obelisk-#&#-Obelisk"
 
 #. STRINGS.NAMES.BATWING
 msgctxt "STRINGS.NAMES.BATWING"
 msgid "Batilisk Wing"
-msgstr "Netopyri kridelko"
+msgstr "Netopyri kridelko-#&#-Batilisk Wing"
 
 #. STRINGS.NAMES.DEERCLOPS_EYEBALL
 msgctxt "STRINGS.NAMES.DEERCLOPS_EYEBALL"
 msgid "Deerclops Eyeball"
-msgstr "Zverklopovo oko"
+msgstr "Zverklopovo oko-#&#-Deerclops Eyeball"
 
 #. STRINGS.NAMES.LEIF_SPARSE
 msgctxt "STRINGS.NAMES.LEIF_SPARSE"
 msgid "Treeguard"
-msgstr "Stromovy strazce"
+msgstr "Stromovy strazce-#&#-Treeguard"
 
 #. STRINGS.NAMES.MEATBALLS
 msgctxt "STRINGS.NAMES.MEATBALLS"
 msgid "Meatballs"
-msgstr "Masove kulicky"
+msgstr "Masove kulicky-#&#-Meatballs"
 
 #. STRINGS.NAMES.YELLOWSTAFF
 msgctxt "STRINGS.NAMES.YELLOWSTAFF"
 msgid "Star Caller's Staff"
-msgstr "Hvezdna Hul"
+msgstr "Hvezdna Hul-#&#-Star Caller's Staff"
 
 #. STRINGS.NAMES.ORANGESTAFF
 msgctxt "STRINGS.NAMES.ORANGESTAFF"
 msgid "The Lazy Explorer"
-msgstr "Liny Pruzkumnik"
+msgstr "Liny Pruzkumnik-#&#-The Lazy Explorer"
 
 #. STRINGS.NAMES.GEMSOCKET
 msgctxt "STRINGS.NAMES.GEMSOCKET"
 msgid "Gem Stand"
-msgstr ""
+msgstr "-#&#-Gem Stand"
 
 #. STRINGS.NAMES.TELESTAFF
 msgctxt "STRINGS.NAMES.TELESTAFF"
 msgid "Telelocator Staff"
-msgstr "Teleportacni Hul"
+msgstr "Teleportacni Hul-#&#-Telelocator Staff"
 
 #. STRINGS.NAMES.NIL
 msgctxt "STRINGS.NAMES.NIL"
 msgid "Darkness"
-msgstr "Temnota"
+msgstr "Temnota-#&#-Darkness"
 
 #. STRINGS.NAMES.SPIDERGLAND
 msgctxt "STRINGS.NAMES.SPIDERGLAND"
 msgid "Spider Gland"
-msgstr "Pavouci zlaza"
+msgstr "Pavouci zlaza-#&#-Spider Gland"
 
 #. STRINGS.NAMES.STALAGMITE_TALL_FULL
 msgctxt "STRINGS.NAMES.STALAGMITE_TALL_FULL"
 msgid "Stalagmite"
-msgstr "Stalagmit"
+msgstr "Stalagmit-#&#-Stalagmite"
 
 #. STRINGS.NAMES.TENTACLESPIKE
 msgctxt "STRINGS.NAMES.TENTACLESPIKE"
 msgid "Tentacle Spike"
-msgstr "Spicate chapadlo"
+msgstr "Spicate chapadlo-#&#-Tentacle Spike"
 
 #. STRINGS.NAMES.NIGHTMAREBEAK
 msgctxt "STRINGS.NAMES.NIGHTMAREBEAK"
 msgid "Nightmarebeak"
-msgstr "Klovajici nocni mura"
+msgstr "Klovajici nocni mura-#&#-Nightmarebeak"
 
 #. STRINGS.NAMES.SMALLMEAT_DRIED
 msgctxt "STRINGS.NAMES.SMALLMEAT_DRIED"
 msgid "Small Jerky"
-msgstr "Susene masicko"
+msgstr "Susene masicko-#&#-Small Jerky"
 
 #. STRINGS.NAMES.KOALEFANT_WINTER
 msgctxt "STRINGS.NAMES.KOALEFANT_WINTER"
 msgid "Koalefant"
-msgstr "Koalefant"
+msgstr "Koalefant-#&#-Koalefant"
 
 #. STRINGS.NAMES.RESEARCHLAB
 msgctxt "STRINGS.NAMES.RESEARCHLAB"
 msgid "Science Machine"
-msgstr "Vyzkumny Stroj"
+msgstr "Vyzkumny Stroj-#&#-Science Machine"
 
 #. STRINGS.NAMES.MANDRAKESOUP
 msgctxt "STRINGS.NAMES.MANDRAKESOUP"
 msgid "Mandrake Soup"
-msgstr "Polevka z mandragory"
+msgstr "Polevka z mandragory-#&#-Mandrake Soup"
 
 #. STRINGS.NAMES.TRUNKVEST_WINTER
 msgctxt "STRINGS.NAMES.TRUNKVEST_WINTER"
 msgid "Puffy Vest"
-msgstr ""
+msgstr "-#&#-Puffy Vest"
 
 #. STRINGS.NAMES.TRUNKVEST_SUMMER
 msgctxt "STRINGS.NAMES.TRUNKVEST_SUMMER"
 msgid "Breezy Vest"
-msgstr "Breezy Vest"
+msgstr "Breezy Vest-#&#-Breezy Vest"
 
 #. STRINGS.NAMES.TRUNK_WINTER
 msgctxt "STRINGS.NAMES.TRUNK_WINTER"
 msgid "Winter Koalefant Trunk"
-msgstr ""
+msgstr "-#&#-Winter Koalefant Trunk"
 
 #. STRINGS.NAMES.DIRTPILE
 msgctxt "STRINGS.NAMES.DIRTPILE"
 msgid "Suspicious Dirt Pile"
-msgstr "Podezrela hromadka hliny"
+msgstr "Podezrela hromadka hliny-#&#-Suspicious Dirt Pile"
 
 #. STRINGS.NAMES.ICESTAFF
 msgctxt "STRINGS.NAMES.ICESTAFF"
 msgid "Ice Staff"
-msgstr "Ledova Hul"
+msgstr "Ledova Hul-#&#-Ice Staff"
 
 #. STRINGS.NAMES.WALL_WOOD_ITEM
 msgctxt "STRINGS.NAMES.WALL_WOOD_ITEM"
 msgid "Wood Wall"
-msgstr "Drevena zed"
+msgstr "Drevena zed-#&#-Wood Wall"
 
 #. STRINGS.NAMES.WORMHOLE_LIMITED_1
 msgctxt "STRINGS.NAMES.WORMHOLE_LIMITED_1"
 msgid "Sick Worm Hole"
-msgstr "Churava Cervi dira"
+msgstr "Churava Cervi dira-#&#-Sick Worm Hole"
 
 #. STRINGS.NAMES.MAXWELLPHONOGRAPH
 msgctxt "STRINGS.NAMES.MAXWELLPHONOGRAPH"
 msgid "Maxwell's Phonograph"
-msgstr "Maxwelluv gramofon"
+msgstr "Maxwelluv gramofon-#&#-Maxwell's Phonograph"
 
 #. STRINGS.NAMES.TRINKET_6
 msgctxt "STRINGS.NAMES.TRINKET_6"
 msgid "Frazzled Wires"
-msgstr "Trepici se draty"
+msgstr "Trepici se draty-#&#-Frazzled Wires"
 
 #. STRINGS.NAMES.GRAVESTONE
 msgctxt "STRINGS.NAMES.GRAVESTONE"
 msgid "Headstone"
-msgstr "Nahrobek"
+msgstr "Nahrobek-#&#-Headstone"
 
 #. STRINGS.NAMES.STUFFEDEGGPLANT
 msgctxt "STRINGS.NAMES.STUFFEDEGGPLANT"
 msgid "Stuffed Eggplant"
-msgstr "Stuffed Eggplant (Nadivany lilek)"
+msgstr "Nadivany lilek-#&#-Stuffed Eggplant"
 
 #. STRINGS.NAMES.FISHSTICKS
 msgctxt "STRINGS.NAMES.FISHSTICKS"
 msgid "Fishsticks"
-msgstr "Rybi prsty"
+msgstr "Rybi prsty-#&#-Fishsticks"
 
 #. STRINGS.NAMES.CORN_SEEDS
 msgctxt "STRINGS.NAMES.CORN_SEEDS"
 msgid "Corn Seeds"
-msgstr "Kukuricna seminka"
+msgstr "Kukuricna seminka-#&#-Corn Seeds"
 
 #. STRINGS.NAMES.ABIGAIL
 msgctxt "STRINGS.NAMES.ABIGAIL"
 msgid "Abigail"
-msgstr "Abigail"
+msgstr "Abigail-#&#-Abigail"
 
 #. STRINGS.NAMES.BUTTER
 msgctxt "STRINGS.NAMES.BUTTER"
 msgid "Butter"
-msgstr "Maslo"
+msgstr "Maslo-#&#-Butter"
 
 #. STRINGS.NAMES.PERD
 msgctxt "STRINGS.NAMES.PERD"
 msgid "Gobbler"
-msgstr "Krocan"
+msgstr "Krocan-#&#-Gobbler"
 
 #. STRINGS.NAMES.DRUMSTICK
 msgctxt "STRINGS.NAMES.DRUMSTICK"
 msgid "Drumstick"
-msgstr "Drumstick (drubezi stehno)"
+msgstr "Drubezi stehno-#&#-Drumstick"
 
 #. STRINGS.NAMES.WAFFLES
 msgctxt "STRINGS.NAMES.WAFFLES"
 msgid "Waffles"
-msgstr "Vafle"
+msgstr "Vafle-#&#-Waffles"
 
 #. STRINGS.NAMES.MEAT_DRIED
 msgctxt "STRINGS.NAMES.MEAT_DRIED"
 msgid "Jerky"
-msgstr "Susene maso"
+msgstr "Susene maso-#&#-Jerky"
 
 #. STRINGS.NAMES.BONESTEW
 msgctxt "STRINGS.NAMES.BONESTEW"
 msgid "Meaty Stew"
-msgstr "Dusene maso"
+msgstr "Dusene maso-#&#-Meaty Stew"
 
 #. STRINGS.NAMES.BACONEGGS
 msgctxt "STRINGS.NAMES.BACONEGGS"
 msgid "Bacon and Eggs"
-msgstr "Vejce se slaninou"
+msgstr "Vejce se slaninou-#&#-Bacon and Eggs"
 
 #. STRINGS.NAMES.KABOBS
 msgctxt "STRINGS.NAMES.KABOBS"
 msgid "Kabobs"
-msgstr "Kebab"
+msgstr "Kebab-#&#-Kabobs"
 
 #. STRINGS.NAMES.POMEGRANATE_COOKED
 msgctxt "STRINGS.NAMES.POMEGRANATE_COOKED"
 msgid "Sliced Pomegranate"
-msgstr "Servirovane granatove jablko"
+msgstr "Servirovane granatove jablko-#&#-Sliced Pomegranate"
 
 #. STRINGS.NAMES.ROCK_FLINTLESS
 msgctxt "STRINGS.NAMES.ROCK_FLINTLESS"
 msgid "Boulder"
-msgstr "Balvan"
+msgstr "Balvan-#&#-Boulder"
 
 #. STRINGS.NAMES.DUG_GRASS
 msgctxt "STRINGS.NAMES.DUG_GRASS"
 msgid "Grass Tuft"
-msgstr "Travnaty povrch"
+msgstr "Travnaty povrch-#&#-Grass Tuft"
 
 #. STRINGS.NAMES.ROCKS
 msgctxt "STRINGS.NAMES.ROCKS"
 msgid "Rocks"
-msgstr "Kameny"
+msgstr "Kameny-#&#-Rocks"
 
 #. STRINGS.NAMES.WENDY
 msgctxt "STRINGS.NAMES.WENDY"
 msgid "Wendy"
-msgstr "Wendy"
+msgstr "Wendy-#&#-Wendy"
 
 #. STRINGS.NAMES.EGGPLANT_SEEDS
 msgctxt "STRINGS.NAMES.EGGPLANT_SEEDS"
 msgid "Eggplant Seeds"
-msgstr "Eggplant Seeds (Seminka lilku)"
+msgstr "Seminka lilku-#&#-Eggplant Seeds"
 
 #. STRINGS.NAMES.GEARS
 msgctxt "STRINGS.NAMES.GEARS"
 msgid "Gears"
-msgstr "Ozubena kolecka"
+msgstr "Ozubena kolecka-#&#-Gears"
 
 #. STRINGS.NAMES.DRAGONPIE
 msgctxt "STRINGS.NAMES.DRAGONPIE"
 msgid "Dragonpie"
-msgstr "Draci kolac"
+msgstr "Draci kolac-#&#-Dragonpie"
 
 #. STRINGS.NAMES.ICEHOUND
 msgctxt "STRINGS.NAMES.ICEHOUND"
 msgid "Blue Hound"
-msgstr "Modry ohar"
+msgstr "Modry ohar-#&#-Blue Hound"
 
 #. STRINGS.NAMES.TELEPORTATO_BASE
 msgctxt "STRINGS.NAMES.TELEPORTATO_BASE"
 msgid "Wooden thing"
-msgstr "Drevena vec"
+msgstr "Drevena vec-#&#-Wooden thing"
 
 #. STRINGS.NAMES.LEIF
 msgctxt "STRINGS.NAMES.LEIF"
 msgid "Treeguard"
-msgstr "Stromovy strazce"
+msgstr "Stromovy strazce-#&#-Treeguard"
 
 #. STRINGS.NAMES.CARROT_PLANTED
 msgctxt "STRINGS.NAMES.CARROT_PLANTED"
 msgid "Carrot"
-msgstr "Mrkev"
+msgstr "Mrkev-#&#-Carrot"
 
 #. STRINGS.NAMES.TRINKET_11
 msgctxt "STRINGS.NAMES.TRINKET_11"
 msgid "Lying Robot"
-msgstr "Lezici robot"
+msgstr "Lezici robot-#&#-Lying Robot"
 
 #. STRINGS.NAMES.SPIDERHAT
 msgctxt "STRINGS.NAMES.SPIDERHAT"
 msgid "Spiderhat"
-msgstr "Pavouci cepecek"
+msgstr "Pavouci cepecek-#&#-Spiderhat"
 
 #. STRINGS.NAMES.TRINKET_3
 msgctxt "STRINGS.NAMES.TRINKET_3"
 msgid "Gord's Knot"
-msgstr "Gordicky uzel"
+msgstr "Gordicky uzel-#&#-Gord's Knot"
 
 #. STRINGS.NAMES.POND_MOS
 msgctxt "STRINGS.NAMES.POND_MOS"
 msgid "Pond"
-msgstr "Jezirko"
+msgstr "Jezirko-#&#-Pond"
 
 #. STRINGS.NAMES.BACKPACK
 msgctxt "STRINGS.NAMES.BACKPACK"
 msgid "Backpack"
-msgstr "Batoh"
+msgstr "Batoh-#&#-Backpack"
 
 #. STRINGS.NAMES.RABBITHOLE
 msgctxt "STRINGS.NAMES.RABBITHOLE"
 msgid "Rabbit Hole"
-msgstr "Kralici dira"
+msgstr "Kralici dira-#&#-Rabbit Hole"
 
 #. STRINGS.NAMES.TELEPORTATO_POTATO
 msgctxt "STRINGS.NAMES.TELEPORTATO_POTATO"
 msgid "Metal potato thing"
-msgstr "Kovova bramborovita vec"
+msgstr "Kovova bramborovita vec-#&#-Metal potato thing"
 
 #. STRINGS.NAMES.TELEPORTATO_BOX
 msgctxt "STRINGS.NAMES.TELEPORTATO_BOX"
 msgid "Box thing"
-msgstr "Krabicovita vec"
+msgstr "Krabicovita vec-#&#-Box thing"
 
 #. STRINGS.NAMES.TELEPORTATO_RING
 msgctxt "STRINGS.NAMES.TELEPORTATO_RING"
 msgid "Ring thing"
-msgstr "Prstencovita vec"
+msgstr "Prstencovita vec-#&#-Ring thing"
 
 #. STRINGS.NAMES.BLOWDART_PIPE
 msgctxt "STRINGS.NAMES.BLOWDART_PIPE"
 msgid "Blow Dart"
-msgstr "Vybusna sipka"
+msgstr "Vybusna sipka-#&#-Blow Dart"
 
 #. STRINGS.NAMES.AMULET
 msgctxt "STRINGS.NAMES.AMULET"
 msgid "Life Giving Amulet"
-msgstr "Zivotodarny Amulet"
+msgstr "Zivotodarny Amulet-#&#-Life Giving Amulet"
 
 #. STRINGS.NAMES.SPIDER_SPITTER
 msgctxt "STRINGS.NAMES.SPIDER_SPITTER"
 msgid "Spitter"
-msgstr "Pavouk Plivac"
+msgstr "Pavouk Plivac-#&#-Spitter"
 
 #. STRINGS.NAMES.STALAGMITE_FULL
 msgctxt "STRINGS.NAMES.STALAGMITE_FULL"
 msgid "Stalagmite"
-msgstr "Stalagmit"
+msgstr "Stalagmit-#&#-Stalagmite"
 
 #. STRINGS.NAMES.CHESTER_EYEBONE
 msgctxt "STRINGS.NAMES.CHESTER_EYEBONE"
 msgid "Eye Bone"
-msgstr "Ocni kost"
+msgstr "Ocni kost-#&#-Eye Bone"
 
 #. STRINGS.NAMES.FEATHER_CROW
 msgctxt "STRINGS.NAMES.FEATHER_CROW"
 msgid "Jet Feather"
-msgstr "Jantarove cerne pirko."
+msgstr "Jantarove cerne pirko.-#&#-Jet Feather"
 
 #. STRINGS.NAMES.TALLBIRDEGG_CRACKED
 msgctxt "STRINGS.NAMES.TALLBIRDEGG_CRACKED"
 msgid "Hatching Tallbird Egg"
-msgstr "Lihnouci se vejce Velkoptaka"
+msgstr "Lihnouci se vejce Velkoptaka-#&#-Hatching Tallbird Egg"
 
 #. STRINGS.NAMES.TALLBIRDEGG
 msgctxt "STRINGS.NAMES.TALLBIRDEGG"
 msgid "Tallbird Egg"
-msgstr "Vejce Velkoptaka"
+msgstr "Vejce Velkoptaka-#&#-Tallbird Egg"
 
 #. STRINGS.NAMES.GOLDNUGGET
 msgctxt "STRINGS.NAMES.GOLDNUGGET"
 msgid "Gold Nugget"
-msgstr "Valoun zlata"
+msgstr "Valoun zlata-#&#-Gold Nugget"
 
 #. STRINGS.NAMES.TEAMLEADER
 msgctxt "STRINGS.NAMES.TEAMLEADER"
 msgid "Team Leader"
-msgstr "Team Leader"
+msgstr "Team Leader-#&#-Team Leader"
 
 #. STRINGS.NAMES.BEE
 msgctxt "STRINGS.NAMES.BEE"
 msgid "Bee"
-msgstr "Vcela"
+msgstr "Vcela-#&#-Bee"
 
 #. STRINGS.NAMES.TRAP_TEETH
 msgctxt "STRINGS.NAMES.TRAP_TEETH"
 msgid "Tooth Trap"
-msgstr "Zubata past"
+msgstr "Zubata past-#&#-Tooth Trap"
 
 #. STRINGS.NAMES.POMEGRANATE
 msgctxt "STRINGS.NAMES.POMEGRANATE"
 msgid "Pomegranate"
-msgstr "Granatove jablko"
+msgstr "Granatove jablko-#&#-Pomegranate"
 
 #. STRINGS.NAMES.UMBRELLA
 msgctxt "STRINGS.NAMES.UMBRELLA"
 msgid "Umbrella"
-msgstr "Destnik"
+msgstr "Destnik-#&#-Umbrella"
 
 #. STRINGS.NAMES.BEEBOX
 msgctxt "STRINGS.NAMES.BEEBOX"
 msgid "Bee Box"
-msgstr "Vceli ul"
+msgstr "Vceli ul-#&#-Bee Box"
 
 #. STRINGS.NAMES.DUG_BERRYBUSH2
 msgctxt "STRINGS.NAMES.DUG_BERRYBUSH2"
 msgid "Berry Bush"
-msgstr "Bobulovity Ker"
+msgstr "Bobulovity Ker-#&#-Berry Bush"
 
 #. STRINGS.NAMES.BOOK_GARDENING
 msgctxt "STRINGS.NAMES.BOOK_GARDENING"
 msgid "Applied Horticulture"
-msgstr "Zahradnictvi v Praxi"
+msgstr "Zahradnictvi v Praxi-#&#-Applied Horticulture"
 
 #. STRINGS.NAMES.MARSH_TREE
 msgctxt "STRINGS.NAMES.MARSH_TREE"
 msgid "Spiky Tree"
-msgstr "Trnity strom"
+msgstr "Trnity strom-#&#-Spiky Tree"
 
 #. STRINGS.NAMES.BEDROLL_FURRY
 msgctxt "STRINGS.NAMES.BEDROLL_FURRY"
 msgid "Fur Roll"
-msgstr "Kozesinova role"
+msgstr "Kozesinova role-#&#-Fur Roll"
 
 #. STRINGS.NAMES.RESEARCHLAB3
 msgctxt "STRINGS.NAMES.RESEARCHLAB3"
 msgid "Shadow Manipulator"
-msgstr "Stinovy Manipulator"
+msgstr "Stinovy Manipulator-#&#-Shadow Manipulator"
 
 #. STRINGS.NAMES.MINOTAURCHEST
 msgctxt "STRINGS.NAMES.MINOTAURCHEST"
 msgid "Large Ornate Chest"
-msgstr "Velka zdobena truhla"
+msgstr "Velka zdobena truhla-#&#-Large Ornate Chest"
 
 #. STRINGS.NAMES.CRAWLINGHORROR
 msgctxt "STRINGS.NAMES.CRAWLINGHORROR"
 msgid "Crawling Horror"
-msgstr "Pliziva hruza"
+msgstr "Pliziva hruza-#&#-Crawling Horror"
 
 #. STRINGS.NAMES.BUTTERFLYWINGS
 msgctxt "STRINGS.NAMES.BUTTERFLYWINGS"
 msgid "Butterfly Wings"
-msgstr "Motyli kridla"
+msgstr "Motyli kridla-#&#-Butterfly Wings"
 
 #. STRINGS.NAMES.NIGHTSWORD
 msgctxt "STRINGS.NAMES.NIGHTSWORD"
 msgid "Dark Sword"
-msgstr "Temny mec"
+msgstr "Temny mec-#&#-Dark Sword"
 
 #. STRINGS.NAMES.ARMOR_SANITY
 msgctxt "STRINGS.NAMES.ARMOR_SANITY"
 msgid "Night Armour"
-msgstr "Zbroj Noci"
+msgstr "Zbroj Noci-#&#-Night Armour"
 
 #. STRINGS.NAMES.ARMORMARBLE
 msgctxt "STRINGS.NAMES.ARMORMARBLE"
 msgid "Marble Suit"
-msgstr "Mramorovy oblek"
+msgstr "Mramorovy oblek-#&#-Marble Suit"
 
 #. STRINGS.NAMES.ARMORGRASS
 msgctxt "STRINGS.NAMES.ARMORGRASS"
 msgid "Grass Suit"
-msgstr "Prouteny oblek"
+msgstr "Prouteny oblek-#&#-Grass Suit"
 
 #. STRINGS.NAMES.FLOWERHAT
 msgctxt "STRINGS.NAMES.FLOWERHAT"
 msgid "Garland"
-msgstr "Kvetinovy venecek"
+msgstr "Kvetinovy venecek-#&#-Garland"
 
 #. STRINGS.NAMES.STRAWHAT
 msgctxt "STRINGS.NAMES.STRAWHAT"
 msgid "Straw Hat"
-msgstr "Slamak"
+msgstr "Slamak-#&#-Straw Hat"
 
 #. STRINGS.NAMES.BEEFALO
 msgctxt "STRINGS.NAMES.BEEFALO"
 msgid "Beefalo"
-msgstr "Buvol"
+msgstr "Buvol-#&#-Beefalo"
 
 #. STRINGS.NAMES.RED_CAP_COOKED
 msgctxt "STRINGS.NAMES.RED_CAP_COOKED"
 msgid "Cooked Red Cap"
-msgstr "Uvareny cerveny kloboucek"
+msgstr "Uvareny cerveny kloboucek-#&#-Cooked Red Cap"
 
 #. STRINGS.NAMES.WX78
 msgctxt "STRINGS.NAMES.WX78"
 msgid "Wx78"
-msgstr "Wx78"
+msgstr "Wx78-#&#-Wx78"
 
 #. STRINGS.NAMES.WICKERBOTTOM
 msgctxt "STRINGS.NAMES.WICKERBOTTOM"
 msgid "Wickerbottom"
-msgstr "Wickerbottom"
+msgstr "Wickerbottom-#&#-Wickerbottom"
 
 #. STRINGS.NAMES.WOLFGANG
 msgctxt "STRINGS.NAMES.WOLFGANG"
 msgid "Wolfgang"
-msgstr "Wolfgang"
+msgstr "Wolfgang-#&#-Wolfgang"
 
 #. STRINGS.NAMES.SUNKBOAT
 msgctxt "STRINGS.NAMES.SUNKBOAT"
 msgid "Sunken Boat"
-msgstr "Potopena lodka"
+msgstr "Potopena lodka-#&#-Sunken Boat"
 
 #. STRINGS.NAMES.SPIDERDEN
 msgctxt "STRINGS.NAMES.SPIDERDEN"
 msgid "Spider Den"
-msgstr "Pavouci doupe"
+msgstr "Pavouci doupe-#&#-Spider Den"
 
 #. STRINGS.NAMES.POND
 msgctxt "STRINGS.NAMES.POND"
 msgid "Pond"
-msgstr "Jezirko"
+msgstr "Jezirko-#&#-Pond"
 
 #. STRINGS.NAMES.PUMPKINCOOKIE
 msgctxt "STRINGS.NAMES.PUMPKINCOOKIE"
 msgid "Pumpkin Cookies"
-msgstr "Dynove kolacky"
+msgstr "Dynove kolacky-#&#-Pumpkin Cookies"
 
 #. STRINGS.NAMES.DEADLYFEAST
 msgctxt "STRINGS.NAMES.DEADLYFEAST"
 msgid "Deadly Feast"
-msgstr "Vrazedna hostina"
+msgstr "Vrazedna hostina-#&#-Deadly Feast"
 
 #. STRINGS.NAMES.ROCK2
 msgctxt "STRINGS.NAMES.ROCK2"
 msgid "Boulder"
-msgstr "Balvan"
+msgstr "Balvan-#&#-Boulder"
 
 #. STRINGS.NAMES.ROCK1
 msgctxt "STRINGS.NAMES.ROCK1"
 msgid "Boulder"
-msgstr "Balvan"
+msgstr "Balvan-#&#-Boulder"
 
 #. STRINGS.NAMES.TELEPORTATO_CHECKMATE
 msgctxt "STRINGS.NAMES.TELEPORTATO_CHECKMATE"
 msgid "Wooden thing"
-msgstr "Drevena vec"
+msgstr "Drevena vec-#&#-Wooden thing"
 
 #. STRINGS.NAMES.ARMORRUINS
 msgctxt "STRINGS.NAMES.ARMORRUINS"
 msgid "Thulecite Suit"
-msgstr "Thulecite Suit (Oblek z artefaktu)"
+msgstr "Oblek z artefaktu-#&#-Thulecite Suit"
 
 #. STRINGS.NAMES.FIREPIT
 msgctxt "STRINGS.NAMES.FIREPIT"
 msgid "Fire Pit"
-msgstr "Ohniste"
+msgstr "Ohniste-#&#-Fire Pit"
 
 #. STRINGS.NAMES.GOLDENPITCHFORK
 msgctxt "STRINGS.NAMES.GOLDENPITCHFORK"
 msgid "Snazzy Pitchfork"
-msgstr "Trendove vidle"
+msgstr "Trendove vidle-#&#-Snazzy Pitchfork"
 
 #. STRINGS.NAMES.HOUND
 msgctxt "STRINGS.NAMES.HOUND"
 msgid "Hound"
-msgstr "Ohar"
+msgstr "Ohar-#&#-Hound"
 
 #. STRINGS.NAMES.TORCH
 msgctxt "STRINGS.NAMES.TORCH"
 msgid "Torch"
-msgstr "Pochoden"
+msgstr "Pochoden-#&#-Torch"
 
 #. STRINGS.NAMES.SMALLMEAT
 msgctxt "STRINGS.NAMES.SMALLMEAT"
 msgid "Morsel"
-msgstr "Sousto"
+msgstr "Sousto-#&#-Morsel"
 
 #. STRINGS.NAMES.DUG_MARSH_BUSH
 msgctxt "STRINGS.NAMES.DUG_MARSH_BUSH"
 msgid "Spiky Bush"
-msgstr "Trnity ker"
+msgstr "Trnity ker-#&#-Spiky Bush"
 
 #. STRINGS.NAMES.MONKEY
 msgctxt "STRINGS.NAMES.MONKEY"
 msgid "Splumonkey"
-msgstr "Jeskopice"
+msgstr "Jeskopice-#&#-Splumonkey"
 
 #. STRINGS.NAMES.ROTTENEGG
 msgctxt "STRINGS.NAMES.ROTTENEGG"
 msgid "Rotten Egg"
-msgstr "Shnile vejce"
+msgstr "Shnile vejce-#&#-Rotten Egg"
 
 #. STRINGS.NAMES.MONKEYBARREL
 msgctxt "STRINGS.NAMES.MONKEYBARREL"
 msgid "Splumonkey Pod"
-msgstr "Jeskopici doupe"
+msgstr "Jeskopici doupe-#&#-Splumonkey Pod"
 
 #. STRINGS.NAMES.ABIGAIL_FLOWER
 msgctxt "STRINGS.NAMES.ABIGAIL_FLOWER"
 msgid "Abigail's Flower"
-msgstr "Kvetina Abigail"
+msgstr "Kvetina Abigail-#&#-Abigail's Flower"
 
 #. STRINGS.BUNNYMANNAMES.1
 msgctxt "STRINGS.BUNNYMANNAMES.1"
