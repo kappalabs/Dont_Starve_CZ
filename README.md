@@ -36,6 +36,7 @@ SOUBORY
 - strings.pot - originální soubor textů z aktuální verze hry
 - preview.jpg - ikona módu
 - transform - linux skript pro nastavení formátu souboru překladu, generuje czech_ascii.po ve složce czechlanguage
+- Uprav.java - Java program pro úpravu formátu souboru czech_ascii.po pro featuru záměny překladů za originál
 - czechlanguage/ - složka dat módu, připraveno k použití, neupravovat až na *.lua
  - czech.po - kopie czech.po z nadřazené složky v kódování **ISO-8859-2**
  - czech_ascii.po - soubor czech.po v kódování **ASCII** (bez diakritiky) s nakonfigurovanými parametry, generovaný skriptem transform
