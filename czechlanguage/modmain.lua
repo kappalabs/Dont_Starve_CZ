@@ -13,6 +13,9 @@ Assets = {
 -- Data pro feature menici preklady za originaly
 table.insert(GLOBAL.STRINGS, "CZT_MARK")
 GLOBAL.STRINGS.CZT_MARK = "-#&#-"
+-- Klavesa zamenujici preklad za original - konfigurovatelne
+table.insert(GLOBAL.STRINGS, "CZT_SWAP_KEY")
+GLOBAL.STRINGS.CZT_SWAP_KEY = GLOBAL.KEY_C
 
 -- Pokud hrac pouziva DisplayFoodValues
 table.insert(GLOBAL.STRINGS, "DFV_LANG")

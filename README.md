@@ -7,8 +7,8 @@ POPIS MÓDU
 ----------
 - Mód obsahuje **úplný překlad**: herního menu, nastavení, menu výroby, názvy předmětů a nestvůr, hlášky Wilsona a Willow.
 - Další části: hlášky ostatních postav, jména prasat a králíků atd. jsou ve stavu překladu, či korektur.
-- **Mód obsahuje možnost zobrazení originálních názvů** po stisku klávesy "Nucený průzkum".
-- Z důvodu implementace této možnosti a její neslučitelnosti s módem DisplayFoodValues bylo zváženo a provedeno **implementování módu DisplayFoodValues od módera alks** do českého balíčku.
+- **Mód obsahuje možnost zobrazení všech originálních názvů** po stisku konfigurovatelné klávesy, **v defaultu "c"**.
+- Z důvodu implementace této možnosti a její neslučitelnosti s módem DisplayFoodValues bylo zváženo a provedeno **implementování módu DisplayFoodValues od módera alks** do českého balíčku, jako bonus, včetně podpory českého skloňování.
 
 POUŽITÍ/INSTALACE MÓDU
 ----------------------

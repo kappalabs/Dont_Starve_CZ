@@ -43,6 +43,16 @@ function HoverText:Update()
         str = self.owner:GetTooltip()
     end
 
+	--### MOD CzechTranslationFeature -->
+	if str then
+		if TheInput:IsKeyDown(STRINGS.CZT_SWAP_KEY) then
+			name = CZTGetReplacement(name, 2)
+		else
+			name = CZTGetReplacement(name, 1)
+		end
+	end
+	--### <EO> MOD CzechTranslationFeature <--
+
     local secondarystr = nil
  
     if not str and self.isFE == false then
@@ -55,8 +65,7 @@ function HoverText:Update()
 				local name = lmb.target:GetDisplayName() or (lmb.target.components.named and lb.target.components.named.name)
                 
     			--### MOD CzechTranslationFeature -->
-				local rmb = self.owner.components.playeractionpicker:GetRightMouseAction()
-				if rmb and lmb then
+				if TheInput:IsKeyDown(STRINGS.CZT_SWAP_KEY) then
 					name = CZTGetReplacement(name, 2)
 				else
 					name = CZTGetReplacement(name, 1)

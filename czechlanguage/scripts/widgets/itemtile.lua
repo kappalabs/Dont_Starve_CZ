@@ -129,7 +129,7 @@ function ItemTile:GetDescriptionString(show_spoil) --### MOD DisplayValues2
 
     	--### MOD CzechTranslationFeature -->
 		local str_name = str
-		if TheInput:IsControlPressed(CONTROL_FORCE_INSPECT) then
+		if TheInput:IsKeyDown(STRINGS.CZT_SWAP_KEY) then
 			str = CZTGetReplacementIte(str, 2)
 		else
 			str = CZTGetReplacementIte(str, 1)
