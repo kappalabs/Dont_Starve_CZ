@@ -179,7 +179,7 @@ function RecipePopup:SetRecipe(recipe, owner)
 
 		--### MOD CzechTranslationFeature -->
 --        self.name:SetString(STRINGS.NAMES[string.upper(self.recipe.name)])
-		if TheInput:IsControlPressed(CONTROL_FORCE_INSPECT) then
+		if TheInput:IsKeyDown(STRINGS.CZT_SWAP_KEY) then
 			self.name:SetString(CZTGetReplacement(STRINGS.NAMES[string.upper(self.recipe.name)], 2))
 		else
 			self.name:SetString(CZTGetReplacement(STRINGS.NAMES[string.upper(self.recipe.name)], 1))
