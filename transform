@@ -3,10 +3,14 @@ TOEDIT="./czech.po"
 CIL="./czechlanguage/"
 PREFORMAT="UTF-8"
 POSTFORMAT="iso-8859-2"
-iconv -c --from utf8 --to ascii//TRANSLIT $TOEDIT > ${CIL}czech_ascii.po
+iconv -c --from utf8 --to ascii//TRANSLIT $TOEDIT > ${CIL}czech_ascii_temp.po
 # pridani radku 3 s hodnotou line 3
 #sed '3iline 3' input.txt > output.txt
-sed -i "s/$PREFORMAT/$POSTFORMAT/g" ${CIL}czech_ascii.po
+sed -i "s/$PREFORMAT/$POSTFORMAT/g" ${CIL}czech_ascii_temp.po
+
+javac Uprav.java
+java -Dfile.encoding=ISO-8859-2 Uprav ${CIL}czech_ascii_temp.po ${CIL}czech_ascii.po
+rm ${CIL}czech_ascii_temp.po Uprav.class
 
 # pridani souboru czech.po do slozky k publikaci
 cp czech.po $CIL
