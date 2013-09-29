@@ -85,7 +85,7 @@ msgstr "\"Konecne volny!\""
 #. STRINGS.CHARACTER_QUOTES.wickerbottom
 msgctxt "STRINGS.CHARACTER_QUOTES.wickerbottom"
 msgid "\"Shhhh! No talking!\""
-msgstr "\"Psssss! Nemluvit!\""
+msgstr "\"Psssst! Nemluvit!\""
 
 #. STRINGS.CHARACTER_QUOTES.wolfgang
 msgctxt "STRINGS.CHARACTER_QUOTES.wolfgang"
@@ -3685,7 +3685,7 @@ msgstr "To je seminko."
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.MERMHEAD
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.MERMHEAD"
 msgid "The stinkiest thing I'll smell all day."
-msgstr "Nejsmrdutejsi vec. Budu ji citit cely den."
+msgstr "Nejsmrdutejsi vec, kterou budu citit cely den."
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.HOMESIGN
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.HOMESIGN"
@@ -4979,7 +4979,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.MERM
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.MERM"
 msgid "They were here when I got here."
-msgstr ""
+msgstr "Uz tu byli, kdyz jsem se tu ocitl."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.FEATHER_ROBIN_WINTER
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.FEATHER_ROBIN_WINTER"
@@ -5019,7 +5019,7 @@ msgstr "Ta kunkala."
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GHOST
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GHOST"
 msgid "It remembers me!"
-msgstr ""
+msgstr "Pamatuje si me!"
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HOUNDSTOOTH
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HOUNDSTOOTH"
@@ -5129,7 +5129,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.SPIDER.SLEEPING
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.SPIDER.SLEEPING"
 msgid "Shhhh! It will wake up hungry."
-msgstr ""
+msgstr "Psssst! Probudi se hladovy."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.SPIDER.DEAD
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.SPIDER.DEAD"
@@ -6564,7 +6564,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.MERMHOUSE
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.MERMHOUSE"
 msgid "They copied the pigs, but they're even less intelligent."
-msgstr ""
+msgstr "Zkopirovali prasata, ale jsou jeste mene inteligentni."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.SEEDS_COOKED
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.SEEDS_COOKED"
@@ -6899,7 +6899,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.MERMHEAD
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.MERMHEAD"
 msgid "The eyes follow you around."
-msgstr ""
+msgstr "Ty oci te vsude sleduji."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.PUMPKINCOOKIE
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.PUMPKINCOOKIE"
@@ -8143,7 +8143,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.MERM
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.MERM"
 msgid "Horrid swamp thing!"
-msgstr ""
+msgstr "Desna vec z bazin!"
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.TELEPORTATO_RING
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.TELEPORTATO_RING"
@@ -9403,7 +9403,7 @@ msgstr "Mel by mi zakryt hlavu."
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.MERMHEAD
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.MERMHEAD"
 msgid "No dignity at all."
-msgstr ""
+msgstr "Naprosto nedustojne."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.TENTACLE_GARDEN
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.TENTACLE_GARDEN"
@@ -9848,7 +9848,7 @@ msgstr "Rada zabijim drobne veci."
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.MERMHOUSE
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.MERMHOUSE"
 msgid "Time has broken it down."
-msgstr ""
+msgstr "Cas ho rozvratil v trosku."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.CAVE_BANANA
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.CAVE_BANANA"
@@ -12532,7 +12532,7 @@ msgstr "MOZNA JE TO AZ MOC MOCNE."
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.MERMHEAD
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.MERMHEAD"
 msgid "THE FISHBEAST IS MORE IDIOTIC LOOKING THAN USUAL."
-msgstr ""
+msgstr "TATO RYBOBESTIE VYPADA JESTE VICE IDIOTSKY NEZ NORMALNE."
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.RESEARCHLAB2
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.RESEARCHLAB2"
@@ -12767,7 +12767,7 @@ msgstr "KAMENY OBSAHUJICI KAMENI"
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.MERMHOUSE
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.MERMHOUSE"
 msgid "OUTDATED ABODE"
-msgstr "BYVALE OBYDLI"
+msgstr "POSTRADAJI BEZPECNOSTNI OPRAVNY BALICEK"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.CAVE_EXIT
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.CAVE_EXIT"
@@ -13554,12 +13554,12 @@ msgstr "Smer stopy jiz neni rozpoznatelny."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_WORMHOLE
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_WORMHOLE"
 msgid "A detailed lesson in biology!"
-msgstr "Detailni lekce z biologie!"
+msgstr "Detailni lekce biologie!"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.BATTLECRY.GENERIC
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.BATTLECRY.GENERIC"
 msgid "Combat!"
-msgstr "Souboj!"
+msgstr "Boj!"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_HOUNDS
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_HOUNDS"
@@ -13569,7 +13569,7 @@ msgstr "Neco se bizi."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_INV_FULL
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_INV_FULL"
 msgid "I can't carry anything more."
-msgstr "Neunesu jiz vice veci."
+msgstr "Uz toho vic neunesu."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL_GENERIC
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL_GENERIC"
@@ -13579,7 +13579,7 @@ msgstr "To nemohu provest."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_ENTER_LIGHT
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_ENTER_LIGHT"
 msgid "It is bright enough to see."
-msgstr "Zde je pro videni dostatek jasu."
+msgstr "Opet dostatek jasu pro oci."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.DIVININGROD.GENERIC
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.DIVININGROD.GENERIC"
@@ -13619,12 +13619,12 @@ msgstr "Je to maly, roztomile kopajici, rohaty zajicovec."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.FLOWER_EVIL
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.FLOWER_EVIL"
 msgid "It's not often one sees a flower with such a powerful aura."
-msgstr "Ne casto clovek narazi na kvetinu s tak silnou aurou."
+msgstr "Zridka clovek narazi na kvetinu s tak silnou aurou."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.FOLIAGE
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.FOLIAGE"
 msgid "These may have some nutritional value."
-msgstr "Mozna, ze maji nejakou nutricni hodnotu."
+msgstr "Mozna ze maji nejakou nutricni hodnotu."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BLUEPRINT
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BLUEPRINT"
@@ -13639,12 +13639,12 @@ msgstr "Mineraly pozirajici plz."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CUTLICHEN
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CUTLICHEN"
 msgid "This won't last long."
-msgstr "To dlouho nepotrva."
+msgstr "Ten dlouho nevydrzi."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.EVERGREEN_SPARSE.GENERIC
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.EVERGREEN_SPARSE.GENERIC"
 msgid "This genus seems to lack reproductive capabilities."
-msgstr "Zda se, ze tento rod postrada reprodukcni schopnost."
+msgstr "Zda se, ze tento rod postrada reprodukcni schopnosti."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.EVERGREEN_SPARSE.CHOPPED
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.EVERGREEN_SPARSE.CHOPPED"
@@ -13669,12 +13669,12 @@ msgstr "Invazni odruda rostliny."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CROW.GENERIC
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CROW.GENERIC"
 msgid "Corvus brachyrhynchos."
-msgstr "Corvus brachyrhynchos."
+msgstr "Vrana americka."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CROW.HELD
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CROW.HELD"
 msgid "He's mine now."
-msgstr "A ted je muj."
+msgstr "A ted je ma."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.PIGMAN.GENERIC
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.PIGMAN.GENERIC"
@@ -13739,7 +13739,7 @@ msgstr "V nekterych zemich je povazovana za pochoutku."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.GHOST
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.GHOST"
 msgid "It must be fake. I don't believe it."
-msgstr "To nemuze byt pravda. Neverim tomu."
+msgstr "To musi byt nejaky podvod. Neverim tomu."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.HOUNDSTOOTH
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.HOUNDSTOOTH"
@@ -13889,7 +13889,7 @@ msgstr "Skupina sitinovitych graminoidu."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.REEDS.PICKED
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.REEDS.PICKED"
 msgid "I believe they shall grow back."
-msgstr "Verim, ze by mely znovu vyrust."
+msgstr "Verim, ze by melo znovu vyrust."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.REEDS.BURNING
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.REEDS.BURNING"
@@ -13952,7 +13952,7 @@ msgstr "Je to maly strom."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SAPLING.PICKED
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SAPLING.PICKED"
 msgid "Odd. I thought that would have killed it."
-msgstr "Podivne. Myslel jsem, ze ho to zabije."
+msgstr "Podivne. Myslela jsem, ze ho to vyhubi."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SAPLING.BURNING
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SAPLING.BURNING"
@@ -13967,7 +13967,7 @@ msgstr "Pavoukovec se silnym krunyrem."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.FIREPIT.GENERIC
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.FIREPIT.GENERIC"
 msgid "A fire pit."
-msgstr "Ohniste"
+msgstr "Ohniste."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.FIREPIT.OUT
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.FIREPIT.OUT"
@@ -14087,7 +14087,7 @@ msgstr "Potrebuje hovinko."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.GRASS.BURNING
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.GRASS.BURNING"
 msgid "Combustion!"
-msgstr "Spalovani."
+msgstr "Spalovani!"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CAVE_ENTRANCE.GENERIC
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CAVE_ENTRANCE.GENERIC"
@@ -14102,7 +14102,7 @@ msgstr "Podzemni svet ceka."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CHESSJUNK2
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CHESSJUNK2"
 msgid "Clockwork junk"
-msgstr "Mechanicke haraburdi."
+msgstr "Mechanicke haraburdi"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WALRUS_CAMP.GENERIC
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WALRUS_CAMP.GENERIC"
@@ -14167,7 +14167,7 @@ msgstr "Letajici savec."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ICEBOX
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ICEBOX"
 msgid "It is a crude heat exchanger."
-msgstr "Je to hruby vymenik tepla."
+msgstr "Surovy vymenik tepla."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.RESEARCHLAB4
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.RESEARCHLAB4"
@@ -14342,8 +14342,7 @@ msgstr "Stale je lehce jedovate."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BLUEAMULET
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BLUEAMULET"
 msgid "The gem appears to be sucking energy out anything it touches."
-msgstr ""
-"Tenhle klenot vypada, jak kdyz vytahuje energii ze vseho ceho se dotkne."
+msgstr "Zda se, ze tenhle klenot vysava energii z cehokoliv, co se ho dotkne."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.FLOWER_CAVE_DOUBLE
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.FLOWER_CAVE_DOUBLE"
@@ -14368,7 +14367,7 @@ msgstr "To je podoba muze, jenz me zde uveznil."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ANCIENT_STATUE
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ANCIENT_STATUE"
 msgid "This seems mystically aligned to the world."
-msgstr "Vypadaji byt svazany v mystickem souladu s timto svetem."
+msgstr "Zdaji se byt svazany v mystickem souladu s timto svetem."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.FLINT
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.FLINT"
@@ -14378,7 +14377,7 @@ msgstr "Tvrda pecka kremiku."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WINTEROMETER
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WINTEROMETER"
 msgid "Measure before you act."
-msgstr "Dvakrat mer, jednou rez."
+msgstr "Dvakrat mer, nez ven jdes."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WALL_STONE_ITEM
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WALL_STONE_ITEM"
@@ -14398,7 +14397,7 @@ msgstr "Me kapsy jsou uvnitr zrejme vetsi nez se zdaji."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.KRAMPUS
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.KRAMPUS"
 msgid "It's a mythological holiday monster."
-msgstr "Je to mytologicke svatecni monstrum."
+msgstr "Je to mytologicke monstrum svatku."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WALL_HAY_ITEM
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WALL_HAY_ITEM"
@@ -14446,17 +14445,17 @@ msgstr "Jakypak to vzneseny ptak."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MANDRAKE.GENERIC
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MANDRAKE.GENERIC"
 msgid "Mandragora officinarum."
-msgstr "Mandragora officinarum."
+msgstr "Mandragora lekarska."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MANDRAKE.PICKED
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MANDRAKE.PICKED"
 msgid "Mandragora officinarum. But with a face."
-msgstr "Mandragora officinarum. Nicmene s tvari."
+msgstr "Mandragora lekarska. Ale s oblicejem."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MANDRAKE.DEAD
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MANDRAKE.DEAD"
 msgid "Mandragora officinarum. Deceased."
-msgstr "Mandragora officinarum. Zesnula."
+msgstr "Mandragora lekarska. Zesnula."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.RESEARCHLAB2
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.RESEARCHLAB2"
@@ -14496,7 +14495,7 @@ msgstr "Mocal-obyvajici oddenek."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.PURPLEAMULET
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.PURPLEAMULET"
 msgid "I can almost sense it beckoning to something."
-msgstr "Mohu temer citit jak k cemusi vabi."
+msgstr "Temer citim jakoby to k cemusi navadelo."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BOOMERANG
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BOOMERANG"
@@ -14601,12 +14600,12 @@ msgstr "Probehla chemicka reakce."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.POND_ALGAE
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.POND_ALGAE"
 msgid "It is a good thing this algae has no need for photosynthesis."
-msgstr "Je to dobra vec, ze tyhle rasy nemaji zadnou potrebu fotosyntezy"
+msgstr "Je to dobra vec, ze tyhle rasy nemaji zadnou potrebu fotosyntezy."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ARMORSLURPER
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ARMORSLURPER"
 msgid "A disgusting and magical garment."
-msgstr ""
+msgstr "Odpudivy kouzelny odev."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TURF_SINKHOLE
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TURF_SINKHOLE"
@@ -14641,7 +14640,7 @@ msgstr "Strom hori."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WALRUS
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WALRUS"
 msgid "Odobenus rosmarus; Gaelic variety."
-msgstr ""
+msgstr "Mroz ledni, gaelky dryh."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.HONEYCOMB
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.HONEYCOMB"
@@ -14697,6 +14696,7 @@ msgstr "S timhle mohu uderit do ruznych veci."
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.RUINS_RUBBLE"
 msgid "With a little elbow grease this could be put into working order."
 msgstr ""
+"Trocha masti na klouby a par spalenych kalorii a dam to zase dohromady."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ORANGEAMULET
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ORANGEAMULET"
@@ -14706,12 +14706,12 @@ msgstr "Ten drahokam slabne s kazdym uzitim."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ROCK
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ROCK"
 msgid "A large sedimentary rock."
-msgstr ""
+msgstr "Velka usazena hornina."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.FIREHOUND
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.FIREHOUND"
 msgid "That hound is more dangerous than the others."
-msgstr ""
+msgstr "Tento ohar je mnohem nebezpecnejsi nez ti ostatni."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.GUNPOWDER
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.GUNPOWDER"
@@ -14828,7 +14828,7 @@ msgstr "Monument nejakeho jiz davno mrtveho boha."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.STAFFLIGHT
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.STAFFLIGHT"
 msgid "Perhaps a larger staff would summon a larger star."
-msgstr ""
+msgstr "Vetsi hulka by mozna vyvolala vetsi hvezdu."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MARBLETREE
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MARBLETREE"
@@ -14848,12 +14848,12 @@ msgstr "Jak magicke!"
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.RAZOR
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.RAZOR"
 msgid "A personal hygiene implement."
-msgstr "Implementace osobni hygieny."
+msgstr "Nastroj osobni hygieny."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.HEALINGSALVE
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.HEALINGSALVE"
 msgid "A natural disinfectant."
-msgstr ""
+msgstr "Prirodni desinfekcni prostredek."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TENTACLE
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TENTACLE"
@@ -14863,17 +14863,17 @@ msgstr "Hruza cihajici v bazinach."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BANDAGE
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BANDAGE"
 msgid "Medicinal dressings."
-msgstr ""
+msgstr "Lecive obvazy."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BEEHIVE
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BEEHIVE"
 msgid "The natural home of the bee."
-msgstr ""
+msgstr "Prirozeny domov vcel."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.PLANT_NORMAL.GENERIC
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.PLANT_NORMAL.GENERIC"
 msgid "It's a... plant. Of some kind."
-msgstr ""
+msgstr "To je... rostlina. Nejakeho druhu."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.PLANT_NORMAL.READY
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.PLANT_NORMAL.READY"
@@ -14893,77 +14893,77 @@ msgstr "Puvabne ornamentalni rostlina."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BEEFALOWOOL
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BEEFALOWOOL"
 msgid "Long follicles harvested from the beefalo."
-msgstr ""
+msgstr "Dlouha zakroucena vlakna z buvola."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.PLANTMEAT_COOKED
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.PLANTMEAT_COOKED"
 msgid "I feel better about eating this now."
-msgstr ""
+msgstr "Ted uz nemam takove zabrany to snist."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.PIGKING
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.PIGKING"
 msgid "He appears to be the leader of the village."
-msgstr ""
+msgstr "Vypada to na nacelnika vesnice."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.STINGER
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.STINGER"
 msgid "It tapers to a sharp point."
-msgstr ""
+msgstr "Kuzel zakonceny velmi ostrym koncem."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TELEPORTATO_CRANK
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TELEPORTATO_CRANK"
 msgid "It applies basic mechanical principles."
-msgstr ""
+msgstr "Aplikuje zakladni mechanicke principy."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.PIGGYBACK
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.PIGGYBACK"
 msgid "A face only necessity could love."
-msgstr ""
+msgstr "Jen cira nutnost tim muze byt potesena."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ONEMANBAND
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ONEMANBAND"
 msgid "An impressive improvement to the traditional pipe and tabor."
-msgstr ""
+msgstr "Velmi pusobive vylepseni tradicni fujary a bubinku."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CHESTER
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CHESTER"
 msgid "A motile storage chest."
-msgstr ""
+msgstr "Pohybliva ulozna truhla."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.GUANO
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.GUANO"
 msgid "More metabolic byproduct."
-msgstr ""
+msgstr "Metabolictejsi vedlejsi produkt."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MARSH_TREE.GENERIC
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MARSH_TREE.GENERIC"
 msgid "A mangal rhizophora."
-msgstr ""
+msgstr "Bazinaty korenovnik."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MARSH_TREE.CHOPPED
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MARSH_TREE.CHOPPED"
 msgid "It has been felled"
-msgstr ""
+msgstr "Byl porazen."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MARSH_TREE.BURNT
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MARSH_TREE.BURNT"
 msgid "A carbonized mangrove"
-msgstr ""
+msgstr "Zuhelnately strom"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MARSH_TREE.BURNING
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MARSH_TREE.BURNING"
 msgid "Combustion!"
-msgstr ""
+msgstr "Spalovani!"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MEATRACK.GENERIC
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MEATRACK.GENERIC"
 msgid "Meats can be dehydrated."
-msgstr ""
+msgstr "Maso muze byt dehydratovano."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MEATRACK.DONE
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MEATRACK.DONE"
 msgid "The process has completed."
-msgstr ""
+msgstr "Proces dehydratace byl dokoncen."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MEATRACK.DRYING
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MEATRACK.DRYING"
@@ -14973,32 +14973,32 @@ msgstr "Dehydratace je pomaly proces."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SUNKBOAT
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SUNKBOAT"
 msgid "A shipwreck, looks to be useless."
-msgstr ""
+msgstr "Vrak lodi, vypada nepouzitelne."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WASPHIVE
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WASPHIVE"
 msgid "I had better keep my distance."
-msgstr ""
+msgstr "Radeji bych si mela udrzovat svou vzdalenost."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SANITYROCK.INACTIVE
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SANITYROCK.INACTIVE"
 msgid "It seems to have sunk into the soil."
-msgstr ""
+msgstr "Vypada to, ze se propadl do zeme."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SANITYROCK.ACTIVE
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SANITYROCK.ACTIVE"
 msgid "Fascinating. I'll have to study these markings later."
-msgstr ""
+msgstr "Fascinujici. Pozdeji ty znacky budu muset prozkoumat."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.INSANITYROCK.INACTIVE
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.INSANITYROCK.INACTIVE"
 msgid "It appears to be a tiny pyramid."
-msgstr ""
+msgstr "Vypada jako drobna pyramida."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.INSANITYROCK.ACTIVE
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.INSANITYROCK.ACTIVE"
 msgid "I must be seeing things."
-msgstr ""
+msgstr "Musim mit vidiny."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ROOK
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ROOK"
@@ -15008,22 +15008,22 @@ msgstr "Mechanicka vez."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MERMHEAD
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MERMHEAD"
 msgid "I'm uncertain whether it is rotting or fermenting."
-msgstr ""
+msgstr "Nejsem si jista, zda hnije ci kvasi."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MERMHOUSE
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MERMHOUSE"
 msgid "Obviously dilapidated."
-msgstr ""
+msgstr "Ocividne zchatraly."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ARMORWOOD
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ARMORWOOD"
 msgid "Crude plate mail cobbled together from log sections."
-msgstr ""
+msgstr "Surove platove brneni pospojovane z casti polena."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.DEERCLOPS_EYEBALL
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.DEERCLOPS_EYEBALL"
 msgid "I feel a vague sense of accomplishment."
-msgstr ""
+msgstr "Mam nejisty pocit vitezstvi."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.RED_CAP_COOKED
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.RED_CAP_COOKED"
@@ -15033,12 +15033,12 @@ msgstr "Probehla chemicka reakce."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.HOUND
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.HOUND"
 msgid "That hound is not domesticated."
-msgstr ""
+msgstr "Tento ohar neni ochocen."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.HAMBAT
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.HAMBAT"
 msgid "I'm not sure this was the most efficient use of resources."
-msgstr ""
+msgstr "Nejsem si jista, zda toto bylo zrovna nejefektivnejsi vyuziti zdroju."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.PURPLEGEM
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.PURPLEGEM"
@@ -15048,12 +15048,12 @@ msgstr "Vychazi z nej podivna aura."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.AXE
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.AXE"
 msgid "A dual inclined plane attached to a lever."
-msgstr ""
+msgstr "Dualni naklonena rovina spojena s pakou."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BLUEGEM
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BLUEGEM"
 msgid "It is cold."
-msgstr "Je ledovy."
+msgstr "Je chladny."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.REDGEM
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.REDGEM"
@@ -15063,37 +15063,37 @@ msgstr "Je horky."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.DEERCLOPS
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.DEERCLOPS"
 msgid "Laurasiatheria!"
-msgstr ""
+msgstr "Megasavec!"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.LUREPLANTBULB
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.LUREPLANTBULB"
 msgid "Now I can move the plant as I wish."
-msgstr ""
+msgstr "Ted si ji mohu presadit, kam budu chtit."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TRUNKVEST_WINTER
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TRUNKVEST_WINTER"
 msgid "Ample protection against the elements."
-msgstr ""
+msgstr "Dostatecna ochrana pred elementy prirody."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.COOKEDMEAT
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.COOKEDMEAT"
 msgid "It is slightly more appetizing when cooked."
-msgstr ""
+msgstr "Stava se o neco malo vice chutnejsim, kdyz se uvari."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TRUNKVEST_SUMMER
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TRUNKVEST_SUMMER"
 msgid "Durable outerwear."
-msgstr ""
+msgstr "Odolne obleceni."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TRUNK_COOKED
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TRUNK_COOKED"
 msgid "Unpalatable, but high in protein."
-msgstr ""
+msgstr "Nechutny, ale se spoustou proteinu."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TRUNK_WINTER
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TRUNK_WINTER"
 msgid "A specimen of leather and fur."
-msgstr ""
+msgstr "Exemplar kuze a srsti."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SPEAR
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SPEAR"
@@ -15103,12 +15103,12 @@ msgstr "Starobyla technologie zbrani."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BEEFALOHAT
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BEEFALOHAT"
 msgid "This hat is hideous."
-msgstr ""
+msgstr "To je ohyzdny klobouk."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SPOILED_FOOD
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SPOILED_FOOD"
 msgid "It is heavy with bacteria."
-msgstr ""
+msgstr "Prorostly bakteriemi."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WINTERHAT
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WINTERHAT"
@@ -15118,7 +15118,7 @@ msgstr "Upleteno mnou."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TRUNK_SUMMER
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TRUNK_SUMMER"
 msgid "A utilitarian proboscis."
-msgstr ""
+msgstr "Prospecharsky chobot."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SLURTLE_SHELLPIECES
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SLURTLE_SHELLPIECES"
@@ -15128,17 +15128,17 @@ msgstr "Rozbite kousicky."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MARSH_BUSH.GENERIC
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MARSH_BUSH.GENERIC"
 msgid "A cluster of brambles."
-msgstr ""
+msgstr "Shluk ostruzini."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MARSH_BUSH.PICKED
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MARSH_BUSH.PICKED"
 msgid "Picking brambles is dangerous."
-msgstr ""
+msgstr "Sber ostruzin je nebezpecny."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MARSH_BUSH.BURNING
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MARSH_BUSH.BURNING"
 msgid "Combustion!"
-msgstr ""
+msgstr "Spalovani!"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.DIRTPILE
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.DIRTPILE"
@@ -15148,7 +15148,7 @@ msgstr "Nehygienicke!"
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BATWING
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BATWING"
 msgid "Technically edible."
-msgstr ""
+msgstr "Technicky vzato jsou jedle."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ANIMAL_TRACK
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ANIMAL_TRACK"
@@ -15158,27 +15158,27 @@ msgstr "Zvireci stopa, vedouci pryc."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TALLBIRDEGG_CRACKED.GENERIC
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TALLBIRDEGG_CRACKED.GENERIC"
 msgid "Development appears to be progressing."
-msgstr ""
+msgstr "Vyvoj se zda byt progresivni."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TALLBIRDEGG_CRACKED.HOT
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TALLBIRDEGG_CRACKED.HOT"
 msgid "Exposure to temperature extremes may result in death."
-msgstr ""
+msgstr "Vystaveni tepelnym extremum muze koncit smrti."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TALLBIRDEGG_CRACKED.COLD
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TALLBIRDEGG_CRACKED.COLD"
 msgid "You will catch your death of cold!"
-msgstr ""
+msgstr "Podchladis se k smrti!"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TALLBIRDEGG_CRACKED.LONG
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TALLBIRDEGG_CRACKED.LONG"
 msgid "A watched pot never boils."
-msgstr ""
+msgstr "Sledovany hrnec se nikdy nevari."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TALLBIRDEGG_CRACKED.SHORT
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TALLBIRDEGG_CRACKED.SHORT"
 msgid "We shall soon reap the fruits of our labours."
-msgstr ""
+msgstr "Brzy bychom meli sklizet plody nasi prace."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.DUG_SAPLING
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.DUG_SAPLING"
@@ -15188,27 +15188,27 @@ msgstr "K rustu potrebuje zeminu."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TALLBIRDEGG
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TALLBIRDEGG"
 msgid "It requires incubation."
-msgstr ""
+msgstr "Vyzaduje inkubaci."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SMALLBIRD.GENERIC
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SMALLBIRD.GENERIC"
 msgid "A rather diminutive specimen of the class Aves."
-msgstr ""
+msgstr "Spise drobny exemplar tridy ptaku."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SMALLBIRD.HUNGRY
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SMALLBIRD.HUNGRY"
 msgid "It requires sustenance."
-msgstr ""
+msgstr "Vyzaduje vyzivu."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SMALLBIRD.STARVING
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SMALLBIRD.STARVING"
 msgid "Without sustenance, it will surely perish."
-msgstr ""
+msgstr "Bez potravy jiste zahyne."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SKELETON
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SKELETON"
 msgid "An incredibly well preserved human skeleton."
-msgstr ""
+msgstr "Neuveritelne zachovala lidska kostra."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TELESTAFF
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TELESTAFF"
@@ -15228,27 +15228,27 @@ msgstr "Tato zlaza produkuje mirne toxicky jed."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.STALAGMITE_TALL_FULL
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.STALAGMITE_TALL_FULL"
 msgid "Another stalagmite."
-msgstr ""
+msgstr "Dalsi stalagmit."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CHESTER_EYEBONE.GENERIC
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CHESTER_EYEBONE.GENERIC"
 msgid "Oculus Mysterium."
-msgstr ""
+msgstr "Oculus Mysterium."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CHESTER_EYEBONE.WAITING
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CHESTER_EYEBONE.WAITING"
 msgid "The oculus is inactive."
-msgstr ""
+msgstr "Oculus je neaktvini."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CHESSJUNK3
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CHESSJUNK3"
 msgid "Clockwork junk"
-msgstr ""
+msgstr "Mechanicke haraburdi"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SMALLMEAT_DRIED
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SMALLMEAT_DRIED"
 msgid "High sodium content."
-msgstr ""
+msgstr "Vysoky obsah sodiku."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.KOALEFANT_WINTER
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.KOALEFANT_WINTER"
@@ -15263,12 +15263,12 @@ msgstr "Nehodlam spat na zemi."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.PANDORASCHEST
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.PANDORASCHEST"
 msgid "An artifact which may contain other artifacts."
-msgstr ""
+msgstr "Artefakt, ktery muze obsahovat jine artefakty."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SKULLCHEST
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SKULLCHEST"
 msgid "A container resembling a cranium."
-msgstr ""
+msgstr "Kontejner pripominajici lebku."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TREASURECHEST
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TREASURECHEST"
@@ -15288,7 +15288,7 @@ msgstr "Rostliny extrahuji mineraly ze zeme."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.FARMPLOT.NEEDSFERTILIZER
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.FARMPLOT.NEEDSFERTILIZER"
 msgid "It has been rendered infertile for lack of nutrients."
-msgstr ""
+msgstr "Stala se neplodnou pro nedostatek zivin."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CAVE_EXIT
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CAVE_EXIT"
@@ -15298,17 +15298,17 @@ msgstr "Mozna bych se mela vratit pro trochu cerstveho vzduchu."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.HEATROCK.GENERIC
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.HEATROCK.GENERIC"
 msgid "It matches the ambient temperature."
-msgstr ""
+msgstr "Ukazatel reaguje na okolni teplotu."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.HEATROCK.HOT
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.HEATROCK.HOT"
 msgid "It is warm enough to radiate heat and light!"
-msgstr ""
+msgstr "Dostatecne vrely na to, aby vyzaroval teplo a svetlo!"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.HEATROCK.COLD
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.HEATROCK.COLD"
 msgid "It's temperature is below freezing."
-msgstr ""
+msgstr "Jeho teplota je pod bodem mrazu."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.HEATROCK.WARM
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.HEATROCK.WARM"
@@ -15323,27 +15323,27 @@ msgstr "Pro rust potrebuje zeminu."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.LEIF_SPARSE
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.LEIF_SPARSE"
 msgid "I... don't even know."
-msgstr ""
+msgstr "Ja... opravdu netusim."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MAXWELLPHONOGRAPH
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MAXWELLPHONOGRAPH"
 msgid "It appears to have no power source."
-msgstr ""
+msgstr "Zda se, ze nema zadny zdroj napajeni."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BEARDHAIR
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BEARDHAIR"
 msgid "This is human facial hair."
-msgstr ""
+msgstr "To jsou lidske vousy."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.RED_CAP
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.RED_CAP"
 msgid "Red usually indicates poison."
-msgstr ""
+msgstr "Cervena obvykle svedci o jedovatosti."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TELEPORTATO_POTATO
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TELEPORTATO_POTATO"
 msgid "Neither fully organic nor inorganic!"
-msgstr ""
+msgstr "Ne zcela organicke ani anorgaticke!"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.DUG_MARSH_BUSH
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.DUG_MARSH_BUSH"
@@ -15363,7 +15363,7 @@ msgstr "K rustu potrebuje zeminu."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BUTTER
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BUTTER"
 msgid "Lepidopterous lipids?"
-msgstr ""
+msgstr "Motyli lipidy?"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.LIGHTNING_ROD.GENERIC
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.LIGHTNING_ROD.GENERIC"
@@ -15373,27 +15373,27 @@ msgstr "Vysoce vodivy!"
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.LIGHTNING_ROD.CHARGED
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.LIGHTNING_ROD.CHARGED"
 msgid "Radiant electrical energy!"
-msgstr ""
+msgstr "Vyzaruje elektrickou energii!"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.KILLERBEE.GENERIC
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.KILLERBEE.GENERIC"
 msgid "It is especially venomous."
-msgstr ""
+msgstr "Je zvlaste nebezpecna."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.KILLERBEE.HELD
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.KILLERBEE.HELD"
 msgid "It is not pleased."
-msgstr ""
+msgstr "Neskace radosti."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ARMOR_SANITY
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ARMOR_SANITY"
 msgid "Protective shroud which transfers attacks to another dimension."
-msgstr ""
+msgstr "Ochranny rubas, jenz transformuje utocniky do jine dimenze."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MEAT_DRIED
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MEAT_DRIED"
 msgid "Salty yet satisfying."
-msgstr ""
+msgstr "Vydatne slane, ale tak akorat."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.EEL_COOKED
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.EEL_COOKED"
@@ -15403,22 +15403,22 @@ msgstr "Tenhle uhor je uvareny."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.HONEY
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.HONEY"
 msgid "Sweetened plant nectar."
-msgstr ""
+msgstr "Slazeny nektar rostlin."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BEEBOX.GENERIC
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BEEBOX.GENERIC"
 msgid "A crude apiary."
-msgstr ""
+msgstr "Humpolacky vcelin."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BEEBOX.READY
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BEEBOX.READY"
 msgid "I can harvest honey from it."
-msgstr ""
+msgstr "Mohu z nej vybirat med."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MOSQUITO.GENERIC
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MOSQUITO.GENERIC"
 msgid "A thirsty female Haemagogus Devorator."
-msgstr "Zizniva samice Haemagogus Devorator."
+msgstr "Komar zaplavovy, zizniva samice."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MOSQUITO.HELD
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MOSQUITO.HELD"
@@ -15428,22 +15428,22 @@ msgstr "Je bezpecne uchovan."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WALL_WOOD_ITEM
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WALL_WOOD_ITEM"
 msgid "Deployable pickets."
-msgstr ""
+msgstr "Nasaditelne kuly."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BERRYBUSH.GENERIC
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BERRYBUSH.GENERIC"
 msgid "It's an Ardisia crenata bush."
-msgstr ""
+msgstr "Ker Ardisie."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BERRYBUSH.PICKED
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BERRYBUSH.PICKED"
 msgid "The berries are growing back, slowly."
-msgstr "Plody pomalu dorustaji."
+msgstr "Plody dorustaji, pomalu."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BERRYBUSH.BARREN
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BERRYBUSH.BARREN"
 msgid "I will require an intervention."
-msgstr ""
+msgstr "Bude to vyzadovat zakrok."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ROCKS
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ROCKS"
@@ -15458,12 +15458,12 @@ msgstr "Trocha natrhane travy."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BEE.GENERIC
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BEE.GENERIC"
 msgid "Apis mellifera. Quite large!"
-msgstr ""
+msgstr "Vcela medonosna. Ponekud prerostla!"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BEE.HELD
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BEE.HELD"
 msgid "It is not pleased."
-msgstr ""
+msgstr "Neskace radosti."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CAVE_BANANA
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CAVE_BANANA"
@@ -15473,37 +15473,37 @@ msgstr "Vsechny jsou geneticky identicke."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BATWING_COOKED
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BATWING_COOKED"
 msgid "Technically edible."
-msgstr ""
+msgstr "Technicky vzato jsou jedle."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ICEHOUND
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ICEHOUND"
 msgid "What a strange, cold beast."
-msgstr ""
+msgstr "Jak podivna, chladna bestie."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TELEPORTATO_BASE.GENERIC
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TELEPORTATO_BASE.GENERIC"
 msgid "This runestone has unique geometric properties!"
-msgstr ""
+msgstr "Tento runovy kamen ma unikatni geometricke vlastnosti!"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TELEPORTATO_BASE.LOCKED
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TELEPORTATO_BASE.LOCKED"
 msgid "The device needs to be activated."
-msgstr ""
+msgstr "To zarizeni potrebuje aktivovat."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TELEPORTATO_BASE.ACTIVE
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TELEPORTATO_BASE.ACTIVE"
 msgid "This machine can be used to travel between worlds."
-msgstr ""
+msgstr "Tento stroj muze byt vyuzit pro cestovani mezi svety."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TELEPORTATO_BASE.PARTIAL
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TELEPORTATO_BASE.PARTIAL"
 msgid "The device is in a partial state of completion."
-msgstr ""
+msgstr "Toto zarizeni je teprve v procesu vystavby."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.STATUEHARP
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.STATUEHARP"
 msgid "A simple statue."
-msgstr ""
+msgstr "Prosta socha."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.GEARS
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.GEARS"
@@ -15513,27 +15513,27 @@ msgstr "Ruzne zoubky a kolecka."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BIRDTRAP
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BIRDTRAP"
 msgid "A simple clap-trap for birds."
-msgstr ""
+msgstr "Prosta sklapovaci past na ptaky."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TELEBASE.VALID
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TELEBASE.VALID"
 msgid "It looks to be ready."
-msgstr ""
+msgstr "Zda se byt pripravena."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TELEBASE.GEMS
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TELEBASE.GEMS"
 msgid "I don't think it's powered yet."
-msgstr "Nemyslim si, ze uz je napajene."
+msgstr "Nemyslim si, ze je napajene."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MONSTERMEAT_DRIED
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MONSTERMEAT_DRIED"
 msgid "Salty yet satisfying."
-msgstr ""
+msgstr "Velmi slane, ale tak akorat."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TOPHAT
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TOPHAT"
 msgid "How bourgeois."
-msgstr ""
+msgstr "Jak mestske."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TORCH
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TORCH"
@@ -15543,12 +15543,12 @@ msgstr "Improvizovane prirucni osvetleni."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.YELLOWSTAFF
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.YELLOWSTAFF"
 msgid "Luckily the star is a manageable size."
-msgstr ""
+msgstr "Nastesti ta hvezda je v ovladatelne velikosti."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.NIGHTLIGHT
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.NIGHTLIGHT"
 msgid "Curiously luminescent."
-msgstr ""
+msgstr "Podivne luminiscencni."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.RESEARCHLAB
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.RESEARCHLAB"
@@ -15558,12 +15558,12 @@ msgstr "Vyzkumna stanice. Mohu se s ni naucit nove veci."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MALE_PUPPET
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MALE_PUPPET"
 msgid "Poor boy."
-msgstr ""
+msgstr "Ubohy chlapec."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.RABBITHOLE
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.RABBITHOLE"
 msgid "It looks like a small animal's burrow."
-msgstr ""
+msgstr "Vypada to na noru maleho zvirete."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.AMULET
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.AMULET"
@@ -15573,7 +15573,7 @@ msgstr "Relikvie z jinych casu."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SPIDER_SPITTER
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SPIDER_SPITTER"
 msgid "An arachnid that spits projectiles."
-msgstr ""
+msgstr "Pavoukovec strely plivajici."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.STALAGMITE_FULL
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.STALAGMITE_FULL"
@@ -15583,12 +15583,12 @@ msgstr "Podivna skalni formace."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MAXWELLLOCK
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MAXWELLLOCK"
 msgid "Now I just need a key."
-msgstr ""
+msgstr "Ted uz potrebuji jen klic."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SPIDERDEN
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SPIDERDEN"
 msgid "Fascinating. These spiders have a communal hive."
-msgstr ""
+msgstr "Fascinujici. Tito pavouci maji komunalni hnizdo."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SHOVEL
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SHOVEL"
@@ -15598,22 +15598,22 @@ msgstr "Je to lopata. Urcite jsi zadnou nikdy predtim nevidel?"
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.PIGHOUSE.GENERIC
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.PIGHOUSE.GENERIC"
 msgid "The pig creatures have such prosaic taste in architecture."
-msgstr ""
+msgstr "Ta praseci stvoreni maji tak prozaickou architekturu."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.PIGHOUSE.LIGHTSOUT
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.PIGHOUSE.LIGHTSOUT"
 msgid "That was quite rude."
-msgstr ""
+msgstr "To bylo pomerne hrube."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.PIGHOUSE.FULL
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.PIGHOUSE.FULL"
 msgid "I wonder what they do in there."
-msgstr ""
+msgstr "Zajimalo by me, copak uvnitr asi delaji."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SPIDERHAT
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SPIDERHAT"
 msgid "With this I should be able to exert psionic control over the spiders."
-msgstr ""
+msgstr "S timto budu schopna prevzit psionickou kontrolu nad pavouky."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TENTACLESPIKE
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TENTACLESPIKE"
@@ -15623,27 +15623,27 @@ msgstr "Nikdy ho neber za spicaty konec."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BIRDCAGE.GENERIC
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BIRDCAGE.GENERIC"
 msgid "This will safely contain one avian specimen."
-msgstr ""
+msgstr "Toto bezpecne pojme jeden ptaci exemplar."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BIRDCAGE.SLEEPING
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BIRDCAGE.SLEEPING"
 msgid "Shhhhh!"
-msgstr ""
+msgstr "Pssssst!"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BIRDCAGE.OCCUPIED
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BIRDCAGE.OCCUPIED"
 msgid "He is contained."
-msgstr ""
+msgstr "Je pojmut."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TRAP_TEETH
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TRAP_TEETH"
 msgid "It's covered with a thin film of canine digestive fluid."
-msgstr ""
+msgstr "Je pokryta tenkou vrstvou psich travicich stav."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.LITTLE_WALRUS
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.LITTLE_WALRUS"
 msgid "The juvenile is not as aggressive."
-msgstr ""
+msgstr "Ten mladistvy neni tak agresivni."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.UMBRELLA
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.UMBRELLA"
@@ -15653,17 +15653,17 @@ msgstr "Jednoduchy aparat pro udrzovani sucha."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ARMORGRASS
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ARMORGRASS"
 msgid "Surprisingly effective with enough layers."
-msgstr ""
+msgstr "Prekvapive efektivni pri dostatecnych vrstvach."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.RESURRECTIONSTATUE
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.RESURRECTIONSTATUE"
 msgid "How very pagan."
-msgstr ""
+msgstr "Tak pohanske."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.PIGHEAD
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.PIGHEAD"
 msgid "It's a head on a stick."
-msgstr ""
+msgstr "Je to hlava na tyci."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SPIDER_WARRIOR.GENERIC
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.SPIDER_WARRIOR.GENERIC"
@@ -15693,22 +15693,22 @@ msgstr "Mozna jsem uz zasla prilis daleko."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WALRUS_TUSK
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WALRUS_TUSK"
 msgid "This would be useful for scrimshaw."
-msgstr ""
+msgstr "Dal by se skvele vyuzit pro rezbarske umeni."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BLOWDART_FIRE
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BLOWDART_FIRE"
 msgid "Improvised inflammatory device."
-msgstr ""
+msgstr "Improvizovane vybusne zarizeni."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BUTTERFLYWINGS
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BUTTERFLYWINGS"
 msgid "Wings from a captured butterfly"
-msgstr ""
+msgstr "Kridla chyceneho motyla"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.NIGHTSWORD
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.NIGHTSWORD"
 msgid "Transdimensional weaponry."
-msgstr ""
+msgstr "Transdimenzionalni vyzbroj."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.HAMMER
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.HAMMER"
@@ -15723,37 +15723,37 @@ msgstr "Zajimavy vyber materialu."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.RAINOMETER
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.RAINOMETER"
 msgid "Measure before you act."
-msgstr ""
+msgstr "Dvakrat mer, nez ven jdes."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ROCK_LIGHT.GENERIC
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ROCK_LIGHT.GENERIC"
 msgid "A capped lava pit."
-msgstr ""
+msgstr "Prikryta jama s lavou."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ROCK_LIGHT.OUT
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ROCK_LIGHT.OUT"
 msgid "The lava remains underneath!"
-msgstr ""
+msgstr "Ta lava zustava pod povrchen!"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ROCK_LIGHT.LOW
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ROCK_LIGHT.LOW"
 msgid "The lava is cooling"
-msgstr ""
+msgstr "Lava chladne."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ROCK_LIGHT.NORMAL
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ROCK_LIGHT.NORMAL"
 msgid "Lava's hot."
-msgstr ""
+msgstr "Horka lava"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.FLOWERHAT
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.FLOWERHAT"
 msgid "How celebratory."
-msgstr ""
+msgstr "Jak slavnostni."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BEEFALO.GENERIC
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BEEFALO.GENERIC"
 msgid "It looks almost like a Bos Taurus."
-msgstr ""
+msgstr "Vypada skoro jako tur domaci."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BEEFALO.SLEEPING
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BEEFALO.SLEEPING"
@@ -15763,12 +15763,12 @@ msgstr "Spi."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BEEFALO.FOLLOWER
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BEEFALO.FOLLOWER"
 msgid "It appears to be following me."
-msgstr ""
+msgstr "Zda se, ze mne nasleduje."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BEEFALO.NAKED
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BEEFALO.NAKED"
 msgid "It looks cold."
-msgstr ""
+msgstr "Vypada chladne."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.GOLDNUGGET
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.GOLDNUGGET"
@@ -15778,17 +15778,17 @@ msgstr "Mala hrouda zlata. Atomove cislo 79."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.FEM_PUPPET
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.FEM_PUPPET"
 msgid "Poor girl."
-msgstr ""
+msgstr "Chudak holka."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MAXWELLTHRONE
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MAXWELLTHRONE"
 msgid "What an intimidating chair."
-msgstr ""
+msgstr "Jak zastrasujici zidle. "
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BOARDS
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BOARDS"
 msgid "Roughly hewn wood boards."
-msgstr ""
+msgstr "Velmi hrube tesane drevene desky."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TRAP
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TRAP"
@@ -15798,7 +15798,7 @@ msgstr "Jednoducha past o tyci a kosiku."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.STRAWHAT
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.STRAWHAT"
 msgid "This will offer some protection from the sun."
-msgstr ""
+msgstr "Poskytne ochranu pred slunecnim zarenim."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.POND
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.POND"
@@ -15808,7 +15808,7 @@ msgstr "Male, ale hluboke sladkovodni jezero."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.HOUNDMOUND
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.HOUNDMOUND"
 msgid "Those bones are foreboding."
-msgstr ""
+msgstr "Z tehle kosti mam zlou predtuchu."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.PINECONE
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.PINECONE"
@@ -15823,7 +15823,7 @@ msgstr "Tenhle amulet zari v polovine 530 nanometrove vlnove delky."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MAXWELL
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MAXWELL"
 msgid "What a rude gentleman."
-msgstr ""
+msgstr "Jak neotesany kavalir."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MEAT
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MEAT"
@@ -15843,7 +15843,7 @@ msgstr "To nabizi urcitou ochranu."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.EYEPLANT
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.EYEPLANT"
 msgid "I believe they are controlled by the larger plant."
-msgstr "Myslim, ze je ovlada vetsi rostlina."
+msgstr "Verim, ze jsou ovladany tou vetsi rostlinou."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TURF_FUNGUS
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TURF_FUNGUS"
@@ -15868,17 +15868,17 @@ msgstr "Z nejakeho duvodu je jejich sliz vybusny."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MONKEY
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MONKEY"
 msgid "They produce quite an odor."
-msgstr ""
+msgstr "Produkuji celkem silny zapach."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MUSHTREE_TALL
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MUSHTREE_TALL"
 msgid "A tree with a fungal parasite."
-msgstr ""
+msgstr "Strom s houbovym parazitem."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MONKEYBARREL
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MONKEYBARREL"
 msgid "This appears to be the home of several primates."
-msgstr ""
+msgstr "Vypada to na obydli nekolikaclene tlupy primatu."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ARMORSNURTLESHELL
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ARMORSNURTLESHELL"
@@ -15888,17 +15888,17 @@ msgstr "Celkem prostorne."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_HUNGRY
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_HUNGRY"
 msgid "Librarian needs food."
-msgstr ""
+msgstr "Knihovnice potrebuje jist."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_TORCH_OUT
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_TORCH_OUT"
 msgid "I need another torch."
-msgstr ""
+msgstr "Potrebuji novou pochoden."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_DUSK
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_DUSK"
 msgid "Night will be here soon."
-msgstr ""
+msgstr "Brzy na kraj padne noc."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_ENTER_DARK
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_ENTER_DARK"
@@ -15918,7 +15918,7 @@ msgstr "Slysel jsi to?"
 #. STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_PECKED
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_PECKED"
 msgid "Settle down, this instant!"
-msgstr ""
+msgstr "Prestan vyrusovat, ted hned!"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_COLD
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_COLD"
@@ -15938,12 +15938,12 @@ msgstr "Mnam!"
 #. STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_EAT.STALE
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_EAT.STALE"
 msgid "That was not at optimal freshness."
-msgstr ""
+msgstr "To nebylo zrovna optimalne cerstve."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_EAT.PAINFUL
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_EAT.PAINFUL"
 msgid "I should not have ingested that."
-msgstr ""
+msgstr "To jsem nemela pozrit."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_EAT.SPOILED
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_EAT.SPOILED"
@@ -16193,7 +16193,7 @@ msgstr "Vypada, ze by se s nim dalo obchodovat."
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.MERM
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.MERM"
 msgid "What foul sea did that crawl out of?"
-msgstr ""
+msgstr "Z jak spinaveho oceanu tenhle morskej panak vylezl?"
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.FEATHER_ROBIN_WINTER
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.FEATHER_ROBIN_WINTER"
@@ -18118,7 +18118,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.MERMHEAD
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.MERMHEAD"
 msgid "Smells like a factory trawler."
-msgstr ""
+msgstr "Smrdi jak cela rybarska lod."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.POOP
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.POOP"
@@ -18238,7 +18238,7 @@ msgstr "Znicil jsem mu domov. Mam vycitky."
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.MERMHOUSE
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.MERMHOUSE"
 msgid "They're not the handiest."
-msgstr ""
+msgstr "Nepatri k nejzrucnejsim."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.HONEYHAM
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.HONEYHAM"
@@ -22174,7 +22174,7 @@ msgstr "Nevypada moc k jidlu."
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.MANRABBIT_TAIL
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.MANRABBIT_TAIL"
 msgid "Puffy!"
-msgstr "Nacechrany!"
+msgstr "Chundelaty!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.POWCAKE
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.POWCAKE"
@@ -23189,7 +23189,7 @@ msgstr "Myslim, ze je to harampadi."
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.MERMHEAD
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.MERMHEAD"
 msgid "What a handsome devil!"
-msgstr "Jaky pohledny dablik!"
+msgstr "Jak pohledny dabel!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.FEM_PUPPET
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.FEM_PUPPET"
@@ -27762,7 +27762,7 @@ msgstr "Woodie"
 #. STRINGS.CHARACTER_NAMES.unknown
 msgctxt "STRINGS.CHARACTER_NAMES.unknown"
 msgid "The Unknown"
-msgstr "Neznamy"
+msgstr "Tajemne Neznamo"
 
 #. STRINGS.CHARACTER_NAMES.wes
 msgctxt "STRINGS.CHARACTER_NAMES.wes"
@@ -28667,7 +28667,7 @@ msgstr "Zkontrolovat"
 #. STRINGS.ACTIONS.RESETMINE
 msgctxt "STRINGS.ACTIONS.RESETMINE"
 msgid "Reset"
-msgstr "Reset"
+msgstr "Obnovit"
 
 #. STRINGS.ACTIONS.UNEQUIP
 msgctxt "STRINGS.ACTIONS.UNEQUIP"
@@ -28702,7 +28702,7 @@ msgstr "Naplnit"
 #. STRINGS.ACTIONS.TALKTO
 msgctxt "STRINGS.ACTIONS.TALKTO"
 msgid "Talk to"
-msgstr "Bavit se"
+msgstr "Promluvit si"
 
 #. STRINGS.ACTIONS.COMBINESTACK
 msgctxt "STRINGS.ACTIONS.COMBINESTACK"
@@ -28807,7 +28807,7 @@ msgstr "Naucit se"
 #. STRINGS.ACTIONS.SEW
 msgctxt "STRINGS.ACTIONS.SEW"
 msgid "Sew"
-msgstr "Sit"
+msgstr "Zasit"
 
 #. STRINGS.ACTIONS.FERTILIZE
 msgctxt "STRINGS.ACTIONS.FERTILIZE"
@@ -29077,7 +29077,7 @@ msgstr "Vrana-#&#-Crow"
 #. STRINGS.NAMES.MERM
 msgctxt "STRINGS.NAMES.MERM"
 msgid "Merm"
-msgstr "Merm-#&#-Merm"
+msgstr "Ryboclovek-#&#-Merm"
 
 #. STRINGS.NAMES.LIGHTER
 msgctxt "STRINGS.NAMES.LIGHTER"
@@ -30912,7 +30912,7 @@ msgstr "Svetelkujici kvetina-#&#-Light Flower"
 #. STRINGS.NAMES.MERMHEAD
 msgctxt "STRINGS.NAMES.MERMHEAD"
 msgid "Merm Head"
-msgstr "-#&#-Merm Head"
+msgstr "Hlava rybocloveka-#&#-Merm Head"
 
 #. STRINGS.NAMES.POWCAKE
 msgctxt "STRINGS.NAMES.POWCAKE"
@@ -31127,12 +31127,12 @@ msgstr "Polevka z mandragory-#&#-Mandrake Soup"
 #. STRINGS.NAMES.TRUNKVEST_WINTER
 msgctxt "STRINGS.NAMES.TRUNKVEST_WINTER"
 msgid "Puffy Vest"
-msgstr "-#&#-Puffy Vest"
+msgstr "Chundelata vesta-#&#-Puffy Vest"
 
 #. STRINGS.NAMES.TRUNKVEST_SUMMER
 msgctxt "STRINGS.NAMES.TRUNKVEST_SUMMER"
 msgid "Breezy Vest"
-msgstr "Breezy Vest-#&#-Breezy Vest"
+msgstr "Vetrova vesta-#&#-Breezy Vest"
 
 #. STRINGS.NAMES.TRUNK_WINTER
 msgctxt "STRINGS.NAMES.TRUNK_WINTER"
