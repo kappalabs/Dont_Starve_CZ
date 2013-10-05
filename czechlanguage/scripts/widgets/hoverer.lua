@@ -16,16 +16,15 @@ local HoverText = Class(Widget, function(self, owner)
     self.secondarytext = self:AddChild(Text(UIFONT, 30))
     self.secondarytext:SetPosition(0,-YOFFSETDOWN,0)
     self:FollowMouseConstrained()
+    self:StartUpdating()
 end)
 
-function HoverText:Update()
-
-	if "PS4" == PLATFORM then
-	    return
-	end
+function HoverText:OnUpdate()
 	    
-	if TheFrontEnd.tracking_mouse ~= self.shown then
-		if TheFrontEnd.tracking_mouse then
+    local using_mouse = self.owner.components and self.owner.components.playercontroller:UsingMouse()        
+	
+	if using_mouse ~= self.shown then
+		if using_mouse then
 			self:Show()
 		else
 			self:Hide()
@@ -56,7 +55,7 @@ function HoverText:Update()
     local secondarystr = nil
  
     if not str and self.isFE == false then
-        local lmb = self.owner.components.playeractionpicker:GetLeftMouseAction()
+        local lmb = self.owner.components.playercontroller:GetLeftMouseAction()
         if lmb then
             
             str = lmb:GetActionString()
@@ -90,10 +89,10 @@ function HoverText:Update()
 				end
             end
         end
-        local rmb = self.owner.components.playeractionpicker:GetRightMouseAction()
+        local rmb = self.owner.components.playercontroller:GetRightMouseAction()
         if rmb then
             secondarystr = STRINGS.RMB .. ": " .. rmb:GetActionString()
-		end
+        end
     end
 
     if str then
@@ -136,6 +135,7 @@ end
 
 function HoverText:UpdatePosition(x,y)
 
+
 	local scale = self:GetScale()
 
     --### MOD DisplayValues2 -->
@@ -155,8 +155,8 @@ function HoverText:UpdatePosition(x,y)
         end
 	end 
     y = y + positionshift*scale.y
-    --### <EO> MOD DisplayValues2 <--
-	
+    --### <EO> MOD DisplayValues2 <--	
+
     local scr_w, scr_h = TheSim:GetScreenSize()
 
     local w = 0

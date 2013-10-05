@@ -5,7 +5,6 @@ local ImageButton = require "widgets/imagebutton"
 local Text = require "widgets/text"
 local Image = require "widgets/image"
 
-local Toggle = require "widgets/toggle"
 local Widget = require "widgets/widget"
 local Levels = require "map/levels"
 

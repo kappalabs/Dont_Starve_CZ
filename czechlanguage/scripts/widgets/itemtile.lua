@@ -17,6 +17,7 @@ local ItemTile = Class(Widget, function(self, invitem)
 	self.bg:SetTexture(HUD_ATLAS, "inv_slot_spoiled.tex")
 	self.bg:Hide()
 	self.bg:SetClickable(false)
+	self.basescale = 1
 	
 	self.spoilage = self:AddChild(UIAnim())
 	
@@ -52,11 +53,11 @@ local ItemTile = Class(Widget, function(self, invitem)
 						local im = Image(invitem.components.inventoryitem:GetAtlas(), invitem.components.inventoryitem:GetImage())
 						im:MoveTo(data.src_pos, dest_pos, .3, function() 
 							self:SetQuantity(invitem.components.stackable:StackSize())
-							self:ScaleTo(2, 1, .25)
+							self:ScaleTo(self.basescale*2, self.basescale, .25)
 							im:Kill() end)
 					else
 	                    self:SetQuantity(invitem.components.stackable:StackSize())
-						self:ScaleTo(2, 1, .25)
+						self:ScaleTo(self.basescale*2, self.basescale, .25)
 					end
                 end
             end, invitem)
@@ -94,33 +95,49 @@ local ItemTile = Class(Widget, function(self, invitem)
     
 end)
 
+function ItemTile:SetBaseScale(sc)
+	self.basescale = sc
+	self:SetScale(sc)
+end
+
 function ItemTile:OnControl(control, down)
     --### MOD DisplayValues2 -->
     if control == CONTROL_FORCE_INSPECT and down then
     	self:UpdateTooltip(true)
-    --### <EO> MOD DisplayValues2  <--
-    else
+	else
     	self:UpdateTooltip()
-    end
+	end
+	--self:UpdateTooltip()
+    --### <EO> MOD DisplayValues2  <--
     return false
 end
 
-function ItemTile:UpdateTooltip(show_spoil) --### MOD DisplayValues2 
-	local str = self:GetDescriptionString(show_spoil) --### MOD DisplayValues2 
+--### MOD DisplayValues2 
+function ItemTile:UpdateTooltip(show_spoil) 
+	local str = self:GetDescriptionString(show_spoil)
+	self:SetTooltip(str)
+end
+ --### MOD DisplayValues2 
+
+function ItemTile:UpdateTooltip()
+	local str = self:GetDescriptionString()
 	self:SetTooltip(str)
 end
 
-function ItemTile:GetDescriptionString(show_spoil) --### MOD DisplayValues2 
+function ItemTile:GetDescriptionString(show_spoil) --### MOD DisplayValues2
     local str = nil
     local in_equip_slot = self.item and self.item.components.equippable and self.item.components.equippable:IsEquipped()
     local active_item = GetPlayer().components.inventory:GetActiveItem()
+	--### MOD DisplayValues2 -->
     show_spoil = show_spoil or TheInput:IsControlPressed(CONTROL_FORCE_INSPECT)
+	--### MOD <EO> DisplayValues2 <--
     if self.item and self.item.components.inventoryitem then
 
 		--### MOD DisplayValues2 -->
 		local realfood = nil
 		--### <EO> MOD DisplayValues2 <--
         local adjective = self.item:GetAdjective()
+        
         if adjective then
             str = adjective .. " " .. self.item:GetDisplayName()
         else
@@ -184,7 +201,8 @@ function ItemTile:GetDescriptionString(show_spoil) --### MOD DisplayValues2
                 end
 
             end
-        end    
+        end
+
 		--### MOD DisplayValues2 -->
 		if self.item.components.edible and realfood then
 		    local hungervalue = math.floor(self.item.components.edible:GetHunger(self.item) * 10 + 0.5) / 10
@@ -237,11 +255,11 @@ function ItemTile:GetDescriptionString(show_spoil) --### MOD DisplayValues2
 				str = str .. plural_days[plural_type(round(perishremainingtime))]
 			--### <EO> Czech modification for DisplayValues2 MOD <--
 		end		
-		--### <EO> MOD DisplayValues2 <--      
+		--### <EO> MOD DisplayValues2 <--
     end
-
+    
     return str or ""
-
+    
 end
 
 --### MOD CzechTranslationFeature -->
@@ -259,13 +277,6 @@ function CZTGetReplacementIte(text, part)
 	end
 end
 --### <EO> MOD CzechTranslationFeature <--
-
-function round(x)
-  if x%2 ~= 0.5 then
-    return math.floor(x+0.5)
-  end
-  return x-0.5
-end
 
 function ItemTile:OnGainFocus()
     self:UpdateTooltip()
@@ -300,7 +311,6 @@ function ItemTile:SetPercent(percent)
         
     --end
 end
-
 
 --[[
 function ItemTile:CancelDrag()

@@ -35,7 +35,7 @@ local RecipePopup = Class(Widget, function(self, horizontal)
     self.name = self.contents:AddChild(Text(UIFONT, 45))
     self.name:SetPosition(327, 142, 0)
 
-    self.desc = self.contents:AddChild(Text(BODYTEXTFONT, 30))
+    self.desc = self.contents:AddChild(Text(UIFONT, 30))
     self.desc:SetPosition(325, -5, 0)
     self.desc:SetRegionSize(64*3+20,70)
     self.desc:EnableWordWrap(true)
@@ -57,11 +57,15 @@ local RecipePopup = Class(Widget, function(self, horizontal)
     self.amulet:SetPosition(415, -105, 0)
     self.amulet:SetTooltip(STRINGS.GREENAMULET_TOOLTIP)
     
-    self.teaser = self.contents:AddChild(Text(BODYTEXTFONT, 30))
+    self.teaser = self.contents:AddChild(Text(UIFONT, 30))
     self.teaser:SetPosition(325, -100, 0)
     self.teaser:SetRegionSize(64*3+20,70)
     self.teaser:EnableWordWrap(true)
     self.teaser:Hide()
+    
+	local devices = TheInput:GetInputDevices()
+	self.controller_id = devices[#devices].data
+    
 end)
 
 
@@ -144,30 +148,55 @@ function RecipePopup:SetRecipe(recipe, owner)
         elseif knows then
             self.teaser:Hide()
             self.recipecost:Hide()
-            self.button:Show()
-            self.button:SetPosition(320, -105, 0)
-            self.button:SetScale(1,1,1)
             
-            self.button:SetText(buffered and STRINGS.UI.CRAFTING.PLACE or STRINGS.UI.CRAFTING.BUILD)
-            if can_build then
-                self.button:Enable()
-            else
-                self.button:Disable()
-            end
+            
+            if TheInput:ControllerAttached() then
+				self.button:Hide()
+				self.teaser:Show()
+				if can_build then
+					self.teaser:SetString(TheInput:GetLocalizedControl(self.controller_id, CONTROL_ACCEPT) .. " " .. (buffered and STRINGS.UI.CRAFTING.PLACE or STRINGS.UI.CRAFTING.BUILD))
+				else
+					self.teaser:SetString(STRINGS.UI.CRAFTING.NEEDSTUFF)
+				end
+			else
+				self.button:Show()
+				self.button:SetPosition(320, -105, 0)
+				self.button:SetScale(1,1,1)
+	            
+				self.button:SetText(buffered and STRINGS.UI.CRAFTING.PLACE or STRINGS.UI.CRAFTING.BUILD)
+				if can_build then
+					self.button:Enable()
+				else
+					self.button:Disable()
+				end
+			end
         else
         
             self.teaser:Hide()
             self.recipecost:Hide()
-            self.button:Show()
-            self.button:SetPosition(320, -105, 0)
-            self.button:SetScale(1,1,1)
             
-            self.button:SetText(STRINGS.UI.CRAFTING.PROTOTYPE)
-            if can_build then
-                self.button:Enable()
-            else
-                self.button:Disable()
+            if TheInput:ControllerAttached() then
+				self.button:Hide()
+				self.teaser:Show()
+				
+				if can_build then
+					self.teaser:SetString(TheInput:GetLocalizedControl(self.controller_id, CONTROL_ACCEPT) .. " " .. STRINGS.UI.CRAFTING.PROTOTYPE)
+				else
+					self.teaser:SetString(STRINGS.UI.CRAFTING.NEEDSTUFF)
+				end
+			else
+				self.button:Show()
+				self.button:SetPosition(320, -105, 0)
+				self.button:SetScale(1,1,1)
+	            
+				self.button:SetText(STRINGS.UI.CRAFTING.PROTOTYPE)
+				if can_build then
+					self.button:Enable()
+				else
+					self.button:Disable()
+				end
             end
+            
             
         end 
 
@@ -218,7 +247,6 @@ function RecipePopup:SetRecipe(recipe, owner)
 
     --end
 end
-
 
 --### MOD CzechTranslationFeature -->
 function CZTGetReplacement(text, part)

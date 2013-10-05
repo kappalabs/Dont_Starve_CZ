@@ -1,7 +1,7 @@
 Don't Starve CZ (cca 80%)
 =========================
-**Czech translation mod for Don't Starve [A Moderately Friendly Update (Sep10)]**<br />
-**Mód českého překladu hry Don't Starve [Rozumně přátelský update (Září10)]**
+**Czech translation mod for Don't Starve [Six Feet Under (Oct1)]**<br />
+**Mód českého překladu hry Don't Starve [V hloubi dvou metrů (Říjen1)]**
 
 POPIS MÓDU
 ----------
