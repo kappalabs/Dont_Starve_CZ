@@ -1,7 +1,7 @@
 Don't Starve CZ (cca 80%)
 =========================
-**Czech translation mod for Don't Starve [Six Feet Under (Oct1)]**<br />
-**Mód českého překladu hry Don't Starve [V hloubi dvou metrů (Říjen1)]**
+**Czech translation mod for Don't Starve [All's Well that Maxwell (Oct22)]**<br />
+**Mód českého překladu hry Don't Starve [?Maxwellem vše dobře končí? (Říjen22)]**
 
 POPIS MÓDU
 ----------
