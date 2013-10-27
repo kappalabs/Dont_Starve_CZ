@@ -1,5 +1,3 @@
-msgid ""
-msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: \n"
@@ -9835,7 +9833,7 @@ msgstr "Zkopírovali prasata, ale jsou ještě méně inteligentní."
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.SEEDS_COOKED
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.SEEDS_COOKED"
 msgid "I broiled the life out of 'em."
-msgstr "Vypekl jsem jejich veškěrý život."
+msgstr "Vypekl jsem jejich veškerý život."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.SHOVEL
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.SHOVEL"
@@ -11071,7 +11069,7 @@ msgstr "Někdy příště, prasátko!"
 #. STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_NO_TRAP
 msgctxt "STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_NO_TRAP"
 msgid "Weird. They forgot to set it."
-msgstr "Zvláštní. Zapoměli ji natáhnout."
+msgstr "Zvláštní. Zapomněli ji natáhnout."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE_GENERIC
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE_GENERIC"
@@ -16453,8 +16451,7 @@ msgstr "A MÁM TĚ"
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.PIGHEAD
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.PIGHEAD"
 msgid "THAT PIG WILL FEEL SILLY WHEN HE NOTICES HE HAS LOST HIS HEAD MODULE."
-msgstr ""
-"TO PRASE SE BUDE CÍTIT HLOUPĚ, AŽ ZJISTÍ, ŽE MU CHYBÍ JEHO MODUL HLAVY."
+msgstr "TO PRASE SE BUDE CÍTIT HLOUPĚ, AŽ ZJISTÍ, ŽE MU CHYBÍ JEHO MODUL HLAVY."
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.PIGTENT
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.PIGTENT"
@@ -17388,17 +17385,13 @@ msgstr "Dokonale průměrný oheň."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MUSHTREE_SMALL
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MUSHTREE_SMALL"
 msgid "My word! A huge Mycena silvaelucens."
-msgstr ""
-"Propánajána! Obrovská Mycena silvaelucens. Houba známá také jako \"Světlo "
-"lesa\""
+msgstr "Propánajána! Obrovská Mycena silvaelucens. Houba známá také jako \"Světlo lesa\""
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MINOTAURHORN
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MINOTAURHORN"
 msgid ""
 "An amazingly large horn. I wonder if the nightmare helped fuel the growth."
-msgstr ""
-"Obdivuhodně velký roh. Zajámalo by mě, zda mu palivo nočních můr pomáhalo s "
-"růstem."
+msgstr "Obdivuhodně velký roh. Zajámalo by mě, zda mu palivo nočních můr pomáhalo s růstem."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CHARCOAL
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CHARCOAL"
@@ -18017,16 +18010,14 @@ msgstr "Nezdá se, že by tu v okolí byly nějaké ektoplazmatické výpary."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.NIGHTMARE_TIMEPIECE.WANING
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.NIGHTMARE_TIMEPIECE.WANING"
 msgid "Levels of ectoplasmic residue are high but seem to be decreasing."
-msgstr ""
-"Úroveň ektoplazmatických usazenin je vysoká, ale zdá se, že ještě narůstá."
+msgstr "Úroveň ektoplazmatických usazenin je vysoká, ale zdá se, že ještě narůstá."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.NIGHTMARE_TIMEPIECE.WARN
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.NIGHTMARE_TIMEPIECE.WARN"
 msgid ""
 "There are low, but increasing levels of vapours containing ectoplasmic "
 "residue."
-msgstr ""
-"Je zde nízká, ale narůstající úroveň výparů obsahujícíh ektoplazmatické "
+msgstr "Je zde nízká, ale narůstající úroveň výparů obsahujícíh ektoplazmatické "
 "usazeniny."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.NIGHTMARE_TIMEPIECE.DAWN
@@ -18052,8 +18043,7 @@ msgstr "Odpudivý kouzelný oděv."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.NIGHTMARELIGHT
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.NIGHTMARELIGHT"
 msgid "The ancients seem to have used nightmare fuel to power everything."
-msgstr ""
-"Zdá se, že antičtí autoři byli zvyklí na veškerý pohon užívat palivo nočních "
+msgstr "Zdá se, že antičtí autoři byli zvyklí na veškerý pohon užívat palivo nočních "
 "můr."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TURF_SINKHOLE
@@ -26400,7 +26390,7 @@ msgstr "Tak malá rostlinka! Je srandovní."
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BISHOP_NIGHTMARE
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BISHOP_NIGHTMARE"
 msgid "Is angry man. Should relax."
-msgstr "Rozlobený chlapík. Měl by se uvolnit trochu."
+msgstr "Rozzlobený chlapík. Měl by se uvolnit trochu."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.TURF_FUNGUS
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.TURF_FUNGUS"
