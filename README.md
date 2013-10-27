@@ -1,11 +1,11 @@
-Don't Starve CZ (cca 80%)
+Don't Starve CZ (cca 89%)
 =========================
 **Czech translation mod for Don't Starve [All's Well that Maxwell (Oct22)]**<br />
-**Mód českého překladu hry Don't Starve [?Maxwellem vše dobře končí? (Říjen22)]**
+**Mód českého překladu hry Don't Starve [Starý dobrák Maxwell (Říjen22)]**
 
 POPIS MÓDU
 ----------
-- Mód obsahuje **úplný překlad**: herního menu, nastavení, menu výroby, názvy předmětů a nestvůr, hlášky Wilsona a Willow.
+- Mód obsahuje **úplný překlad**: herního menu, nastavení, menu výroby, názvy předmětů a nestvůr, hlášky Wilsona, Willow, Wickerbottom a Maxwella.
 - Další části: hlášky ostatních postav, jména prasat a králíků atd. jsou ve stavu překladu, či korektur.
 - **Mód obsahuje možnost zobrazení všech originálních názvů** po stisku konfigurovatelné klávesy, **v defaultu "c"**.
 - Z důvodu implementace této možnosti a její neslučitelnosti s módem DisplayFoodValues bylo zváženo a provedeno **implementování módu DisplayFoodValues od módera alks** do českého balíčku, jako bonus, včetně podpory českého skloňování.
@@ -48,7 +48,7 @@ SOUBORY
 POZNÁMKA
 --------
 Hra pro texty využívá kódování **ISO-8859-2**, které české znaky sic plně podporuje, nicméně znaky s diakritikou nejsou (zatím) ve fontech hry obsaženy. Do vyřešení problému je možné testovat zde publikované fonty dle návodu výše.<br />
-Pro umožnění zobrazení češtiny ve hře jsou prováděny následující kroky:
+Pro umožnění zobrazení češtiny ve hře (tedy bez diakritiky) jsou prováděny následující kroky:
  - Běžně se překládá soubor czech.po, který je v kódování UTF-8 a obsahuje překlad s diakritikou. To umožní okamžitou podporu diakritiky v okamžiku podpory těchto znaků ve hře pouhým přepsáním hodnoty v souboru modmain.lua.
  - Dočasně se používá skript transform, který soubor czech.po upraví do czech_ascii.po tak, že mu přenastaví kódování na iso-8859-2, zruší diakritiku a správně ho nakonfiguruje.
 Soubor czech_ascii.po je proto zatím ten, který je ve hře použit (nastavením v souboru modinfo.lua).

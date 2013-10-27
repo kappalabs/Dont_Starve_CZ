@@ -1,7 +1,7 @@
 name = "Czech Language Pack"
-description = "Balicek s cestinou do hry (80%)."
+description = "Balicek s cestinou do hry (89%)."
 author = "Kappa a Keebleec"
-version = "1.80.2"
+version = "1.89"
 
 -- http://forums.kleientertainment.com/index.php?/files/file/202-sample-mods/
 -- <-- /files/file/202-sample-mods/
