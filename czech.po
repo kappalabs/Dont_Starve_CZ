@@ -17397,7 +17397,7 @@ msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MINOTAURHORN"
 msgid ""
 "An amazingly large horn. I wonder if the nightmare helped fuel the growth."
 msgstr ""
-"Obdivuhodně velký roh. Zajámalo by mě, zda mu palivo nočních můr pomáhalo s "
+"Obdivuhodně velký roh. Zajímalo by mě, zda mu palivo nočních můr pomáhalo s "
 "růstem."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CHARCOAL
