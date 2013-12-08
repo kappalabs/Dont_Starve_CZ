@@ -9,7 +9,7 @@ local ItemTile = Class(Widget, function(self, invitem)
 
 	-- NOT SURE WAHT YOU WANT HERE
 	if invitem.components.inventoryitem == nil then
-		print("NO INVENTORY ITEM COMPONENT"..tostring(invitem.prefab), invitem, owner)
+		print("NO INVENTORY ITEM COMPONENT"..tostring(invitem.prefab), invitem)
 		return
 	end
 	
@@ -32,11 +32,11 @@ local ItemTile = Class(Widget, function(self, invitem)
 
     local owner = self.item.components.inventoryitem.owner
     
-    if self.item.prefab == "spoiled_food" or (self.item.components.edible and self.item.components.perishable) then
+    if self.item.prefab == "spoiled_food" or self:HasSpoilage() then
 		self.bg:Show( )
 	end
 	
-	if self.item.components.perishable and self.item.components.edible then
+	if self:HasSpoilage() then
 		self.spoilage:Show()
 	end
 
@@ -73,7 +73,13 @@ local ItemTile = Class(Widget, function(self, invitem)
             end, invitem)
     self.inst:ListenForEvent("perishchange",
             function(inst, data)
-                self:SetPerishPercent(data.percent)
+				if self.item.components.perishable then
+                    if self:HasSpoilage() then
+                        self:SetPerishPercent(data.percent)
+    				else
+                        self:SetPercent(data.percent)
+    				end
+                end
             end, invitem)
 
     if invitem.components.fueled then
@@ -84,10 +90,14 @@ local ItemTile = Class(Widget, function(self, invitem)
         self:SetPercent(invitem.components.finiteuses:GetPercent())
     end
 
+
     if invitem.components.perishable then
-        self:SetPerishPercent(invitem.components.perishable:GetPercent())
+        if self:HasSpoilage() then
+            self:SetPerishPercent(invitem.components.perishable:GetPercent())
+        else
+            self:SetPercent(invitem.components.perishable:GetPercent())
+        end
     end
-    
     
     if invitem.components.armor then
         self:SetPercent(invitem.components.armor:GetPercent())
@@ -156,7 +166,11 @@ function ItemTile:GetDescriptionString(show_spoil) --### MOD DisplayValues2
         if active_item then 
             
             if not in_equip_slot then
-                str = str .. "\n" .. STRINGS.LMB .. ": " .. STRINGS.SWAP
+                if active_item.components.stackable and active_item.prefab == self.item.prefab then
+                    str = str .. "\n" .. STRINGS.LMB .. ": " .. STRINGS.UI.HUD.PUT
+                else
+                    str = str .. "\n" .. STRINGS.LMB .. ": " .. STRINGS.UI.HUD.SWAP
+                end
             end 
             
             local actions = GetPlayer().components.playeractionpicker:GetUseItemActions(self.item, active_item, true)
@@ -298,7 +312,7 @@ function ItemTile:SetQuantity(quantity)
 end
 
 function ItemTile:SetPerishPercent(percent)
-	if self.item.components.perishable and self.item.components.edible then
+	if self:HasSpoilage() then
 		self.spoilage:GetAnimState():SetPercent("anim", 1-self.item.components.perishable:GetPercent())
 	end
 end
@@ -344,6 +358,8 @@ function ItemTile:StartDrag()
     self.image:SetClickable(false)
 end
 
-
+function ItemTile:HasSpoilage()
+    return (self.item.components.perishable and (self.item.components.edible or self.item:HasTag("show_spoilage")) )
+end
 
 return ItemTile

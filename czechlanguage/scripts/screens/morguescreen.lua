@@ -35,24 +35,17 @@ local MorgueScreen = Class(Screen, function(self, in_game)
     self.bg:SetHAnchor(ANCHOR_MIDDLE)
     self.bg:SetScaleMode(SCALEMODE_FILLSCREEN)
     
-    self.root = self:AddChild(Widget("root"))
-    self.root:SetVAnchor(ANCHOR_MIDDLE)
-    self.root:SetHAnchor(ANCHOR_MIDDLE)
-    self.root:SetScaleMode(SCALEMODE_PROPORTIONAL)
+    self.scaleroot = self:AddChild(Widget("scaleroot"))
+    self.scaleroot:SetVAnchor(ANCHOR_MIDDLE)
+    self.scaleroot:SetHAnchor(ANCHOR_MIDDLE)
+    self.scaleroot:SetScaleMode(SCALEMODE_PROPORTIONAL)
+    self.root = self.scaleroot:AddChild(Widget("root"))
+    self.root:SetScale(.9)
+    self.root:SetPosition(0,10,0)
     
     local left_col = -RESOLUTION_X*.05 - 60
     local right_col = RESOLUTION_X*.40 - 130
     
-    --menu buttons
-    
-	self.OK_button = self.root:AddChild(ImageButton())
-    self.OK_button:SetPosition(right_col, -250, 0)
-    self.OK_button:SetText(STRINGS.UI.MORGUESCREEN.OK)
-    self.OK_button.text:SetColour(0,0,0,1)
-    self.OK_button:SetOnClick( function() self:OK() end )
-    self.OK_button:SetFont(BUTTONFONT)
-    self.OK_button:SetTextSize(40)
-
 	
 	--add the controls panel	
 	
@@ -66,17 +59,6 @@ local MorgueScreen = Class(Screen, function(self, in_game)
     self.devicetitle:SetPosition(0, RESOLUTION_Y*0.30, 0)
     self.devicetitle:SetRegionSize( 400, 70 )
     self.devicetitle:SetString(STRINGS.UI.MORGUESCREEN.TITLE)
-
-	self.down_button = self.obits_panel:AddChild(AnimButton("scroll_arrow"))
-    self.down_button:SetPosition(0, -300, 0)
-    self.down_button:SetRotation(90)
-    self.down_button:SetOnClick( function() self:Scroll(controls_per_scroll) end)
-	
-	self.up_button = self.obits_panel:AddChild(AnimButton("scroll_arrow"))
-    self.up_button:SetPosition(0, 275, 0)
-    self.up_button:SetRotation(-90)
-    self.up_button:SetOnClick( function() self:Scroll(-controls_per_scroll) end)	
-    self.up_button:Hide()
 
     local font_size = 35;
    
@@ -121,19 +103,30 @@ local MorgueScreen = Class(Screen, function(self, in_game)
     self.mogue = Morgue:GetRows()
     self:RefreshControls()
 
-    self.up_button:SetFocusChangeDir(MOVE_DOWN, self.down_button)
-    self.up_button:SetFocusChangeDir(MOVE_RIGHT, self.OK_button)
-    self.up_button:SetFocusChangeDir(MOVE_LEFT, self.OK_button)
-    
-    self.down_button:SetFocusChangeDir(MOVE_UP, self.up_button)
-    self.down_button:SetFocusChangeDir(MOVE_RIGHT, self.OK_button)
-    self.down_button:SetFocusChangeDir(MOVE_LEFT, self.OK_button)
+    if not Input:ControllerAttached() then
 
-    self.OK_button:SetFocusChangeDir(MOVE_LEFT, self.down_button)
-    self.OK_button:SetFocusChangeDir(MOVE_RIGHT, self.up_button)
+        self.OK_button = self.root:AddChild(ImageButton())
+        self.OK_button:SetPosition(right_col, -250, 0)
+        self.OK_button:SetText(STRINGS.UI.MORGUESCREEN.OK)
+        self.OK_button.text:SetColour(0,0,0,1)
+        self.OK_button:SetOnClick( function() self:OK() end )
+        self.OK_button:SetFont(BUTTONFONT)
+        self.OK_button:SetTextSize(40)
+    end
 
-    self.default_focus = self.OK_button
+
+    self.down_button = self.obits_panel:AddChild(ImageButton("images/ui.xml", "scroll_arrow.tex", "scroll_arrow_over.tex", "scroll_arrow_disabled.tex"))
+    self.down_button:SetPosition(360, 0, 0)
+    --self.down_button:SetRotation(90)
+    self.down_button:SetOnClick( function() self:Scroll(controls_per_scroll) end)
     
+    self.up_button = self.obits_panel:AddChild(ImageButton("images/ui.xml", "scroll_arrow.tex", "scroll_arrow_over.tex", "scroll_arrow_disabled.tex"))
+    self.up_button:SetPosition(-360,0, 0)
+    self.up_button:SetScale(-1,1,1)
+    --self.up_button:SetRotation(-90)
+    self.up_button:SetOnClick( function() self:Scroll(-controls_per_scroll) end)    
+    self.up_button:Hide()
+
     if self.control_offset + controls_per_screen < #self.mogue then
         self.down_button:Show()
     else
@@ -144,12 +137,12 @@ end)
 
 function MorgueScreen:OnBecomeActive()
     MorgueScreen._base.OnBecomeActive(self)
-    TheFrontEnd:GetSound():KillSound("FEMusic")    
+    --TheFrontEnd:GetSound():KillSound("FEMusic")    
 end
 
 function MorgueScreen:OnBecomeInactive()
     MorgueScreen._base.OnBecomeInactive(self)
-    TheFrontEnd:GetSound():PlaySound("dontstarve/music/music_FE","FEMusic")
+    --TheFrontEnd:GetSound():PlaySound("dontstarve/music/music_FE","FEMusic")
 end
 
 function MorgueScreen:OnDestroy()
@@ -220,6 +213,8 @@ function MorgueScreen:RefreshControls()
                 else
                     killed_by = "darkness"
                 end
+            elseif killed_by == "unknown" then
+                killed_by = "shenanigans"
             end
 --### MOD CzechTranslationFeature -->
             killed_by = STRINGS.NAMES[string.upper(killed_by)] or STRINGS.NAMES.UNKNOWN
@@ -267,14 +262,14 @@ function MorgueScreen:Scroll(dir)
 		self.control_offset = self.control_offset + dir
 		self:RefreshControls()
 	end
-	
+
 	if self.control_offset > 0 then
 		self.up_button:Show()
 	else
 		self.up_button:Hide()
 	end
 	
-	if self.control_offset + controls_per_screen < #self.mogue then
+    if self.control_offset + controls_per_screen < #self.mogue then
 		self.down_button:Show()
 	else
 		self.down_button:Hide()
@@ -283,12 +278,50 @@ end
 
 function MorgueScreen:OnControl(control, down)
     if MorgueScreen._base.OnControl(self, control, down) then return true end
-    if not down and control == CONTROL_CANCEL then TheFrontEnd:PopScreen() return true end
+    if not down then
+        if control == CONTROL_CANCEL then 
+            TheFrontEnd:PopScreen()
+        elseif control == CONTROL_PAGELEFT then
+            if self.up_button.shown then
+                TheFrontEnd:GetSound():PlaySound("dontstarve/HUD/click_move")
+                self:Scroll(-controls_per_scroll)
+            end
+        elseif control == CONTROL_PAGERIGHT then
+            if self.down_button.shown then
+                TheFrontEnd:GetSound():PlaySound("dontstarve/HUD/click_move")
+                self:Scroll(controls_per_scroll)
+            end
+        else
+            return false
+        end
+
+        return true
+    end
 end
 
 
 function MorgueScreen:OK()
     TheFrontEnd:PopScreen()
 end
+
+
+function MorgueScreen:GetHelpText()
+    local controller_id = TheInput:GetControllerID()
+    local t = {}
+
+    if self.control_offset > 0 then
+        table.insert(t,  TheInput:GetLocalizedControl(controller_id, CONTROL_PAGELEFT) .. " " .. STRINGS.UI.HELP.SCROLLBACK)
+    end
+
+    if self.control_offset + controls_per_screen < #self.mogue then
+        table.insert(t,  TheInput:GetLocalizedControl(controller_id, CONTROL_PAGERIGHT) .. " " .. STRINGS.UI.HELP.SCROLLFWD)
+    end
+
+    table.insert(t,  TheInput:GetLocalizedControl(controller_id, CONTROL_CANCEL) .. " " .. STRINGS.UI.HELP.BACK)
+
+    return table.concat(t, "  ")
+end
+
+
 
 return MorgueScreen

@@ -96,6 +96,7 @@ function HoverText:OnUpdate()
     end
 
     if str then
+
         self.text:SetString(str)
         self.text:Show()
     else
