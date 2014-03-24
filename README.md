@@ -1,11 +1,11 @@
-Don't Starve CZ (cca 89%)
+Don't Starve CZ (cca 91%)
 =========================
 **Czech translation mod for Don't Starve [All's Well that Maxwell (Oct22)]**<br />
 **Mód českého překladu hry Don't Starve [Starý dobrák Maxwell (Říjen22)]**
 
 POPIS MÓDU
 ----------
-- Mód obsahuje **úplný překlad**: herního menu, nastavení, menu výroby, názvy předmětů a nestvůr, hlášky Wilsona, Willow, Wickerbottom a Maxwella.
+- Mód obsahuje **úplný překlad**: herního menu, nastavení, menu výroby, názvy předmětů a nestvůr, hlášky Wendy, Wilsona, Willow, Wickerbottom a Maxwella.
 - Další části: hlášky ostatních postav, jména prasat a králíků atd. jsou ve stavu překladu, či korektur.
 - **Mód obsahuje možnost zobrazení všech originálních názvů** po stisku konfigurovatelné klávesy, **v defaultu "c"**.
 - Z důvodu implementace této možnosti a její neslučitelnosti s módem DisplayFoodValues bylo zváženo a provedeno **implementování módu DisplayFoodValues od módera alks** do českého balíčku, jako bonus, včetně podpory českého skloňování.
