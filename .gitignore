@@ -1,6 +1,7 @@
 *.xcf
 *.mo
 *~
+workshop-*
 czechlanguage.zip
 pack_and_push
 czechlanguage.svg
