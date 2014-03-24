@@ -2,3 +2,4 @@
 *.orig
 *~
 pack_and_push
+workshop-*
