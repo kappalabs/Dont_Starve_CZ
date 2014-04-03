@@ -1,4 +1,4 @@
-Don't Starve CZ (cca 91%)
+Don't Starve CZ (cca 94%)
 =========================
 **Czech translation mod for Don't Starve [All's Well that Maxwell (Oct22)]**<br />
 **Mód českého překladu hry Don't Starve [Starý dobrák Maxwell (Říjen22)]**
