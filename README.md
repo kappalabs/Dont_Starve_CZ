@@ -1,12 +1,11 @@
-Don't Starve CZ (cca 96%)
-=========================
+Don't Starve CZ
+===============
 **Czech translation mod for Don't Starve [All's Well that Maxwell (Oct22)]**<br />
 **Mód českého překladu hry Don't Starve [Starý dobrák Maxwell (Říjen22)]**
 
 POPIS MÓDU
 ----------
-- Mód obsahuje **úplný překlad**: herního menu, nastavení, menu výroby, názvy předmětů a nestvůr, hlášky Wolfganga, Wendy, Wilsona, Willow, Wickerbottom a Maxwella.
-- Další části: hlášky ostatních postav atd. jsou ve stavu překladu, či korektur.
+- Mód obsahuje **úplný překlad** celého obsahu základní verze hry.
 - **Mód obsahuje možnost zobrazení všech originálních názvů** po stisku konfigurovatelné klávesy, **v defaultu "c"**.
 - Z důvodu implementace této možnosti a její neslučitelnosti s módem DisplayFoodValues bylo zváženo a provedeno **implementování módu DisplayFoodValues od módera alks** do českého balíčku, jako bonus, včetně podpory českého skloňování.
 
@@ -52,4 +51,14 @@ Pro umožnění zobrazení češtiny ve hře (tedy bez diakritiky) jsou provád�
  - Běžně se překládá soubor czech.po, který je v kódování UTF-8 a obsahuje překlad s diakritikou. To umožní okamžitou podporu diakritiky v okamžiku podpory těchto znaků ve hře pouhým přepsáním hodnoty v souboru modmain.lua.
  - Dočasně se používá skript transform, který soubor czech.po upraví do czech_ascii.po tak, že mu přenastaví kódování na iso-8859-2, zruší diakritiku a správně ho nakonfiguruje.
 Soubor czech_ascii.po je proto zatím ten, který je ve hře použit (nastavením v souboru modinfo.lua).
+
+TODO
+----
+- korektura překladu
+- podpora české diakritiky ve hře
+
+ZÁSLUHY
+-------
+[Kappa](http://www.fojjta.cekuj.net/) - programátor
+[Keebleec]() - překladatel
 
