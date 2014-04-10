@@ -59,6 +59,6 @@ TODO
 
 ZÁSLUHY
 -------
-[Kappa](http://www.fojjta.cekuj.net/) - programátor
-[Keebleec]() - překladatel
+- **Programátor: Kappa** - [fojjta.cekuj.net](http://www.fojjta.cekuj.net/)
+- **Překladatel: Jan Rýgl** (KeeBLeeC) - [RIASolution.eu](http://www.riasolution.eu/)
 
