@@ -136,7 +136,7 @@ function ApplyCzechFontsRewrite()
   -- Prepsani jednotlivych fontu hry
 	for i,FileName in ipairs(CzFontFiles) do
     local orig = FileName:gsub("__cz", "");
-    copyfile(MODROOT.."/fonts/"..FileName,"fonts/"..orig);
+    copyfile(MODROOT.."fonts/"..FileName,"fonts/"..orig);
 	end
 end
 
