@@ -1,7 +1,7 @@
 name = "Czech Language Pack"
 description = "Balicek s cestinou do hry."
 author = "Kappa a Keebleec"
-version = "2.0.4"
+version = "2.0.5"
 
 -- http://forums.kleientertainment.com/index.php?/files/file/202-sample-mods/
 -- <-- /files/file/202-sample-mods/
@@ -14,3 +14,6 @@ icon = "czechlanguage.tex"
 
 -- Specify the priority
 priority=5
+
+-- For images to reload safely
+restart_required = true
