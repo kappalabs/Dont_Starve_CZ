@@ -1,0 +1,55 @@
+# AngelCode Bitmap Font Generator configuration file
+fileVersion=1
+
+# font settings
+fontName=Open Sans Light
+fontFile=OpenSans.ttf
+charSet=0
+fontSize=50
+aa=1
+scaleH=100
+useSmoothing=1
+isBold=0
+isItalic=0
+useUnicode=1
+disableBoxChars=1
+outputInvalidCharGlyph=0
+dontIncludeKerningPairs=0
+useHinting=0
+renderFromOutline=0
+useClearType=0
+
+# character alignment
+paddingDown=4
+paddingUp=4
+paddingRight=4
+paddingLeft=4
+spacingHoriz=4
+spacingVert=4
+useFixedHeight=0
+forceZero=0
+
+# output file
+outWidth=1024
+outHeight=512
+outBitDepth=32
+fontDescFormat=1
+fourChnlPacked=0
+textureFormat=png
+textureCompression=0
+alphaChnl=1
+redChnl=0
+greenChnl=0
+blueChnl=0
+invA=0
+invR=0
+invG=0
+invB=0
+
+# outline
+outlineThickness=2
+
+# selected chars
+chars=32-126,160-255
+
+# imported icon images

@@ -1,0 +1,81 @@
+# AngelCode Bitmap Font Generator configuration file
+fileVersion=1
+
+# font settings
+fontName=Belisa
+fontFile=../ttf-ka/Belisa.ttf
+charSet=0
+fontSize=50
+aa=1
+scaleH=100
+useSmoothing=1
+isBold=1
+isItalic=0
+useUnicode=1
+disableBoxChars=1
+outputInvalidCharGlyph=0
+dontIncludeKerningPairs=1
+useHinting=0
+renderFromOutline=0
+useClearType=0
+
+# character alignment
+paddingDown=4
+paddingUp=4
+paddingRight=4
+paddingLeft=4
+spacingHoriz=4
+spacingVert=4
+useFixedHeight=0
+forceZero=0
+
+# output file
+outWidth=1024
+outHeight=512
+outBitDepth=32
+fontDescFormat=1
+fourChnlPacked=0
+textureFormat=png
+textureCompression=0
+alphaChnl=1
+redChnl=0
+greenChnl=0
+blueChnl=0
+invA=0
+invR=0
+invG=0
+invB=0
+
+# outline
+outlineThickness=2
+
+# selected chars
+chars=32-126,160-255
+
+# imported icon images
+icon="bel50_new/127.png",127,0,0,0
+icon="bel50_new/128.png",128,0,0,0
+icon="bel50_new/129.png",129,0,0,0
+icon="bel50_new/130.png",130,0,0,0
+icon="bel50_new/131.png",131,0,0,0
+icon="bel50_new/132.png",132,0,0,0
+icon="bel50_new/133.png",133,0,0,0
+icon="bel50_new/134.png",134,0,0,0
+icon="bel50_new/135.png",135,0,0,0
+icon="bel50_new/136.png",136,0,0,0
+icon="bel50_new/137.png",137,0,0,0
+icon="bel50_new/138.png",138,0,0,0
+icon="bel50_new/139.png",139,0,0,0
+icon="bel50_new/140.png",140,0,0,0
+icon="bel50_new/141.png",141,0,0,0
+icon="bel50_new/142.png",142,0,0,0
+icon="bel50_new/143.png",143,0,0,0
+icon="bel50_new/144.png",144,0,0,0
+icon="bel50_new/145.png",145,0,0,0
+icon="bel50_new/146.png",146,0,0,0
+icon="bel50_new/147.png",147,0,0,0
+icon="bel50_new/148.png",148,0,0,0
+icon="bel50_new/149.png",149,0,0,0
+icon="bel50_new/150.png",150,0,0,0
+icon="bel50_new/254.png",254,0,0,0
+icon="bel50_new/255.png",255,0,0,0
