@@ -6,12 +6,32 @@ msgstr ""
 "Last-Translator: Jan Rýgl <keebleec@gmail.com>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=iso-8859-2\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.6.4\n"
+"X-Generator: Poedit 1.6.5\n"
 "Application: Dont' Starve\n"
 "POT Version: 2.0\n"
 "Language: cs\n"
+
+#. STRINGS.DFV_HEALTH
+msgctxt "STRINGS.DFV_HEALTH"
+msgid "Zdravi"
+msgstr "Zdraví"
+
+#. STRINGS.DFV_SANITY
+msgctxt "GLOBAL.STRINGS.DFV_SANITY"
+msgid "Pricetnost"
+msgstr "Pøíèetnost"
+
+#. STRINGS.DFV_SPOILSOON
+msgctxt "STRINGS.DFV_SPOILSOON"
+msgid "Brzy se zkazi"
+msgstr "Brzy se zkazí"
+
+#. STRINGS.DFV_SPOILIN
+msgctxt "STRINGS.DFV_SPOILIN"
+msgid "Zkazi se za"
+msgstr "Zkazí se za"
 
 #. STRINGS.PIG_TALK_HELP_CHOP_WOOD.1
 msgctxt "STRINGS.PIG_TALK_HELP_CHOP_WOOD.1"
@@ -76,7 +96,7 @@ msgstr "ÈAS NA JÍDLO!"
 #. STRINGS.SWAP
 msgctxt "STRINGS.SWAP"
 msgid "Swap"
-msgstr "Pøehodit"
+msgstr "Prohodit"
 
 #. STRINGS.PIG_GUARD_TALK_TORCH.1
 msgctxt "STRINGS.PIG_GUARD_TALK_TORCH.1"
@@ -1151,7 +1171,7 @@ msgstr "ÁÁÁÁAAAAAA!!"
 #. STRINGS.TRADEMOD
 msgctxt "STRINGS.TRADEMOD"
 msgid "Move"
-msgstr "Pohyb"
+msgstr "Pøesunout"
 
 #. STRINGS.ACTIONS.TERRAFORM
 msgctxt "STRINGS.ACTIONS.TERRAFORM"
@@ -2356,7 +2376,7 @@ msgstr "Praseèí král"
 #. STRINGS.NAMES.HORN
 msgctxt "STRINGS.NAMES.HORN"
 msgid "Beefalo Horn"
-msgstr "Roh bùvola"
+msgstr "Roh buvola"
 
 #. STRINGS.NAMES.ONEMANBAND
 msgctxt "STRINGS.NAMES.ONEMANBAND"
@@ -3171,7 +3191,7 @@ msgstr "Maxwelova komáøí pastièka"
 #. STRINGS.NAMES.BABYBEEFALO
 msgctxt "STRINGS.NAMES.BABYBEEFALO"
 msgid "Baby Beefalo"
-msgstr "Mládì bùvola"
+msgstr "Mládì buvola"
 
 #. STRINGS.NAMES.MARBLEPILLAR
 msgctxt "STRINGS.NAMES.MARBLEPILLAR"
@@ -3596,7 +3616,7 @@ msgstr "Jednoduchá farma"
 #. STRINGS.NAMES.BEEFALOHAT
 msgctxt "STRINGS.NAMES.BEEFALOHAT"
 msgid "Beefalo Hat"
-msgstr "Bùvolí klobouk"
+msgstr "Buvolí klobouk"
 
 #. STRINGS.NAMES.SPOILED_FOOD
 msgctxt "STRINGS.NAMES.SPOILED_FOOD"
@@ -4076,7 +4096,7 @@ msgstr "Slamák"
 #. STRINGS.NAMES.BEEFALO
 msgctxt "STRINGS.NAMES.BEEFALO"
 msgid "Beefalo"
-msgstr "Bùvol"
+msgstr "Buvol"
 
 #. STRINGS.NAMES.RED_CAP_COOKED
 msgctxt "STRINGS.NAMES.RED_CAP_COOKED"
@@ -4806,7 +4826,7 @@ msgstr "Kdyby mì tak vidìli moji pøátelé..."
 #. STRINGS.CHARACTERS.GENERIC.ANNOUNCE_DUSK
 msgctxt "STRINGS.CHARACTERS.GENERIC.ANNOUNCE_DUSK"
 msgid "It's getting late. It will be dark soon."
-msgstr "Pøipozdívá se. Brzy pøijde noc."
+msgstr "Pøipozdívá se. Brzy bude tma."
 
 #. STRINGS.CHARACTERS.GENERIC.ANNOUNCE_ENTER_DARK
 msgctxt "STRINGS.CHARACTERS.GENERIC.ANNOUNCE_ENTER_DARK"
@@ -5070,7 +5090,7 @@ msgstr "Pochybná fotosyntéza."
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.COOKEDSMALLMEAT
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.COOKEDSMALLMEAT"
 msgid "Now I don't have to worry about getting worms!"
-msgstr "Teï u¾ se nemusím obávat nákazy pøípadných parazitù!"
+msgstr "Teï u¾ se nemusím obávat nákazy parazitù!"
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BATBAT
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BATBAT"
@@ -5640,7 +5660,7 @@ msgstr "Nyní je jiná..."
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARROT
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARROT"
 msgid "Yuck. It's all vegetabley."
-msgstr "Ble. Celé zeleninové."
+msgstr "Ble. Celé zeleninovité."
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.STALAGMITE
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.STALAGMITE"
@@ -5820,7 +5840,7 @@ msgstr "Bude to nìjaký druh rituální pomùcky."
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.TRINKET_3
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.TRINKET_3"
 msgid "The knot is stuck. Forever."
-msgstr "Ten uzel dr¾í pevnì. Napoøád."
+msgstr "Ten uzel dr¾í pevnì. Ji¾ celou vìènost."
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.RUINS_RUBBLE
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.RUINS_RUBBLE"
@@ -6050,7 +6070,7 @@ msgstr "Parádní klobouk."
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.FLINT
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.FLINT"
 msgid "It's a very sharp rock."
-msgstr "To je velmi ostrý kámen."
+msgstr "Velmi ostrý kámen."
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.TENTACLE_GARDEN
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.TENTACLE_GARDEN"
@@ -6110,7 +6130,7 @@ msgstr "Chci aby celý svìt vìdìl, ¾e jsem to dokázal."
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CUTREEDS
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CUTREEDS"
 msgid "Cut reeds, ready for crafting and hobbying."
-msgstr "Natrhané rákosí, pøipravené ke zpracování a zálibám."
+msgstr "Natrhané rákosí, vhodné pro rùzná øemesla i záliby."
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.POMEGRANATE
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.POMEGRANATE"
@@ -6210,7 +6230,7 @@ msgstr "Tohle mo¾ná ovládá polaritu celého vesmíru."
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.FLOWER
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.FLOWER"
 msgid "It's pretty but it smells like a common labourer."
-msgstr "Je pìkná ale voní jak øadový dìlník."
+msgstr "Je pìkná ale zapáchá jak obyèejný dìlník."
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.SMALLMEAT
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.SMALLMEAT"
@@ -6865,7 +6885,7 @@ msgstr "Záøí z ní vìda."
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.PETALS_EVIL
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.PETALS_EVIL"
 msgid "I'm not sure I want to hold these."
-msgstr "Nevím, jestli je chci brát s sebou."
+msgstr "Nevím, jestli je chci nosit s sebou."
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BISHOP
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BISHOP"
@@ -6905,7 +6925,7 @@ msgstr "To vypadá opravdu nebezpeènì."
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.MARBLETREE
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.MARBLETREE"
 msgid "I don't think an axe will cut it."
-msgstr "Nemyslím si, ¾e tenhle sekerou podetnu."
+msgstr "Myslím, ¾e sekera ho nepodetne."
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.POMEGRANATE_SEEDS
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.POMEGRANATE_SEEDS"
@@ -11491,7 +11511,7 @@ msgstr "Temnota se navrátila!"
 #. STRINGS.CHARACTERS.WENDY.ANNOUNCE_THORNS
 msgctxt "STRINGS.CHARACTERS.WENDY.ANNOUNCE_THORNS"
 msgid "Ow! Prickly, like me."
-msgstr "Au! Pichlavé."
+msgstr "Au! Pichlavé. Jako mé poznámky."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.ADVENTURE_PORTAL
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.ADVENTURE_PORTAL"
@@ -13750,12 +13770,12 @@ msgstr "Líbí se mi mrtvý, ale mìl by se zasadit."
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.MARSH_BUSH.GENERIC
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.MARSH_BUSH.GENERIC"
 msgid "A bush that always hurts."
-msgstr "Keø, který neustále zraòuje."
+msgstr "Keø, jen¾ neustále zraòuje."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.MARSH_BUSH.PICKED
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.MARSH_BUSH.PICKED"
 msgid "It hurt me to do that."
-msgstr "Mé èiny mì zraòují."
+msgstr "Jsem ranìna svými èiny."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.MARSH_BUSH.BURNING
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.MARSH_BUSH.BURNING"
@@ -13940,7 +13960,7 @@ msgstr "V¹e je tak malebné."
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.GREEN_CAP
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.GREEN_CAP"
 msgid "This mushroom is disappointingly normal."
-msgstr "Tahne houba je k mému zklamání pøíli¹ nezajímavá."
+msgstr "K mému zklamání prùmìrná houba."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.POMEGRANATE_COOKED
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.POMEGRANATE_COOKED"
@@ -30569,7 +30589,7 @@ msgstr "®lutì záøí."
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ARMORGRASS
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ARMORGRASS"
 msgid "Is prickly."
-msgstr "Je pichlavé."
+msgstr "To píchá."
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ANIMAL_TRACK
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ANIMAL_TRACK"
@@ -31516,7 +31536,7 @@ msgstr "Naznaèování"
 #. STRINGS.UI.WORLDGEN.VERBS.7
 msgctxt "STRINGS.UI.WORLDGEN.VERBS.7"
 msgid "Reticulating"
-msgstr "Vytvá¾ení sítì"
+msgstr "Vytváøení sítì"
 
 #. STRINGS.UI.WORLDGEN.VERBS.8
 msgctxt "STRINGS.UI.WORLDGEN.VERBS.8"
@@ -31683,7 +31703,7 @@ msgstr "Steam Workshop"
 #. STRINGS.UI.MODSSCREEN.WORKSHOP.STATE_DOWNLOAD_0
 msgctxt "STRINGS.UI.MODSSCREEN.WORKSHOP.STATE_DOWNLOAD_0"
 msgid "Verifying mod cache..."
-msgstr "Ovìøování mezipamìti módu..."
+msgstr "Ovìøování mezipamìti módù..."
 
 #. STRINGS.UI.MODSSCREEN.WORKSHOP.STATE_DOWNLOAD_PERCENT
 msgctxt "STRINGS.UI.MODSSCREEN.WORKSHOP.STATE_DOWNLOAD_PERCENT"
@@ -31693,7 +31713,7 @@ msgstr "%s procent"
 #. STRINGS.UI.MODSSCREEN.WORKSHOP.STATE_DETAILS
 msgctxt "STRINGS.UI.MODSSCREEN.WORKSHOP.STATE_DETAILS"
 msgid "Verifying mod details..."
-msgstr "Ovìøování detailù módu..."
+msgstr "Ovìøování detailù módù..."
 
 #. STRINGS.UI.MODSSCREEN.WORKSHOP.STATE_DOWNLOAD
 msgctxt "STRINGS.UI.MODSSCREEN.WORKSHOP.STATE_DOWNLOAD"
@@ -34066,8 +34086,7 @@ msgstr ""
 "Va¹e podpora byla ohromující. Don't Starve je lep¹í hrou díky vám v¹em.\n"
 "\n"
 "Èeský mód programoval - Vojtìch Va¹ek (Kappa) - www.fojjta.cekuj.net\n"
-"Do èe¹tiny pøelo¾il - Jan Rýgl (KeeBLeeC) - www.RIASolution.eu\n"
-"Pøejeme pøíjemnou zábavu!"
+"Do èe¹tiny pøelo¾il - Jan Rýgl (KeeBLeeC) - www.RIAsolution.eu"
 
 #. STRINGS.UI.CREDITS.TWITTER
 msgctxt "STRINGS.UI.CREDITS.TWITTER"
@@ -35338,7 +35357,7 @@ msgstr "\"Jsem mocný! Nikdo není mocnìj¹í!\""
 #. STRINGS.CHARACTER_QUOTES.woodie
 msgctxt "STRINGS.CHARACTER_QUOTES.woodie"
 msgid "\"That's nice tree, eh?\""
-msgstr "\"To je pìkný strom, co?\""
+msgstr "\"Pìknej strom, co?\""
 
 #. STRINGS.CHARACTER_QUOTES.wes
 msgctxt "STRINGS.CHARACTER_QUOTES.wes"
@@ -36158,7 +36177,7 @@ msgstr "Pøe¾ití"
 #. STRINGS.EPITAPHS.1
 msgctxt "STRINGS.EPITAPHS.1"
 msgid "Here lies some guy. Blah blah blah."
-msgstr "Zde le¾í òáký chlápek. Bla bla bla."
+msgstr "Zde odpoèívá... bla, bla, bla."
 
 #. STRINGS.EPITAPHS.2
 msgctxt "STRINGS.EPITAPHS.2"
@@ -36173,7 +36192,7 @@ msgstr "Pí¹e se tam: \"Mléko. Vejce. Slanina.\""
 #. STRINGS.EPITAPHS.4
 msgctxt "STRINGS.EPITAPHS.4"
 msgid "Hey that's my name!"
-msgstr "Hele, to je moje jméno!"
+msgstr "Hej, to je moje jméno!"
 
 #. STRINGS.PIG_TALK_GO_HOME.1
 msgctxt "STRINGS.PIG_TALK_GO_HOME.1"

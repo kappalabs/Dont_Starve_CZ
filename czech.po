@@ -13,6 +13,26 @@ msgstr ""
 "POT Version: 2.0\n"
 "Language: cs\n"
 
+#. STRINGS.DFV_HEALTH
+msgctxt "STRINGS.DFV_HEALTH"
+msgid "Zdravi"
+msgstr "Zdraví"
+
+#. STRINGS.DFV_SANITY
+msgctxt "GLOBAL.STRINGS.DFV_SANITY"
+msgid "Pricetnost"
+msgstr "Příčetnost"
+
+#. STRINGS.DFV_SPOILSOON
+msgctxt "STRINGS.DFV_SPOILSOON"
+msgid "Brzy se zkazi"
+msgstr "Brzy se zkazí"
+
+#. STRINGS.DFV_SPOILIN
+msgctxt "STRINGS.DFV_SPOILIN"
+msgid "Zkazi se za"
+msgstr "Zkazí se za"
+
 #. STRINGS.PIG_TALK_HELP_CHOP_WOOD.1
 msgctxt "STRINGS.PIG_TALK_HELP_CHOP_WOOD.1"
 msgid "KILL TREE!"
