@@ -35,12 +35,26 @@ local RecipePopup = Class(Widget, function(self, horizontal)
     self.contents = self:AddChild(Widget(""))
     self.contents:SetPosition(-75,0,0)
     
-    self.name = self.contents:AddChild(Text(UIFONT, 42))
+    if JapaneseOnPS4() then
+        self.name = self.contents:AddChild(Text(UIFONT, 42 * 0.8))
+    else
+        self.name = self.contents:AddChild(Text(UIFONT, 42))
+	end
     self.name:SetPosition(320, 142, 0)
+    if JapaneseOnPS4() then
+        self.name:SetRegionSize(64*3+20,90)
+        self.name:EnableWordWrap(true)
+    end
 
-    self.desc = self.contents:AddChild(Text(BODYTEXTFONT, 33))
-    self.desc:SetPosition(320, -5, 0)
-    self.desc:SetRegionSize(64*3+30,70)
+    if JapaneseOnPS4() then
+        self.desc = self.contents:AddChild(Text(BODYTEXTFONT, 33 * 0.8))
+        self.desc:SetPosition(320, -10, 0)
+        self.desc:SetRegionSize(64*3+30,90)
+	else
+        self.desc = self.contents:AddChild(Text(BODYTEXTFONT, 33))
+        self.desc:SetPosition(320, -5, 0)
+        self.desc:SetRegionSize(64*3+30,70)	
+    end
     self.desc:EnableWordWrap(true)
     
     self.ing = {}
@@ -71,8 +85,23 @@ end)
 
 function GetHintTextForRecipe(recipe)
     local validmachines = {}
+    local adjusted_level = deepcopy(recipe.level)
+    local player = GetPlayer()
+
     for k,v in pairs(TUNING.PROTOTYPER_TREES) do
-        local canbuild = CanPrototypeRecipe(recipe.level, v)
+
+        -- Adjust level for bonus so that the hint gives the right message
+        if player and player.components.builder then
+            if player.components.builder.science_bonus and (k == "SCIENCEMACHINE" or k == "ALCHEMYMACHINE") then
+                adjusted_level["SCIENCE"] = adjusted_level["SCIENCE"] - player.components.builder.science_bonus
+            elseif player.components.builder.magic_bonus and (k == "PRESTIHATITATOR" or k == "SHADOWMANIPULATOR") then
+                adjusted_level["MAGIC"] = adjusted_level["MAGIC"] - player.components.builder.magic_bonus
+            elseif player.components.builder.ancient_bonus and (k == "ANCIENTALTAR_LOW" or k == "ANCIENTALTAR_HIGH") then
+                adjusted_level["ANCIENT"] = adjusted_level["ANCIENT"] - player.components.builder.ancient_bonus
+            end
+        end
+
+        local canbuild = CanPrototypeRecipe(adjusted_level, v)
         if canbuild then
             table.insert(validmachines, {TREE = tostring(k), SCORE = 0})
             --return tostring(k)
@@ -85,11 +114,20 @@ function GetHintTextForRecipe(recipe)
             return validmachines[1].TREE
         end
 
-        --There's more than one machine that gives the valid tech level! We have to find the "lowest" one.
+        --There's more than one machine that gives the valid tech level! We have to find the "lowest" one (taking bonus into account).
         for k,v in pairs(validmachines) do
-            for rk,rv in pairs(recipe.level) do
+            for rk,rv in pairs(adjusted_level) do
                 if TUNING.PROTOTYPER_TREES[v.TREE][rk] == rv then
                     v.SCORE = v.SCORE + 1
+                    if player and player.components.builder then
+                        if player.components.builder.science_bonus and (v.TREE == "SCIENCEMACHINE" or v.TREE == "ALCHEMYMACHINE") then
+                            v.SCORE = v.SCORE + player.components.builder.science_bonus
+                        elseif player.components.builder.magic_bonus and (v.TREE == "PRESTIHATITATOR" or v.TREE == "SHADOWMANIPULATOR") then
+                            v.SCORE = v.SCORE + player.components.builder.magic_bonus
+                        elseif player.components.builder.ancient_bonus and (v.TREE == "ANCIENTALTAR_LOW" or v.TREE == "ANCIENTALTAR_HIGH") then
+                            v.SCORE = v.SCORE + player.components.builder.ancient_bonus
+                        end
+                    end
                 end
             end
         end
@@ -159,6 +197,7 @@ function RecipePopup:Refresh()
         if TheInput:ControllerAttached() then
 			self.button:Hide()
 			self.teaser:Show()
+
 			if can_build then
                 self.teaser:SetScale(TEASER_SCALE_BTN)
 				self.teaser:SetString(TheInput:GetLocalizedControl(controller_id, CONTROL_ACCEPT) .. " " .. (buffered and STRINGS.UI.CRAFTING.PLACE or STRINGS.UI.CRAFTING.BUILD))
@@ -187,6 +226,8 @@ function RecipePopup:Refresh()
 			self.button:Hide()
 			self.teaser:Show()
 			
+            self.teaser:SetColour(1,1,1,1) 
+
 			if can_build then
                 self.teaser:SetScale(TEASER_SCALE_BTN)
 				self.teaser:SetString(TheInput:GetLocalizedControl(controller_id, CONTROL_ACCEPT) .. " " .. STRINGS.UI.CRAFTING.PROTOTYPE)
@@ -195,6 +236,9 @@ function RecipePopup:Refresh()
 				self.teaser:SetString(STRINGS.UI.CRAFTING.NEEDSTUFF)
 			end
 		else
+            self.button.image_normal = "button.tex"
+            self.button.image:SetTexture(UI_ATLAS, self.button.image_normal)
+
 			self.button:Show()
 			self.button:SetPosition(320, -105, 0)
 			self.button:SetScale(1,1,1)

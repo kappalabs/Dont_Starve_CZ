@@ -320,10 +320,13 @@ end
 function ItemTile:SetPercent(percent)
     --if not self.item.components.stackable then
         
-	if not self.percent then
-		self.percent = self:AddChild(Text(NUMBERFONT, 42))
-		self.percent:SetPosition(5,-32+15,0)
-	end
+    if not self.percent then
+        self.percent = self:AddChild(Text(NUMBERFONT, 42))
+        if JapaneseOnPS4() then
+            self.percent:SetHorizontalSqueeze(0.7)
+        end
+        self.percent:SetPosition(5,-32+15,0)
+    end
     local val_to_show = percent*100
     if val_to_show > 0 and val_to_show < 1 then
         val_to_show = 1

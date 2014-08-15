@@ -26,29 +26,28 @@ PŘEKLAD
 -------
 Máte-li zájem o překlad, upravujte soubor czech.po v kořenovém adresáři repozitáře, vytvořte vlastní větev repozitáře, budu je sám slučovat do hlavní větve master.<br />
 Skript transform slouží pro vygenerování souboru czech_ascii.po a czech.po v adresáři czechlanguage/.<br />
-Nemáte-li s Git zkušenosti, stačí stáhnout repozitář (jak je popsáno výše), upravit soubor czech.po a zaslat mi ho na email, který zde najdete v mém profilu.
+Nemáte-li s Git zkušenosti, stačí stáhnout repozitář (jak je popsáno výše), upravit soubor czech.po a zaslat mi ho na email, který najdete v mém GitHub profilu.
 
 SOUBORY
 -------
 - **czech.po - soubor aktuálních překladů EN do CZ** (upravovat lze efektivně v [PoEdit](http://www.poedit.net/))
 - strings.pot - originální soubor textů z aktuální verze hry
 - preview.jpg - ikona módu
-- transform - linux skript pro nastavení formátu souboru překladu, generuje czech_ascii.po ve složce czechlanguage
+- transform.sh - bash skript pro nastavení formátu souborů překladu, generuje czech.po a czech_ascii.po ve složce czechlanguage, připraví do těchto souborů také dvojité texty pro herní featuru, která umožňuje zobrazení originálních názvů, využívá při tom program **Uprav.java**
 - Uprav.java - Java program pro úpravu formátu souboru czech_ascii.po pro featuru záměny překladů za originál
-- czechlanguage/ - složka dat módu, připraveno k použití, neupravovat až na *.lua
- - czech.po - kopie czech.po z nadřazené složky v kódování **ISO-8859-2**
- - czech_ascii.po - soubor czech.po v kódování **ASCII** (bez diakritiky) s nakonfigurovanými parametry, generovaný skriptem transform
+- czechlanguage/ - složka dat módu, připraveno k použití, neupravovat
+ - czech.po - soubor czech.po z nadřazené složky v kódování **ISO-8859-2**, navíc modifikovaný pro herní featuru, generovaný **transform.sh**
+ - czech_ascii.po - soubor czech.po v kódování **ASCII** (bez diakritiky) s nakonfigurovanými parametry, generovaný skriptem **transform.sh**
  - modinfo.lua - obecné nastavení módu
- - modmain.lua - nastavení souboru překladu k načtení do módu
+ - modmain.lua - nastavení souboru překladu k načtení do módu atp.
 - resources/ - složka obsahující .xfc soubory z programu Gimp 2.8.4, jedná se projekty pře(psaných|ložených) obrázků, dále také zdrojové soubory pro vytvoření českých fontů do hry
 
 TODO
 ----
-- korektura překladu
-- korektura českých fontů
+- překlad DLC RoG
 
 ZÁSLUHY
 -------
-- **Programátor: Kappa** - [fojjta.cekuj.net](http://www.fojjta.cekuj.net/)
+- **Programátor: Vojtěch Vašek** (Kappa) - [fojjta.cekuj.net](http://www.fojjta.cekuj.net/)
 - **Překladatel: Jan Rýgl** (KeeBLeeC) - [RIASolution.eu](http://www.riasolution.eu/)
 

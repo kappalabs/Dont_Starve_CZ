@@ -2,7 +2,7 @@ name = "Czech Language Pack"
 id = "czechlanguagepack"
 description = "Balicek s cestinou do hry."
 author = "Kappa a KeeBLeeC"
-version = "2.1.0"
+version = "2.1.1"
 
 -- http://forums.kleientertainment.com/index.php?/files/file/202-sample-mods/
 -- <-- /files/file/202-sample-mods/

@@ -16,18 +16,32 @@ local controls_per_scroll = 8
 local column_offsets_x_pos = -RESOLUTION_X*0.18;
 local column_offsets_y_pos = RESOLUTION_Y*0.23;
 
-local column_offsets ={ 
-    DAYS_LIVED = 0,
-    DECEASED = 120,
-    CAUSE = 290,
-    MODE = 460,
-}
+local column_offsets
+if JapaneseOnPS4() then
+     column_offsets ={ 
+        DAYS_LIVED = -35,
+        DECEASED = 100,
+        CAUSE = 290,
+        MODE = 500,
+    }
+else
+    column_offsets ={ 
+        DAYS_LIVED = 0,
+        DECEASED = 120,
+        CAUSE = 290,
+        MODE = 460,
+    }
+end
 
 local MorgueScreen = Class(Screen, function(self, in_game)
     Widget._ctor(self, "MorgueScreen")
     	
 	self.bg = self:AddChild(Image("images/ui.xml", "bg_plain.tex"))
-    self.bg:SetTint(BGCOLOURS.RED[1],BGCOLOURS.RED[2],BGCOLOURS.RED[3], 1)
+    if IsDLCInstalled(REIGN_OF_GIANTS) then
+        self.bg:SetTint(BGCOLOURS.PURPLE[1],BGCOLOURS.PURPLE[2],BGCOLOURS.PURPLE[3], 1)
+    else
+        self.bg:SetTint(BGCOLOURS.RED[1],BGCOLOURS.RED[2],BGCOLOURS.RED[3], 1)
+    end
 
     self.bg:SetVRegPoint(ANCHOR_MIDDLE)
     self.bg:SetHRegPoint(ANCHOR_MIDDLE)
@@ -53,6 +67,9 @@ local MorgueScreen = Class(Screen, function(self, in_game)
     self.obits_panel = self.root:AddChild(Widget("obits_panel"))
     self.obits_panel:SetPosition(left_col,0,0)
     self.obits_panelbg = self.obits_panel:AddChild(Image("images/fepanels.xml", "panel_obituaries.tex"))
+    if JapaneseOnPS4() then
+        self.obits_panelbg:SetScale(1.15,1,1)
+    end
 
     self.devicetitle = self.obits_panel:AddChild(Text(TITLEFONT, 55))
     self.devicetitle:SetHAlign(ANCHOR_MIDDLE)
@@ -60,12 +77,19 @@ local MorgueScreen = Class(Screen, function(self, in_game)
     self.devicetitle:SetRegionSize( 400, 70 )
     self.devicetitle:SetString(STRINGS.UI.MORGUESCREEN.TITLE)
 
-    local font_size = 35;
+    local font_size = 35
+    if JapaneseOnPS4() then
+        font_size = 35 * 0.75;
+    end
    
     self.obits_titles = self.obits_panel:AddChild(Widget("obits_titles"))
     self.obits_titles:SetPosition(column_offsets_x_pos, column_offsets_y_pos, 0)
 
-    self.DAYS_LIVED = self.obits_titles:AddChild(Text(TITLEFONT, font_size))
+    if JapaneseOnPS4() then
+        self.DAYS_LIVED = self.obits_titles:AddChild(Text(TITLEFONT, font_size * 0.8))
+    else
+        self.DAYS_LIVED = self.obits_titles:AddChild(Text(TITLEFONT, font_size))
+    end
     self.DAYS_LIVED:SetHAlign(ANCHOR_MIDDLE)
     self.DAYS_LIVED:SetPosition(column_offsets.DAYS_LIVED, 0, 0)
     self.DAYS_LIVED:SetRegionSize( 400, 70 )
@@ -116,12 +140,20 @@ local MorgueScreen = Class(Screen, function(self, in_game)
 
 
     self.down_button = self.obits_panel:AddChild(ImageButton("images/ui.xml", "scroll_arrow.tex", "scroll_arrow_over.tex", "scroll_arrow_disabled.tex"))
-    self.down_button:SetPosition(360, 0, 0)
+    if JapaneseOnPS4() then
+        self.down_button:SetPosition(360 * 1.15, 0, 0)
+    else
+        self.down_button:SetPosition(360, 0, 0)
+    end
     --self.down_button:SetRotation(90)
     self.down_button:SetOnClick( function() self:Scroll(controls_per_scroll) end)
     
     self.up_button = self.obits_panel:AddChild(ImageButton("images/ui.xml", "scroll_arrow.tex", "scroll_arrow_over.tex", "scroll_arrow_disabled.tex"))
-    self.up_button:SetPosition(-360,0, 0)
+    if JapaneseOnPS4() then
+        self.up_button:SetPosition(-360 * 1.15,0, 0)
+    else
+        self.up_button:SetPosition(-360,0, 0)
+    end
     self.up_button:SetScale(-1,1,1)
     --self.up_button:SetRotation(-90)
     self.up_button:SetOnClick( function() self:Scroll(-controls_per_scroll) end)    
@@ -165,7 +197,10 @@ function MorgueScreen:RefreshControls()
     -- location
     -- world    
 
-    local font_size = 35;
+    local font_size = 35
+    if JapaneseOnPS4() then
+   	 font_size = 35 * 0.75
+    end
     local portrate_scale = 0.45
     local spacing = 52
             
@@ -199,7 +234,11 @@ function MorgueScreen:RefreshControls()
                 character = "waxwell"
             end
 
-            DECEASED.portrait:SetTexture("images/saveslot_portraits.xml", character..".tex")
+            local atlas = (table.contains(MODCHARACTERLIST, character) and "images/saveslot_portraits/"..character..".xml") or "images/saveslot_portraits.xml"
+            if not table.contains(GetActiveCharacterList(), character) then
+                character = "random" -- Use a question mark if the character isn't currently active
+            end
+            DECEASED.portrait:SetTexture(atlas, character..".tex")
             DECEASED.portrait:SetScale(portrate_scale, portrate_scale, 1)
  
             local CAUSE = group:AddChild(Text(TITLEFONT, font_size))
@@ -215,9 +254,15 @@ function MorgueScreen:RefreshControls()
                 end
             elseif killed_by == "unknown" then
                 killed_by = "shenanigans"
+            elseif killed_by == "moose" then
+                if math.random() < .5 then
+                    killed_by = "moose1"
+                else
+                    killed_by = "moose2"
+                end
             end
 --### MOD CzechTranslationFeature -->
-            killed_by = STRINGS.NAMES[string.upper(killed_by)] or STRINGS.NAMES.UNKNOWN
+            killed_by = STRINGS.NAMES[string.upper(killed_by)] or STRINGS.NAMES.SHENANIGANS
 			killed_by = CZTGetReplacement(killed_by, 1)
 --### <EO> MOD CzechTranslationFeature <--
             CAUSE:SetString(killed_by:gsub("(%a)([%w_']*)", tchelper))
