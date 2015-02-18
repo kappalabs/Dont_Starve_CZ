@@ -1,3 +1,5 @@
+GLOBAL.setmetatable(env, {__index=GLOBAL})
+	
 -- Nacteni upravenych textur do hry.
 Assets = {
 	Asset("ATLAS", "bigportraits/locked.xml"),
@@ -8,28 +10,28 @@ Assets = {
 }
 
 -- Data pro feature menici preklady za originaly
-table.insert(GLOBAL.STRINGS, "CZT_MARK")
-GLOBAL.STRINGS.CZT_MARK = "-#&#-"
+table.insert(STRINGS, "CZT_MARK")
+STRINGS.CZT_MARK = "-#&#-"
 -- Klavesa zamenujici preklad za original - konfigurovatelne
-table.insert(GLOBAL.STRINGS, "CZT_SWAP_KEY")
-GLOBAL.STRINGS.CZT_SWAP_KEY = GLOBAL.KEY_C
+table.insert(STRINGS, "CZT_SWAP_KEY")
+STRINGS.CZT_SWAP_KEY = KEY_C
 
 -- Pokud hrac pouziva DisplayFoodValues
-table.insert(GLOBAL.STRINGS, "DFV_LANG")
-table.insert(GLOBAL.STRINGS, "DFV_HUNGER")
-table.insert(GLOBAL.STRINGS, "DFV_HEALTH")
-table.insert(GLOBAL.STRINGS, "DFV_SANITY")
-table.insert(GLOBAL.STRINGS, "DFV_SPOILSOON")
-table.insert(GLOBAL.STRINGS, "DFV_SPOILIN")
-table.insert(GLOBAL.STRINGS, "DFV_SPOILDAY")
+table.insert(STRINGS, "DFV_LANG")
+table.insert(STRINGS, "DFV_HUNGER")
+table.insert(STRINGS, "DFV_HEALTH")
+table.insert(STRINGS, "DFV_SANITY")
+table.insert(STRINGS, "DFV_SPOILSOON")
+table.insert(STRINGS, "DFV_SPOILIN")
+table.insert(STRINGS, "DFV_SPOILDAY")
 
-GLOBAL.STRINGS.DFV_LANG = "CS"
-GLOBAL.STRINGS.DFV_HUNGER = "Hlad"
-GLOBAL.STRINGS.DFV_HEALTH = "Zdravi"
-GLOBAL.STRINGS.DFV_SANITY = "Pricetnost"
-GLOBAL.STRINGS.DFV_SPOILSOON = "Brzy se zkazi"
-GLOBAL.STRINGS.DFV_SPOILIN = "Zkazi se za"
-GLOBAL.STRINGS.DFV_SPOILDAY = "dny. Sss"
+STRINGS.DFV_LANG = "CS"
+STRINGS.DFV_HUNGER = "Hlad"
+STRINGS.DFV_HEALTH = "Zdravi"
+STRINGS.DFV_SANITY = "Pricetnost"
+STRINGS.DFV_SPOILSOON = "Brzy se zkazi"
+STRINGS.DFV_SPOILIN = "Zkazi se za"
+STRINGS.DFV_SPOILDAY = "dny. Sss"
 
 -- V okamziku podpory ceskeho fontu odkomentovat prvni a zakomentovat druhou metodu LoadPOFile
 
@@ -38,11 +40,11 @@ LoadPOFile("czech.po", "CS")
 
 -- Informace o tvorbe prekladu: http://forums.kleientertainment.com/index.php?/topic/10292-creating-a-translation-using-the-po-format/
 
-io=GLOBAL.io
-STRINGS=GLOBAL.STRINGS
-tonumber=GLOBAL.tonumber
-tostring=GLOBAL.tostring
-assert=GLOBAL.assert
+io=io
+STRINGS=STRINGS
+tonumber=tonumber
+tostring=tostring
+assert=assert
 
 -- Funkce pro nacteni a nastaveni ceskych fontu
 function ApplyCzechFonts()
@@ -60,22 +62,22 @@ function ApplyCzechFonts()
 
 	-- Odnacteni vsech originalnich fontu hry --
   --------------------------------------------
-	GLOBAL.DEFAULTFONT = "opensans"
-	GLOBAL.DIALOGFONT = "opensans"
-	GLOBAL.TITLEFONT = "bp100"
-	GLOBAL.UIFONT = "bp50"
-	GLOBAL.BUTTONFONT="buttonfont"
-	GLOBAL.NUMBERFONT = "stint-ucr"
-	GLOBAL.TALKINGFONT = "talkingfont"
-	GLOBAL.TALKINGFONT_WATHGRITHR = "talkingfont_wathgrithr"
-	GLOBAL.SMALLNUMBERFONT = "stint-small"
-	GLOBAL.BODYTEXTFONT = "stint-ucr"
+	DEFAULTFONT = "opensans"
+	DIALOGFONT = "opensans"
+	TITLEFONT = "bp100"
+	UIFONT = "bp50"
+	BUTTONFONT="buttonfont"
+	NUMBERFONT = "stint-ucr"
+	TALKINGFONT = "talkingfont"
+	TALKINGFONT_WATHGRITHR = "talkingfont_wathgrithr"
+	SMALLNUMBERFONT = "stint-small"
+	BODYTEXTFONT = "stint-ucr"
   
 	-- Odnacteni jednotlivych ceskych fontu
 	for i,FileName in ipairs(CzFontFiles) do
-		GLOBAL.TheSim:UnloadFont("czfont"..tostring(i))
+		TheSim:UnloadFont("czfont"..tostring(i))
 	end
-	GLOBAL.TheSim:UnloadPrefabs({"czfonts"})
+	TheSim:UnloadPrefabs({"czfonts"})
   
   
 	-- Nastaveni novych/ceskych fontu --
@@ -83,33 +85,33 @@ function ApplyCzechFonts()
   
 	local CzFontsAssets={}
 	for i,FileName in ipairs(CzFontFiles) do 
-		table.insert(CzFontsAssets, GLOBAL.Asset("FONT", MODROOT.."fonts/"..FileName))
+		table.insert(CzFontsAssets, Asset("FONT", MODROOT.."fonts/"..FileName))
 	end
 
 	-- Vytvoreni Prefab a jeho registrace
-	local CzFontsPrefab=GLOBAL.Prefab("common/czfonts", nil, CzFontsAssets)
-	GLOBAL.RegisterPrefabs(CzFontsPrefab)
-	GLOBAL.TheSim:LoadPrefabs({"czfonts"})
+	local CzFontsPrefab=Prefab("common/czfonts", nil, CzFontsAssets)
+	RegisterPrefabs(CzFontsPrefab)
+	TheSim:LoadPrefabs({"czfonts"})
 
 	-- Nacteni jednotlivych souboru fontu
 	for i,FileName in ipairs(CzFontFiles) do
-		GLOBAL.TheSim:LoadFont(MODROOT.."fonts/"..FileName, "czfont"..tostring(i))
+		TheSim:LoadFont(MODROOT.."fonts/"..FileName, "czfont"..tostring(i))
 	end
 
 	-- Vlozeni aliasu do globalnich promennych
-	GLOBAL.DEFAULTFONT  = "czfont4" -- opensans
-	GLOBAL.DIALOGFONT   = "czfont4" -- opensans
-	GLOBAL.TITLEFONT    = "czfont2" -- bp100
-	GLOBAL.UIFONT       = "czfont1" -- bp50
-	GLOBAL.BUTTONFONT   = "czfont3" -- buttonfont
-	GLOBAL.NUMBERFONT   = "czfont6" -- stint-ucr
-	GLOBAL.TALKINGFONT  = "czfont7" -- talkingfont
-	GLOBAL.TALKINGFONT_WATHGRITHR = "czfont8" -- talkingfont_wathgrithr
-	GLOBAL.SMALLNUMBERFONT = "czfont5"  -- stint-small
-	GLOBAL.BODYTEXTFONT = "czfont6"     -- stint-ucr
+	DEFAULTFONT  = "czfont4" -- opensans
+	DIALOGFONT   = "czfont4" -- opensans
+	TITLEFONT    = "czfont2" -- bp100
+	UIFONT       = "czfont1" -- bp50
+	BUTTONFONT   = "czfont3" -- buttonfont
+	NUMBERFONT   = "czfont6" -- stint-ucr
+	TALKINGFONT  = "czfont7" -- talkingfont
+	TALKINGFONT_WATHGRITHR = "czfont8" -- talkingfont_wathgrithr
+	SMALLNUMBERFONT = "czfont5"  -- stint-small
+	BODYTEXTFONT = "czfont6"     -- stint-ucr
 
-	GLOBAL.TheSim:UnloadPrefabs({"czfonts"})
---	GLOBAL.TheSim:UnloadPrefabs({"czfonts"})
+	TheSim:UnloadPrefabs({"czfonts"})
+--	TheSim:UnloadPrefabs({"czfonts"})
 end
 
 function ApplyCzechFontsRewrite()
@@ -141,9 +143,9 @@ function ApplyCzechFontsRewrite()
 end
 
 -- nefunkcni postup?
---local UPDATENAME=GLOBAL.STRINGS.UI.MAINSCREEN.UPDATENAME
---GLOBAL.LanguageTranslator.languages["CS"]["STRINGS.UI.MAINSCREEN.UPDATENAME"]=UPDATENAME
---GLOBAL.TranslateStringTable(GLOBAL.STRINGS)
+--local UPDATENAME=STRINGS.UI.MAINSCREEN.UPDATENAME
+--LanguageTranslator.languages["CS"]["STRINGS.UI.MAINSCREEN.UPDATENAME"]=UPDATENAME
+--TranslateStringTable(STRINGS)
 -- ApplyCzechFonts()
 
 -- Nastavi ceske fonty prepsanim originalnich souboru
