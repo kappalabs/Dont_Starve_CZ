@@ -184,6 +184,11 @@ function RecipePopup:Refresh()
             ["CANTRESEARCH"] = STRINGS.UI.CRAFTING.CANTRESEARCH,
             ["ANCIENTALTAR_HIGH"] = STRINGS.UI.CRAFTING.NEEDSANCIENT_FOUR,
         }
+
+        if SaveGameIndex:IsModeShipwrecked() then
+            hint_text["PRESTIHATITATOR"] = STRINGS.UI.CRAFTING.NEEDPIRATIHATITATOR
+        end 
+
         local str = hint_text[GetHintTextForRecipe(recipe)] or "Text not found."
         self.teaser:SetScale(TEASER_SCALE_TEXT)
         self.teaser:SetString(str)
@@ -289,14 +294,18 @@ function RecipePopup:Refresh()
     for k,v in pairs(recipe.ingredients) do
     
         local has, num_found = owner.components.inventory:Has(v.type, RoundUp(v.amount * owner.components.builder.ingredientmod))
+        
+        local item_img = v.type
+        if SaveGameIndex:IsModeShipwrecked() and SW_ICONS[item_img] ~= nil then
+            item_img = SW_ICONS[item_img]
+        end
 		--### MOD CzechTranslationFeature -->
-			-- local ing = self.contents:AddChild(IngredientUI(v.atlas, v.type..".tex", v.amount, num_found, has, STRINGS.NAMES[string.upper(v.type)], owner))
-            local ing = self.contents:AddChild(IngredientUI(v.atlas, v.type..".tex", v.amount, num_found, has, CZTGetReplacement(STRINGS.NAMES[string.upper(v.type)], 1), owner))
+--      local ing = self.contents:AddChild(IngredientUI(v.atlas, item_img ..".tex", v.amount, num_found, has, STRINGS.NAMES[string.upper(v.type)], owner))
+        local ing = self.contents:AddChild(IngredientUI(v.atlas, item_img..".tex", v.amount, num_found, has, CZTGetReplacement(STRINGS.NAMES[string.upper(v.type)], 1), owner))
 		--### <EO> MOD CzechTranslationFeature <--        
 		ing:SetPosition(Vector3(offset, 80, 0))
         offset = offset + (w+ div)
         self.ing[k] = ing
-    end
 end
 
 --### MOD CzechTranslationFeature -->

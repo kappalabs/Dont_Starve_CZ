@@ -48,18 +48,18 @@ assert=GLOBAL.assert
 function ApplyCzechFonts()
 	-- Jmena souboru fontu, ktere budou nacteny
 	local CzFontFiles={
-        "belisaplumilla50__cz.zip",   -- 1 - bp50
-				"belisaplumilla100__cz.zip",  -- 2 - bp100
-        "buttonfont__cz.zip",         -- 3 - buttonfont
-        "opensans50__cz.zip",         -- 4 - opensans
-        "stint-ucr20__cz.zip",        -- 5 - stint-small
-				"stint-ucr50__cz.zip",        -- 6 - stint-ucr
-        "talkingfont__cz.zip",        -- 7 - talkingfont
-        "talkingfont_wathgrithr.zip", -- 8 - talkingfont_warthgrithr
-  }
+		"belisaplumilla50__cz.zip",   -- 1 - bp50
+		"belisaplumilla100__cz.zip",  -- 2 - bp100
+		"buttonfont__cz.zip",         -- 3 - buttonfont
+		"opensans50__cz.zip",         -- 4 - opensans
+		"stint-ucr20__cz.zip",        -- 5 - stint-small
+		"stint-ucr50__cz.zip",        -- 6 - stint-ucr
+		"talkingfont__cz.zip",        -- 7 - talkingfont
+		"talkingfont_wathgrithr.zip", -- 8 - talkingfont_warthgrithr
+	}
 
 	-- Odnacteni vsech originalnich fontu hry --
-  --------------------------------------------
+	--------------------------------------------
 	GLOBAL.DEFAULTFONT = "opensans"
 	GLOBAL.DIALOGFONT = "opensans"
 	GLOBAL.TITLEFONT = "bp100"
@@ -79,7 +79,7 @@ function ApplyCzechFonts()
   
   
 	-- Nastaveni novych/ceskych fontu --
-  ------------------------------------
+	------------------------------------
   
 	local CzFontsAssets={}
 	for i,FileName in ipairs(CzFontFiles) do 
@@ -115,16 +115,16 @@ end
 function ApplyCzechFontsRewrite()
 	-- Jmena souboru fontu, ktere budou nacteny
 	local CzFontFiles={
-        "belisaplumilla50__cz.zip",   -- 1 - bp50
-				"belisaplumilla100__cz.zip",  -- 2 - bp100
-        "buttonfont__cz.zip",         -- 3 - buttonfont
-        "opensans50__cz.zip",         -- 4 - opensans
-        "stint-ucr20__cz.zip",        -- 5 - stint-small
-				"stint-ucr50__cz.zip",        -- 6 - stint-ucr
-        "talkingfont__cz.zip",        -- 7 - talkingfont
-        "talkingfont_wathgrithr.zip", -- 8 - talkingfont_warthgrithr
-  }
-  -- Funkce pro prepsani souboru
+		"belisaplumilla50__cz.zip",   -- 1 - bp50
+		"belisaplumilla100__cz.zip",  -- 2 - bp100
+		"buttonfont__cz.zip",         -- 3 - buttonfont
+		"opensans50__cz.zip",         -- 4 - opensans
+		"stint-ucr20__cz.zip",        -- 5 - stint-small
+		"stint-ucr50__cz.zip",        -- 6 - stint-ucr
+		"talkingfont__cz.zip",        -- 7 - talkingfont
+		"talkingfont_wathgrithr.zip", -- 8 - talkingfont_warthgrithr
+	}
+	-- Funkce pro prepsani souboru
 	local function copyfile(source,dest)
 		local f = assert(io.open(source,"rb"))
 		local content = f:read("*all")
@@ -133,10 +133,10 @@ function ApplyCzechFontsRewrite()
 		f:write(content)
 		f:close()
 	end
-  -- Prepsani jednotlivych fontu hry
+	-- Prepsani jednotlivych fontu hry
 	for i,FileName in ipairs(CzFontFiles) do
-    local orig = FileName:gsub("__cz", "");
-    copyfile(MODROOT.."fonts/"..FileName,"fonts/"..orig);
+		local orig = FileName:gsub("__cz", "");
+		copyfile(MODROOT.."fonts/"..FileName,"fonts/"..orig);
 	end
 end
 

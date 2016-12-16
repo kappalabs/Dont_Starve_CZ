@@ -37,8 +37,10 @@ local MorgueScreen = Class(Screen, function(self, in_game)
     Widget._ctor(self, "MorgueScreen")
     	
 	self.bg = self:AddChild(Image("images/ui.xml", "bg_plain.tex"))
-    if IsDLCInstalled(REIGN_OF_GIANTS) then
+    if IsDLCEnabled(REIGN_OF_GIANTS) and not IsDLCEnabled(CAPY_DLC) then
         self.bg:SetTint(BGCOLOURS.PURPLE[1],BGCOLOURS.PURPLE[2],BGCOLOURS.PURPLE[3], 1)
+    elseif IsDLCEnabled(CAPY_DLC) then
+        self.bg:SetTint(BGCOLOURS.TEAL[1],BGCOLOURS.TEAL[2],BGCOLOURS.TEAL[3], 1)
     else
         self.bg:SetTint(BGCOLOURS.RED[1],BGCOLOURS.RED[2],BGCOLOURS.RED[3], 1)
     end

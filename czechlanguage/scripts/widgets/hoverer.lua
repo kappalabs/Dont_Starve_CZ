@@ -156,7 +156,7 @@ function HoverText:UpdatePosition(x,y)
         if string.find(self.str, STRINGS.DFV_SPOILSOON) or string.find(self.str, STRINGS.DFV_SPOILIN) then
         	positionshift = positionshift + 15
         end
-	end 
+	  end 
     y = y + positionshift*scale.y
     --### <EO> MOD DisplayValues2 <--	
 
