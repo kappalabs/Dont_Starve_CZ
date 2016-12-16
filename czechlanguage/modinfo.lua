@@ -1,11 +1,11 @@
 
 name = "Czech Language Pack"
 id = "czechlanguagepack"
+version = "2.2.1"
 desc = {en = "Czech translation of the game.\n\nVersion: "..version,
 		    cz = "\nBalíček s češtinou do hry.\n\nVerze: "..version}
 description = desc[language] or desc["en"]
-author = "Kappa, KeeBLeeC a Relred"
-version = "2.2.1"
+author = "Kappa, KeeBLeeC & Relred"
 
 -- http://forums.kleientertainment.com/index.php?/files/file/202-sample-mods/
 -- <-- /files/file/202-sample-mods/
