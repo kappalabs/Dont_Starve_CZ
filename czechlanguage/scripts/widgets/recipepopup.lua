@@ -299,13 +299,14 @@ function RecipePopup:Refresh()
         if SaveGameIndex:IsModeShipwrecked() and SW_ICONS[item_img] ~= nil then
             item_img = SW_ICONS[item_img]
         end
-		--### MOD CzechTranslationFeature -->
+--### MOD CzechTranslationFeature -->
 --      local ing = self.contents:AddChild(IngredientUI(v.atlas, item_img ..".tex", v.amount, num_found, has, STRINGS.NAMES[string.upper(v.type)], owner))
-        local ing = self.contents:AddChild(IngredientUI(v.atlas, item_img..".tex", v.amount, num_found, has, CZTGetReplacement(STRINGS.NAMES[string.upper(v.type)], 1), owner))
-		--### <EO> MOD CzechTranslationFeature <--        
+        local ing = self.contents:AddChild(IngredientUI(v.atlas, item_img ..".tex", v.amount, num_found, has, CZTGetReplacement(STRINGS.NAMES[string.upper(v.type)], 1), owner))
+--### <EO> MOD CzechTranslationFeature <--        
 		ing:SetPosition(Vector3(offset, 80, 0))
         offset = offset + (w+ div)
         self.ing[k] = ing
+    end
 end
 
 --### MOD CzechTranslationFeature -->
