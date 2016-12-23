@@ -27,13 +27,18 @@ public class Uprav {
             String line, originalWord = "", translatedWord;
             boolean edit = false;
             while ((line = br.readLine()) != null) {
+                /* Předpoklad jednořádkovosti překládaného textu! - pro názvy objektů dává smysl */
                 if (line.contains(TOEDIT)) {
                     edit = true;
                 } else if (edit && line.toLowerCase().startsWith(ORIGLINE)) {
                     originalWord = line.substring(line.indexOf("\"") + 1, line.lastIndexOf("\""));
-                } else if (edit && line.toLowerCase().startsWith(EDITLINE)) {
+                } else if (edit && line.toLowerCase().startsWith(EDITLINE)
+                /* Hotfix - problém %s a %d bude možná lepší řešit nějak jinak */
+                            && !line.contains("%s") && !line.contains("%d")) {
                     translatedWord = line.substring(line.indexOf("\"") + 1, line.lastIndexOf("\""));
-                    line = EDITLINE + "\"" + translatedWord + separator + originalWord + "\"";
+                    if (!translatedWord.isEmpty()) {
+                        line = EDITLINE + "\"" + translatedWord + separator + originalWord + "\"";
+                    }
                     edit = false;
                 }
                 pw.println(line);

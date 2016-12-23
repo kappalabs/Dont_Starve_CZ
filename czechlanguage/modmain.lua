@@ -31,18 +31,22 @@ GLOBAL.STRINGS.DFV_SPOILSOON = "Brzy se zkazi"
 GLOBAL.STRINGS.DFV_SPOILIN = "Zkazi se za"
 GLOBAL.STRINGS.DFV_SPOILDAY = "dny. Sss"
 
--- V okamziku podpory ceskeho fontu odkomentovat prvni a zakomentovat druhou metodu LoadPOFile
 
-LoadPOFile("czech.po", "CS")
--- LoadPOFile("czech_ascii.po", "CS")
+LoadPOFile(MODROOT.."czech.po", "cz")
+-- Pokud není podporován český font -> bez diakritiky
+-- LoadPOFile(MODROOT.."czech_ascii.po", "cz")
 
 -- Informace o tvorbe prekladu: http://forums.kleientertainment.com/index.php?/topic/10292-creating-a-translation-using-the-po-format/
+
 
 io=GLOBAL.io
 STRINGS=GLOBAL.STRINGS
 tonumber=GLOBAL.tonumber
 tostring=GLOBAL.tostring
 assert=GLOBAL.assert
+
+
+
 
 -- Funkce pro nacteni a nastaveni ceskych fontu
 function ApplyCzechFonts()
@@ -142,7 +146,7 @@ end
 
 -- nefunkcni postup?
 --local UPDATENAME=GLOBAL.STRINGS.UI.MAINSCREEN.UPDATENAME
---GLOBAL.LanguageTranslator.languages["CS"]["STRINGS.UI.MAINSCREEN.UPDATENAME"]=UPDATENAME
+--GLOBAL.LanguageTranslator.languages["cz"]["STRINGS.UI.MAINSCREEN.UPDATENAME"]=UPDATENAME
 --GLOBAL.TranslateStringTable(GLOBAL.STRINGS)
 -- ApplyCzechFonts()
 
