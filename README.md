@@ -1,4 +1,4 @@
-Don't Starve CZ (DS+RoG+SW 41%, DST 39%)
+Don't Starve CZ (DS+RoG+SW 42%, DST 39%)
 ========================================
 **Czech translation mod for Don't Starve + RoG + SW [Update 197843 24. 11. 2016] & DS Together [Update 201210 21. 12. 2016]**<br />
 **Mód českého překladu hry Don't Starve + RoG + SW [Update 197843 24. 11. 2016] & DS Together [Update 201210 21. 12. 2016]**

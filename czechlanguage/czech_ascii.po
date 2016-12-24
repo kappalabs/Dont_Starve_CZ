@@ -41,7 +41,7 @@ msgstr "Prozkoumat"
 #. STRINGS.ACTIONS.ACTIVATE.SAND
 msgctxt "STRINGS.ACTIONS.ACTIVATE.SAND"
 msgid "Destroy"
-msgstr ""
+msgstr "Znicit"
 
 #. STRINGS.ACTIONS.ACTIVATE.SPELUNK
 msgctxt "STRINGS.ACTIONS.ACTIVATE.SPELUNK"
@@ -131,7 +131,7 @@ msgstr "Vytvorit"
 #. STRINGS.ACTIONS.CUREPOISON.GENERIC
 msgctxt "STRINGS.ACTIONS.CUREPOISON.GENERIC"
 msgid "Quaff"
-msgstr ""
+msgstr "Vypit"
 
 #. STRINGS.ACTIONS.CUREPOISON.GLAND
 msgctxt "STRINGS.ACTIONS.CUREPOISON.GLAND"
@@ -461,7 +461,7 @@ msgstr ""
 #. STRINGS.ACTIONS.ROWTO
 msgctxt "STRINGS.ACTIONS.ROWTO"
 msgid "Row to"
-msgstr ""
+msgstr "Doplout k"
 
 #. STRINGS.ACTIONS.RUMMAGE.CLOSE
 msgctxt "STRINGS.ACTIONS.RUMMAGE.CLOSE"
@@ -611,7 +611,7 @@ msgstr "Sundat"
 #. STRINGS.ACTIONS.UNEQUIP.TRAWLNET
 msgctxt "STRINGS.ACTIONS.UNEQUIP.TRAWLNET"
 msgid "Detach"
-msgstr ""
+msgstr "Odpojit"
 
 #. STRINGS.ACTIONS.UNLOCK.GENERIC
 msgctxt "STRINGS.ACTIONS.UNLOCK.GENERIC"
@@ -646,7 +646,7 @@ msgstr "Prejit k"
 #. STRINGS.ACTIONS.WALKTO.ROWTO
 msgctxt "STRINGS.ACTIONS.WALKTO.ROWTO"
 msgid "Row to"
-msgstr ""
+msgstr "Doplout k"
 
 #. STRINGS.ACTIONS.WALKTO.SAILTO
 msgctxt "STRINGS.ACTIONS.WALKTO.SAILTO"
@@ -2665,7 +2665,7 @@ msgstr "Je to kasovite."
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CAVE_BANANA_BURNT
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CAVE_BANANA_BURNT"
 msgid "Not my fault!"
-msgstr ""
+msgstr "To neni moje chyba!"
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CAVE_BANANA_COOKED
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CAVE_BANANA_COOKED"
@@ -2760,7 +2760,7 @@ msgstr "A mas to, vetre!"
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CLOTHSAIL
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CLOTHSAIL"
 msgid "That wind isn't getting away now!"
-msgstr ""
+msgstr "Ted uz vitr neutece!"
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.COCONADE.BURNING
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.COCONADE.BURNING"
@@ -3521,7 +3521,7 @@ msgstr "JSEM PTAK!"
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.FEATHERSAIL
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.FEATHERSAIL"
 msgid "It's feather-light!"
-msgstr ""
+msgstr "Je lehka jak pirko!"
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.FEATHER_CROW
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.FEATHER_CROW"
@@ -3971,7 +3971,7 @@ msgstr "Vypada jako pepr."
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.HAIL_ICE
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.HAIL_ICE"
 msgid "Chilling."
-msgstr ""
+msgstr "Chladive."
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.HAMBAT
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.HAMBAT"
@@ -6846,7 +6846,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.THATCHPACK
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.THATCHPACK"
 msgid "I call it a thatchel."
-msgstr ""
+msgstr "Rikam ji listovka."
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.THULECITE
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.THULECITE"
@@ -29163,7 +29163,7 @@ msgstr "Nedustojna zbran pro mene vybrane chvile."
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HAMMER
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HAMMER"
 msgid "It feels good to undo the work of others."
-msgstr "Krasny pocit, kdyz muzete zmarit dila ostatnich."
+msgstr "Krasny pocit, kdyz muzes zmarit dila ostatnich."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HAWAIIANSHIRT
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HAWAIIANSHIRT"
@@ -58390,7 +58390,7 @@ msgstr "Nikdy jsem nemela rada vodni koupel."
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.TRINKET_9
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.TRINKET_9"
 msgid "You can strike a match on a zipper, but not on buttons."
-msgstr "Shodu muzete nalezt na protejsi strane zipu, ale ne u knofliku."
+msgstr "Shodu muzes nalezt na protejsi strane zipu, ale ne u knofliku."
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.TROPICALFAN
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.TROPICALFAN"
@@ -80800,7 +80800,7 @@ msgstr "ZDROJ ENERGIE: NEZNAMY"
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.FLOWER_EVIL
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.FLOWER_EVIL"
 msgid "HEY THERE, FLOWERS. WANNA... KILL ALL HUMANS?"
-msgstr "AHOJKY KVETINY. CHCETE... VYHUBIT LIDSKE BYTOSTI?"
+msgstr "AHOJKY KVETINY. CHCES... VYHUBIT LIDSKE BYTOSTI?"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.FLOWER_WITHERED
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.FLOWER_WITHERED"
@@ -84847,7 +84847,7 @@ msgstr "Ha. Ha."
 #. STRINGS.CHARACTER_DESCRIPTIONS.hidden
 msgctxt "STRINGS.CHARACTER_DESCRIPTIONS.hidden"
 msgid "*Hasn't arrived on the island yet"
-msgstr ""
+msgstr "*Jeste na ostrov nedoplul"
 
 #. STRINGS.CHARACTER_DESCRIPTIONS.walani
 msgctxt "STRINGS.CHARACTER_DESCRIPTIONS.walani"
@@ -84856,6 +84856,9 @@ msgid ""
 "*Dries off quickly\n"
 "*Is a pretty chill gal"
 msgstr ""
+"*Miluje surfovani\n"
+"*Rychle se ususi\n"
+"*Je to pohodove devce"
 
 #. STRINGS.CHARACTER_DESCRIPTIONS.warly
 msgctxt "STRINGS.CHARACTER_DESCRIPTIONS.warly"
@@ -84864,6 +84867,9 @@ msgid ""
 "*Cooks in custom kitchenware\n"
 "*Brings a stylish chef pouch"
 msgstr ""
+"*Ma vytribene chutove bunky\n"
+"*Vari s vlastnim kuchynskym vybavenim\n"
+"*Nosi stylovy kucharsky vak"
 
 #. STRINGS.CHARACTER_DESCRIPTIONS.wathgrithr
 msgctxt "STRINGS.CHARACTER_DESCRIPTIONS.wathgrithr"
@@ -84883,6 +84889,9 @@ msgid ""
 "*Can split his mind into pieces \n"
 "*On a first-name basis with the night"
 msgstr ""
+"*Je elegantni, ale krehky \n"
+"*Dokaze rozdelit svoji mysl na kousky \n"
+"*Tyka si s noci"
 
 #. STRINGS.CHARACTER_DESCRIPTIONS.webber
 msgctxt "STRINGS.CHARACTER_DESCRIPTIONS.webber"
@@ -84935,6 +84944,9 @@ msgid ""
 "*Slow as biped, but fast as quadruped\n"
 "*Is a monkey"
 msgstr ""
+"*Nemuze mluvit\n"
+"*Pomaly jak dvounozec, ale rychly jak ctvernozec\n"
+"*Je to opice"
 
 #. STRINGS.CHARACTER_DESCRIPTIONS.willow
 msgctxt "STRINGS.CHARACTER_DESCRIPTIONS.willow"
@@ -84979,6 +84991,9 @@ msgid ""
 "*And a terrible secret \n"
 "*Celebrates Thanksgiving at the correct time"
 msgstr ""
+"*Ma milou sekeru \n"
+"*a hrozne tajemstvi \n"
+"*Oslavuje Dikuvzdani ve spravny cas"
 
 #. STRINGS.CHARACTER_DESCRIPTIONS.woodie_us
 msgctxt "STRINGS.CHARACTER_DESCRIPTIONS.woodie_us"
@@ -84998,6 +85013,9 @@ msgid ""
 "*Captain of the \"Sea Legs\"\n"
 "*Pirate"
 msgstr ""
+"*Umi vyslidit poklad\n"
+"*Kapitan na \"Pevnych nohach\"\n"
+"*Pirat"
 
 #. STRINGS.CHARACTER_DESCRIPTIONS.wx78
 msgctxt "STRINGS.CHARACTER_DESCRIPTIONS.wx78"
@@ -85023,12 +85041,12 @@ msgstr "Tajemne Neznamo"
 #. STRINGS.CHARACTER_NAMES.walani
 msgctxt "STRINGS.CHARACTER_NAMES.walani"
 msgid "Walani"
-msgstr ""
+msgstr "Walani"
 
 #. STRINGS.CHARACTER_NAMES.warly
 msgctxt "STRINGS.CHARACTER_NAMES.warly"
 msgid "Warly"
-msgstr ""
+msgstr "Warly"
 
 #. STRINGS.CHARACTER_NAMES.wathgrithr
 msgctxt "STRINGS.CHARACTER_NAMES.wathgrithr"
@@ -85063,7 +85081,7 @@ msgstr "Ms. Wickerbottom"
 #. STRINGS.CHARACTER_NAMES.wilbur
 msgctxt "STRINGS.CHARACTER_NAMES.wilbur"
 msgid "Wilbur"
-msgstr ""
+msgstr "Wilbur"
 
 #. STRINGS.CHARACTER_NAMES.willow
 msgctxt "STRINGS.CHARACTER_NAMES.willow"
@@ -85098,7 +85116,7 @@ msgstr "WX-78"
 #. STRINGS.CHARACTER_QUOTES.hidden
 msgctxt "STRINGS.CHARACTER_QUOTES.hidden"
 msgid "\"Don't look at me. I'm not ready yet.\""
-msgstr ""
+msgstr "\"Na me nekoukej. Jeste nejsem pripraveny.\""
 
 #. STRINGS.CHARACTER_QUOTES.walani
 msgctxt "STRINGS.CHARACTER_QUOTES.walani"
@@ -85108,7 +85126,7 @@ msgstr "\"Opust mi, pokud jiz nevstanu. Nechci totiz.\""
 #. STRINGS.CHARACTER_QUOTES.warly
 msgctxt "STRINGS.CHARACTER_QUOTES.warly"
 msgid "\"Nothing worthwhile is ever done on an empty stomach!\""
-msgstr ""
+msgstr "\"Nic co stoji za to neni vytvoreno s prazdnym zaludkem!\""
 
 #. STRINGS.CHARACTER_QUOTES.wathgrithr
 msgctxt "STRINGS.CHARACTER_QUOTES.wathgrithr"
@@ -85178,7 +85196,7 @@ msgstr "\"MODUL SOUCITU NEODPOVIDA\""
 #. STRINGS.CHARACTER_TITLES.hidden
 msgctxt "STRINGS.CHARACTER_TITLES.hidden"
 msgid "The Unfinished"
-msgstr ""
+msgstr "Nedokonceny"
 
 #. STRINGS.CHARACTER_TITLES.walani
 msgctxt "STRINGS.CHARACTER_TITLES.walani"
@@ -85223,7 +85241,7 @@ msgstr "Knihovnice"
 #. STRINGS.CHARACTER_TITLES.wilbur
 msgctxt "STRINGS.CHARACTER_TITLES.wilbur"
 msgid "The Monkey King"
-msgstr ""
+msgstr "Opici kral"
 
 #. STRINGS.CHARACTER_TITLES.willow
 msgctxt "STRINGS.CHARACTER_TITLES.willow"
@@ -85248,7 +85266,7 @@ msgstr "Drevorubec"
 #. STRINGS.CHARACTER_TITLES.woodlegs
 msgctxt "STRINGS.CHARACTER_TITLES.woodlegs"
 msgid "The Pirate Captain"
-msgstr ""
+msgstr "Kapitan piratu"
 
 #. STRINGS.CHARACTER_TITLES.wx78
 msgctxt "STRINGS.CHARACTER_TITLES.wx78"
@@ -85449,7 +85467,7 @@ msgstr ""
 #. STRINGS.EPITAPHS.35
 msgctxt "STRINGS.EPITAPHS.35"
 msgid "It says \"I'm taking a nap. In the dirt.\""
-msgstr ""
+msgstr "Pise se tam \"Davam si slofika. V hline.\""
 
 #. STRINGS.EPITAPHS.36
 msgctxt "STRINGS.EPITAPHS.36"
@@ -85459,32 +85477,32 @@ msgstr ""
 #. STRINGS.EPITAPHS.37
 msgctxt "STRINGS.EPITAPHS.37"
 msgid "It says \"See you on the other side.\""
-msgstr ""
+msgstr "Pise se tam \"Potkame se na druhe strane.\""
 
 #. STRINGS.EPITAPHS.38
 msgctxt "STRINGS.EPITAPHS.38"
 msgid "It says \"Catch you later.\""
-msgstr ""
+msgstr "Pise se tam \"Uvidime se pozdeji.\""
 
 #. STRINGS.EPITAPHS.39
 msgctxt "STRINGS.EPITAPHS.39"
 msgid "It says \"Don't make fun. You'll be here too one day.\""
-msgstr ""
+msgstr "Pise se tam \"Nedelej si legraci, jednou tu budes take.\""
 
 #. STRINGS.EPITAPHS.4
 msgctxt "STRINGS.EPITAPHS.4"
 msgid "\"Here lies some person.\""
-msgstr ""
+msgstr "\"Zde lezi nejaka osoba.\""
 
 #. STRINGS.EPITAPHS.40
 msgctxt "STRINGS.EPITAPHS.40"
 msgid "It says \"On to the next adventure.\""
-msgstr ""
+msgstr "Pise se tam \"Za dalsim dobrodruzstvim.\""
 
 #. STRINGS.EPITAPHS.41
 msgctxt "STRINGS.EPITAPHS.41"
 msgid "\"It's worse than it looks.\""
-msgstr ""
+msgstr "\"Je to horsi nez to vypada.\""
 
 #. STRINGS.EPITAPHS.42
 msgctxt "STRINGS.EPITAPHS.42"
@@ -85494,7 +85512,7 @@ msgstr ""
 #. STRINGS.EPITAPHS.43
 msgctxt "STRINGS.EPITAPHS.43"
 msgid "It says \"I'm just pretending.\""
-msgstr ""
+msgstr "Pise se tam \"Jen to predstiram.\""
 
 #. STRINGS.EPITAPHS.44
 msgctxt "STRINGS.EPITAPHS.44"
@@ -85504,12 +85522,12 @@ msgstr ""
 #. STRINGS.EPITAPHS.45
 msgctxt "STRINGS.EPITAPHS.45"
 msgid "It says \"Lost and Found\"."
-msgstr ""
+msgstr "Pise se tam \"Ztraty a nalezy\"."
 
 #. STRINGS.EPITAPHS.46
 msgctxt "STRINGS.EPITAPHS.46"
 msgid "It says \"I hope I turned the oven off.\""
-msgstr ""
+msgstr "Pise se tam \"Snad jsem nezapomnel vypnout troubu\"."
 
 #. STRINGS.EPITAPHS.47
 msgctxt "STRINGS.EPITAPHS.47"
@@ -85519,7 +85537,7 @@ msgstr ""
 #. STRINGS.EPITAPHS.48
 msgctxt "STRINGS.EPITAPHS.48"
 msgid "It says \"I guess this is my life now.\""
-msgstr ""
+msgstr "Pise se tam \"Tohle je ted muj zivot.\""
 
 #. STRINGS.EPITAPHS.49
 msgctxt "STRINGS.EPITAPHS.49"
@@ -85534,7 +85552,7 @@ msgstr "Tenhle nahrobek je bez textu."
 #. STRINGS.EPITAPHS.50
 msgctxt "STRINGS.EPITAPHS.50"
 msgid "\"Beware.\" Beware of what?"
-msgstr ""
+msgstr "\"Davej pozor.\" Pozor na co?"
 
 #. STRINGS.EPITAPHS.51
 msgctxt "STRINGS.EPITAPHS.51"
@@ -85564,7 +85582,7 @@ msgstr ""
 #. STRINGS.EPITAPHS.56
 msgctxt "STRINGS.EPITAPHS.56"
 msgid "\"And don't come back.\""
-msgstr ""
+msgstr "\"A uz se nevracej.\""
 
 #. STRINGS.EPITAPHS.6
 msgctxt "STRINGS.EPITAPHS.6"
@@ -87407,7 +87425,7 @@ msgstr "Lodni kanon-#&#-Boat Cannon"
 #. STRINGS.NAMES.BOATREPAIRKIT
 msgctxt "STRINGS.NAMES.BOATREPAIRKIT"
 msgid "Boat Repair Kit"
-msgstr ""
+msgstr "Souprava na opravu lodi-#&#-Boat Repair Kit"
 
 #. STRINGS.NAMES.BOAT_INDICATOR
 msgctxt "STRINGS.NAMES.BOAT_INDICATOR"
@@ -87497,7 +87515,7 @@ msgstr "Bunnyman-#&#-Bunnyman"
 #. STRINGS.NAMES.BUOY
 msgctxt "STRINGS.NAMES.BUOY"
 msgid "Buoy"
-msgstr ""
+msgstr "Boje-#&#-Buoy"
 
 #. STRINGS.NAMES.BURIEDTREASURE
 msgctxt "STRINGS.NAMES.BURIEDTREASURE"
@@ -87717,7 +87735,7 @@ msgstr ""
 #. STRINGS.NAMES.CLOTHSAIL
 msgctxt "STRINGS.NAMES.CLOTHSAIL"
 msgid "Cloth Sail"
-msgstr ""
+msgstr "Platena plachta-#&#-Cloth Sail"
 
 #. STRINGS.NAMES.COCONADE
 msgctxt "STRINGS.NAMES.COCONADE"
@@ -88127,7 +88145,7 @@ msgstr "Bobulovity Ker-#&#-Berry Bush"
 #. STRINGS.NAMES.DUG_BUSH_VINE
 msgctxt "STRINGS.NAMES.DUG_BUSH_VINE"
 msgid "Viney Bush Root"
-msgstr ""
+msgstr "Koren vinneho kere-#&#-Viney Bush Root"
 
 #. STRINGS.NAMES.DUG_COFFEEBUSH
 msgctxt "STRINGS.NAMES.DUG_COFFEEBUSH"
@@ -88257,7 +88275,7 @@ msgstr "Oharius Strelcius-#&#-Houndius Shootius"
 #. STRINGS.NAMES.FABRIC
 msgctxt "STRINGS.NAMES.FABRIC"
 msgid "Cloth"
-msgstr "Latka-#&#-Cloth"
+msgstr "Platno-#&#-Cloth"
 
 #. STRINGS.NAMES.FAST_FARMPLOT
 msgctxt "STRINGS.NAMES.FAST_FARMPLOT"
@@ -88277,7 +88295,7 @@ msgstr "Ptaci celenka-#&#-Feather Hat"
 #. STRINGS.NAMES.FEATHERSAIL
 msgctxt "STRINGS.NAMES.FEATHERSAIL"
 msgid "Feather Lite Sail"
-msgstr ""
+msgstr "Odlehcena perova plachta-#&#-Feather Lite Sail"
 
 #. STRINGS.NAMES.FEATHER_CROW
 msgctxt "STRINGS.NAMES.FEATHER_CROW"
@@ -88477,7 +88495,7 @@ msgstr "Grilovana zabi stehynka-#&#-Cooked Frog Legs"
 #. STRINGS.NAMES.FROG_POISON
 msgctxt "STRINGS.NAMES.FROG_POISON"
 msgid "Poison Frog"
-msgstr ""
+msgstr "Jedovata zaba-#&#-Poison Frog"
 
 #. STRINGS.NAMES.FRUITMEDLEY
 msgctxt "STRINGS.NAMES.FRUITMEDLEY"
@@ -88637,7 +88655,7 @@ msgstr "Strelny prach-#&#-Gunpowder"
 #. STRINGS.NAMES.HAIL_ICE
 msgctxt "STRINGS.NAMES.HAIL_ICE"
 msgid "Hail"
-msgstr ""
+msgstr "Kroupa-#&#-Hail"
 
 #. STRINGS.NAMES.HAMBAT
 msgctxt "STRINGS.NAMES.HAMBAT"
@@ -88802,7 +88820,7 @@ msgstr "Vodni hrob-#&#-Watery Grave"
 #. STRINGS.NAMES.IRONWIND
 msgctxt "STRINGS.NAMES.IRONWIND"
 msgid "Iron Wind"
-msgstr ""
+msgstr "Zelezny vanek-#&#-Iron Wind"
 
 #. STRINGS.NAMES.JAMMYPRESERVES
 msgctxt "STRINGS.NAMES.JAMMYPRESERVES"
@@ -90122,7 +90140,7 @@ msgstr "Znicena Relikvie-#&#-Broken Relic"
 #. STRINGS.NAMES.SAIL
 msgctxt "STRINGS.NAMES.SAIL"
 msgid "Thatch Sail"
-msgstr ""
+msgstr "Plachta z listu-#&#-Thatch Sail"
 
 #. STRINGS.NAMES.SAIL_STICK
 msgctxt "STRINGS.NAMES.SAIL_STICK"
@@ -90472,7 +90490,7 @@ msgstr ""
 #. STRINGS.NAMES.SPEAR_POISON
 msgctxt "STRINGS.NAMES.SPEAR_POISON"
 msgid "Poison Spear"
-msgstr ""
+msgstr "Otravene kopi-#&#-Poison Spear"
 
 #. STRINGS.NAMES.SPEAR_WATHGRITHR
 msgctxt "STRINGS.NAMES.SPEAR_WATHGRITHR"
@@ -90482,7 +90500,7 @@ msgstr "Bojove kopi-#&#-Battle Spear"
 #. STRINGS.NAMES.SPICEPACK
 msgctxt "STRINGS.NAMES.SPICEPACK"
 msgid "Chef Pouch"
-msgstr ""
+msgstr "Kucharsky vak-#&#-Chef Pouch"
 
 #. STRINGS.NAMES.SPIDER
 msgctxt "STRINGS.NAMES.SPIDER"
@@ -90637,7 +90655,7 @@ msgstr "Stara bota-#&#-Old Boot"
 #. STRINGS.NAMES.SUPERTELESCOPE
 msgctxt "STRINGS.NAMES.SUPERTELESCOPE"
 msgid "Super Spyglass"
-msgstr ""
+msgstr "Vylepseny dalekohled-#&#-Super Spyglass"
 
 #. STRINGS.NAMES.SURFBOARD
 msgctxt "STRINGS.NAMES.SURFBOARD"
@@ -90667,22 +90685,22 @@ msgstr ""
 #. STRINGS.NAMES.SWEET_POTATO
 msgctxt "STRINGS.NAMES.SWEET_POTATO"
 msgid "Sweet Potato"
-msgstr ""
+msgstr "Sladky brambor-#&#-Sweet Potato"
 
 #. STRINGS.NAMES.SWEET_POTATO_COOKED
 msgctxt "STRINGS.NAMES.SWEET_POTATO_COOKED"
 msgid "Cooked Sweet Potato"
-msgstr ""
+msgstr "Peceny sladky brambor-#&#-Cooked Sweet Potato"
 
 #. STRINGS.NAMES.SWEET_POTATO_PLANTED
 msgctxt "STRINGS.NAMES.SWEET_POTATO_PLANTED"
 msgid "Sweet Potato"
-msgstr ""
+msgstr "Sladky brambor-#&#-Sweet Potato"
 
 #. STRINGS.NAMES.SWEET_POTATO_SEEDS
 msgctxt "STRINGS.NAMES.SWEET_POTATO_SEEDS"
 msgid "Sweet Potato Seeds"
-msgstr ""
+msgstr "Seminka sladkych brambor-#&#-Sweet Potato Seeds"
 
 #. STRINGS.NAMES.SWIMMINGHORROR
 msgctxt "STRINGS.NAMES.SWIMMINGHORROR"
@@ -90802,7 +90820,7 @@ msgstr "Prstencovita vec-#&#-Ring Thing"
 #. STRINGS.NAMES.TELESCOPE
 msgctxt "STRINGS.NAMES.TELESCOPE"
 msgid "Spyglass"
-msgstr ""
+msgstr "Teleskopicky dalekohled-#&#-Spyglass"
 
 #. STRINGS.NAMES.TELESTAFF
 msgctxt "STRINGS.NAMES.TELESTAFF"
@@ -90852,7 +90870,7 @@ msgstr "Klovajici teror-#&#-Terrorbeak"
 #. STRINGS.NAMES.THATCHPACK
 msgctxt "STRINGS.NAMES.THATCHPACK"
 msgid "Thatch Pack"
-msgstr ""
+msgstr "Listova brasna-#&#-Thatch Pack"
 
 #. STRINGS.NAMES.THULECITE
 msgctxt "STRINGS.NAMES.THULECITE"
@@ -90932,12 +90950,12 @@ msgstr "Maxwellova zubata past-#&#-Maxwell's Tooth Trap"
 #. STRINGS.NAMES.TRAWLNET
 msgctxt "STRINGS.NAMES.TRAWLNET"
 msgid "Trawl Net"
-msgstr ""
+msgstr "Vlecna sit-#&#-Trawl Net"
 
 #. STRINGS.NAMES.TRAWLNETDROPPED
 msgctxt "STRINGS.NAMES.TRAWLNETDROPPED"
 msgid "Trawl Net"
-msgstr ""
+msgstr "Vlecna sit-#&#-Trawl Net"
 
 #. STRINGS.NAMES.TREASURECHEST
 msgctxt "STRINGS.NAMES.TREASURECHEST"
@@ -90992,7 +91010,7 @@ msgstr ""
 #. STRINGS.NAMES.TRINKET_15
 msgctxt "STRINGS.NAMES.TRINKET_15"
 msgid "Ukulele"
-msgstr ""
+msgstr "Ukulele-#&#-Ukulele"
 
 #. STRINGS.NAMES.TRINKET_16
 msgctxt "STRINGS.NAMES.TRINKET_16"
@@ -93077,7 +93095,7 @@ msgstr "Prokaz svou cenu jako lidska bytost."
 #. STRINGS.RECIPE_DESC.AERODYNAMICHAT
 msgctxt "STRINGS.RECIPE_DESC.AERODYNAMICHAT"
 msgid "Aerodynamic design for efficient travel."
-msgstr ""
+msgstr "Aerodynamicky design pro efektivni cestovani."
 
 #. STRINGS.RECIPE_DESC.AMULET
 msgctxt "STRINGS.RECIPE_DESC.AMULET"
@@ -93087,17 +93105,17 @@ msgstr "Chrani pred smrti."
 #. STRINGS.RECIPE_DESC.ANTIVENOM
 msgctxt "STRINGS.RECIPE_DESC.ANTIVENOM"
 msgid "Cures that not-so-fresh \"poison\" feeling."
-msgstr ""
+msgstr "Leci ne-moc-prijemny pocit po otrave."
 
 #. STRINGS.RECIPE_DESC.ARMORCACTUS
 msgctxt "STRINGS.RECIPE_DESC.ARMORCACTUS"
 msgid "Prickly to the touch."
-msgstr ""
+msgstr "Pichlavy na dotek."
 
 #. STRINGS.RECIPE_DESC.ARMORDRAGONFLY
 msgctxt "STRINGS.RECIPE_DESC.ARMORDRAGONFLY"
 msgid "Armor with a fiery temper."
-msgstr ""
+msgstr "Brneni s ohnivou naladou."
 
 #. STRINGS.RECIPE_DESC.ARMORGRASS
 msgctxt "STRINGS.RECIPE_DESC.ARMORGRASS"
@@ -93107,7 +93125,7 @@ msgstr "Poskytuje drobnou ochranu."
 #. STRINGS.RECIPE_DESC.ARMORLIMESTONE
 msgctxt "STRINGS.RECIPE_DESC.ARMORLIMESTONE"
 msgid "Sartorial reef."
-msgstr ""
+msgstr "Krejcovsky orisek."
 
 #. STRINGS.RECIPE_DESC.ARMORMARBLE
 msgctxt "STRINGS.RECIPE_DESC.ARMORMARBLE"
@@ -93127,7 +93145,7 @@ msgstr "Nejen blystive ALE i ochranne."
 #. STRINGS.RECIPE_DESC.ARMORSEASHELL
 msgctxt "STRINGS.RECIPE_DESC.ARMORSEASHELL"
 msgid "Pretty poison prevention."
-msgstr ""
+msgstr "Puvabna ochrana pred otravou."
 
 #. STRINGS.RECIPE_DESC.ARMORSLURPER
 msgctxt "STRINGS.RECIPE_DESC.ARMORSLURPER"
@@ -93142,7 +93160,7 @@ msgstr "Ochrani te pred mnohymi skrabanci."
 #. STRINGS.RECIPE_DESC.ARMOR_LIFEJACKET
 msgctxt "STRINGS.RECIPE_DESC.ARMOR_LIFEJACKET"
 msgid "Safety first!"
-msgstr ""
+msgstr "Bezpecnost na prvnim miste!"
 
 #. STRINGS.RECIPE_DESC.ARMOR_SANITY
 msgctxt "STRINGS.RECIPE_DESC.ARMOR_SANITY"
@@ -93152,17 +93170,17 @@ msgstr "Ochrani tve telo, ale ne tvou mysl."
 #. STRINGS.RECIPE_DESC.ARMOR_SNAKESKIN
 msgctxt "STRINGS.RECIPE_DESC.ARMOR_SNAKESKIN"
 msgid "Stay dry and leathery."
-msgstr ""
+msgstr "Zustan v suchu a ve sve kuzi."
 
 #. STRINGS.RECIPE_DESC.ARMOR_WINDBREAKER
 msgctxt "STRINGS.RECIPE_DESC.ARMOR_WINDBREAKER"
 msgid "Break some wind!"
-msgstr ""
+msgstr "Prorazej vitr!"
 
 #. STRINGS.RECIPE_DESC.ARMOUREDBOAT
 msgctxt "STRINGS.RECIPE_DESC.ARMOUREDBOAT"
 msgid "Shell out for this hearty vessel."
-msgstr ""
+msgstr "Venuj par musli tomuto silnemu plavidlu."
 
 #. STRINGS.RECIPE_DESC.AXE
 msgctxt "STRINGS.RECIPE_DESC.AXE"
@@ -93257,7 +93275,7 @@ msgstr "Plivej ospalost na sve nepritele."
 #. STRINGS.RECIPE_DESC.BLUBBERSUIT
 msgctxt "STRINGS.RECIPE_DESC.BLUBBERSUIT"
 msgid "A disgusting way to stay dry."
-msgstr ""
+msgstr "Nechutny zpusob jak zustat v suchu."
 
 #. STRINGS.RECIPE_DESC.BLUEAMULET
 msgctxt "STRINGS.RECIPE_DESC.BLUEAMULET"
@@ -93272,22 +93290,22 @@ msgstr "Jako polena, ale placatejsi."
 #. STRINGS.RECIPE_DESC.BOATCANNON
 msgctxt "STRINGS.RECIPE_DESC.BOATCANNON"
 msgid "It's got your boat's back."
-msgstr ""
+msgstr "Kryje tve lodi zada."
 
 #. STRINGS.RECIPE_DESC.BOATREPAIRKIT
 msgctxt "STRINGS.RECIPE_DESC.BOATREPAIRKIT"
 msgid "Stay afloat in that boat!"
-msgstr ""
+msgstr "Zustan s lodi na hladine!"
 
 #. STRINGS.RECIPE_DESC.BOAT_LANTERN
 msgctxt "STRINGS.RECIPE_DESC.BOAT_LANTERN"
 msgid "Shed some light on the situation."
-msgstr ""
+msgstr "Vyjasni kazdou situaci."
 
 #. STRINGS.RECIPE_DESC.BOAT_TORCH
 msgctxt "STRINGS.RECIPE_DESC.BOAT_TORCH"
 msgid "See, at sea."
-msgstr ""
+msgstr "Oci se uz nemhouri, kdyz jsi v noci na mori."
 
 #. STRINGS.RECIPE_DESC.BOOK_BIRDS
 msgctxt "STRINGS.RECIPE_DESC.BOOK_BIRDS"
@@ -93327,12 +93345,12 @@ msgstr "Priletel z druhe strany zemekoule."
 #. STRINGS.RECIPE_DESC.BOTTLELANTERN
 msgctxt "STRINGS.RECIPE_DESC.BOTTLELANTERN"
 msgid "Glowing ocean goo in a bottle."
-msgstr ""
+msgstr "Zarivy morsky sliz v lahvi."
 
 #. STRINGS.RECIPE_DESC.BRAINJELLYHAT
 msgctxt "STRINGS.RECIPE_DESC.BRAINJELLYHAT"
 msgid "Well aren't you clever?"
-msgstr ""
+msgstr "No nejsi ty chytrolin?"
 
 #. STRINGS.RECIPE_DESC.BUGNET
 msgctxt "STRINGS.RECIPE_DESC.BUGNET"
@@ -93342,7 +93360,7 @@ msgstr "Chyta hmyz."
 #. STRINGS.RECIPE_DESC.BUOY
 msgctxt "STRINGS.RECIPE_DESC.BUOY"
 msgid "Mark your place in the water."
-msgstr ""
+msgstr "Oznackuj si misto na vode."
 
 #. STRINGS.RECIPE_DESC.BUSHHAT
 msgctxt "STRINGS.RECIPE_DESC.BUSHHAT"
@@ -93362,12 +93380,12 @@ msgstr "Pohybuj se rychle a jiste."
 #. STRINGS.RECIPE_DESC.CAPTAINHAT
 msgctxt "STRINGS.RECIPE_DESC.CAPTAINHAT"
 msgid "Wear one. Your boat will respect you more."
-msgstr ""
+msgstr "Lod te bude hned vic respektovat."
 
 #. STRINGS.RECIPE_DESC.CARGOBOAT
 msgctxt "STRINGS.RECIPE_DESC.CARGOBOAT"
 msgid "Hoarding at sea!"
-msgstr ""
+msgstr "Sysleni na mori!"
 
 #. STRINGS.RECIPE_DESC.CATCOONHAT
 msgctxt "STRINGS.RECIPE_DESC.CATCOONHAT"
@@ -93377,17 +93395,17 @@ msgstr "Pro ty kdo si ceni tepla pred prateli."
 #. STRINGS.RECIPE_DESC.CHIMINEA
 msgctxt "STRINGS.RECIPE_DESC.CHIMINEA"
 msgid "Fire and wind don't mix."
-msgstr ""
+msgstr "Ohen a vitr k sobe nepatri."
 
 #. STRINGS.RECIPE_DESC.CLOTHSAIL
 msgctxt "STRINGS.RECIPE_DESC.CLOTHSAIL"
 msgid "Catch even more wind!"
-msgstr ""
+msgstr "Chytni jeste vice vetru!"
 
 #. STRINGS.RECIPE_DESC.COCONADE
 msgctxt "STRINGS.RECIPE_DESC.COCONADE"
 msgid "KA-BLAM!"
-msgstr ""
+msgstr "KA-BUM!"
 
 #. STRINGS.RECIPE_DESC.COLDFIRE
 msgctxt "STRINGS.RECIPE_DESC.COLDFIRE"
@@ -93467,7 +93485,7 @@ msgstr "Drz vsechny ohavnosti od sebe dal. Jejich zabitim."
 #. STRINGS.RECIPE_DESC.FABRIC
 msgctxt "STRINGS.RECIPE_DESC.FABRIC"
 msgid "Bamboo is so versatile!"
-msgstr ""
+msgstr "Bambus je tak vsestranny!"
 
 #. STRINGS.RECIPE_DESC.FAST_FARMPLOT
 msgctxt "STRINGS.RECIPE_DESC.FAST_FARMPLOT"
@@ -93487,7 +93505,7 @@ msgstr "Doplnek na tvou hlavu."
 #. STRINGS.RECIPE_DESC.FEATHERSAIL
 msgctxt "STRINGS.RECIPE_DESC.FEATHERSAIL"
 msgid "Like a bird's wing, for your boat!"
-msgstr ""
+msgstr "Jak ptaci kridlo pro tvou lod!"
 
 #. STRINGS.RECIPE_DESC.FERTILIZER
 msgctxt "STRINGS.RECIPE_DESC.FERTILIZER"
@@ -93537,7 +93555,7 @@ msgstr "Kacej stromy STYLOVE!"
 #. STRINGS.RECIPE_DESC.GOLDENMACHETE
 msgctxt "STRINGS.RECIPE_DESC.GOLDENMACHETE"
 msgid "Hack stuff in STYLE!"
-msgstr ""
+msgstr "Sekej veci se STYLEM!"
 
 #. STRINGS.RECIPE_DESC.GOLDENPICKAXE
 msgctxt "STRINGS.RECIPE_DESC.GOLDENPICKAXE"
@@ -93557,7 +93575,7 @@ msgstr "Vydrzi dele, hloubi naprosto stejne diry."
 #. STRINGS.RECIPE_DESC.GOLDNUGGET
 msgctxt "STRINGS.RECIPE_DESC.GOLDNUGGET"
 msgid "Gold! Gold! Gold!"
-msgstr ""
+msgstr "Zlato! Zlato! Zlato!"
 
 #. STRINGS.RECIPE_DESC.GRASS_UMBRELLA
 msgctxt "STRINGS.RECIPE_DESC.GRASS_UMBRELLA"
@@ -93627,7 +93645,7 @@ msgstr "Veda pekne v chladku."
 #. STRINGS.RECIPE_DESC.ICEMAKER
 msgctxt "STRINGS.RECIPE_DESC.ICEMAKER"
 msgid "Ice, ice, baby!"
-msgstr ""
+msgstr "Ice, ice, baby!"
 
 #. STRINGS.RECIPE_DESC.ICEPACK
 msgctxt "STRINGS.RECIPE_DESC.ICEPACK"
@@ -93642,7 +93660,7 @@ msgstr "Zmraz nepratele pri jejich pronasledovani."
 #. STRINGS.RECIPE_DESC.IRONWIND
 msgctxt "STRINGS.RECIPE_DESC.IRONWIND"
 msgid "Motorin'!"
-msgstr ""
+msgstr "Motorismus!"
 
 #. STRINGS.RECIPE_DESC.LANTERN
 msgctxt "STRINGS.RECIPE_DESC.LANTERN"
@@ -93662,12 +93680,12 @@ msgstr ""
 #. STRINGS.RECIPE_DESC.LOGRAFT
 msgctxt "STRINGS.RECIPE_DESC.LOGRAFT"
 msgid "Boat at your own risk."
-msgstr ""
+msgstr "Vozeni na vlastni nebezpeci."
 
 #. STRINGS.RECIPE_DESC.MACHETE
 msgctxt "STRINGS.RECIPE_DESC.MACHETE"
 msgid "Hack stuff!"
-msgstr ""
+msgstr "Sekej veci!"
 
 #. STRINGS.RECIPE_DESC.MEATRACK
 msgctxt "STRINGS.RECIPE_DESC.MEATRACK"
@@ -93677,7 +93695,7 @@ msgstr "Nejvysinutejsi ze vsech tyci."
 #. STRINGS.RECIPE_DESC.MESSAGEBOTTLEEMPTY
 msgctxt "STRINGS.RECIPE_DESC.MESSAGEBOTTLEEMPTY"
 msgid "Don't forget to recycle!"
-msgstr ""
+msgstr "Nezapomen recyklovat!"
 
 #. STRINGS.RECIPE_DESC.MINERHAT
 msgctxt "STRINGS.RECIPE_DESC.MINERHAT"
@@ -93707,7 +93725,7 @@ msgstr "Dvojnasobne tak uzitecna."
 #. STRINGS.RECIPE_DESC.MUSSEL_STICK
 msgctxt "STRINGS.RECIPE_DESC.MUSSEL_STICK"
 msgid "Mussels stick to it!"
-msgstr ""
+msgstr "Drzi se na nich slavky!"
 
 #. STRINGS.RECIPE_DESC.NIGHTLIGHT
 msgctxt "STRINGS.RECIPE_DESC.NIGHTLIGHT"
@@ -93742,7 +93760,7 @@ msgstr ""
 #. STRINGS.RECIPE_DESC.OBSIDIANCOCONADE
 msgctxt "STRINGS.RECIPE_DESC.OBSIDIANCOCONADE"
 msgid "KA-BLAMMIER!"
-msgstr ""
+msgstr "KA-VETSIBUM!"
 
 #. STRINGS.RECIPE_DESC.OBSIDIANFIREPIT
 msgctxt "STRINGS.RECIPE_DESC.OBSIDIANFIREPIT"
@@ -93827,7 +93845,7 @@ msgstr ""
 #. STRINGS.RECIPE_DESC.PIRATIHATITATOR
 msgctxt "STRINGS.RECIPE_DESC.PIRATIHATITATOR"
 msgid "Make your pirate hat... magic!"
-msgstr ""
+msgstr "Premen svuj piratsky klobouk na... magicky!"
 
 #. STRINGS.RECIPE_DESC.PITCHFORK
 msgctxt "STRINGS.RECIPE_DESC.PITCHFORK"
@@ -93842,7 +93860,7 @@ msgstr "Vytvor kvetinac a vsad do nej kapradinu."
 #. STRINGS.RECIPE_DESC.PRIMEAPEBARREL
 msgctxt "STRINGS.RECIPE_DESC.PRIMEAPEBARREL"
 msgid "More monkeys!"
-msgstr ""
+msgstr "Vic opic!"
 
 #. STRINGS.RECIPE_DESC.PUMPKIN_LANTERN
 msgctxt "STRINGS.RECIPE_DESC.PUMPKIN_LANTERN"
@@ -93867,7 +93885,7 @@ msgstr "Misto pro obriho kralika a jeho veci."
 #. STRINGS.RECIPE_DESC.RAFT
 msgctxt "STRINGS.RECIPE_DESC.RAFT"
 msgid "Totally sort of seaworthy."
-msgstr ""
+msgstr "Naprosto schopny plavby."
 
 #. STRINGS.RECIPE_DESC.RAINCOAT
 msgctxt "STRINGS.RECIPE_DESC.RAINCOAT"
@@ -93927,7 +93945,7 @@ msgstr "Jemne tkane spiraly uzitecnosti."
 #. STRINGS.RECIPE_DESC.ROWBOAT
 msgctxt "STRINGS.RECIPE_DESC.ROWBOAT"
 msgid "Row, row, row your boat!"
-msgstr ""
+msgstr "Zaber, zaber, zaber!"
 
 #. STRINGS.RECIPE_DESC.RUINSHAT
 msgctxt "STRINGS.RECIPE_DESC.RUINSHAT"
@@ -93942,22 +93960,22 @@ msgstr "Spicate bodce vylepsi kazdou zbran."
 #. STRINGS.RECIPE_DESC.SAIL
 msgctxt "STRINGS.RECIPE_DESC.SAIL"
 msgid "Catch the wind!"
-msgstr ""
+msgstr "Chytni vitr!"
 
 #. STRINGS.RECIPE_DESC.SAIL_STICK
 msgctxt "STRINGS.RECIPE_DESC.SAIL_STICK"
 msgid "May the wind be always at your back."
-msgstr ""
+msgstr "Necht mas vitr stale v zadech."
 
 #. STRINGS.RECIPE_DESC.SANDBAGSMALL_ITEM
 msgctxt "STRINGS.RECIPE_DESC.SANDBAGSMALL_ITEM"
 msgid "Floodproof."
-msgstr ""
+msgstr "Zaplavoodolne."
 
 #. STRINGS.RECIPE_DESC.SANDBAG_ITEM
 msgctxt "STRINGS.RECIPE_DESC.SANDBAG_ITEM"
 msgid "Sand. Water's greatest enemy."
-msgstr ""
+msgstr "Pisek. Nejvetsi nepritel vody."
 
 #. STRINGS.RECIPE_DESC.SAND_CASTLE
 msgctxt "STRINGS.RECIPE_DESC.SAND_CASTLE"
@@ -94017,7 +94035,7 @@ msgstr ""
 #. STRINGS.RECIPE_DESC.SNAKESKINSAIL
 msgctxt "STRINGS.RECIPE_DESC.SNAKESKINSAIL"
 msgid "Heavy duty wind catcher."
-msgstr ""
+msgstr "Robustni chytac vetru."
 
 #. STRINGS.RECIPE_DESC.SPEAR
 msgctxt "STRINGS.RECIPE_DESC.SPEAR"
@@ -94077,7 +94095,7 @@ msgstr "Pomaha zustat v suchu a snizuje teplotu."
 #. STRINGS.RECIPE_DESC.SUPERTELESCOPE
 msgctxt "STRINGS.RECIPE_DESC.SUPERTELESCOPE"
 msgid "See across more sea."
-msgstr ""
+msgstr "Hled dal napric morem."
 
 #. STRINGS.RECIPE_DESC.SURFBOARD
 msgctxt "STRINGS.RECIPE_DESC.SURFBOARD"
@@ -94102,7 +94120,7 @@ msgstr "Jen pridej drahokamy."
 #. STRINGS.RECIPE_DESC.TELESCOPE
 msgctxt "STRINGS.RECIPE_DESC.TELESCOPE"
 msgid "See across the sea."
-msgstr ""
+msgstr "Hled napric morem."
 
 #. STRINGS.RECIPE_DESC.TELESTAFF
 msgctxt "STRINGS.RECIPE_DESC.TELESTAFF"
@@ -94117,7 +94135,7 @@ msgstr "Navraci pricetnost, na ukor casu a zaludku."
 #. STRINGS.RECIPE_DESC.THATCHPACK
 msgctxt "STRINGS.RECIPE_DESC.THATCHPACK"
 msgid "Carry a light load."
-msgstr ""
+msgstr "Pro prenaseni lehke zateze."
 
 #. STRINGS.RECIPE_DESC.THULECITE
 msgctxt "STRINGS.RECIPE_DESC.THULECITE"
@@ -94157,7 +94175,7 @@ msgstr "Kousne toho, kdo na ni slapne."
 #. STRINGS.RECIPE_DESC.TRAWLNET
 msgctxt "STRINGS.RECIPE_DESC.TRAWLNET"
 msgid "The patient fisher is always rewarded."
-msgstr ""
+msgstr "Vytrvaly rybar je vzdy odmenen."
 
 #. STRINGS.RECIPE_DESC.TREASURECHEST
 msgctxt "STRINGS.RECIPE_DESC.TREASURECHEST"
@@ -96785,7 +96803,7 @@ msgstr "Pouzit"
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.BACKBODY"
 msgid ""
 "Do you want to discard the changes you made to your world generation options?"
-msgstr "Chcete zahodit zmeny, ktere jste provedli v generovani sveta?"
+msgstr "Chces zahodit zmeny, ktere jsi provedl v generovani sveta?"
 
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.BACKTITLE
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.BACKTITLE"
@@ -96810,12 +96828,12 @@ msgstr "Tvuj svet, tva pravidla!"
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.CUSTOM_PRESET
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.CUSTOM_PRESET"
 msgid "Custom Preset"
-msgstr "Vlastni prednastaveni"
+msgstr "Vlastni predvolba"
 
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.CUSTOM_PRESET_DESC
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.CUSTOM_PRESET_DESC"
 msgid "Custom preset"
-msgstr "Vlastni prednastaveni"
+msgstr "Vlastni predvolba"
 
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.DEFAULT_PRESET_DESC
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.DEFAULT_PRESET_DESC"
@@ -96851,7 +96869,7 @@ msgstr "Zrusit zmeny?"
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.MAX_PRESETS_EXCEEDED_BODY
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.MAX_PRESETS_EXCEEDED_BODY"
 msgid "Only 5 custom presets allowed. Choose one to overwrite:"
-msgstr "Je povoleno pouze pet vlastnich prednastaveni. Vyber jedno k prepsani:"
+msgstr "Je povoleno pouze pet vlastnich predvoleb. Vyber jedno k prepsani:"
 
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.MAX_PRESETS_EXCEEDED_BODYSPACING
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.MAX_PRESETS_EXCEEDED_BODYSPACING"
@@ -96871,7 +96889,7 @@ msgstr ""
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.MAX_PRESETS_EXCEEDED_TITLE
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.MAX_PRESETS_EXCEEDED_TITLE"
 msgid "Preset Limit Reached"
-msgstr "Dosazen limit prednastaveni"
+msgstr "Dosazen limit predvoleb"
 
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.ANGRYBEES
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.ANGRYBEES"
@@ -97126,7 +97144,7 @@ msgstr "Predvolby"
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.SAVEPRESET
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.SAVEPRESET"
 msgid "Save As Preset"
-msgstr "Uloz prednastaveni"
+msgstr "Uloz predvolbu"
 
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.SHIPWRECKEDLEVELDESC.1
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.SHIPWRECKEDLEVELDESC.1"
@@ -97268,8 +97286,7 @@ msgid ""
 "We aren't psychic! If you don't enter your email address, we won't be able "
 "to tell you about new stuff!"
 msgstr ""
-"Nejsme telepati! Pokud nezadate emailovou adresu, nemuzeme vam zasilat "
-"novinky!"
+"Nejsme telepati! Pokud nezadas emailovou adresu, nemuzeme ti zasilat novinky!"
 
 #. STRINGS.UI.EMAILSCREEN.INVALIDEMAILTITLE
 msgctxt "STRINGS.UI.EMAILSCREEN.INVALIDEMAILTITLE"
@@ -97355,7 +97372,7 @@ msgctxt "STRINGS.UI.EMAILSCREEN.SIGNUPSUCCESS"
 msgid ""
 "Thanks for signing up! You should receive a confirmation email in your inbox."
 msgstr ""
-"Dekujeme za prihlaseni! Ve vasi emailove schrance najdete potvrzujici email."
+"Dekujeme za prihlaseni! Ve sve emailove schrance najdes potvrzujici email."
 
 #. STRINGS.UI.EMAILSCREEN.SIGNUPSUCCESSTITLE
 msgctxt "STRINGS.UI.EMAILSCREEN.SIGNUPSUCCESSTITLE"
@@ -97508,7 +97525,7 @@ msgstr "Rotace vpravo"
 #. STRINGS.UI.HELP.SAVEPRESET
 msgctxt "STRINGS.UI.HELP.SAVEPRESET"
 msgid "Save Preset"
-msgstr "Uloz jako prednastaveni"
+msgstr "Uloz jako predvolbu"
 
 #. STRINGS.UI.HELP.SCROLLBACK
 msgctxt "STRINGS.UI.HELP.SCROLLBACK"
@@ -97793,8 +97810,8 @@ msgid ""
 "to check and adjust your display area now? You can do this later in the "
 "settings menu."
 msgstr ""
-"Casti hry mohou zasahovat mimo okraje vasi obrazovky. Chcete ted "
-"zkontrolovat a upravit zobrazovaci oblast? Muzete to provest pozdeji v menu "
+"Casti hry mohou zasahovat mimo okraje tve obrazovky. Chces ted zkontrolovat "
+"a upravit zobrazovaci oblast? To same muzes provest i pozdeji v menu "
 "Nastaveni."
 
 #. STRINGS.UI.MAINSCREEN.ADVENTURE
@@ -97889,10 +97906,10 @@ msgid ""
 "You will not be asked again, but you can change this setting in the controls "
 "screen if you change your mind."
 msgstr ""
-"Chcete pouzit ovladac pro hrani Don't Starve ? \n"
+"Chces pouzit ovladac pro hrani Don't Starve ? \n"
 "\n"
-"Nebudete vyzvani znovu, ale toto nastaveni muzete v nastaveni ovladani "
-"zmenit, pokud si to rozmyslite."
+"Vyzva se uz znovu neobjevi, ale rozhodnuti lze v nastaveni ovladani zmenit, "
+"pokud si to rozmyslis."
 
 #. STRINGS.UI.MAINSCREEN.CONTROLLER_DETECTED_HEADER
 msgctxt "STRINGS.UI.MAINSCREEN.CONTROLLER_DETECTED_HEADER"
@@ -97954,7 +97971,7 @@ msgctxt "STRINGS.UI.MAINSCREEN.FORCEMODDETAIL"
 msgid ""
 "You are force loading these mods from modsettings.lua. They will always be "
 "enabled:"
-msgstr "Vynucene nacitate mody z modsettings.lua. Vzdy budou povoleny:"
+msgstr "Vynucene nacitas mody z modsettings.lua. Vzdy budou povoleny:"
 
 #. STRINGS.UI.MAINSCREEN.FORUM
 msgctxt "STRINGS.UI.MAINSCREEN.FORUM"
@@ -98038,8 +98055,7 @@ msgstr "Nasledujici mod(y) zpusobily problemy:"
 #. STRINGS.UI.MAINSCREEN.MODFAILDETAIL2
 msgctxt "STRINGS.UI.MAINSCREEN.MODFAILDETAIL2"
 msgid "The mod will be disabled, re-enable it from the mods menu."
-msgstr ""
-"Mod bude vypnut, spustit znovu ho muzete z polozky Mody v hlavnim menu."
+msgstr "Mod bude vypnut, spustit znovu ho muzes z polozky Mody v hlavnim menu."
 
 #. STRINGS.UI.MAINSCREEN.MODFAILTITLE
 msgctxt "STRINGS.UI.MAINSCREEN.MODFAILTITLE"
@@ -98072,7 +98088,7 @@ msgstr ""
 "Hra minule nebyla spravne spustena. To bylo pravdepodobne zpusobeno nekterym "
 "modem, vsechny mody proto byly vypnuty.\n"
 "\n"
-"Muzete je zkusit spustit znovu z polozky Mody v hlavnim menu."
+"Muzes je zkusit spustit znovu z polozky Mody v hlavnim menu."
 
 #. STRINGS.UI.MAINSCREEN.MODSBADTITLE
 msgctxt "STRINGS.UI.MAINSCREEN.MODSBADTITLE"
@@ -98097,12 +98113,12 @@ msgstr ""
 #. STRINGS.UI.MAINSCREEN.MOTDBUTTON
 msgctxt "STRINGS.UI.MAINSCREEN.MOTDBUTTON"
 msgid "Klei Store"
-msgstr "Klei Store"
+msgstr "Obchod Klei"
 
 #. STRINGS.UI.MAINSCREEN.MOTDTITLE
 msgctxt "STRINGS.UI.MAINSCREEN.MOTDTITLE"
 msgid "Klei Store"
-msgstr "Klei Store"
+msgstr "Obchod Klei"
 
 #. STRINGS.UI.MAINSCREEN.NEWADVENTURE
 msgctxt "STRINGS.UI.MAINSCREEN.NEWADVENTURE"
@@ -98206,7 +98222,7 @@ msgstr "Nasledujici mody jsou zastarale a byly vypnuty:"
 #. STRINGS.UI.MAINSCREEN.OLDORFAILEDMODS
 msgctxt "STRINGS.UI.MAINSCREEN.OLDORFAILEDMODS"
 msgid "Check the forums for updated versions."
-msgstr "Aktualni verzi muzete najit na foru."
+msgstr "Aktualni verzi muzes najit na foru."
 
 #. STRINGS.UI.MAINSCREEN.OPTIONS
 msgctxt "STRINGS.UI.MAINSCREEN.OPTIONS"
@@ -98241,7 +98257,7 @@ msgstr "Ohodnotit tuto hru"
 #. STRINGS.UI.MAINSCREEN.RESETGAMEDESC
 msgctxt "STRINGS.UI.MAINSCREEN.RESETGAMEDESC"
 msgid "This will reset your current world. Continue?"
-msgstr "Timto resetujete aktualni svet. Pokracovat?"
+msgstr "Timto resetujes aktualni svet. Chces pokracovat?"
 
 #. STRINGS.UI.MAINSCREEN.RESETPROFILE
 msgctxt "STRINGS.UI.MAINSCREEN.RESETPROFILE"
@@ -98368,8 +98384,8 @@ msgid ""
 "You may encounter bugs or broken features, and you may lose your save game "
 "when we update. Please report all problems in the forum."
 msgstr ""
-"Muzete zaznamenat bugy nebo jine chyby, pri aktualizaci take muzete ztratit "
-"ulozene hry. Vsechny chyby prosim hlaste na forum."
+"Muzes zaznamenat bugy nebo jine problemy, pri aktualizaci take muzes ztratit "
+"ulozene hry. Vsechny chyby prosim nahlas na foru."
 
 #. STRINGS.UI.MAINSCREEN.TESTINGNO
 msgctxt "STRINGS.UI.MAINSCREEN.TESTINGNO"
@@ -98552,7 +98568,7 @@ msgid ""
 "You don't have any mods installed, but you can download some from the Klei "
 "forums."
 msgstr ""
-"Nemate nainstalovane zadne mody, ale muzete jich par stahnout z Klei fora."
+"Nemas nainstalovane zadne mody, ale muzes jich par stahnout z fora Klei."
 
 #. STRINGS.UI.MODSSCREEN.NO_MODS_LINK
 msgctxt "STRINGS.UI.MODSSCREEN.NO_MODS_LINK"
@@ -99599,6 +99615,10 @@ msgid ""
 "\n"
 " Only Shipwrecked compatible mods will function in this save slot."
 msgstr ""
+"Chces, aby byl tento svet kompatibilni se Shipwrecked? Tato moznost prida do "
+"tveho sveta nove funkce, jako je vlhkost, nebo vysoka teplota.\n"
+"\n"
+" Fungovat pak budou pouze mody kompatibilni se Shipwrecked."
 
 #. STRINGS.UI.SAVEINTEGRATION.SW_COMP_ROG_DESCRIPTION
 msgctxt "STRINGS.UI.SAVEINTEGRATION.SW_COMP_ROG_DESCRIPTION"
@@ -99607,6 +99627,9 @@ msgid ""
 "\n"
 " Only Shipwrecked compatible mods will function in this save slot."
 msgstr ""
+"Chces, aby byl tento svet kompatibilni se Shipwrecked?\n"
+"\n"
+" Fungovat pak budou pouze mody kompatibilni se Shipwrecked."
 
 #. STRINGS.UI.SAVEINTEGRATION.TRAVEL_SHIPWRECKED
 msgctxt "STRINGS.UI.SAVEINTEGRATION.TRAVEL_SHIPWRECKED"
@@ -99646,7 +99669,7 @@ msgstr "Tve ulozeni je poskozene a nemuze byt nacteno"
 #. STRINGS.UI.SAVELOAD.DELETE_FAILED
 msgctxt "STRINGS.UI.SAVELOAD.DELETE_FAILED"
 msgid "An error occurred while deleting your data."
-msgstr "Vyskytla se chyba pri mazani vasich dat."
+msgstr "Vyskytla se chyba pri mazani tvych dat."
 
 #. STRINGS.UI.SAVELOAD.DISABLE_AUTOSAVE
 msgctxt "STRINGS.UI.SAVELOAD.DISABLE_AUTOSAVE"
@@ -99660,7 +99683,7 @@ msgstr ""
 #. STRINGS.UI.SAVELOAD.LOAD_FAILED
 msgctxt "STRINGS.UI.SAVELOAD.LOAD_FAILED"
 msgid "An error occurred while loading your data."
-msgstr "Vyskytla se chyba pri nacitani vasich dat."
+msgstr "Vyskytla se chyba pri nacitani tvych dat."
 
 #. STRINGS.UI.SAVELOAD.NO
 msgctxt "STRINGS.UI.SAVELOAD.NO"
@@ -99680,7 +99703,7 @@ msgstr "Zkusit znovu"
 #. STRINGS.UI.SAVELOAD.SAVE_FAILED
 msgctxt "STRINGS.UI.SAVELOAD.SAVE_FAILED"
 msgid "An error occurred while saving your data."
-msgstr "Vyskytla se chyba pri ukladani vasich dat."
+msgstr "Vyskytla se chyba pri ukladani tvych dat."
 
 #. STRINGS.UI.SAVELOAD.YES
 msgctxt "STRINGS.UI.SAVELOAD.YES"
