@@ -52,14 +52,14 @@ assert=GLOBAL.assert
 function ApplyCzechFonts()
 	-- Jmena souboru fontu, ktere budou nacteny
 	local CzFontFiles={
-		"belisaplumilla50__cz.zip",   -- 1 - bp50
-		"belisaplumilla100__cz.zip",  -- 2 - bp100
-		"buttonfont__cz.zip",         -- 3 - buttonfont
-		"opensans50__cz.zip",         -- 4 - opensans
-		"stint-ucr20__cz.zip",        -- 5 - stint-small
-		"stint-ucr50__cz.zip",        -- 6 - stint-ucr
-		"talkingfont__cz.zip",        -- 7 - talkingfont
-		"talkingfont_wathgrithr.zip", -- 8 - talkingfont_warthgrithr
+		"belisaplumilla50__cz.zip",       -- 1 - bp50
+		"belisaplumilla100__cz.zip",      -- 2 - bp100
+		"buttonfont__cz.zip",             -- 3 - buttonfont
+		"opensans50__cz.zip",             -- 4 - opensans
+		"stint-ucr20__cz.zip",            -- 5 - stint-small
+		"stint-ucr50__cz.zip",            -- 6 - stint-ucr
+		"talkingfont__cz.zip",            -- 7 - talkingfont
+		"talkingfont_wathgrithr__cz.zip", -- 8 - talkingfont_warthgrithr
 	}
 
 	-- Odnacteni vsech originalnich fontu hry --
@@ -71,7 +71,7 @@ function ApplyCzechFonts()
 	GLOBAL.BUTTONFONT="buttonfont"
 	GLOBAL.NUMBERFONT = "stint-ucr"
 	GLOBAL.TALKINGFONT = "talkingfont"
-	GLOBAL.TALKINGFONT_WATHGRITHR = "talkingfont_wathgrithr"
+--	GLOBAL.TALKINGFONT_WATHGRITHR = "talkingfont_wathgrithr"
 	GLOBAL.SMALLNUMBERFONT = "stint-small"
 	GLOBAL.BODYTEXTFONT = "stint-ucr"
   
@@ -113,20 +113,19 @@ function ApplyCzechFonts()
 	GLOBAL.BODYTEXTFONT = "czfont6"     -- stint-ucr
 
 	GLOBAL.TheSim:UnloadPrefabs({"czfonts"})
---	GLOBAL.TheSim:UnloadPrefabs({"czfonts"})
 end
 
 function ApplyCzechFontsRewrite()
 	-- Jmena souboru fontu, ktere budou nacteny
 	local CzFontFiles={
-		"belisaplumilla50__cz.zip",   -- 1 - bp50
-		"belisaplumilla100__cz.zip",  -- 2 - bp100
-		"buttonfont__cz.zip",         -- 3 - buttonfont
-		"opensans50__cz.zip",         -- 4 - opensans
-		"stint-ucr20__cz.zip",        -- 5 - stint-small
-		"stint-ucr50__cz.zip",        -- 6 - stint-ucr
-		"talkingfont__cz.zip",        -- 7 - talkingfont
-		"talkingfont_wathgrithr.zip", -- 8 - talkingfont_warthgrithr
+		"belisaplumilla50__cz.zip",       -- 1 - bp50
+		"belisaplumilla100__cz.zip",      -- 2 - bp100
+		"buttonfont__cz.zip",             -- 3 - buttonfont
+		"opensans50__cz.zip",             -- 4 - opensans
+		"stint-ucr20__cz.zip",            -- 5 - stint-small
+		"stint-ucr50__cz.zip",            -- 6 - stint-ucr
+		"talkingfont__cz.zip",            -- 7 - talkingfont
+		"talkingfont_wathgrithr__cz.zip", -- 8 - talkingfont_warthgrithr
 	}
 	-- Funkce pro prepsani souboru
 	local function copyfile(source,dest)

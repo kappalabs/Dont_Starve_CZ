@@ -3,13 +3,13 @@ fileVersion=1
 
 # font settings
 fontName=Belisa
-fontFile=Belisa.ttf
+fontFile=../../belisa_regular__ds_cz.ttf
 charSet=0
-fontSize=-100
+fontSize=116
 aa=1
 scaleH=100
 useSmoothing=1
-isBold=1
+isBold=0
 isItalic=0
 useUnicode=1
 disableBoxChars=1
@@ -31,7 +31,7 @@ forceZero=0
 
 # output file
 outWidth=1024
-outHeight=1024
+outHeight=512
 outBitDepth=32
 fontDescFormat=1
 fourChnlPacked=0
@@ -50,6 +50,6 @@ invB=0
 outlineThickness=2
 
 # selected chars
-chars=32-34,36-126,160-255,9500
+chars=32-126,160-255
 
 # imported icon images

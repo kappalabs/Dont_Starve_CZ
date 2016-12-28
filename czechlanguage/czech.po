@@ -246,7 +246,7 @@ msgstr "Pøeká¾ka"
 #. STRINGS.ACTIONS.GIVE.CURRENCY
 msgctxt "STRINGS.ACTIONS.GIVE.CURRENCY"
 msgid "Spend"
-msgstr ""
+msgstr "Utratit"
 
 #. STRINGS.ACTIONS.GIVE.GENERIC
 msgctxt "STRINGS.ACTIONS.GIVE.GENERIC"
@@ -371,7 +371,7 @@ msgstr "Chytit"
 #. STRINGS.ACTIONS.PEER
 msgctxt "STRINGS.ACTIONS.PEER"
 msgid "Peer"
-msgstr ""
+msgstr "Podívat se"
 
 #. STRINGS.ACTIONS.PICK
 msgctxt "STRINGS.ACTIONS.PICK"
@@ -1580,7 +1580,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.GENERIC.ANNOUNCE_MAPWRAP_WARN
 msgctxt "STRINGS.CHARACTERS.GENERIC.ANNOUNCE_MAPWRAP_WARN"
 msgid "Here be monsters."
-msgstr ""
+msgstr "Zde ¾ijí pøí¹ery."
 
 #. STRINGS.CHARACTERS.GENERIC.ANNOUNCE_MESSAGEBOTTLE.1
 msgctxt "STRINGS.CHARACTERS.GENERIC.ANNOUNCE_MESSAGEBOTTLE.1"
@@ -20376,7 +20376,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_EAT.INVALID
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_EAT.INVALID"
 msgid "That is not food fit for a warrior!"
-msgstr ""
+msgstr "Tohle není jídlo hodné bojovníka!"
 
 #. STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_EAT.PAINFUL
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_EAT.PAINFUL"
@@ -89265,7 +89265,7 @@ msgstr ""
 #. STRINGS.NAMES.MESSAGEBOTTLE
 msgctxt "STRINGS.NAMES.MESSAGEBOTTLE"
 msgid "Message in a Bottle"
-msgstr ""
+msgstr "Zpráva v lahvi-#&#-Message in a Bottle"
 
 #. STRINGS.NAMES.MESSAGEBOTTLEEMPTY
 msgctxt "STRINGS.NAMES.MESSAGEBOTTLEEMPTY"
@@ -93525,7 +93525,7 @@ msgstr "Vyu¾ij síly spalování!"
 #. STRINGS.RECIPE_DESC.FIRESUPPRESSOR
 msgctxt "STRINGS.RECIPE_DESC.FIRESUPPRESSOR"
 msgid "Saves plants, puts out fires, fueled by flame."
-msgstr "Chrání rostliny, hasí ohnì, pohánìný plamenem."
+msgstr "Chrání rostliny, hasí ohnì, pohon plamenem."
 
 #. STRINGS.RECIPE_DESC.FISHINGROD
 msgctxt "STRINGS.RECIPE_DESC.FISHINGROD"
@@ -93760,7 +93760,7 @@ msgstr ""
 #. STRINGS.RECIPE_DESC.OBSIDIANCOCONADE
 msgctxt "STRINGS.RECIPE_DESC.OBSIDIANCOCONADE"
 msgid "KA-BLAMMIER!"
-msgstr "KA-VÌT©ÍBUM!"
+msgstr "KA-MEGA-BUM!"
 
 #. STRINGS.RECIPE_DESC.OBSIDIANFIREPIT
 msgctxt "STRINGS.RECIPE_DESC.OBSIDIANFIREPIT"
@@ -97149,7 +97149,7 @@ msgstr "Ulo¾ pøedvolbu"
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.SHIPWRECKEDLEVELDESC.1
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.SHIPWRECKEDLEVELDESC.1"
 msgid "A tropical paradise?"
-msgstr ""
+msgstr "Tropický ráj?"
 
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.SHIPWRECKEDLEVELS.1
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.SHIPWRECKEDLEVELS.1"
@@ -98108,7 +98108,7 @@ msgstr "Více her"
 #. STRINGS.UI.MAINSCREEN.MOTD
 msgctxt "STRINGS.UI.MAINSCREEN.MOTD"
 msgid "Check out the latest items in the Klei Store!"
-msgstr ""
+msgstr "Prohlédni si nejnovìj¹í pøedmìty v obchodu Klei!"
 
 #. STRINGS.UI.MAINSCREEN.MOTDBUTTON
 msgctxt "STRINGS.UI.MAINSCREEN.MOTDBUTTON"
@@ -98367,11 +98367,13 @@ msgid ""
 "Want to share your thoughts?\n"
 " Join our forums!"
 msgstr ""
+"Chce¹ sdílet své my¹lenky?\n"
+" Pøipoj se k na¹emu fóru!"
 
 #. STRINGS.UI.MAINSCREEN.SW_FORUMS_TITLE
 msgctxt "STRINGS.UI.MAINSCREEN.SW_FORUMS_TITLE"
 msgid "Have Feedback?"
-msgstr ""
+msgstr "Má¹ zpìtnou vazbu?"
 
 #. STRINGS.UI.MAINSCREEN.TESTING
 msgctxt "STRINGS.UI.MAINSCREEN.TESTING"
@@ -99502,7 +99504,7 @@ msgstr "Pøizpùsobení svìta"
 #. STRINGS.UI.SANDBOXMENU.TITLEDETAIL
 msgctxt "STRINGS.UI.SANDBOXMENU.TITLEDETAIL"
 msgid ""
-msgstr ""
+msgstr "<nedefinované>"
 
 #. STRINGS.UI.SANDBOXMENU.USEPRESET
 msgctxt "STRINGS.UI.SANDBOXMENU.USEPRESET"
@@ -99576,6 +99578,8 @@ msgid ""
 "Restoring a saved game requires at least one free save slot. Delete an old "
 "game to continue."
 msgstr ""
+"Pro obnovení ulo¾ené hry musí¹ mít volný alespoò jeden slot. Vyma¾ nìkterou "
+"star¹í hru."
 
 #. STRINGS.UI.SAVEINTEGRATION.OK
 msgctxt "STRINGS.UI.SAVEINTEGRATION.OK"
@@ -99637,7 +99641,7 @@ msgstr ""
 #. STRINGS.UI.SAVEINTEGRATION.TRAVEL_SHIPWRECKED
 msgctxt "STRINGS.UI.SAVEINTEGRATION.TRAVEL_SHIPWRECKED"
 msgid "Travel to a tropical 'paradise'?"
-msgstr ""
+msgstr "Cestovat do tropického 'ráje'?"
 
 #. STRINGS.UI.SAVEINTEGRATION.TRAVEL_SURVIVAL
 msgctxt "STRINGS.UI.SAVEINTEGRATION.TRAVEL_SURVIVAL"
@@ -99823,12 +99827,12 @@ msgstr "Jdeme na to!"
 #. STRINGS.UI.STARTVOLCANO.BODY
 msgctxt "STRINGS.UI.STARTVOLCANO.BODY"
 msgid "Climb the volcano that might erupt at any moment?"
-msgstr ""
+msgstr "Vy¹plhat na sopku, která mù¾e ka¾dou chvíli vybuchnout?"
 
 #. STRINGS.UI.STARTVOLCANO.NO
 msgctxt "STRINGS.UI.STARTVOLCANO.NO"
 msgid "Stay Here"
-msgstr "Zùstaò tu"
+msgstr "Zùstat tady"
 
 #. STRINGS.UI.STARTVOLCANO.TITLE
 msgctxt "STRINGS.UI.STARTVOLCANO.TITLE"
@@ -100120,7 +100124,7 @@ msgstr "Mokré"
 #. STRINGS.WET_PREFIX.NONE
 msgctxt "STRINGS.WET_PREFIX.NONE"
 msgid ""
-msgstr ""
+msgstr "<prázdné>"
 
 #. STRINGS.WET_PREFIX.RABBITHOLE
 msgctxt "STRINGS.WET_PREFIX.RABBITHOLE"

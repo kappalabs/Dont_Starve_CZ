@@ -30,7 +30,7 @@ PŘEKLAD
 Máte-li zájem o překlad, upravujte soubory czech.po (pro DS+SW+RoG), nebo czech_dst.po (pro DST) v kořenovém adresáři repozitáře, vytvořte vlastní větev repozitáře, budu je sám slučovat do hlavní větve master.<br />
 Pro překlad prosím použij [PoEdit](http://www.poedit.net/), přelož nejdříve malou část a tu nám zašli k ohodnocení.<br />
 Skript transform slouží pro vygenerování souboru czech_ascii.po a czech.po v adresáři czechlanguage/.<br />
-Nemáte-li s Git zkušenosti, stačí stáhnout repozitář (jak je popsáno výše), upravit soubor .po a zaslat mi ho na email, který najdete v mém GitHub profilu.
+Nemáte-li s Git zkušenosti, stačí stáhnout repozitář (jak je popsáno výše), upravit soubor .po (z kořenového adresáře!) a zaslat mi ho na email, který najdete v mém GitHub profilu.
 
 SOUBORY
 -------
