@@ -37,13 +37,8 @@ local MorgueScreen = Class(Screen, function(self, in_game)
     Widget._ctor(self, "MorgueScreen")
     	
 	self.bg = self:AddChild(Image("images/ui.xml", "bg_plain.tex"))
-    if IsDLCEnabled(REIGN_OF_GIANTS) and not IsDLCEnabled(CAPY_DLC) then
-        self.bg:SetTint(BGCOLOURS.PURPLE[1],BGCOLOURS.PURPLE[2],BGCOLOURS.PURPLE[3], 1)
-    elseif IsDLCEnabled(CAPY_DLC) then
-        self.bg:SetTint(BGCOLOURS.TEAL[1],BGCOLOURS.TEAL[2],BGCOLOURS.TEAL[3], 1)
-    else
-        self.bg:SetTint(BGCOLOURS.RED[1],BGCOLOURS.RED[2],BGCOLOURS.RED[3], 1)
-    end
+    SetBGcolor(self.bg)
+
 
     self.bg:SetVRegPoint(ANCHOR_MIDDLE)
     self.bg:SetHRegPoint(ANCHOR_MIDDLE)
@@ -264,6 +259,7 @@ function MorgueScreen:RefreshControls()
                 end
             end
 --### MOD CzechTranslationFeature -->
+            print("killed_by",killed_by)
             killed_by = STRINGS.NAMES[string.upper(killed_by)] or STRINGS.NAMES.SHENANIGANS
 			killed_by = CZTGetReplacement(killed_by, 1)
 --### <EO> MOD CzechTranslationFeature <--

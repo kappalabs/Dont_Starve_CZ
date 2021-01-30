@@ -86,26 +86,31 @@ end)
 function GetHintTextForRecipe(recipe)
     local validmachines = {}
     local adjusted_level = deepcopy(recipe.level)
+
     local player = GetPlayer()
 
     for k,v in pairs(TUNING.PROTOTYPER_TREES) do
 
-        -- Adjust level for bonus so that the hint gives the right message
-        if player and player.components.builder then
-            if player.components.builder.science_bonus and (k == "SCIENCEMACHINE" or k == "ALCHEMYMACHINE") then
-                adjusted_level["SCIENCE"] = adjusted_level["SCIENCE"] - player.components.builder.science_bonus
-            elseif player.components.builder.magic_bonus and (k == "PRESTIHATITATOR" or k == "SHADOWMANIPULATOR") then
-                adjusted_level["MAGIC"] = adjusted_level["MAGIC"] - player.components.builder.magic_bonus
-            elseif player.components.builder.ancient_bonus and (k == "ANCIENTALTAR_LOW" or k == "ANCIENTALTAR_HIGH") then
-                adjusted_level["ANCIENT"] = adjusted_level["ANCIENT"] - player.components.builder.ancient_bonus
+        -- PORKLAND has the sealab code, but it's not craftable in the world.
+        if k ~= "SEALAB" or not SaveGameIndex:IsModePorkland() then
+            -- Adjust level for bonus so that the hint gives the right message    
+            if player and player.components.builder then
+                if player.components.builder.science_bonus and (k == "SCIENCEMACHINE" or k == "ALCHEMYMACHINE" or k == "SEALAB") then
+                    adjusted_level["SCIENCE"] = adjusted_level["SCIENCE"] - player.components.builder.science_bonus
+                elseif player.components.builder.magic_bonus and (k == "PRESTIHATITATOR" or k == "SHADOWMANIPULATOR") then                
+                    adjusted_level["MAGIC"] = adjusted_level["MAGIC"] - player.components.builder.magic_bonus
+                elseif player.components.builder.ancient_bonus and (k == "ANCIENTALTAR_LOW" or k == "ANCIENTALTAR_HIGH") then
+                    adjusted_level["ANCIENT"] = adjusted_level["ANCIENT"] - player.components.builder.ancient_bonus
+                end
+            end
+
+            local canbuild = CanPrototypeRecipe(adjusted_level, v)
+            if canbuild then
+                table.insert(validmachines, {TREE = tostring(k), SCORE = 0})
+                --return tostring(k)
             end
         end
 
-        local canbuild = CanPrototypeRecipe(adjusted_level, v)
-        if canbuild then
-            table.insert(validmachines, {TREE = tostring(k), SCORE = 0})
-            --return tostring(k)
-        end
     end
 
     if #validmachines > 0 then
@@ -120,7 +125,7 @@ function GetHintTextForRecipe(recipe)
                 if TUNING.PROTOTYPER_TREES[v.TREE][rk] == rv then
                     v.SCORE = v.SCORE + 1
                     if player and player.components.builder then
-                        if player.components.builder.science_bonus and (v.TREE == "SCIENCEMACHINE" or v.TREE == "ALCHEMYMACHINE") then
+                        if player.components.builder.science_bonus and (v.TREE == "SCIENCEMACHINE" or v.TREE == "ALCHEMYMACHINE" or v.TREE == "SEALAB") then
                             v.SCORE = v.SCORE + player.components.builder.science_bonus
                         elseif player.components.builder.magic_bonus and (v.TREE == "PRESTIHATITATOR" or v.TREE == "SHADOWMANIPULATOR") then
                             v.SCORE = v.SCORE + player.components.builder.magic_bonus
@@ -140,7 +145,6 @@ function GetHintTextForRecipe(recipe)
         --         end
         --     end
         -- end
-
 
         table.sort(validmachines, function(a,b) return (a.SCORE) > (b.SCORE) end)
 
@@ -182,12 +186,14 @@ function RecipePopup:Refresh()
             ["SHADOWMANIPULATOR"] = STRINGS.UI.CRAFTING.NEEDSHADOWMANIPULATOR,
             ["PRESTIHATITATOR"] = STRINGS.UI.CRAFTING.NEEDPRESTIHATITATOR,
             ["CANTRESEARCH"] = STRINGS.UI.CRAFTING.CANTRESEARCH,
-            ["ANCIENTALTAR_HIGH"] = STRINGS.UI.CRAFTING.NEEDSANCIENT_FOUR,
-        }
-
-        if SaveGameIndex:IsModeShipwrecked() then
+            ["PIRATIHATITATOR"] = STRINGS.UI.CRAFTING.NEEDPIRATIHATITATOR,
+            ["SEALAB"] = STRINGS.UI.CRAFTING.NEEDSEALAB,        }
+--[[
+        if SaveGameIndex:IsModeShipwrecked() or SaveGameIndex:IsModePorkland() then
             hint_text["PRESTIHATITATOR"] = STRINGS.UI.CRAFTING.NEEDPIRATIHATITATOR
+            hint_text["SEALAB"] = STRINGS.UI.CRAFTING.NEEDSEALAB
         end 
+]]
 
         local str = hint_text[GetHintTextForRecipe(recipe)] or "Text not found."
         self.teaser:SetScale(TEASER_SCALE_TEXT)
@@ -303,7 +309,7 @@ function RecipePopup:Refresh()
 --      local ing = self.contents:AddChild(IngredientUI(v.atlas, item_img ..".tex", v.amount, num_found, has, STRINGS.NAMES[string.upper(v.type)], owner))
         local ing = self.contents:AddChild(IngredientUI(v.atlas, item_img ..".tex", v.amount, num_found, has, CZTGetReplacement(STRINGS.NAMES[string.upper(v.type)], 1), owner))
 --### <EO> MOD CzechTranslationFeature <--        
-		ing:SetPosition(Vector3(offset, 80, 0))
+	ing:SetPosition(Vector3(offset, 80, 0))
         offset = offset + (w+ div)
         self.ing[k] = ing
     end

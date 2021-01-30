@@ -42,16 +42,6 @@ function HoverText:OnUpdate()
         str = self.owner:GetTooltip()
     end
 
-	--### MOD CzechTranslationFeature -->
-	if str then
-		if TheInput:IsKeyDown(STRINGS.CZT_SWAP_KEY) then
-			name = CZTGetReplacement(name, 2)
-		else
-			name = CZTGetReplacement(name, 1)
-		end
-	end
-	--### <EO> MOD CzechTranslationFeature <--
-
     local secondarystr = nil
  
     if not str and self.isFE == false then
@@ -63,15 +53,27 @@ function HoverText:OnUpdate()
             if lmb.target and lmb.invobject == nil and lmb.target ~= lmb.doer then
                 local name = lmb.target:GetDisplayName() or (lmb.target.components.named and lb.target.components.named.name)
                 
-    			--### MOD CzechTranslationFeature -->
-				if TheInput:IsKeyDown(STRINGS.CZT_SWAP_KEY) then
-					name = CZTGetReplacement(name, 2)
-				else
-					name = CZTGetReplacement(name, 1)
-				end
-    			--### <EO> MOD CzechTranslationFeature <--
-                
                 if name then
+                
+                    -- fixes a crash where a table can sneak in here. If it does, we just use the first entry
+                    if type(name) == "table" then
+                        local newname = nil
+                        for code,text in pairs(name) do
+                            print(code,text)
+                            newname = text
+                            break
+                        end
+                        name = newname
+                    end
+
+                    --### MOD CzechTranslationFeature -->
+                        if TheInput:IsKeyDown(STRINGS.CZT_SWAP_KEY) then
+                            name = CZTGetReplacement(name, 2)
+                        else
+                            name = CZTGetReplacement(name, 1)
+                        end
+                    --### <EO> MOD CzechTranslationFeature <--
+                
                     local adjective = lmb.target:GetAdjective()
                     
                     if adjective then
