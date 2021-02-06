@@ -1,7 +1,7 @@
 Don't Starve CZ (DS+RoG+SW 42%, DST 39%)
 ========================================
-**Czech translation mod for Don't Starve + RoG + SW [Update 197843 24. 11. 2016] & DS Together [Update 201210 21. 12. 2016]**<br />
-**Mód českého překladu hry Don't Starve + RoG + SW [Update 197843 24. 11. 2016] & DS Together [Update 201210 21. 12. 2016]**
+**Czech translation mod for Don't Starve + RoG + SW + HAM [Update 5500621 4. 9. 2020] & DS Together [Update 201210 21. 12. 2016]**<br />
+**Mód českého překladu hry Don't Starve + RoG + SW + HAM [Update 5500621 4. 9. 2020] & DS Together [Update 201210 21. 12. 2016]**
 
 POPIS MÓDŮ
 ----------
@@ -51,7 +51,7 @@ SOUBORY
 
 TODO
 ----
-- dopřeklad DLC RoG, SW a DST
+- dopřeklad DLC RoG, SW, HAM a DST
 
 ZÁSLUHY
 -------
