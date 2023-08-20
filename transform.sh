@@ -1,5 +1,7 @@
 #!/bin/bash
 
+sudo apt install recode
+
 # Konstanty pro překlad základu hry + RoG + SW
 tgdir="czechlanguage/"
 lang_orig="czech.po"

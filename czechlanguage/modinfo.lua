@@ -1,9 +1,8 @@
-
 name = "Czech Language Pack"
 id = "czechlanguagepack"
-version = "2.3.5"
+version = "2.3.6"
 desc = {en = "Czech translation of the game.\n\nVersion: "..version,
-		    cz = "\nBalíček s češtinou do hry.\n\nVerze: "..version}
+        cz = "\nBalíček s češtinou do hry.\n\nVerze: "..version}
 description = desc[language] or desc["en"]
 author = "Kappa, KeeBLeeC & Relred"
 
